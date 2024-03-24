@@ -8,7 +8,7 @@ import pandas as pd
 # txt = "/Users/mariammustafa/COMS3997LLM/connDataSample.rtf"
 txt = "/Users/mariammustafa/COMS3997LLM/connections-ans copy.txt"
 target = " - "
-bullets = ["\uc0\u9702", "\'95    ", "	◦	", "	◦	"]
+#bullets = ["\uc0\u9702", "\'95    ", "	◦	", "	◦	"]
 arr = ""
 with open(txt, "r") as file:
     data = file.read()
@@ -28,19 +28,24 @@ file1 = open(txt, 'r')
 Lines = file1.readlines()
  
 arr = []
+cat = []
 
 # only including lines with Connections answers
 for line in Lines:
     if "2024" not in line and "2023" not in line:
         line = line.split(':')
-        arr.append(line[len(line)-1]) 
+        arr.append(line[len(line)-1])
+        #connections categories list
+        if '◦' in line[0]:
+            line[0] = line[0].replace('◦', "")
+        cat.append(line[0].strip())
 
 #print(arr)
 file1.close()
 
 clean = []
 
-#writing individual words to array of answers
+# writing individual words to array of answers
 for i in arr:
         #print(type(i))
         x =i.split(", ")
@@ -76,8 +81,15 @@ with open("connectionsRes.csv", 'w') as csvfile:
 
      #creating a header
      csvwriter.writerow(headers)
-
      #write data to csv
      csvwriter.writerow(sub)
+
+#transpose rows to columns at the end in Excel
+
+with open("categoriesConn.csv", 'w') as csvfile:
+     csvwriter = csv.writer(csvfile, delimiter=',')
+
+     #write data to csv
+     csvwriter.writerow(cat)
 
 #transpose rows to columns at the end in Excel
