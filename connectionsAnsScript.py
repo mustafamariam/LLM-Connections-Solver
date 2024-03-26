@@ -74,7 +74,13 @@ for i in sub:
      f.write(str(i)[1:-1].replace("'", ""))
      f.write('\n')
 f.close()
+
+#writing entire list of categories to txt file
+f = open("catLST.txt", "a")
+f.write(str(cat))
+f.close()
      
+#putting categories and answers in CSV
 headers = ["Answers (16)"]
 with open("connectionsRes.csv", 'w') as csvfile:
      csvwriter = csv.writer(csvfile, delimiter=',')
