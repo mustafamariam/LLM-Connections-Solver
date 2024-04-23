@@ -9,16 +9,41 @@
     <title>Connections Assistant Homepage</title>
 </head>
 <body>
-    <center><p>April 19th, 2024</p>
+    <center><p>April 24th, 2024</p>
     <h1>Welcome to the LLM<br>Connections Solver</center></h1>
 
-    <form action="/action_page.php">
+    <form id="form" action="/answers" method="POST">
         <h2> Enter 16 comma-separated words here:</h2> 
         <center><input type="text" id="words" name="words"></center>
+        <br> <br> <br>
+        <center><img src="/static/ZKZg.gif" id="loading" style="display: none; width: 100px; height: 100px;"></center>
+        <br> <br>
+        <center> <button type="submit" id="play">Play</button></center>
     </form>
-    <br> <br> <br>
-    <center> <button type="button">Play</button></center>
 </body>
+<script>
+    document.getElementById('form').onsubmit = function(event) {
+    event.preventDefault(); 
+    const data = new FormData(event.target);
+    const words = data.get('words');
+    console.log(words);
+
+    document.getElementById('loading').style.display = 'block';
+
+    fetch('/play', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({words: words})
+    })
+    .then(data => {
+        window.location.href = '/answers';
+        console.log(response);
+    })
+    .catch(error => console.error('Error:', error));
+};
+</script>
 </html>
 
 <style>

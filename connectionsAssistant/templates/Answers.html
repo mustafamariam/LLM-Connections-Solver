@@ -11,23 +11,33 @@
 <body>
     <center>
     <p>Our four groups of four!</p>
-
-    <div> <span class="b" style="background-color: #FDE16D"> 
-        <h1> GROUP EXPLANATION </h1> 
-        <h2> WORD 1, WORD 2, WORD 3, WORD 4</h2></span> 
-        <br>
-        <span class="b" style = "background-color: #A7C168"><h1> GROUP EXPLANATION </h1> 
-            <h2> WORD 1, WORD 2, WORD 3, WORD 4</h2></span>
-        <br> 
-        <span class="b" style = "background-color: #B3C4EB"><h1> GROUP EXPLANATION </h1> 
-            <h2> WORD 1, WORD 2, WORD 3, WORD 4</h2></span>
-        <br>
-        <span class="b" style = "background-color: #B185C1"><h1> GROUP EXPLANATION </h1> 
-            <h2> WORD 1, WORD 2, WORD 3, WORD 4</h2></span>
-    </div>
+    <div id="group-container"></div> 
     <br><BR>
-    <button type="button">Play Again</button>
+    <button type="button" id="restart">Play Again</button>
     </center>   
+<script>
+document.getElementById('restart').onclick = function() {
+    window.location.href = '/';
+};
+
+const groupData = JSON.parse({{ response | tojson | safe }});
+const container = document.getElementById('group-container');
+
+Object.keys(groupData.Groupings).forEach(key => {
+    const group = groupData.Groupings[key];
+    const words = group.Words.join(', ');
+    const backgroundColors = ['#FDE16D', '#A7C168', '#B3C4EB', '#B185C1']; // Background colors for the groups
+    const color = backgroundColors[(key - 1) % backgroundColors.length];
+
+    const groupHTML = `
+        <span class="b" style="background-color: ${color}">
+        <h1>${group.Category}</h1>
+        <h2>${words}</h2>
+        </span><br>
+    `;
+    container.innerHTML += groupHTML;
+});
+</script>
 
 </body>
 </html>
