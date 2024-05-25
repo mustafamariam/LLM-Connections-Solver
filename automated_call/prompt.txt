@@ -35,5 +35,6 @@ Categories share commonalities:
 - As the category number increases, the connections between the words and their category become more obscure. Category 1 is the most easy and intuitive and Category 4 is the hardest
 - There may be a red herrings (words that seems to belong together but actually are in separate categories)
 - Category 4 often contains compound words with a common prefix or suffix word
+- A few other common categories include word and letter patterns, pop culture clues (such as music and movie titles) and fill-in-the-blank phrases
 
 Today’s list of words: [InsertGame]. Give me a full answer and explain your reasoning. Remember that words cannot be repeated, and there are 4 categories with 4 words each.
