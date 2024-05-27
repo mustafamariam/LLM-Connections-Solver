@@ -47,7 +47,7 @@ def run_claude(prompt, api_key):
         max_tokens=750,
         messages=[{"role": "user", "content": prompt}],
     )
-    return message.content.text
+    return message.content[0].text
 
 
 def run_llama(prompt, api_key):
