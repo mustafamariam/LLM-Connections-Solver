@@ -28,7 +28,7 @@ def run_chatgpt(prompt, api_key):
     response = openai.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "system", "content": prompt}, ],
-        max_tokens=300,
+        max_tokens=750,
     )
     return response.choices[0].message.content
 
@@ -44,10 +44,10 @@ def run_claude(prompt, api_key):
     client = anthropic.Anthropic(api_key=api_key,)
     message = client.messages.create(
         model="claude-3-opus-20240229",
-        max_tokens=300,
+        max_tokens=750,
         messages=[{"role": "user", "content": prompt}],
     )
-    return message.content
+    return message.content.text
 
 
 def run_llama(prompt, api_key):
