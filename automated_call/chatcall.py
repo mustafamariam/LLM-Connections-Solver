@@ -11,10 +11,16 @@ llama_api_key = ""
 
 
 def open_games(games_file):
-    """Open games file and read each game onto a new line.
+    """Open games file, read each game onto a new line, and shuffle game.
     """
     games = open(games_file, 'r')
-    return games.read().splitlines()
+    games_list = games.read().splitlines()
+    games_list_shuffled = list()
+    for game in games_list:
+        l = list(game.split(", "))
+        random.shuffle(l)
+        games_list_shuffled.append(', '.join(l))
+    return games_list_shuffled
 
 
 def open_prompt(prompt_file):
