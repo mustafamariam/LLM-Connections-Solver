@@ -14,9 +14,9 @@ migrate = Migrate(app, db)
 
 #our db
 class Profile(db.Model):
-    email = db.Column(db.String(40), primary_key=True)
-    name = db.Column(db.String(25), unique=False, nullable=True)
-    score = db.Column(db.Integer, nullable=False)
+    email = db.Column(db.String(40), nullable=1)
+    name = db.Column(db.String(25), unique=False, nullable=1)
+    score = db.Column(db.Integer, primary_key=True, nullable=1)
     
     def __repr__(self):
         return f"Name: {self.name}, Score: {self.score}"
@@ -28,9 +28,9 @@ lst = [['DART', ' HEM', ' PLEAT', ' SEAM', ' CAN', ' CURE', ' DRY', ' FREEZE', '
 def hello_world():
     score = 0
     x = random.choice(lst)
-    print(x)
-    print(x[0:4])
-    print(sorted(x[0:4]))
+    # print(x)
+    # print(x[0:4])
+    # print(sorted(x[0:4]))
     # print(len(x), "thid is lenx")
     sample = random.sample(x, len(x))
     one = sample[0]
@@ -75,8 +75,8 @@ def hello_world():
     arr2 = []
     arr3 = []
     arr4 = []
-    print(dict, "dict")
-    print(sample, "sample")
+    # print(dict, "dict")
+    # print(sample, "sample")
     for a, y in dict.items():
         a = a-1
         if y == "Group 1":
@@ -89,8 +89,8 @@ def hello_world():
             arr4.append(sample[a])
     
     ans = [sorted(x[4:8]), sorted(x[8:12]), sorted(x[12:16]), sorted(x[0:4])]
-    print(arr1, arr2, arr3, arr4, "arrs")
-    print(ans, "ans")
+    # print(arr1, arr2, arr3, arr4, "arrs")
+    # print(ans, "ans")
     if sorted(arr1) in ans:
         score+=1
     if sorted(arr2) in ans:
@@ -102,7 +102,7 @@ def hello_world():
 
     print(score)
 
-    # p = Profile(email=email, name=name, score=score)
+    p = Profile(email=email, name=name, score=score)
     # db.session.add(p)
     # db.session.commit()
     
@@ -114,6 +114,11 @@ def my_form_post():
     processed_text = text.upper()
     print(processed_text)
     return processed_text
+
+@app.route('/view')
+def index():
+    profiles = Profile.query.all()
+    return render_template('view.html', profiles=profiles)
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
