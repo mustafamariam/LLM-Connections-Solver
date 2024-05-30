@@ -9,36 +9,35 @@
     <title>Connections Answers</title>
 </head>
 <body>
-    
     <center>
     <p>Create four groups of four!</p>
 
     <div class="grid-container">
 
-        <div class="grid-item">{{one}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{two}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{three}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{four}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{five}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{six}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{seven}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{eight}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{nine}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{ten}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{eleven}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{twelve}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
-        <div class="grid-item">{{thirteen}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
-        <div class="grid-item">{{fourteen}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
-        <div class="grid-item">{{fifteen}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
-        <div class="grid-item">{{sixteen}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{one}}<br><br><br>
+            <form method="post" action="/">
+            <select id="v1" name="v1"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select>
+        </div>
+        <div class="grid-item">{{two}}<br><br><br><select id="v2" name="v2"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{three}}<br><br><br><select id="v3" name="v3"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{four}}<br><br><br><select id="v4" name="v4"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{five}}<br><br><br><select id="v5" name="v5"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{six}}<br><br><br><select id="v6" name="v6"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{seven}}<br><br><br><select id="v7" name="v7"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{eight}}<br><br><br><select id="v8" name="v8"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{nine}}<br><br><br><select id="v9" name="v9"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{ten}}<br><br><br><select id="v10" name="v10"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{eleven}}<br><br><br><select id="v11" name="v11"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{twelve}}<br><br><br><select id="v12" name="v12"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{thirteen}}<br><br><br><select id="v13" name="v13"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{fourteen}}<br><br><br><select id="v14" name="v14"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{fifteen}}<br><br><br><select id="v15" name="v15"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{sixteen}}<br><br><br><select id="v16" name="v16"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
       </div>
+      <input type="submit" value="Submit">
+        </form> 
       <br><br><br><br>
-      
-    <!-- </form> -->
-      
     </center>
-    
-
 </body>
 </html>
 
@@ -110,6 +109,4 @@
         width: 12em;
         height: 4em;
     }
-   
-
 </style>
