@@ -14,53 +14,13 @@
     <p>Create four groups of four!</p>
 
     <div class="grid-container">
-        <div class="grid-item">{{one}}
-            <br><br><br>
-            <select id="state-list" name="State" data-name="State" class="statetext"  style="color: black;">
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-                <option value="">Select a group</option>
-                <option value="one"  id="yellow">Group 1</option>
-                <option value="two" id="green">Group 2</option>
-                <option value="three" id="blue">Group 3</option>
-                <option value="four" id="purple">Group 4</option></select>
-            </div>
-        <div class="grid-item">{{two}}<br><br><br>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-            <select id="state-list" name="State" data-name="State" class="statetext"  style="color: black;">
-                <option value="">Select a group</option>
-                <option value="one"  id="yellow">Group 1</option>
-                <option value="two" id="green">Group 2</option>
-                <option value="three" id="blue">Group 3</option>
-                <option value="four" id="purple">Group 4</option></select>
-            </div>
-        <div class="grid-item">{{three}}<br><br><br><select id="state-list" name="State" data-name="State" class="statetext"  style="color: black;">
-            <option value="">Select a group</option>
-            <option value="one"  id="yellow">Group 1</option>
-            <option value="two" id="green">Group 2</option>
-            <option value="three" id="blue">Group 3</option>
-            <option value="four" id="purple">Group 4</option></select>
-        </div>
-        <div class="grid-item">{{four}}<br><br><br><select><select id="state-list" name="State" data-name="State" class="statetext"  style="color: black;">
-            <option value="">Select a group</option>
-            <option value="one"  id="yellow">Group 1</option>
-            <option value="two" id="green">Group 2</option>
-            <option value="three" id="blue">Group 3</option>
-            <option value="four" id="purple">Group 4</option></select>
-        </div>
-        <div class="grid-item">{{five}}<br><br><br><select id="state-list" name="State" data-name="State" class="statetext"  style="color: black;">
-            <option value="">Select a group</option>
-            <option value="one"  id="yellow">Group 1</option>
-            <option value="two" id="green">Group 2</option>
-            <option value="three" id="blue">Group 3</option>
-            <option value="four" id="purple">Group 4</option></select>
-        </div>
-        <div class="grid-item">{{six}}<br><br><br><select id="state-list" name="State" data-name="State" class="statetext"  style="color: black;">
-            <option value="">Select a group</option>
-            <option value="one"  id="yellow">Group 1</option>
-            <option value="two" id="green">Group 2</option>
-            <option value="three" id="blue">Group 3</option>
-            <option value="four" id="purple">Group 4</option></select>
-        </div>
+
+        <div class="grid-item">{{one}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{two}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{three}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{four}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{five}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{six}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
         <div class="grid-item">{{seven}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
         <div class="grid-item">{{eight}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
         <div class="grid-item">{{nine}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
@@ -73,8 +33,9 @@
         <div class="grid-item">{{sixteen}}<br><br><br><select> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
       </div>
       <br><br><br><br>
-      <button type="button">Submit</button>
-    
+      
+    <!-- </form> -->
+      
     </center>
     
 
@@ -149,36 +110,6 @@
         width: 12em;
         height: 4em;
     }
-    #red {
-        background-color: blue;
-    }
-    select option {
-  margin: 40px;
-  background: rgba(0, 0, 0, 0.3);
-  color: #fff;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4);
-}
-    select option[value="1"] {
-  background: blue;
-}
+   
 
 </style>
-
-<script>
-    $(function() {
-//The color of the selected value changed
-  jQuery("#state-list").on("change", function() {
-
-    if (jQuery(this).val()) {
-    
-  let colorselect= jQuery(this).find("option:selected").attr('id');
-  jQuery('.statetext option').css("background-color", "#919ca1");
-  jQuery('.statetext').find("option:selected").css("background-color",  colorselect);
-  jQuery('.statetext').css("background-color",  colorselect)
-  } else {
-  jQuery('.statetext').css("background-color", "#919ca1");
-  jQuery('.statetext option').css("background-color", "#919ca1");
-  }
-  });
-});
-</script>
