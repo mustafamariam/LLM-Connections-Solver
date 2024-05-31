@@ -1,3 +1,17 @@
+'''
+**Gemini Scoring Script**
+
+This script scores Gemini's Connections answers.
+
+*   Collects Claude's answer groupings.
+*   Parses LLM answers
+*   Scores groupings for accuracy according to the provided scoring schema. 
+
+Assumes input CSV file: `gemini_responses.csv`
+Outputs CSV file with classification score in a new column
+Dependencies: `pandas`
+'''
+
 import pandas as pd
 
 
@@ -15,6 +29,8 @@ def parse_answers(file):
     return connections_answers
 
 def split_and_reshape(game):
+    """ Read rows of csv in into list of 4 lists of 4 words
+    """
     game = game.replace("'", "")
     game = game.replace('[', "")
     game = game.replace(']', "")
@@ -23,7 +39,7 @@ def split_and_reshape(game):
 
 
 def clean_gemini_response(response):
-    """Clean the gemini responses using brackets [] as delimiters
+    """ Clean the gemini responses using brackets [] as delimiters
     """
     substrings = []
     split_str = response.split("[")
@@ -50,6 +66,12 @@ def clean_gemini_response(response):
 
 
 def score_gemini_response(row: pd.Series) -> pd.Series:
+    """ Calculate classificcation score using the following schema
+    Yellow (easiest) = 1 point
+    Green (easy) = 2 points
+    Blue (harder) = 3 points
+    Purple (hardest) = 4 points
+    """
     response = row["Parsed Response"]
     # Each answer category is in a different columnn
     answer_yellow = row["Yellow"]
