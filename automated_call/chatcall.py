@@ -1,3 +1,13 @@
+"""
+**Connections Calling LLMs**
+This script conducts automated calls of the LLMs with our prompt for 200 games.
+
+*   Calls 4 LLMs: ChatGPT 4o, Gemini, Claude 3 opus, and Llama
+
+Assumes downloaded: prompt.txt, parsedCleanedLLM.txt
+Dependencies: openai, csv, anthropic, google-generativeai
+"""
+
 import openai
 import csv
 import anthropic
