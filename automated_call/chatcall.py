@@ -1,5 +1,5 @@
 """
-**Connections Calling LLMs**
+**Automated Calling of LLMs**
 This script conducts automated calls of the LLMs with our prompt for 200 games.
 
 *   Calls 4 LLMs: ChatGPT 4o, Gemini, Claude 3 opus, and Llama
