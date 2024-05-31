@@ -1,3 +1,4 @@
+Response,Parsed Response,Classification Score,Categorical Reasoning Score,
 "## Groupings:
 
 **Category 1: Sizes** - These words all relate to size. 
@@ -18,7 +19,7 @@
 * **LEGEND:**  The episode involves a legend about a creature that preys on the planet. 
 * **MARS:**  The episode is set on the planet Mars, where the creature resides. 
 * **STYLES:**  The episode features the creature changing its style, specifically its hair, as it takes on different forms. 
-"
+","[['LARGE', 'SMALL', 'MEDIUM', 'GRANDE'], ['PROOF', 'MEANS', 'REMOTE', 'OUTSIDE'], ['ROOM', 'CHANNEL', 'VEHICLE', 'SWIFT'], ['SLIM', 'LEGEND', 'MARS', 'STYLES']]",0,0,
 "Here are the groupings for the provided words:
 
 **Category 1:  Animal Companions**
@@ -42,7 +43,7 @@ Category1: [BUNNY, ANIMAL, PEER, PARTNER]
 Category2: [HALL, UNIT, LOUNGE, LIBRARY]
 Category3: [BIRTHMARK, EGG, JELLY BEAN, PEEP]
 Category4: [FELLOW, SPY, ASSOCIATE, STUDY] 
-"
+","[['BUNNY', 'ANIMAL', 'PEER', 'PARTNER'], ['HALL', 'UNIT', 'LOUNGE', 'LIBRARY'], ['BIRTHMARK', 'EGG', 'JELLYBEAN', 'PEEP'], ['FELLOW', 'SPY', 'ASSOCIATE', 'STUDY']]",0,0,
 "Here are the groupings for the words:
 
 **Category 1: Fasteners** 
@@ -60,7 +61,7 @@ Category4: [FELLOW, SPY, ASSOCIATE, STUDY]
 **Category 4:  Measurements/Quantities**
 * These words relate to amounts or sizes, typically associated with a ""lot"" or ""much"" of something.
 * **[MASS, SLEW, CAVE, TON]** 
-"
+","[['BUCKLE', 'BUTTON', 'SNAP', 'FLOP'], ['SHOUT', 'LAUGH', 'WHISTLE', 'COLLAPSE'], ['WAVE', 'SEA', 'DANCE', 'GIVE'], ['MASS', 'SLEW', 'CAVE', 'TON']]",0,1,
 "Here's my analysis of the words and my proposed categories:
 
 **Reasoning:**
@@ -78,7 +79,7 @@ Groupings:
 **Secret/Hidden:** [MOLE, ASSET, AGENT, SLEEPER]
 **Ending/Stopping:** [LINE, COUCH, VERSE, OKAY]
 **""In-"" Compound Words:** [IMPLY, INTIMATE, SUGGEST, POTASSIUM] 
-"
+","[['FOOT', 'KELVIN', 'METER', 'THOUSAND'], ['MOLE', 'ASSET', 'AGENT', 'SLEEPER'], ['LINE', 'COUCH', 'VERSE', 'OKAY'], ['IMPLY', 'INTIMATE', 'SUGGEST', 'POTASSIUM']]",1,1,
 "Here's the breakdown of the categories and groupings for Example 4:
 
 **Category 1: Things to gamble on** 
@@ -96,7 +97,7 @@ Groupings:
 **Category2: Food items used in bread making:** [BREAD, BUTTER, PARSLEY, GARLIC]
 **Category3: Sports related to bats:** [BASEBALL, CRICKET, FRUIT, VAMPIRE]
 **Category4: Things a ""frontiersman"" would encounter:** [FRONTIER, ADVENTURE, TOMORROW, FANTASY] 
-"
+","[['GAMBLE', 'BET', 'STAKE', 'RISK'], ['BREAD', 'BUTTER', 'PARSLEY', 'GARLIC'], ['BASEBALL', 'CRICKET', 'FRUIT', 'VAMPIRE'], ['FRONTIER', 'ADVENTURE', 'TOMORROW', 'FANTASY']]",10,2,
 "## Example 4 Solution:
 
 **Groupings:**
@@ -108,7 +109,7 @@ Groupings:
 **Category 3: Time references:** [ERA, AGE, DAY, TIME] - These words all refer to different units or periods of time.
 
 **Category 4: Fill-in-the-blank phrases:** [TANG, FLOW, REED, DRIB] - These words all fit into the phrase ""A ____ of something"". (A tang of spice, a flow of water, a reed of grass, a drib of rain) 
-"
+","[['VAULT', 'SAFE', 'CHEST', 'COFFER'], ['JUMP', 'LEAP', 'HOP', 'SPRING'], ['ERA', 'AGE', 'DAY', 'TIME'], ['TANG', 'FLOW', 'REED', 'DRIB']]",10,3,
 "Here are the groupings for the provided words:
 
 **Category 1: Baby Animals**
@@ -150,7 +151,7 @@ Category1: Baby Animals: [KITTEN, CUBAN, DUTCH, AMERICAN]
 Category2: Tools/Weapons: [HAMMER, WEDGE, STILETTO, JAVELIN]
 Category3: Games/Competitions: [JEOPARDY, HURDLE, POLE, DATE]
 Category4: Color & Nationality Combinations: [BLUE, SPACE, JACK, SWISS] 
-"
+","[['KITTEN', 'CUBAN', 'DUTCH', 'AMERICAN'], ['HAMMER', 'WEDGE', 'STILETTO', 'JAVELIN'], ['JEOPARDY', 'HURDLE', 'POLE', 'DATE'], ['BLUE', 'SPACE', 'JACK', 'SWISS']]",0,0,
 "Here are the groupings for the provided words, along with explanations:
 
 **Category 1: Types of Fish**
@@ -183,7 +184,7 @@ Category 1: Types of Fish: ['SALMON', 'GOLDFISH', 'PIKE', 'OYSTER']
 Category 2: Things to ""Put On"": ['HEADBAND', 'SPANDEX', 'RITZ', 'MULLET']
 Category 3:  Words Associated with ""Split"": ['TUCK', 'STRADDLE', 'SPLIT', 'ROPE']
 Category 4:  Compound Words with ""Animal"": ['ANIMAL', 'CORPORATE', 'NEON', 'WORD'] 
-"
+","[['SALMON', 'GOLDFISH', 'PIKE', 'OYSTER'], ['HEADBAND', 'SPANDEX', 'RITZ', 'MULLET'], ['TUCK', 'STRADDLE', 'SPLIT', 'ROPE'], ['ANIMAL', 'CORPORATE', 'NEON', 'WORD']]",0,0,
 "Here's a breakdown of the categories and the solution for Example 4:
 
 **Category 1: Types of ""Taste""** 
@@ -208,7 +209,7 @@ Category 1:  [BITTER, SOUR, SALTY, SWEET]
 Category 2: [CONFRONT, MEET, FACE, KIND]
 Category 3:  [TYPE, SORT, MANNER, VARIETY]
 Category 4: [SURREAL, SURPRISE, SURELY, SUREFOOTED] 
-"
+","[['BITTER', 'SOUR', 'SALTY', 'SWEET'], ['CONFRONT', 'MEET', 'FACE', 'KIND'], ['TYPE', 'SORT', 'MANNER', 'VARIETY'], ['SURREAL', 'SURPRISE', 'SURELY', 'SUREFOOTED']]",1,2,
 "Here are the groupings for the Example 4 words:
 
 **Category 1: Wrapping Materials** 
@@ -233,7 +234,7 @@ Category 4: [SURREAL, SURPRISE, SURELY, SUREFOOTED]
 * **BASSINET:**  A bassinet can be seen as a kind of mask for a baby, providing a safe and comfortable space while hiding the baby from the outside world.
 * **ORGANISM:**  Organisms can be thought of as having ""masks"" in the sense that their outward appearance often disguises their internal complexity.
 * **MASK:** This is the obvious example, a physical mask used to disguise or protect the face. 
-"
+","[['FOIL', 'CELLOPHANE', 'PLASTIC', 'GLOVE'], ['STOMP', 'PLOD', 'TRUDGE', 'LUMBER'], ['SUPPLE', 'ELASTIC', 'LIMBER', 'JACKET'], ['HARPOON', 'BASSINET', 'ORGANISM', 'MASK']]",1,2,
 "Here's the breakdown of the categories and the solution for Example 4:
 
 **Category 1: Parts of a Plant** 
@@ -259,7 +260,7 @@ Groupings:
 **Things that are HEAVY:** [SHOP, FACTORY, WINE, HEAVY]
 **Words that can be WIN(K)ED:** [WINK, WIND, WING, MILL]
 **Fill-in-the-Blank Phrases:** [LIGHT, FACTORY, WINE, WIND] 
-"
+","[['FEATHER', 'STEM', 'CORE', 'PLANT'], ['SHOP', 'FACTORY', 'WINE', 'HEAVY'], ['WINK', 'WIND', 'WING', 'MILL'], ['LIGHT', 'FACTORY', 'WINE', 'WIND']]",0,0,
 "## Example 4:
 Words: [DEMOCRATIC, MINT, BOOK, HEDGEHOG, SKELETON, FOREST, EROTIC, FLEET, CARAVAN, CACTUS, OLIVE, PARADE, SAD, TRAIN, LIME, NOBLE]
 
@@ -277,7 +278,7 @@ Groupings:
 **Category 2: Things related to travel**: [FLEET, CARAVAN, TRAIN, PARADE]
 **Category 3:  Things that represent sadness or negativity**: [SAD, SKELETON, HEDGEHOG, BOOK]
 **Category 4: Words related to qualities**: [DEMOCRATIC, NOBLE, EROTIC, CACTUS]
-"
+","[['MINT', 'FOREST', 'OLIVE', 'LIME'], ['FLEET', 'CARAVAN', 'TRAIN', 'PARADE'], ['SAD', 'SKELETON', 'HEDGEHOG', 'BOOK'], ['DEMOCRATIC', 'NOBLE', 'EROTIC', 'CACTUS']]",3,2,
 "## Example 4:
 
 **Words:** [WHINE, FROWN, ARM, SOURCE, BARK, CHAPTER, GROWL, ROOT, HOWL, MELLOW, CLUE, WING, PREEN, CRADLE, FONT, BRANCH]
@@ -303,7 +304,7 @@ Category 1: Animal Sounds: [WHINE, BARK, GROWL, HOWL]
 Category 2: Parts of a Book: [CHAPTER, SOURCE, FONT, ROOT]
 Category 3: Parts of a Tree: [ARM, BRANCH, ROOT, WING]
 Category 4: Things to Calm: [FROWN, MELLOW, CLUE, PREEN] 
-"
+","[['WHINE', 'BARK', 'GROWL', 'HOWL'], ['CHAPTER', 'SOURCE', 'FONT', 'ROOT'], ['ARM', 'BRANCH', 'ROOT', 'WING'], ['FROWN', 'MELLOW', 'CLUE', 'PREEN']]",5,1,
 "## Example 4:
 
 Words : [COMPUTER, HARD KNOCKS, CATS, BADGERS, NAGS, ROCK, PIANO, FISH, HOUNDS, BUGS, COMPANY, THOUGHT, CABARET, TESTS, SUPER, ANNIE]
@@ -324,7 +325,7 @@ Category1: [CATS, BADGERS, FISH, HOUNDS]
 Category2: [HARD KNOCKS, ROCK, TESTS, COMPANY]
 Category3: [PIANO, CABARET, ANNIE, THOUGHT]
 Category4: [CATS, BUGS, NAGS,  COMPUTER] 
-"
+","[['CATS', 'BADGERS', 'FISH', 'HOUNDS'], ['HARDKNOCKS', 'ROCK', 'TESTS', 'COMPANY'], ['PIANO', 'CABARET', 'ANNIE', 'THOUGHT'], ['CATS', 'BUGS', 'NAGS', 'COMPUTER']]",0,0,
 "Here's a breakdown of the categories and the groupings for the given words:
 
 **Category 1: Ways to leak**
@@ -355,7 +356,7 @@ Groupings:
 **Musical terms:** [RHYTHM, STRING, WIND, BEAT]
 **Things that can be worn or used as jewelry:** [BEAD, BRASS, DUD, TEAR]
 **Compound words with ""bore"":** [BORE, CHARRED, DRAG, PEE] 
-"
+","[['LEAK', 'DROP', 'DRIP', 'GLOB'], ['RHYTHM', 'STRING', 'WIND', 'BEAT'], ['BEAD', 'BRASS', 'DUD', 'TEAR'], ['BORE', 'CHARRED', 'DRAG', 'PEE']]",0,0,
 "Here are the groupings for the given words:
 
 **Reasoning:**
@@ -372,7 +373,7 @@ Groupings:
 **Fire Starters:** [KINDLING, FLUFF, MATCH, TINDER]
 **To Fail:** [BLOW, ROUTER, SPOIL, BUMBLE]
 **Attaches:** [HANDLE, FRAME, LOG, HINGE] 
-"
+","[['LOCK', 'GRINDER', 'SAW', 'DRILL'], ['KINDLING', 'FLUFF', 'MATCH', 'TINDER'], ['BLOW', 'ROUTER', 'SPOIL', 'BUMBLE'], ['HANDLE', 'FRAME', 'LOG', 'HINGE']]",0,,3
 "Here's the breakdown of the categories and the solution for Example 4:
 
 **Reasoning:**
@@ -393,7 +394,7 @@ Groupings:
 **Category 3:  Words related to hunting:** [FORE, HUNT, TRACK, PECK]
 
 **Category 4:  Things that can be broad:** [PASTA, BROAD, TYPE, VEGETABLES] 
-"
+","[['BEANS', 'SNACK', 'GRAZE', 'NIBBLE'], ['TRAIL', 'STALK', 'POD', 'STOCK'], ['FORE', 'HUNT', 'TRACK', 'PECK'], ['PASTA', 'BROAD', 'TYPE', 'VEGETABLES']]",0,0,
 "Here's my attempt at solving the Connections puzzle based on the provided words:
 
 **Words:** [COVERAGE, ION, LOCK, PRESS, EXPOSURE, MEDIA, RINGLET, PUBLICITY, SHIP, FAMILY, CURL, NESS, DOM, FLYING, TRESS, FLEA]
@@ -413,7 +414,7 @@ Groupings:
 **Category 2: Hair** [RINGLET, CURL, TRESS, FLEA]
 **Category 3: Suffixes** [ION, NESS, DOM, SHIP]
 **Category 4: Compound Words with ""FLY""** [FAMILY, LOCK, FLYING, MEDIA] 
-"
+","[['COVERAGE', 'PRESS', 'EXPOSURE', 'PUBLICITY'], ['RINGLET', 'CURL', 'TRESS', 'FLEA'], ['ION', 'NESS', 'DOM', 'SHIP'], ['FAMILY', 'LOCK', 'FLYING', 'MEDIA']]",5,3,
 "##  Groupings:
 
 **Category 1: Footwear**  -  These words all refer to types of shoes:
@@ -427,7 +428,7 @@ Groupings:
 
 **Category 4:  Basic Elements of Something**  - These words are related to their associated element, being the basic building blocks:
 * [INSPIRATION, BASIC, UNION, LIGHTNING] 
-"
+","[['CROC', 'MOCCASIN', 'SLIPPER', 'LOAFER'], ['PYTHON', 'COBRA', 'BOA', 'JAVA'], ['SHUTTLECOCK', 'HEADDRESS', 'PILLOW', 'RUBY'], ['INSPIRATION', 'BASIC', 'UNION', 'LIGHTNING']]",1,1,
 "Here are the groupings for the given words, along with explanations:
 
 **Category 1: Cooking Methods** 
@@ -460,7 +461,7 @@ Category 1: [BAKE, BROIL, TIMER, MONITOR]
 Category 2: [PLAYGROUND, OASIS, BEACH, DESERT]
 Category 3: [BLUR, PULP, SURVEY, WATCH]
 Category 4: [HOURGLASS, TIMER, LIGHT, TRACK] 
-"
+","[['BAKE', 'BROIL', 'TIMER', 'MONITOR'], ['PLAYGROUND', 'OASIS', 'BEACH', 'DESERT'], ['BLUR', 'PULP', 'SURVEY', 'WATCH'], ['HOURGLASS', 'TIMER', 'LIGHT', 'TRACK']]",0,0,
 "Here's my analysis of the words and the proposed categories:
 
 **Category 1: Food & Drink**
@@ -494,7 +495,7 @@ Groupings:
 **Actions/Gestures:** [HUG, CLAW, KISS, BRUSH]
 **Words associated with ""Perfect"":** [PERFECT, PRIME, WHOLE, ODD]
 **Word pairs with common elements:** [XO, FRUIT, WITNESS, SKIM] 
-"
+","[['GRAZE', 'PLUM', 'OYSTER', 'SOY'], ['HUG', 'CLAW', 'KISS', 'BRUSH'], ['PERFECT', 'PRIME', 'WHOLE', 'ODD'], ['XO', 'FRUIT', 'WITNESS', 'SKIM']]",2,0,
 "Here's my analysis of the words and the potential categories:
 
 * **""SPUR"", ""GOAD"", ""URGE"", ""STEADY""** could relate to **Motivation/Action** - ""Spur"" and ""Goad"" directly mean to encourage or incite action, ""Urge"" is a strong desire for something, and ""Steady"" implies consistent motivation. 
@@ -508,7 +509,7 @@ Groupings:
 **Category2: Ingredients:** [MOZZARELLA, EGG, FISH, MEATBALL]
 **Category3: Fruits/Produce:** [ORANGE, BANANAS, PRODUCE]
 **Category4: Candy/Sweet Treats/Shapes:** [JAWBREAKER, SNACK, FIGURE, DAIRY] 
-"
+","[['SPUR', 'GOAD', 'URGE', 'STEADY'], ['MOZZARELLA', 'EGG', 'FISH', 'MEATBALL'], ['ORANGE', 'BANANAS', 'PRODUCE'], ['JAWBREAKER', 'SNACK', 'FIGURE', 'DAIRY']]",0,1,
 "## Example 4:
 
 **Words:** [LAG, PRINCESS, MONKEY, GENIE, FREEZE, PARROT, ECHO, DROP, SAMURAI, SAILOR, MIME, REFEREE, CANDLES, FANTASTIC, PRISONER, APOLLO]
@@ -528,7 +529,7 @@ Groupings:
 **To Pause:** [LAG, FREEZE, ECHO, DROP]
 **Professionals:** [SAMURAI, SAILOR, MIME, REFEREE] 
 **Associated with Gods:** [CANDLES, FANTASTIC, PRISONER, APOLLO]
-"
+","[['PRINCESS', 'MONKEY', 'GENIE', 'PARROT'], ['LAG', 'FREEZE', 'ECHO', 'DROP'], ['SAMURAI', 'SAILOR', 'MIME', 'REFEREE'], ['CANDLES', 'FANTASTIC', 'PRISONER', 'APOLLO']]",4,0,
 "Here's how I'd approach the Connections puzzle:
 
 **Analyzing the Words:**
@@ -553,7 +554,7 @@ Category 1: Animal/Nature: ['PURR', 'NEMO', 'DORY', 'HUM']
 Category 2: Boats: ['BARGE', 'SLOOP', 'MORGAN', 'SCOW']
 Category 3: Transportation: ['DEMO', 'DRONE', 'AUTO', 'BUZZ']
 Category 4: Prefix/Suffix: ['BUREAU', 'PLUTO', 'AMERICA', 'HOOK'] 
-"
+","[['PURR', 'NEMO', 'DORY', 'HUM'], ['BARGE', 'SLOOP', 'MORGAN', 'SCOW'], ['DEMO', 'DRONE', 'AUTO', 'BUZZ'], ['BUREAU', 'PLUTO', 'AMERICA', 'HOOK']]",0,1,
 "Here's the breakdown and solution for the given word list:
 
 **Reasoning:**
@@ -570,7 +571,7 @@ Groupings:
 **Category 2: Informants:** [SNITCH, FINK, CANARY, DRAGON]
 **Category 3: Things to Put in a Sandwich:** [SQUEEZE, PACK, STUFF, JAM]
 **Category 4:  Mountainous/High-Elevation Words:** [FIRE, BUTTER, TRIANGLE, MOUNTAIN] 
-"
+","[['COW', 'HORSE', 'CAT', 'RAT'], ['SNITCH', 'FINK', 'CANARY', 'DRAGON'], ['SQUEEZE', 'PACK', 'STUFF', 'JAM'], ['FIRE', 'BUTTER', 'TRIANGLE', 'MOUNTAIN']]",2,0,
 "Here's my analysis of the words and the likely categories for the Example 4 list:
 
 **1. Time-Related:**  ""EON"", ""STOP"", ""SKIP"", ""REWIND"".  These words all directly relate to the passage of time or the act of stopping/slowing it down.
@@ -588,7 +589,7 @@ Groupings:
 **Things to Hang/Draw:** ['CURTAIN', 'PICTURE', 'SCREEN', 'NET']
 **Travel-Related:** ['AIR', 'RUN', 'TOW', 'SHOW']
 **Compound Words:** ['BATH', 'CARD', 'ETHER', 'SHUFFLE'] 
-"
+","[['EON', 'STOP', 'SKIP', 'REWIND'], ['CURTAIN', 'PICTURE', 'SCREEN', 'NET'], ['AIR', 'RUN', 'TOW', 'SHOW'], ['BATH', 'CARD', 'ETHER', 'SHUFFLE']]",0,1,
 "##  Groupings:
 
 **Category1: Parts of a Ship:** [DECK, WAR, ANCHOR, BRIDGE] 
@@ -604,7 +605,7 @@ Groupings:
 -  This category is the most obscure, with all the words acting as the noun in the phrase ""___ of the ___."" For example:  ""Breath of the Dragon"", ""Hands of the Clock"", ""Pace of the Slug,"" ""Thorns of the Rose.""  
 
 Let me know if you'd like me to try another puzzle! 
-"
+","[['DECK', 'WAR', 'ANCHOR', 'BRIDGE'], ['SPIT', 'GIN', 'ARROW', 'BOW'], ['TARGET', 'QUIVER', 'HEART', 'BELT'], ['DRAGON', 'CLOCK', 'SLUG', 'ROSE']]",0,0,
 "##  Groupings:
 
 **Category1: Geometric Shapes:** [TRIANGLE, SQUARE, CIRCLE, DIAMOND] -  These are all basic geometric shapes.
@@ -614,7 +615,7 @@ Let me know if you'd like me to try another puzzle!
 **Category3:  Something to Catch:** [HOOK, PANTS, WEAVE, CROSS]  - These can be used to catch things, physically (hook, pants for fishing), figuratively (weave a story), or in games (cross off a list).
 
 **Category4:  Words That Can Be Prefixed with ""FREE""** : [FREE, FEAST, THAT, BOB] -  This is the most obscure category.  ""Free"" can be used as a prefix for these words, creating ""free-range"" (FEAST), ""free-wheelin'"" (BOB),  ""free-thinker"" (THAT) and of course the obvious ""free"" itself. 
-"
+","[['TRIANGLE', 'SQUARE', 'CIRCLE', 'DIAMOND'], ['CRAB', 'SQUID', 'RAY', 'SPONGE'], ['HOOK', 'PANTS', 'WEAVE', 'CROSS'], ['FREE', 'FEAST', 'THAT', 'BOB']]",3,1,
 "Here are the categories and groupings for Example 4:
 
 **Reasoning:**
@@ -637,7 +638,7 @@ Let me know if you'd like me to try another puzzle!
 
 **Category 4: Unpleasant Attributes**
 [STINKER, PLATINUM, ZERO, OF] 
-"
+","[['BRIGHT', 'GARISH', 'FLASHY', 'LOUD'], ['HONEY', 'STRAWBERRY', 'GAS', 'OXYGEN'], ['TOOT', 'WIND', 'HUG', 'DIRTY'], ['STINKER', 'PLATINUM', 'ZERO', 'OF']]",1,0,
 "Here's the breakdown of the categories and my answer for Example 4:
 
 **Category 1: Family Members**
@@ -662,7 +663,7 @@ Category1: [NIECE, BROTHER, QUEEN, PRINCE]
 Category2: [BISHOP, PASTOR, CARDINAL, LORD]
 Category3: [PLEASE, SHEESH, SOUL, HEART]
 Category4: [MADONNA, PRIOR, ROAM, DELI] 
-"
+","[['NIECE', 'BROTHER', 'QUEEN', 'PRINCE'], ['BISHOP', 'PASTOR', 'CARDINAL', 'LORD'], ['PLEASE', 'SHEESH', 'SOUL', 'HEART'], ['MADONNA', 'PRIOR', 'ROAM', 'DELI']]",0,0,
 "Here's my analysis and solution for the Example 4 word list:
 
 **Reasoning:**
@@ -679,7 +680,7 @@ Groupings:
 **Category 2: Lack of Excitement:** [ROUTINE, ACT, BORING, MUNDANE]
 **Category 3: Beverages:** [TEA, COFFEE, COCOA, MATE]
 **Category 4: Flavors/Characteristics:** [BIT, TWIST, DIRTY, VANILLA] 
-"
+","[['DRY', 'SET', 'DULL', 'UP'], ['ROUTINE', 'ACT', 'BORING', 'MUNDANE'], ['TEA', 'COFFEE', 'COCOA', 'MATE'], ['BIT', 'TWIST', 'DIRTY', 'VANILLA']]",1,1,
 "Here are the groupings for Example 4:
 
 **Reasoning:**
@@ -696,7 +697,7 @@ Groupings:
 **Category 2: Animal Housing:** [SPOT, STY, ROVER, STABLE]
 **Category 3: Writing Tools:** [INK, LACK, PEN, RANGE]
 **Category 4: Explorers:** [OLD, FLUFFY, AGENCY, REX] 
-"
+","[['ENTERPRISE', 'FIRM', 'COOP', 'COMPANY'], ['SPOT', 'STY', 'ROVER', 'STABLE'], ['INK', 'LACK', 'PEN', 'RANGE'], ['OLD', 'FLUFFY', 'AGENCY', 'REX']]",0,0,
 "Here are the groupings and explanations for the provided words:
 
 **Category 1:  Parts of a Shoe** 
@@ -721,7 +722,7 @@ Parts of a Shoe: [SANDAL, STRAP, BUCKLE, HOLE]
 Types of Breaks: [LEAVE, HOLIDAY, RECESS, BREAK]
 Words Related to ""Holy"": [HOLY, HOLEY, HOLLY, WHOLLY] 
 Things You Might Find in a Loop: [DRIFT, DOG, HOLI, LOOP] 
-"
+","[['SANDAL', 'STRAP', 'BUCKLE', 'HOLE'], ['LEAVE', 'HOLIDAY', 'RECESS', 'BREAK'], ['HOLY', 'HOLEY', 'HOLLY', 'WHOLLY'], ['DRIFT', 'DOG', 'HOLI', 'LOOP']]",1,0,
 "Here are the groupings for the given words, along with explanations:
 
 **Category 1: Ways to cut something**
@@ -755,7 +756,7 @@ Category 1: Ways to cut something: [CLIP, RIPPED, TRIM, CUT]
 Category 2: Physical descriptions of a person: [SWOLE, BUILT, JACKED, BUFF]
 Category 3: Things associated with a ""nut"": [FAN, WALNUT, NUT, PUG]
 Category 4: Words that can be used as verbs ending in ""-ing"": [PARE, PRUNE, BRAIN, LOVER] 
-"
+","[['CLIP', 'RIPPED', 'TRIM', 'CUT'], ['SWOLE', 'BUILT', 'JACKED', 'BUFF'], ['FAN', 'WALNUT', 'NUT', 'PUG'], ['PARE', 'PRUNE', 'BRAIN', 'LOVER']]",0,1,
 "Here's the breakdown and solution for Example 4:
 
 **Reasoning:**
@@ -780,7 +781,7 @@ Groupings:
 
 **Category 4:  Things found at a barbecue, in an abstract sense**
 [TAR, SNAKE, BARBECUE, FRYER] 
-"
+","[['FESTIVITY', 'MIRTH', 'GLEE', 'CHEER'], ['FLORIST', 'OFFICIANT', 'CATERER', 'ORCHESTRA'], ['BAND', 'CHOIR', 'LIAR', 'FIRE'], ['TAR', 'SNAKE', 'BARBECUE', 'FRYER']]",1,1,
 "Here's my analysis of the words and my proposed solution:
 
 **Reasoning:**
@@ -798,7 +799,7 @@ Groupings:
 **Category 2 (Forceful Actions):** [BANG, SLAM, POUND, HAMMER]
 **Category 3 (Recording & Marking):** [CHRONICLE, REGISTER, FEATHER, SICKLE]
 **Category 4 (Symbols & Representations):** [BANANA, MUSHROOM, HERALD, CROISSANT] 
-"
+","[['STAR', 'MOON', 'SUN', 'FLOWER'], ['BANG', 'SLAM', 'POUND', 'HAMMER'], ['CHRONICLE', 'REGISTER', 'FEATHER', 'SICKLE'], ['BANANA', 'MUSHROOM', 'HERALD', 'CROISSANT']]",1,0,
 "Here's a breakdown of the categories and the reasoning behind them:
 
 **Category 1: Pairs** 
@@ -824,7 +825,7 @@ Category1: [AD, COUPLE, DEUCE, PAIR]
 Category2: [PLUG, PROMOTE, PITCH, PUSH]
 Category3: [PASSION, BREAD, LOVE, THING]
 Category4: [ALL, JACK, ITEM, DRAGON] 
-"
+","[['AD', 'COUPLE', 'DEUCE', 'PAIR'], ['PLUG', 'PROMOTE', 'PITCH', 'PUSH'], ['PASSION', 'BREAD', 'LOVE', 'THING'], ['ALL', 'JACK', 'ITEM', 'DRAGON']]",1,1,
 "Here are the groupings for Example 4, with explanations:
 
 **Category 1: Parts of a Game**
@@ -858,7 +859,7 @@ Groupings:
 **High Points:** [PEAK, VERTEX, SUMMIT, CREST]
 **Small Things:** [MINI, BABY, TOY, POCKET]
 **Containers of Small Things:** [BOARD, CELL, NUMBER, CONTACT] 
-"
+","[['DIGITS', 'BAG', 'TILES', 'RACKS'], ['PEAK', 'VERTEX', 'SUMMIT', 'CREST'], ['MINI', 'BABY', 'TOY', 'POCKET'], ['BOARD', 'CELL', 'NUMBER', 'CONTACT']]",4,2,
 "## Example 4:  Groupings
 
 **Category 1: Body Parts** 
@@ -876,7 +877,7 @@ Groupings:
 **Category 4:  ""To"" + Word**
 * **Reasoning:** These words can be combined with the preposition ""to"" to form common phrases.
 * **Grouping:** [SMART, ACHE, BURN, TWO] 
-"
+","[['MIND', 'WRIST', 'BRAIN', 'HEART'], ['HOME', 'COURAGE', 'WATCH', 'WRONG'], ['GUARD', 'ANSWER', 'TEND', 'STING'], ['SMART', 'ACHE', 'BURN', 'TWO']]",0,0,
 "Here are the groupings for the given words:
 
 **Category 1: Baseball terms**
@@ -898,7 +899,7 @@ Groupings:
 **Category 4:  Phrases that can be completed with ""OUT""**
 * Reason: All words create common phrases when followed by ""OUT"".
 * Group: [BLOW, LICK, BAD, TOP HAT] 
-"
+","[['BASE', 'STRIKE', 'BALL', 'BAT'], ['SOCK', 'BOOT', 'GLOVE', 'THIMBLE'], ['BUGS', 'DUST', 'HONEY', 'IRON'], ['BLOW', 'LICK', 'BAD', 'TOPHAT']]",0,1,
 "## Example 4 Analysis:
 
 **Category 1: Financial Terms** - These words are all related to money and finance:
@@ -934,7 +935,7 @@ Groupings:
 **Descriptors of Popularity**: [POPULAR, ICON, HANDSOME, HOT]
 **Graphical Symbols**: [GLYPH, SYMBOL, LEGEND, CHARACTER]
 **Prefix ""IN-""**: [IN, LIPID, LEGEND, BIG] 
-"
+","[['ASSESS', 'LEVY', 'FINE', 'CHARGE'], ['POPULAR', 'ICON', 'HANDSOME', 'HOT'], ['GLYPH', 'SYMBOL', 'LEGEND', 'CHARACTER'], ['IN', 'LIPID', 'LEGEND', 'BIG']]",3,2,
 "Here's my analysis and solution for Example 4:
 
 **Category 1: Parts of the Eye**
@@ -965,7 +966,7 @@ Groupings:
 **Awards:** [GRAMMY, ROSE, MUM, CONE]
 **Things That Are Exposed:** [RESUME, EXPOSE, PATE, CALCULATOR]
 **Things to ""Go By"":** [DADA, CALENDAR, CLOCK, POPPY] 
-"
+","[['LENS', 'PUPIL', 'IRIS', 'CAMERA'], ['GRAMMY', 'ROSE', 'MUM', 'CONE'], ['RESUME', 'EXPOSE', 'PATE', 'CALCULATOR'], ['DADA', 'CALENDAR', 'CLOCK', 'POPPY']]",0,1,
 "Here's my analysis of the words and my proposed solution for the groupings:
 
 **Words:**  [STERLING, QUALITY, PRIME, INVENT, TIME, POUND, DOLLAR, DEVISE, TORCH, CREATE, PERCENT, COIN, BUCK, AT, FINE, BAR]
@@ -999,7 +1000,7 @@ Groupings:
 * **Bar:** This is the most obvious connection, and the ""bar"" part is essential to the category. 
 
 Let me know if you have any other questions or if you want to refine the category names! 
-"
+","[['STERLING', 'POUND', 'DOLLAR', 'COIN'], ['QUALITY', 'PRIME', 'FINE', 'STERLING'], ['INVENT', 'CREATE', 'DEVISE', 'TORCH'], ['TIME', 'PERCENT', 'BUCK', 'BAR']]",2,1,
 "Here's the solution for Example 4:
 
 **Reasoning:**
@@ -1016,7 +1017,7 @@ Groupings:
 **Empty Spaces:** [VOID, GAP, CAVITY, SCHOOL]
 **Filling and Completion:** [PAID, PLAQUE, LEAP, FILLING]
 **Words with the Root ""Leap"":** [LEAP, LIGHT, APPROVED, URGENT] 
-"
+","[['STAFF', 'BATON', 'CROWN', 'SCEPTER'], ['VOID', 'GAP', 'CAVITY', 'SCHOOL'], ['PAID', 'PLAQUE', 'LEAP', 'FILLING'], ['LEAP', 'LIGHT', 'APPROVED', 'URGENT']]",0,0,
 "Here are the groupings for Example 4, along with explanations:
 
 **Category 1: Parts of a Body**
@@ -1050,7 +1051,7 @@ Groupings:
 **Things Found in a Garden:** [HONEYCOMB, STALK, BULB, FLEECE]
 **Items Used to Seal Things:** [SEAL, CANDLE, HOSE, ENGINE]
 **Words That Can Be Prefixed with ""ROB"":** [CABIN, STIFF, CRAYON, HOSE] 
-"
+","[['HEAD', 'EAR', 'NOSE', 'WING'], ['HONEYCOMB', 'STALK', 'BULB', 'FLEECE'], ['SEAL', 'CANDLE', 'HOSE', 'ENGINE'], ['CABIN', 'STIFF', 'CRAYON', 'HOSE']]",0,0,
 "## Example 4 Analysis:
 
 **Category 1:  Things that can be ""dropped""** 
@@ -1075,7 +1076,7 @@ Things that can be ""dropped"": [DROP, SINK, FALL, TEAR]
 Dance styles: [SALSA, MODERN, SWING, TAP]
 Things that can be ""turned on"" or ""started"": [SHOWER,  RACE,  BLAZE,  TALK]
 Words that describe a sudden/rapid movement: [BOOM, FLY, DIP, CARROT] 
-"
+","[['DROP', 'SINK', 'FALL', 'TEAR'], ['SALSA', 'MODERN', 'SWING', 'TAP'], ['SHOWER', 'RACE', 'BLAZE', 'TALK'], ['BOOM', 'FLY', 'DIP', 'CARROT']]",3,1,
 "Here are the groupings for the given words, with explanations for each category:
 
 **Groupings:**
@@ -1102,7 +1103,7 @@ Words that describe a sudden/rapid movement: [BOOM, FLY, DIP, CARROT]
 * **DITCH:**  A small ditch or drainage channel can be found near the beach.
 * **PEPPERS:** Some types of pepper plants can grow near the beach.
 * **FUZZY:** This refers to the fuzz that might cover some beach plants or the fuzz of sand that rubs off on clothing.
-"
+","[['MAROON', 'DESERT', 'WOODCHUCK', 'STRAND'], ['CHERRY', 'SPRINKLES', 'FUDGE', 'NUTS'], ['CURSES', 'RATS', 'SHOOT', 'DARN'], ['SEASHELLS', 'DITCH', 'PEPPERS', 'FUZZY']]",4,1,
 "Here's a possible solution for the given set of words:
 
 **Reasoning:**
@@ -1120,7 +1121,7 @@ Groupings:
 **Category 2: Importance:** [PRIME, SUPREME, PARAMOUNT, MAIN]
 **Category 3: Pride:** [PEACOCK, POSTURE, STRUT, COVER]
 **Category 4: Prefixes:** [CHAIN, GRANDSTAND, WHITE, LOVE] 
-"
+","[['SCARLET', 'BLUE', 'YELLOW', 'GREEN'], ['PRIME', 'SUPREME', 'PARAMOUNT', 'MAIN'], ['PEACOCK', 'POSTURE', 'STRUT', 'COVER'], ['CHAIN', 'GRANDSTAND', 'WHITE', 'LOVE']]",2,2,
 "Here's my analysis of the words and the proposed groupings:
 
 **Category 1: Statistical Measures** 
@@ -1145,7 +1146,7 @@ Category1: [RANGE, MEDIAN, MEAN, MODE]
 Category2: [REAL, PRETTY, STERN, AWFUL]
 Category3: [BASE, BOND, GLASS, SOLUTION]
 Category4: [KING, ELEMENT, RATHER, GROSS] 
-"
+","[['RANGE', 'MEDIAN', 'MEAN', 'MODE'], ['REAL', 'PRETTY', 'STERN', 'AWFUL'], ['BASE', 'BOND', 'GLASS', 'SOLUTION'], ['KING', 'ELEMENT', 'RATHER', 'GROSS']]",1,1,
 "## Groupings:
 
 **Category1: Informal Greetings:**  These words are all informal ways to say hello. 
@@ -1159,7 +1160,7 @@ Category4: [KING, ELEMENT, RATHER, GROSS]
 
 **Category4:  Things that can be scooped:** These words all refer to things that can be scooped.
 [FOOL, LIST, DOPE, SCOOP] 
-"
+","[['HELLO', 'GIGGLE', 'CANT', 'WORD'], ['TRICK', 'BOOB', 'CON', 'DUPE'], ['EGGSHELL', 'LEAN', 'SKINNY', 'SLOPE'], ['FOOL', 'LIST', 'DOPE', 'SCOOP']]",0,0,
 "Here are the groupings for the provided words:
 
 **Category 1: Voting & Selection** 
@@ -1181,7 +1182,7 @@ Category4: [KING, ELEMENT, RATHER, GROSS]
     * ""Green with envy""
     * ""Cushion the blow""
     * ""Buffer zone"" 
-"
+","[['BALLOT', 'SLATE', 'ROSTER', 'TICKET'], ['POD', 'CAPSULE', 'SHIELD', 'COAT'], ['PAD', 'TABLET', 'SYRUP', 'CREAM'], ['SOUP', 'GREEN', 'CUSHION', 'BUFFER']]",1,2,
 "Here's my analysis of the words and the potential groupings, along with the final answer:
 
 **Reasoning:**
@@ -1199,7 +1200,7 @@ Groupings:
 **Category 2: Financial Terms**: ['INVOICE', 'BILL', 'CHECK', 'TAB']
 **Category 3: Taking/Grabbing**: ['PINCH', 'STEAL', 'SWIPE', 'ROB']
 **Category 4: Compound Words**: ['BULL', 'TIGHT', 'BUCK', 'TOM'] 
-"
+","[['JEAN', 'PANT', 'JACK', 'SHORT'], ['INVOICE', 'BILL', 'CHECK', 'TAB'], ['PINCH', 'STEAL', 'SWIPE', 'ROB'], ['BULL', 'TIGHT', 'BUCK', 'TOM']]",3,1,
 "## Example 4 Analysis:
 
 **Category 1: Furniture & Seating**
@@ -1225,7 +1226,7 @@ Groupings:
 **Sports/Football Terms:** [RUN, LEAD, TACKLE, PASS]
 **Verb-based Phrases:** [INVITE, HOLD, DIRECT,  PUNT]
 **Words ending in ""ER"":** [CENTER, SAFETY, TICKET,  BADGE] 
-"
+","[['CHAIR', 'TABLE', 'STALL', 'END'], ['RUN', 'LEAD', 'TACKLE', 'PASS'], ['INVITE', 'HOLD', 'DIRECT', 'PUNT'], ['CENTER', 'SAFETY', 'TICKET', 'BADGE']]",0,1,
 "Here's my breakdown and solution to Example 4:
 
 **Reasoning:**
@@ -1243,7 +1244,7 @@ Groupings:
 **Stages/Points in Time:** [""CHORAL"", ""STAGE"", ""PHASE"", ""POINT""]
 **Things That Can Be Blown Up/Rapidly Moved:** [""BLEW"", ""DASH"", ""TANK"", ""WHEEL""]
 **""Subject Matter"":** [""SUBJECT"", ""MATTER"", ""SHOCK"", ""ROWS""] 
-"
+","[['""CHAPTER""', '""READ""', '""ISSUE""', '""PERIOD""'], ['""CHORAL""', '""STAGE""', '""PHASE""', '""POINT""'], ['""BLEW""', '""DASH""', '""TANK""', '""WHEEL""'], ['""SUBJECT""', '""MATTER""', '""SHOCK""', '""ROWS""']]",0,1,
 "Here's my analysis of the words and my proposed groupings:
 
 **Reasoning:**
@@ -1261,7 +1262,7 @@ Groupings:
 **High Praise:** [PHAT, HERO, ICON, LEGEND]
 **Sales Pitch:** [PERFECT, GREAT, SALES, ELEVATOR]
 **Ph-Words:** [PHILLY, PHISH, PHEW, PHAT] 
-"
+","[['SOLID', 'LIQUID', 'GAS', 'PLASMA'], ['PHAT', 'HERO', 'ICON', 'LEGEND'], ['PERFECT', 'GREAT', 'SALES', 'ELEVATOR'], ['PHILLY', 'PHISH', 'PHEW', 'PHAT']]",4,4,
 "Here are the groupings for the Example 4 words:
 
 **Reasoning:**
@@ -1278,7 +1279,7 @@ Groupings:
 **Breaking Down:** [SLICE, CRUMBLE, LOG, SHRED]
 **Fire Related:** [CHARM, GRATE, FLUE, HEX]
 **Transformation Verbs:** [CURSE, MELT, SPELL, CHIPS] 
-"
+","[['POKER', 'CARDS', 'DICE', 'SLOTS'], ['SLICE', 'CRUMBLE', 'LOG', 'SHRED'], ['CHARM', 'GRATE', 'FLUE', 'HEX'], ['CURSE', 'MELT', 'SPELL', 'CHIPS']]",0,1,
 "Here are the groupings for the words provided, along with the reasoning behind each category:
 
 **Groupings:**
@@ -1308,7 +1309,7 @@ Groupings:
 * **MONK** (Monk of the Order) 
 
 Let me know if you'd like to try another set of words! 
-"
+",[],0,1,
 "Here's my analysis and solution for Example 4:
 
 **Groupings:**
@@ -1326,7 +1327,7 @@ Let me know if you'd like to try another set of words!
 4. **Category 4:**  ""PITCHFORK,"" ""ROD,"" and ""STAFF"" all have handles.  ""TEE"" is a specific tool used in golf. 
 
 Let me know if you'd like to try another set of words! 
-"
+","[['HORSESHOE', 'CLUB', 'BASKETBALL', 'POLE'], ['CARROT', 'PUMPKIN', 'POLE', 'STICK'], ['HORSESHOE', 'TRIANGLE', 'CIRCLE', 'HOLE'], ['PITCHFORK', 'ROD', 'STAFF', 'TEE']]",0,0,
 "Here's a breakdown of the categories and my answer for Example 4:
 
 **Reasoning:**
@@ -1343,7 +1344,7 @@ Groupings:
 **Category 2 (Physical/Body):** ['ORAL', 'PHYSICAL', 'EYE', 'BEAUTY']
 **Category 3 (Story/Narrative):** ['FINAL', 'AMAZON', 'BAR', 'MARVEL']
 **Category 4 (Concepts):** ['ALPHABET', 'WISDOM', 'META', 'BABY'] 
-"
+","[['APPLE', 'PEACH', 'GEM', 'SWEET'], ['ORAL', 'PHYSICAL', 'EYE', 'BEAUTY'], ['FINAL', 'AMAZON', 'BAR', 'MARVEL'], ['ALPHABET', 'WISDOM', 'META', 'BABY']]",0,0,
 "Here's a breakdown of the categories and the solution for Example 4:
 
 **Category 1: Body Parts** 
@@ -1369,7 +1370,7 @@ Body Parts: [BONE, GUTTER, AFRO, SWING]
 Musical Genres: [FUNK, DISCO, SWAY, ROCK]
 Smells: [MUSK, ODOR, TANG, FOUL]
 Words that precede ""Out"": [WAVE, FIGHT, CRYSTAL, LOCK] 
-"
+","[['BONE', 'GUTTER', 'AFRO', 'SWING'], ['FUNK', 'DISCO', 'SWAY', 'ROCK'], ['MUSK', 'ODOR', 'TANG', 'FOUL'], ['WAVE', 'FIGHT', 'CRYSTAL', 'LOCK']]",0,1,
 "## Example 4:
 
 Words: [TEN, MAX, TOP, GROSS, JOSH, PAIR, TEASE, KISS, KID, ADULT, RIB, TIMES, HEIGHT, DOZEN, PEAK, SCORE]
@@ -1391,7 +1392,7 @@ Words: [TEN, MAX, TOP, GROSS, JOSH, PAIR, TEASE, KISS, KID, ADULT, RIB, TIMES, H
 **Category 4:  Informal Terms for Achievement** 
 * **Reason:** These words can be used in a casual way to describe something good or outstanding, particularly in a competitive context.
 * **Group:** [GROSS, JOSH, PEAK, SCORE] 
-"
+","[['TEN', 'MAX', 'TOP', 'DOZEN'], ['PAIR', 'TEASE', 'KISS', 'RIB'], ['TIMES', 'HEIGHT', 'ADULT', 'KID'], ['GROSS', 'JOSH', 'PEAK', 'SCORE']]",0,0,
 "Here are the groupings for the given words, along with explanations:
 
 **Category 1: Actions at a Bowling Alley**
@@ -1417,7 +1418,7 @@ Category1:  ['BOX', 'MATCH', 'STRIKE', 'FIRE']
 Category2: ['WRAPPING', 'BLOCK', 'TIGHT', 'BOW']
 Category3: ['SICK', 'DUCK', 'LIT', 'CHARM']
 Category4: ['MESSAGE', 'BREAK', 'SWIPE', 'CARD'] 
-"
+","[['BOX', 'MATCH', 'STRIKE', 'FIRE'], ['WRAPPING', 'BLOCK', 'TIGHT', 'BOW'], ['SICK', 'DUCK', 'LIT', 'CHARM'], ['MESSAGE', 'BREAK', 'SWIPE', 'CARD']]",0,0,
 "## Example 4: 
 Words: [TICK, PAIN, 40, SOAR, CHECK, TAP, FLOAT, TIP, WIRE, GLIDE, BUG, MARK, X, FLY, MIKE, COLE] 
 
@@ -1441,7 +1442,7 @@ Words: [TICK, PAIN, 40, SOAR, CHECK, TAP, FLOAT, TIP, WIRE, GLIDE, BUG, MARK, X,
 
 **Category 4: Prefix ""X""**
 * [X, PAIN, SOAR, GLIDE] 
-"
+","[['TICK', 'TAP', 'TIP', 'MARK'], ['CHECK', '40', 'MIKE', 'COLE'], ['WIRE', 'BUG', 'FLOAT', 'FLY'], ['X', 'PAIN', 'SOAR', 'GLIDE']]",0,0,
 "Here are the groupings for Example 4, along with explanations:
 
 **Category 1: Food Items** 
@@ -1475,7 +1476,7 @@ Category1: [BREAD, BACON, TOMATO, LETTUCE]
 Category2: [STOP, RUN, WALK, HIT]
 Category3: [DOUBLE, CLOG, JAM, BLOCK]
 Category4: [WONDER, TALK, FRY, WORLD] 
-"
+","[['BREAD', 'BACON', 'TOMATO', 'LETTUCE'], ['STOP', 'RUN', 'WALK', 'HIT'], ['DOUBLE', 'CLOG', 'JAM', 'BLOCK'], ['WONDER', 'TALK', 'FRY', 'WORLD']]",5,0,
 "Here's how I'd break down the words and find the categories:
 
 **Reasoning:**
@@ -1492,7 +1493,7 @@ Groupings:
 **Travel:** [WATER, WAY, WHEEL, WHOA]
 **Ancient History:** [PYRAMID, CAESAR, GREEK, FEUD]
 **Small Questions:** [WEDGE, WEE, WHY, MILLIONAIRE] 
-"
+","[['PLANT', 'WEED', 'SEED', 'GREEN'], ['WATER', 'WAY', 'WHEEL', 'WHOA'], ['PYRAMID', 'CAESAR', 'GREEK', 'FEUD'], ['WEDGE', 'WEE', 'WHY', 'MILLIONAIRE']]",0,0,
 "Here's my breakdown of the Connections game, along with the groupings:
 
 **Reasoning:**
@@ -1509,7 +1510,7 @@ Groupings:
 **Category 2: Food/Beverage Related:** [TOURS, PARTY, DETAIL, DIJON]
 **Category 3: Words Related to a Team or Group:** [RESOLUTION, COUNTDOWN, CLARITY, TEAM]
 **Category 4: Words that can be followed by ""of""**: [DEFINITION, BALL, GROUP, NICE] 
-"
+","[['CHAMPAGNE', 'CLUB', 'KISS', 'FIREWORKS'], ['TOURS', 'PARTY', 'DETAIL', 'DIJON'], ['RESOLUTION', 'COUNTDOWN', 'CLARITY', 'TEAM'], ['DEFINITION', 'BALL', 'GROUP', 'NICE']]",0,1,
 "## Groupings:
 
 **Category 1: Black and White Animals**  -  These are all animals that are predominantly black and white.
@@ -1523,7 +1524,7 @@ Groupings:
 
 **Category 4: Desert Related** - These words are all related to the desert.
 [DESERT, SAND, BEAR, SPEED]  - The ""bear"" connection is through the phrase ""barely a bear"" which relates to the harsh conditions of the desert. 
-"
+","[['SKUNK', 'ORCA', 'PANDA', 'ZEBRA'], ['TOURIST', 'TRAIN', 'SERIES', 'DOVE'], ['BASS', 'WIND', 'CHAIN', 'STRING'], ['DESERT', 'SAND', 'BEAR', 'SPEED']]",1,1,
 "Here's the breakdown of the categories and the solution for Example 4:
 
 **Reasoning:**
@@ -1548,7 +1549,7 @@ Groupings:
 
 **Category 4:  Things that are ""bee"" related** - [BEE, CURIOUS, GEE, BY]
 * ""Bee"" is a common word.  ""Curious"" sounds like ""curiousity"", which is something bees are known for. ""Gee"" sounds like ""bee"" if you change the ""b"" to a ""g"". ""By"" sounds like ""bye"" which can be thought of as a bee buzzing away. 
-"
+","[['BAD', 'BOY', 'EX', 'JAY'], ['FLY', 'FRESH', 'RAD', 'TEE'], ['TANK', 'CROP', 'SAINT', 'POLO'], ['BEE', 'CURIOUS', 'GEE', 'BY']]",0,0,
 "Here are the groupings for the provided words, along with explanations for each category:
 
 **Groupings:**
@@ -1583,7 +1584,7 @@ Groupings:
 * **Category 2** centers on types of birds.
 * **Category 3** centers on words that describe or imply something moving fast.
 * **Category 4** is the most obscure, focusing on last names associated with Presidents (some are middle names or nicknames). 
-"
+",[],0,3,
 "Here are the groupings for the words provided, along with my reasoning:
 
 **Reasoning:**
@@ -1602,7 +1603,7 @@ Groupings:
 **Category 3 (Color):** [BLACK, PAINT, PASTEL, CHARCOAL] 
 
 **Category 4 (Prefixes):** [BELL, REV, OMEN, GHOST] 
-"
+","[['INK', 'WARNING', 'MESSAGE', 'SIGN'], ['GEN', 'DR', 'PROF', 'MS'], ['BLACK', 'PAINT', 'PASTEL', 'CHARCOAL'], ['BELL', 'REV', 'OMEN', 'GHOST']]",0,0,
 "Here's my analysis of the words and the proposed groupings:
 
 **Category 1: Road related:**  
@@ -1624,7 +1625,7 @@ Groupings:
 **Holding or containing:** [HOLD, SHEET, FOLIO, PAGE]
 **Parts of a plant:** [STEM, LEAF, THUMB, PICK]
 **Actions involving movement:** [DRIVE, BLOW, CHECK, LIMIT] 
-"
+","[['LANE', 'CURB', 'STREET', 'ALLEY'], ['HOLD', 'SHEET', 'FOLIO', 'PAGE'], ['STEM', 'LEAF', 'THUMB', 'PICK'], ['DRIVE', 'BLOW', 'CHECK', 'LIMIT']]",0,1,
 "Here are the groupings and explanations for the provided words:
 
 **Category 1: Terms of endearment**
@@ -1659,7 +1660,7 @@ Groupings:
 **Things that can be ""shot"":** [FIRE, RAY, ZIP, AGENT]
 **Things that can be ""broken"":** [SAUCE, JUICE, CODE, LINE]
 **Things that have a ""segment"" as a part:** [SANTA, ENERGY, SEGMENT, POINT] 
-"
+","[['LOVE', 'DEAR', 'BOO', 'BABY'], ['FIRE', 'RAY', 'ZIP', 'AGENT'], ['SAUCE', 'JUICE', 'CODE', 'LINE'], ['SANTA', 'ENERGY', 'SEGMENT', 'POINT']]",1,1,
 "Here's the breakdown of the categories and the final answer for Example 4:
 
 **Category 1: Parts of the Body**
@@ -1685,7 +1686,7 @@ Category1: Parts of the Body: [EYELASH, BELLY, SHOULDER,  ROBE]
 Category2: Things that are ""Mild"": [MILD, MELLOW, CANDLE,  DANDELION]
 Category3: Things that can be ""Rolled"": [DICE, TABLET, CROWN,  HOCK]
 Category4: Things used for ""Light"": [LIGHT, TORCH,  CHOP,  SOFT] 
-"
+","[['EYELASH', 'BELLY', 'SHOULDER', 'ROBE'], ['MILD', 'MELLOW', 'CANDLE', 'DANDELION'], ['DICE', 'TABLET', 'CROWN', 'HOCK'], ['LIGHT', 'TORCH', 'CHOP', 'SOFT']]",0,0,
 "Here's my analysis of the words and my solution to Example 4:
 
 **Word Analysis:**
@@ -1710,7 +1711,7 @@ Groupings:
 **Category 2: Phrases with ""On"":** [ON BOARD, GAME, STRAW, GOOSE]
 **Category 3: Actions with ""Down"":** [DROP, IN, DOWN, DASH]
 **Category 4: Compound Words with ""In"":** [SPLASH, PINCH, RASP, BLUE] 
-"
+","[['TRAIN', 'CAR', 'PLANE', 'BOAT'], ['ONBOARD', 'GAME', 'STRAW', 'GOOSE'], ['DROP', 'IN', 'DOWN', 'DASH'], ['SPLASH', 'PINCH', 'RASP', 'BLUE']]",1,1,
 "Here are the groupings for Example 4:
 
 **Reasoning:**
@@ -1728,7 +1729,7 @@ Category1: [PIRATE, WAIL, HOARSE, COMB]
 Category2: [WHILE, PERIOD, STRETCH, DEAR]
 Category3: [ANGEL, WITCH, CLOWN, HAIR]
 Category4: [HIVE, SPELL, WAX, HONEY] 
-"
+","[['PIRATE', 'WAIL', 'HOARSE', 'COMB'], ['WHILE', 'PERIOD', 'STRETCH', 'DEAR'], ['ANGEL', 'WITCH', 'CLOWN', 'HAIR'], ['HIVE', 'SPELL', 'WAX', 'HONEY']]",0,2,
 "Here's my analysis of the words and the proposed groupings for Example 4:
 
 **Words:** ['DIRECT', 'ONE', 'DRYER', 'STEER', 'HAMPER', 'MYSELF', 'SILICON', 'UNCANNY', 'IRON', 'IOTA', 'GUIDE', 'DEATH', 'IODINE', 'LEAD', 'WASHER', 'HIDDEN']
@@ -1750,7 +1751,7 @@ Groupings:
 **Category 2 (Small Amounts):** ['ONE', 'IOTA', 'HIDDEN', 'LEAD']
 **Category 3 (Direction Related):** ['DIRECT', 'STEER', 'GUIDE', 'UNCANNY']
 **Category 4 (Elements/Chemicals):** ['SILICON', 'IODINE', 'DEATH', 'LEAD'] 
-"
+","[['DRYER', 'HAMPER', 'IRON', 'WASHER'], ['ONE', 'IOTA', 'HIDDEN', 'LEAD'], ['DIRECT', 'STEER', 'GUIDE', 'UNCANNY'], ['SILICON', 'IODINE', 'DEATH', 'LEAD']]",1,1,
 "Here's my analysis of the words and the proposed categories:
 
 **Words:**  ['PREFACE', 'MINUTE', 'SPEEDY', 'BUZZ', 'ITCHY', 'RING', 'JERRY', 'DINKY', 'CALL', 'APPENDIX', 'LITTLE', 'INDEX', 'PINKY', 'CHAPTER', 'SLIGHT', 'DIAL']
@@ -1770,7 +1771,7 @@ Groupings:
 **Parts of a Book:** ['PREFACE', 'APPENDIX', 'CHAPTER', 'INDEX']
 **Phone/Communication:** ['BUZZ', 'RING', 'CALL', 'DIAL']
 **Quick/Fast:** ['ITCHY', 'PINKY', 'JERRY', 'SPEEDY'] 
-"
+","[['MINUTE', 'DINKY', 'LITTLE', 'SLIGHT'], ['PREFACE', 'APPENDIX', 'CHAPTER', 'INDEX'], ['BUZZ', 'RING', 'CALL', 'DIAL'], ['ITCHY', 'PINKY', 'JERRY', 'SPEEDY']]",10,3,
 "Here's a breakdown of the categories and the final answer for Example 4:
 
 **Reasoning:**
@@ -1788,7 +1789,7 @@ Groupings:
 **Category 2: Regularity:** [OFTEN, ROUTINE, PULL, DRAW]
 **Category 3: Attention:** [JOKE, APPEAL, CHARM, SKETCH] 
 **Category 4: Compounds:** [CANINE, STONE, BIT, FREIGHT] 
-"
+","[['BRACELET', 'WATCH', 'BELT', 'TIE'], ['OFTEN', 'ROUTINE', 'PULL', 'DRAW'], ['JOKE', 'APPEAL', 'CHARM', 'SKETCH'], ['CANINE', 'STONE', 'BIT', 'FREIGHT']]",1,2,
 "## Example 4 Analysis:
 
 **Category 1: Avenues in NYC** 
@@ -1820,7 +1821,7 @@ Groupings:
 **Time Related:** [FIRST, SECOND, PRINCIPAL, RUSH]
 **Street Names:** [BROADWAY, MAIN, PARK, FLASH] 
 **""Short Time"" Phrases:** [AMATEUR, HAPPY, JIFFY, WINK] 
-"
+","[['BROADWAY', 'ELEVENTH', 'MADISON', 'FIFTH'], ['FIRST', 'SECOND', 'PRINCIPAL', 'RUSH'], ['BROADWAY', 'MAIN', 'PARK', 'FLASH'], ['AMATEUR', 'HAPPY', 'JIFFY', 'WINK']]",0,2,
 "## Groupings:
 
 **Category 1: Parts of the Body** -  These are all common bodily parts, making this a straightforward category.
@@ -1834,7 +1835,7 @@ Groupings:
 
 **Category 4:  Compound Words with “Stick”** - This category consists of compound words formed by adding ""stick"" to other words.
 [BUSINESS, STICKS, GIRL, CARROT] 
-"
+","[['NERVE', 'BONE', 'GALL', 'GUTS'], ['SAVE', 'STASH', 'STORE', 'BANK'], ['SNOW', 'PAGES', 'STONES', 'COAL'], ['BUSINESS', 'STICKS', 'GIRL', 'CARROT']]",1,0,
 "## Example 4: 
 
 **Words :** [AMUSE, RUSE, PLOT, TRICK, PLOW, HOE, THUD, PLOY, SPLASH, PLEASE, BANG, RAKE, TICKLE, PLOP, DELIGHT, SICKLE]
@@ -1854,7 +1855,7 @@ Groupings:
 *  All words fit into the phrase ""A ______ Trick"" and relate to deception or manipulation. 
 
 Please note that ""PLEASE"" is a bit of a stretch for this category. It could be considered a ""trick"" in a social context, but it's the weakest connection. There may be a better solution, but I'm working with the limited information provided. 
-"
+","[['AMUSE', 'TRICK', 'TICKLE', 'DELIGHT'], ['PLOW', 'HOE', 'RAKE', 'SICKLE'], ['THUD', 'BANG', 'PLOP', 'SPLASH'], ['RUSE', 'PLOT', 'PLOY', 'PLEASE']]",5,4,
 "## Groupings:
 
 **Category1:  Bad Moods**  -  All words describe someone who is irritable, unhappy or easily annoyed.
@@ -1868,7 +1869,7 @@ Please note that ""PLEASE"" is a bit of a stretch for this category. It could be
 
 **Category4:  Prefix ""Stoop""** -  All words have the common prefix ""stoop"". 
 [STOOP, QUACK, SEAL, ANTHEM] 
-"
+","[['GROUCH', 'CRANK', 'GRUMP', 'SQUAT'], ['FLAG', 'CROOK', 'CRAB', 'MOTTO'], ['CROUCH', 'DUCK', 'CHEAT', 'SHARK'], ['STOOP', 'QUACK', 'SEAL', 'ANTHEM']]",0,2,
 "## Example 4:
 
 **Words:** ['SPOON', 'BOWL', 'NAG', 'LINING', 'SPLIT', 'PART', 'BADGER', 'DOME', 'DIVIDE', 'BUG', 'FORK', 'FIELD', 'SCREEN', 'HOUND', 'ARENA', 'FOX']
@@ -1887,7 +1888,7 @@ Groupings:
 **Parts of a Whole:** ['SPLIT', 'PART', 'DIVIDE', 'LINING']
 **Animals:** ['BADGER', 'BUG', 'HOUND', 'FOX']
 **Words with 'Dome' Ending:** ['DOME', 'ARENA', 'FIELD', 'NAG'] 
-"
+","[['SPOON', 'BOWL', 'FORK', 'SCREEN'], ['SPLIT', 'PART', 'DIVIDE', 'LINING'], ['BADGER', 'BUG', 'HOUND', 'FOX'], ['DOME', 'ARENA', 'FIELD', 'NAG']]",0,0,
 "## Groupings:
 
 **Category 1: Family Relationships:**  [UNCLE, MERCY, BOUGH, DOUGH] 
@@ -1901,7 +1902,7 @@ Groupings:
 
 **Category 4:  Descriptive Words for Humor/Sexuality:** [RISQUE, BLUE, BAWDY, FAIRWAY] 
 -  This category focuses on words often used to describe humor or sexuality. ""Risque"" and ""bawdy"" are direct synonyms for racy content.  ""Blue"" is often used in phrases like ""blue humor"" or ""blue jokes."" ""Fairway"" is a play on words, as ""fair"" can be a synonym for ""fair game"" or ""unprotected,"" and ""way"" can be an implication of a route or path. 
-"
+","[['UNCLE', 'MERCY', 'BOUGH', 'DOUGH'], ['COARSE', 'TOUGH', 'ROUGH', 'GREEN'], ['STOP', 'ENOUGH', 'COUGH', 'BUNKER'], ['RISQUE', 'BLUE', 'BAWDY', 'FAIRWAY']]",0,0,
 "Here are the groupings and explanations for the words:
 
 **Category 1:  Parts of a car**
@@ -1935,7 +1936,7 @@ Category 1:  Parts of a car: [BUMPER, FIN, TAIL, TRACK]
 Category 2: Things that can obscure vision: [CLOUD, HAZE, FOG, MIST]
 Category 3: Things that are followed: [TRAIL, SHADOW, TRACK, ICE]
 Category 4:  Things that can be used to propel oneself: [BALL, FLIPPER, PLUNGER, NETHER] 
-"
+","[['BUMPER', 'FIN', 'TAIL', 'TRACK'], ['CLOUD', 'HAZE', 'FOG', 'MIST'], ['TRAIL', 'SHADOW', 'TRACK', 'ICE'], ['BALL', 'FLIPPER', 'PLUNGER', 'NETHER']]",1,0,
 "Here's a breakdown of the categories and my solution for Example 4:
 
 **Reasoning:**
@@ -1952,7 +1953,7 @@ Groupings:
 **Speech:** [BLOW, TONGUE, SPEECH, EYELET] 
 **Resting Place:** [ROOST, PERCH, SETTLE, LAND] 
 **Sole:** [SOLE, PACKAGE, BABY, VELVET] 
-"
+","[['LACE', 'SATIN', 'CHIFFON', 'SILK'], ['BLOW', 'TONGUE', 'SPEECH', 'EYELET'], ['ROOST', 'PERCH', 'SETTLE', 'LAND'], ['SOLE', 'PACKAGE', 'BABY', 'VELVET']]",2,1,
 "##  Groupings:
 
 **Category 1: Ways to Jump:**  These words are all synonyms for a specific type of movement, implying a quick and forceful motion.
@@ -1966,7 +1967,7 @@ Groupings:
 
 **Category 4: Something You Can Take a ___ Of:** This category is a bit trickier, but all these words are verbs that can be followed by the word ""of"" to complete a common phrase.
 [PICNIC, CINCH, BREEZE, TWIST] 
-"
+","[['SPRING', 'LEAP', 'VAULT', 'BOUND'], ['COIL', 'SNAP', 'WIND', 'SPIRAL'], ['BANK', 'BED', 'DELTA', 'MOUTH'], ['PICNIC', 'CINCH', 'BREEZE', 'TWIST']]",5,3,
 "## Example 4 Solution:
 
 **Words**: [RICE, NOTE, CORN, SCREW, SUNDAE, SPLIT, PEANUT, BOLT, PALM, RIVET, WICKET, SHAKE, NAIL, FLOAT, OLIVE, FINGERS]
@@ -1984,7 +1985,7 @@ Groupings:
 **Category 2: Hand Parts/Actions:** [PALM, FINGERS, SHAKE, SPLIT]
 **Category 3: Fasteners:** [SCREW, BOLT, RIVET, NAIL] 
 **Category 4: ""Shake"" Objects:** [SUNDAE, FLOAT, OLIVE, WICKET] 
-"
+","[['RICE', 'NOTE', 'CORN', 'PEANUT'], ['PALM', 'FINGERS', 'SHAKE', 'SPLIT'], ['SCREW', 'BOLT', 'RIVET', 'NAIL'], ['SUNDAE', 'FLOAT', 'OLIVE', 'WICKET']]",2,1,
 "## Example 4 Analysis:
 
 **Category 1:** **Synonyms for Decline** 
@@ -2019,7 +2020,7 @@ Groupings:
 **Words related to Royalty:** [PRINCE, STATE, BANNER, FLAG]
 **Words with Multiple Meanings (Related to Sound):** [VOICE, UTTER, SHEER, PURE]
 **Compound Words with ""ST"" Prefix:** [STARK, STATE, STAIR, STAMP] 
-"
+","[['WANE', 'EBB', 'FADE', 'STATE'], ['PRINCE', 'STATE', 'BANNER', 'FLAG'], ['VOICE', 'UTTER', 'SHEER', 'PURE'], ['STARK', 'STATE', 'STAIR', 'STAMP']]",0,1,
 "Here's a possible solution for the given words, with explanations for each category:
 
 **Words:**  ['TOM', 'OK', 'BET', 'POM', 'YO', 'LA', 'HALLMARK', 'USA', 'E', 'MA', 'TANGO', 'HI', 'BOO', 'ROMEO', 'BRAVO', 'ALFA']
@@ -2049,7 +2050,7 @@ Military Alphabet Words: ['ROMEO', 'BRAVO', 'ALFA', 'TANGO']
 Common Abbreviations: ['OK', 'USA', 'YO', 'HI']
 Movie Titles: ['TOM', 'BET', 'BOO', 'LA']
 Two-Letter State Abbreviations: ['OK', 'MA', 'E', 'LA'] 
-"
+","[['ROMEO', 'BRAVO', 'ALFA', 'TANGO'], ['OK', 'USA', 'YO', 'HI'], ['TOM', 'BET', 'BOO', 'LA'], ['OK', 'MA', 'E', 'LA']]",3,2,
 "Here's my analysis of the words and my proposed groupings:
 
 **Reasoning:**
@@ -2066,7 +2067,7 @@ Groupings:
 **Category 2 (Musical Terms):** [NOTE, CLEF, TAU, STAFF]
 **Category 3 (Pairs or Sets):** [TWINS, GEM, BULL, CRAB]
 **Category 4 (Prefix/Suffix):** [LIB, REST, SCALES, CAN] 
-"
+","[['COLUMBIA', 'VIRGIN', 'CAPITOL', 'ISLAND'], ['NOTE', 'CLEF', 'TAU', 'STAFF'], ['TWINS', 'GEM', 'BULL', 'CRAB'], ['LIB', 'REST', 'SCALES', 'CAN']]",3,1,
 "Here's a breakdown of the categories and the reasoning behind them:
 
 **Category 1: Synonyms for ""Large""**
@@ -2088,14 +2089,14 @@ Category1: [HUGE, GIANT, BIG, GREAT]
 Category2: [POETRY, FICTION, HUMOR, PAPER]
 Category3: [CHEERS, FELICITY, EUPHORIA, GLEE]
 Category4: [WHOOPING, TRAVEL, FRASIER, CONSTRUCTION] 
-"
+","[['HUGE', 'GIANT', 'BIG', 'GREAT'], ['POETRY', 'FICTION', 'HUMOR', 'PAPER'], ['CHEERS', 'FELICITY', 'EUPHORIA', 'GLEE'], ['WHOOPING', 'TRAVEL', 'FRASIER', 'CONSTRUCTION']]",4,2,
 "## Groupings:
 
 **Category1: Baking Goods:**  [BUN, LOAF, ROLL, BAGUETTE] - All are types of bread.
 **Category2: Ways to Secure:** [CLINCH, LOCK, SECURE, GUARANTEE] - All words refer to securing or making something safe.
 **Category3:  Ways to Damage:** [SCRATCH, MARK, NICK, CHIP] - All represent minor forms of damage or marking.
 **Category4:  States of Being:** [STEAM, LETTUCE, STATE, HAIR] - These are all nouns that can be used as verbs to describe states of being.  For example: ""He was steaming mad,"" ""The lettuce was wilting,"" ""The state is booming,"" ""Her hair was standing on end."" 
-"
+","[['BUN', 'LOAF', 'ROLL', 'BAGUETTE'], ['CLINCH', 'LOCK', 'SECURE', 'GUARANTEE'], ['SCRATCH', 'MARK', 'NICK', 'CHIP'], ['STEAM', 'LETTUCE', 'STATE', 'HAIR']]",10,1,
 "## Example 4: 
 Words : [HYPE, WATER, AMP, HEARD, TIE, FIRE, CABLE, PUMP, AUDITORY, GAS, COUPLE, SONIC, ELECTRIC, ACOUSTIC, HITCH, LINK]
 Groupings:
@@ -2131,7 +2132,7 @@ Groupings:
 **Ways to Connect Things:** [TIE, CABLE, HITCH, LINK]
 **Ways to Deliver Energy:** [WATER, FIRE, GAS, ELECTRIC]
 **Senses and Sounds:** [HEARD, AUDITORY, ACOUSTIC, COUPLE] 
-"
+","[['HYPE', 'AMP', 'PUMP', 'SONIC'], ['TIE', 'CABLE', 'HITCH', 'LINK'], ['WATER', 'FIRE', 'GAS', 'ELECTRIC'], ['HEARD', 'AUDITORY', 'ACOUSTIC', 'COUPLE']]",0,2,
 "Here's the breakdown and solution for Example 4:
 
 **Reasoning:**
@@ -2149,7 +2150,7 @@ Groupings:
 **Category 2 (Containers):** [PAPER, BIN, CHEST, HAMPER]
 **Category 3 (Restrictions):** [LIMIT, CURB, TRAFFIC, CHECK]
 **Category 4 (Words with ""BAND""):** [BAND, PEARL, CAP, CIRCLE] 
-"
+","[['NBA', 'BASKET', 'HOOP', 'RING'], ['PAPER', 'BIN', 'CHEST', 'HAMPER'], ['LIMIT', 'CURB', 'TRAFFIC', 'CHECK'], ['BAND', 'PEARL', 'CAP', 'CIRCLE']]",0,2,
 "Here's a breakdown of the categories and my reasoning:
 
 **Reasoning:**
@@ -2172,7 +2173,7 @@ Groupings:
 
 **Category 4: Things You Can Cut with a Tool**
 * [SHARE, MONKEY, TWEEZE, SHAVE] 
-"
+","[['MALL', 'MARKET', 'STORE', 'THREAD'], ['PIECE', 'SOCKET', 'TAKE', 'CUT'], ['ALLEN', 'CRESCENT', 'OUTLET', 'WAX'], ['SHARE', 'MONKEY', 'TWEEZE', 'SHAVE']]",0,1,
 "##  Groupings:
 
 **Category 1: Birds** - All are types of birds.
@@ -2186,7 +2187,7 @@ Groupings:
 
 **Category 4:  Parts of a Saying** - All are parts of well-known sayings.
 [SAY, COTTAGE, NOTORIOUS, ROPE] 
-"
+","[['ROBIN', 'DUCK', 'GOOSE', 'BIRDS'], ['REBECCA', 'HOBBES', 'WATSON', 'ESCAPE'], ['STRING', 'DODGE', 'SKIRT', 'CREAM'], ['SAY', 'COTTAGE', 'NOTORIOUS', 'ROPE']]",0,0,
 "Here's my attempt at solving today's NYT Connections game with the given words:
 
 **Words:** [SIT, DOG, TOE, SNAKE, HORN, JERK, HEEL, STAY, HARP, COME, DOWN, BALL, SOLE, ARCH, BASS, ORGAN]
@@ -2206,7 +2207,7 @@ Groupings:
 **Parts of the Foot:** [TOE, HEEL, SOLE, ARCH]
 **Commands for Animals:** [SIT, STAY, COME, DOWN] 
 **Musical Instrument Association:** [JERK, HARP, BASS, ORGAN] 
-"
+","[['DOG', 'SNAKE', 'HORN', 'BALL'], ['TOE', 'HEEL', 'SOLE', 'ARCH'], ['SIT', 'STAY', 'COME', 'DOWN'], ['JERK', 'HARP', 'BASS', 'ORGAN']]",3,3,
 "## Example 4:
 
 **Words:** ['ISLAND', 'SPROUT', 'BEDROOM', 'JAM', 'KEY', 'STUDY', 'ATOLL', 'STUFF', 'DIP', 'PACK', 'COUNTER', 'DEN', 'KITCHEN', 'BAR', 'BAG', 'CRAM']
@@ -2228,7 +2229,7 @@ Groupings:
 **Category 4: Packing/Stuffing:** These words are all related to the act of putting things into a container or space.
 * **Category 4:** ['STUFF', 'PACK', 'CRAM', 'BAG']
     * **Reason:** 'Stuff' means to fill something to the point of being full. 'Pack' is to put things into a container. 'Cram' is to stuff tightly into a space. 'Bag' is a container often used for packing things. 
-"
+","[['ISLAND', 'ATOLL', 'SPROUT', 'DEN'], ['JAM', 'COUNTER', 'KITCHEN', 'DIP'], ['STUDY', 'KEY', 'BAR', 'BAG'], ['STUFF', 'PACK', 'CRAM', 'BAG']]",0,0,
 "Here's my analysis of the words and the likely categories:
 
 **Category 1:  Drinks** -  The words ""RUM"", ""SODA"", ""LIME"", and ""MINT"" all strongly suggest beverages, making this a straightforward category. 
@@ -2246,7 +2247,7 @@ Drinks: ['RUM', 'SODA', 'LIME', 'MINT']
 Things That Stick: ['GLUE', 'GUM', 'TAPE', 'STICK']
 Sounds: ['HUM', 'SING', 'SCAT', 'WHISTLE']
 Mathematical Terms: ['TOTAL', 'COUNT', 'SUM', 'GROSS'] 
-"
+","[['RUM', 'SODA', 'LIME', 'MINT'], ['GLUE', 'GUM', 'TAPE', 'STICK'], ['HUM', 'SING', 'SCAT', 'WHISTLE'], ['TOTAL', 'COUNT', 'SUM', 'GROSS']]",10,2,
 "Here's the breakdown of the categories and the solution for Example 4:
 
 **Category 1: Settlements** - These words are all types of places where people live, ranging from small villages to large cities. 
@@ -2260,7 +2261,7 @@ Mathematical Terms: ['TOTAL', 'COUNT', 'SUM', 'GROSS']
 **Category 2: Financial Terms** - [EQUITY, INTEREST, STOCK, CAPITAL] 
 **Category 3: Food Preparation** - [GRIND, CHOP, PUREE, PULSE] 
 **Category 4: ""Little"" Compounds** - [LITTLE TOWN, LITTLE COUNTY, LITTLE VILLAGE, LITTLE STOCK] 
-"
+","[['VILLAGE', 'TOWN', 'CITY', 'COUNTY'], ['EQUITY', 'INTEREST', 'STOCK', 'CAPITAL'], ['GRIND', 'CHOP', 'PUREE', 'PULSE'], ['LITTLETOWN', 'LITTLECOUNTY', 'LITTLEVILLAGE', 'LITTLESTOCK']]",6,1,
 "Here's my analysis and solution for Example 4:
 
 **Reasoning:**
@@ -2277,7 +2278,7 @@ Groupings:
 **Category 2: Measurement:** [VOLUME, QUANTITY, AMOUNT, NUMBER]
 **Category 3: Waterways:** [CHANNEL, STRAIT, CANAL, MOW]
 **Category 4: S Sound:** [96, REMOTE, SIS, SOUND] 
-"
+","[['NOON', 'HIDDEN', 'SECRET', 'PRIVATE'], ['VOLUME', 'QUANTITY', 'AMOUNT', 'NUMBER'], ['CHANNEL', 'STRAIT', 'CANAL', 'MOW'], ['96', 'REMOTE', 'SIS', 'SOUND']]",2,2,
 "Here's a breakdown of the categories and the reasoning behind them:
 
 **Category 1: Car Models**
@@ -2308,7 +2309,7 @@ Car Models: [JAGUAR, FIAT, MAXI, MINI]
 Kitchen Utensils: [PAN, ROAST, CHOPPED, SLAM]
 Animals: [CATFISH, MOUSE, RAM, LILY]
 ""Someone who is..."": [BACHELOR, SURVIVOR, ALONE, KNOCK] 
-"
+","[['JAGUAR', 'FIAT', 'MAXI', 'MINI'], ['PAN', 'ROAST', 'CHOPPED', 'SLAM'], ['CATFISH', 'MOUSE', 'RAM', 'LILY'], ['BACHELOR', 'SURVIVOR', 'ALONE', 'KNOCK']]",0,1,
 "##  Example 4: Groupings
 
 **Category 1: Countries** -  This category is straightforward, as all words are the names of countries.
@@ -2323,7 +2324,7 @@ Groupings:
 **Food Pastries:** [TART, PARFAIT, PASTY, TURNOVER]
 **Words associated with ""Bird"":** [BOUQUET, BIRD, PIE, RAPPORT]
 **""T"" words forming a phrase:** [TURKEY,  TART, TURNOVER, JAMES] 
-"
+","[['TUNISIA', 'JORDAN', 'JAPAN', 'POLAND'], ['TART', 'PARFAIT', 'PASTY', 'TURNOVER'], ['BOUQUET', 'BIRD', 'PIE', 'RAPPORT'], ['TURKEY', 'TART', 'TURNOVER', 'JAMES']]",0,1,
 "Here's my analysis of the words and the proposed groupings:
 
 **Word Analysis:**
@@ -2347,7 +2348,7 @@ Groupings:
 **Category 2: Geographical Features:** [GORGE, GULCH, CANYON, RAVINE]
 **Category 3: Creature/Mythological:** [WOLF, CRAVEN, COWL, SCARF] 
 **Category 4: Things Found in a Fairy Tale:** [MIRROR, PASS, GULP, BASHFUL] 
-"
+","[['CHEN', 'CLARK', 'QUEEN', 'APPLE'], ['GORGE', 'GULCH', 'CANYON', 'RAVINE'], ['WOLF', 'CRAVEN', 'COWL', 'SCARF'], ['MIRROR', 'PASS', 'GULP', 'BASHFUL']]",0,0,
 "Here's the breakdown of the categories and the solution for Example 4:
 
 **Category 1: Parts of a Vampire**
@@ -2373,7 +2374,7 @@ Groupings:
 **Fashionable Terms:** [CHIC, VOGUE, HIP, IN]
 **Things that Clean:** [STRAW, VACUUM, FLOSS, WORM]
 **Prefix ""In-"":** [ROBOT, MOLAR, VAMPIRE, HOT] 
-"
+","[['FANG', 'CANINE', 'LEECH', 'TUSK'], ['CHIC', 'VOGUE', 'HIP', 'IN'], ['STRAW', 'VACUUM', 'FLOSS', 'WORM'], ['ROBOT', 'MOLAR', 'VAMPIRE', 'HOT']]",0,1,
 "## Example 4 Analysis:
 
 **Category 1:  Primates**
@@ -2404,7 +2405,7 @@ Groupings:
 **Fruit:** [TAMARIND, TOMATO, MANGO, LAMA]
 **Red-related:** [CARDINAL, TOMATO, MIRROR, MIME]
 **Religious figures/roles:** [MONK, PASTOR, LAMA, APE] 
-"
+","[['BONOBO', 'GIBBON', 'GORILLA', 'BABOON'], ['TAMARIND', 'TOMATO', 'MANGO', 'LAMA'], ['CARDINAL', 'TOMATO', 'MIRROR', 'MIME'], ['MONK', 'PASTOR', 'LAMA', 'APE']]",2,2,
 "Here's my attempt at solving the Connections game with the given words:
 
 **Reasoning:**
@@ -2422,7 +2423,7 @@ Groupings:
 **Category 2: Walking:** [MARCH, TREAD, STEP, STRIDE]
 **Category 3: Months:** [GROUNDHOG, NOBLE, AUGUST, MAY]
 **Category 4: Adjectival Scale:** [LABOR, EARTH, GRAND, REGAL] 
-"
+","[['DAWN', 'BIRTH', 'START', 'CREATION'], ['MARCH', 'TREAD', 'STEP', 'STRIDE'], ['GROUNDHOG', 'NOBLE', 'AUGUST', 'MAY'], ['LABOR', 'EARTH', 'GRAND', 'REGAL']]",4,1,
 "## Example 4: 
 
 Words: [PIQUE, GLIMPSE, GLANCE, GANDER, LEDGE, PEEK, PEKE, PEAK, RIDGE, CHARADE, BLUFF, CRAG, CLIFF, ACT, LOOK, FRONT]
@@ -2461,7 +2462,7 @@ Words: [PIQUE, GLIMPSE, GLANCE, GANDER, LEDGE, PEEK, PEKE, PEAK, RIDGE, CHARADE,
 **High Points:** [LEDGE, PEAK, RIDGE, CRAG]
 **Pretenses:** [CHARADE, BLUFF, ACT, FRONT]
 **Dog Breeds with a Canine Prefix:** [PEKE, PEAK, PIQUE, CLIFF] 
-"
+","[['GLIMPSE', 'GLANCE', 'GANDER', 'PEEK'], ['LEDGE', 'PEAK', 'RIDGE', 'CRAG'], ['CHARADE', 'BLUFF', 'ACT', 'FRONT'], ['PEKE', 'PEAK', 'PIQUE', 'CLIFF']]",2,2,
 "Here's a breakdown of the categories and the reasoning behind them, followed by the final answer:
 
 **Reasoning:**
@@ -2482,7 +2483,7 @@ Groupings:
 **Category 2 (Greetings):** [CHEERS, THANKS, BEST, REGARDS]
 **Category 3 (Body Movements):** [SQUATS, DIPS, LUNGES, PLANKS]
 **Category 4 (Compound Words with 'S'):** [WARREN, BANKS, MOSS, TAYLOR] 
-"
+","[['NATS', 'YANKS', 'JAYS', 'CARDS'], ['CHEERS', 'THANKS', 'BEST', 'REGARDS'], ['SQUATS', 'DIPS', 'LUNGES', 'PLANKS'], ['WARREN', 'BANKS', 'MOSS', 'TAYLOR']]",10,3,
 "Here's the breakdown of the categories and the solution to Example 4:
 
 **Category 1: North American Animals** 
@@ -2504,7 +2505,7 @@ Groupings:
 **Category2: Words that can precede ""Lead"":** [DIRECT, GUIDE, WHITE, STEER]
 **Category3:  Words that Mean ""Rot"":** [NONSENSE, HOGWASH, ROT, BULL] 
 **Category4:  Words used as Insults:** [LAKE, FISH, DANE, LEAD] 
-"
+","[['MOOSE', 'DEER', 'BUFFALO', 'SEAL'], ['DIRECT', 'GUIDE', 'WHITE', 'STEER'], ['NONSENSE', 'HOGWASH', 'ROT', 'BULL'], ['LAKE', 'FISH', 'DANE', 'LEAD']]",1,0,
 "Here's a breakdown of the categories and the reasoning behind them:
 
 **Category 1: Interjections of Disgust**
@@ -2531,7 +2532,7 @@ Category 1: Interjections of Disgust: [ICK, UGH, EW, WEE]
 Category 2: Shortened Forms of Greetings: [JA, OUI, HAI, SI]
 Category 3: Letters in the Word ""WOW"": [W, PU, WE, WII]
 Category 4: Two-Letter Words with a Vowel Followed by a Consonant: [O, OK, US, DA] 
-"
+","[['ICK', 'UGH', 'EW', 'WEE'], ['JA', 'OUI', 'HAI', 'SI'], ['W', 'PU', 'WE', 'WII'], ['O', 'OK', 'US', 'DA']]",0,1,
 "##  Groupings:
 
 **Category 1: Basic Emotions** 
@@ -2549,7 +2550,7 @@ Category 4: Two-Letter Words with a Vowel Followed by a Consonant: [O, OK, US, D
 **Category 4:  ""The ___ of Eden""**
 * **Reason:**  This is a fill-in-the-blank phrase, and these words complete the phrase ""The ___ of Eden"" (e.g., ""The Fall of Eden"", ""The Garden of Eden"").
 * **Words:** [ADAM, FIRE, CARPENTER, PRESTO] 
-"
+","[['RED', 'ANGER', 'FEAR', 'HAPPINESS'], ['SURPRISE', 'TADA', 'BEHOLD', 'VOILA'], ['GET', 'WIN', 'LAND', 'SECURE'], ['ADAM', 'FIRE', 'CARPENTER', 'PRESTO']]",3,3,
 "Here's a breakdown of the categories and my solution to Example 4:
 
 **Category 1: Parts of a Book**
@@ -2579,7 +2580,7 @@ Category1: ['WORD', 'LETTER', 'PARAGRAPH', 'SENTENCE']
 Category2: ['TEA', 'CARD', 'TREE', 'TABLE']
 Category3: ['TRAIT', 'FEATURE', 'BOOK', 'CLOWN']
 Category4: ['JOKER', 'HALLMARK', 'STAMP', 'CUTUP'] 
-"
+","[['WORD', 'LETTER', 'PARAGRAPH', 'SENTENCE'], ['TEA', 'CARD', 'TREE', 'TABLE'], ['TRAIT', 'FEATURE', 'BOOK', 'CLOWN'], ['JOKER', 'HALLMARK', 'STAMP', 'CUTUP']]",1,0,
 "## Example 4:
 
 **Words:** [SCOUT, HONDA, BMW, AUTO, COACH, GRANT, SEMI, LINCOLN, JAGUAR, FORD, SUB, POST, GM, WILSON, PLAYER, SUBARU]
@@ -2608,7 +2609,7 @@ Category4: ['JOKER', 'HALLMARK', 'STAMP', 'CUTUP']
 - **GRANT** fits into this pattern as ""G"" can be considered a prefix for a word starting with ""Grant.""
 
 It's worth noting that ""Post"" itself doesn't have any obvious connection to the other words in this category, which makes it a slightly tricky grouping. 
-"
+","[['HONDA', 'BMW', 'LINCOLN', 'JAGUAR'], ['SCOUT', 'COACH', 'PLAYER', 'WILSON'], ['AUTO', 'SEMI', 'SUB', 'FORD'], ['GRANT', 'POST', 'GM', 'SUBARU']]",0,3,
 "## Example 4: Word Analysis & Category Breakdown
 
 Here's the breakdown of the categories and why I chose them:
@@ -2625,7 +2626,7 @@ Groupings:
 **Category 2: Thin/Short:** [THIN, DOLLY, SHORT, GRIP]
 **Category 3: Movie Titles:** [LIGHT, BOOM, LIFE, BLAST]
 **Category 4: Prefix ""Out""** [LENS, TRIPOD, RIOT, CLUE] 
-"
+","[['BALL', 'SPARE', 'KICK', 'ROOM'], ['THIN', 'DOLLY', 'SHORT', 'GRIP'], ['LIGHT', 'BOOM', 'LIFE', 'BLAST'], ['LENS', 'TRIPOD', 'RIOT', 'CLUE']]",0,1,
 "Here's my solution to the provided word list:
 
 **Reasoning:**
@@ -2642,7 +2643,7 @@ Groupings:
 **Category 2:  Spices:** [ANISE, NUTMEG, DILL, OLD SPICE]
 **Category 3: Weapons:** [MACE, AXE, SWORD, SPEAR]
 **Category 4: ""Old"" Phrases:** [SECRET, SHARP, CLUB, DEGREE] 
-"
+","[['BRIGHT', 'SMART', 'SAGE', 'QUICK'], ['ANISE', 'NUTMEG', 'DILL', 'OLDSPICE'], ['MACE', 'AXE', 'SWORD', 'SPEAR'], ['SECRET', 'SHARP', 'CLUB', 'DEGREE']]",0,3,
 "Here are the categories and explanations for the provided word list:
 
 **Category 1: Email Actions**
@@ -2668,7 +2669,7 @@ Groupings:
 **Things that are ""Up"":** [FRESH AIR, PROP, EXERCISE, UP FIRST]
 **Things associated with the start of something:** [SERIAL, DIET, SKETCH, BLACK]
 **Abbreviated Expressions:** [WTF, RADIOLAB, SLEEP, DIVINE] 
-"
+","[['REPLYALL', 'FORWARD', 'SEND', 'COMPOSE'], ['FRESHAIR', 'PROP', 'EXERCISE', 'UPFIRST'], ['SERIAL', 'DIET', 'SKETCH', 'BLACK'], ['WTF', 'RADIOLAB', 'SLEEP', 'DIVINE']]",0,1,
 "## Example 4:
 
 Words: [BREEZE, WEDGE, SUNSCREEN, SHOESTRING, MULE, TOWEL, SEE-SAW, UMBRELLA, RUSSIAN, WAFFLE, HEDGE, CURLY, MARY, FLIP-FLOP, WAVER, YO-YO] 
@@ -2706,7 +2707,7 @@ Groupings:
 **Things that come in pairs:** [MULE, SEE-SAW, FLIP-FLOP, YO-YO]
 **Things related to a specific country/region:** [RUSSIAN, WAFFLE, MARY, CURLY]
 **Things that are unstable or prone to change:** [BREEZE, SHOESTRING, TOWEL, WAVER] 
-"
+","[['WEDGE', 'SUNSCREEN', 'HEDGE', 'UMBRELLA'], ['MULE', 'SEE-SAW', 'FLIP-FLOP', 'YO-YO'], ['RUSSIAN', 'WAFFLE', 'MARY', 'CURLY'], ['BREEZE', 'SHOESTRING', 'TOWEL', 'WAVER']]",0,0,
 "## Groupings:
 
 **Category1: Sounds:** [CHIME, RING, DING, PING] - All these words are commonly used to describe sounds, especially those that are metallic and repetitive.
@@ -2718,7 +2719,7 @@ Groupings:
 **Category4:  Edge Verbs:** [EDGE, SURFACE, SING, BING] - These words can all be used as verbs related to the concept of reaching a limit or boundary. For example, ""to edge out"" or ""to surface"" imply reaching a new point. ""To sing"" can mean to ""reach a high note"" and ""to bing"" is an archaic word for ""to thrust.""
 
 Let me know if you want to try another example! 
-"
+","[['CHIME', 'RING', 'DING', 'PING'], ['RAT', 'SNITCH', 'SQUEAL', 'WING'], ['FACTION', 'DIVISION', 'CAMP', 'WORD'], ['EDGE', 'SURFACE', 'SING', 'BING']]",1,3,
 "Here are the groupings for the given words, along with explanations for each category:
 
 **Groupings:**
@@ -2752,7 +2753,7 @@ Let me know if you want to try another example!
     * **BOND** - A strong, desired connection between people. (Bond is also a famous spy, and spies often have a wish list.)
 
 Let me know if you'd like to play another round of the NYT Connections game! 
-"
+",[],0,1,
 "##  Groupings:
 
 **Category 1: Parts of a Compass:** [QUADRANT, SPIN, LEVEL, STEADY] 
@@ -2768,7 +2769,7 @@ Let me know if you'd like to play another round of the NYT Connections game!
 * **Reasoning:**  These words are associated with things that can be rolled or are in a state of rolling, such as spit, a rolling stone, a rolled up uniform, and a stable (a horse-keeping building).  
 
 **Please Note:** I have attempted to follow the rules of the game and provided four distinct categories with four words each. 
-"
+","[['QUADRANT', 'SPIN', 'LEVEL', 'STEADY'], ['LANCE', 'PIN', 'PITCHFORK', 'SKEWER'], ['EVEN', 'TRILOGY', 'BICYCLE', 'BILLBOARD'], ['SPIT', 'ROLLINGSTONE', 'UNIFORM', 'STABLE']]",0,1,
 "##  Groupings:
 
 **Category 1: Tools** - All these words refer to objects used for a specific purpose.
@@ -2782,7 +2783,7 @@ Let me know if you'd like to play another round of the NYT Connections game!
 
 **Category 4:  Compound words ending in ""stick""** -  These words are all compound words that end with the word ""stick"". 
 * [CANDLESTICK, CIGARETTE, STUDY, ROPE] 
-"
+","[['WRENCH', 'DRILL', 'KNIFE', 'PIPE'], ['BIKE', 'TRAIN', 'HOSE', 'STRAW'], ['SPORTS', 'PRACTICE', 'TICKET', 'TUBE'], ['CANDLESTICK', 'CIGARETTE', 'STUDY', 'ROPE']]",0,0,
 "Here's a possible solution to the Connections puzzle, along with explanations:
 
 **Groupings:**
@@ -2811,7 +2812,7 @@ Let me know if you'd like to play another round of the NYT Connections game!
 * **Category 4:**  Compound words combine two separate words.  While not all the words in this category are common, they all have this structure.
 
 Let me know if you'd like to try another puzzle! 
-"
+","[['WHY', 'YET', 'HOWEVER', 'STILL'], ['SEE', 'HEAR', 'FLUSH', 'KNOCK'], ['WE', 'YOU', 'THERE', 'ARE'], ['FAMILY', 'TUT', 'JELLY', 'THOUGH']]",0,0,
 "## Example 4 Solution:
 
 **Groupings:**
@@ -2834,7 +2835,7 @@ Category1: [DATA, INFO, INTEL, COMPUTER]
 Category2: [LIGHT, KINDLE, TORCH, REACTOR]
 Category3: [APPLE, PLANET, GLEN, VALLEY]
 Category4: [BURN, DELL, HOLLOW, NEWS] 
-"
+","[['DATA', 'INFO', 'INTEL', 'COMPUTER'], ['LIGHT', 'KINDLE', 'TORCH', 'REACTOR'], ['APPLE', 'PLANET', 'GLEN', 'VALLEY'], ['BURN', 'DELL', 'HOLLOW', 'NEWS']]",0,0,
 "Here are the groupings for the given words, along with explanations:
 
 **Category 1: Sewing Terms**
@@ -2868,7 +2869,7 @@ Groupings:
 **Sounds of Hesitation:** [ERM, UH, UM, ER]
 **Words Related to the TV Show ""Scrubs"":** [SCRUBS, RATCHED, FOLLOW, HOUSE]
 **Prefix ""Sub"" Compound Words:** [SUBSCRIBE, WELL, SHARE, LIKE] 
-"
+","[['HEM', 'SEAM', 'SEW', 'DARN'], ['ERM', 'UH', 'UM', 'ER'], ['SCRUBS', 'RATCHED', 'FOLLOW', 'HOUSE'], ['SUBSCRIBE', 'WELL', 'SHARE', 'LIKE']]",2,2,
 "Here's a breakdown of the categories and the groupings for the given words:
 
 **Reasoning:**
@@ -2891,7 +2892,7 @@ Groupings:
 
 **Category 4: Compound words**
 * [LIFE, DUST, CHICKEN, SPORTS] 
-"
+","[['TULIP', 'ROSE', 'VIOLET', 'DAISY'], ['CARPENTER', 'BARN', 'TRACTOR', 'FARMER'], ['YELLOW', 'WAN', 'CRAVEN', 'ASTER'], ['LIFE', 'DUST', 'CHICKEN', 'SPORTS']]",1,2,
 "Here's the breakdown of the categories and the final answer for Example 4:
 
 **Reasoning:**
@@ -2908,7 +2909,7 @@ Category 1: [WINK, FEATHER, BEAK, TALON]
 Category 2: [SECOND, SEASON, FLASH, HEARTBEAT]
 Category 3: [PANIC, HOT, WIND, SNOOZE]
 Category 4: [BELLY, BAMBOO, WING, DRAGON] 
-"
+","[['WINK', 'FEATHER', 'BEAK', 'TALON'], ['SECOND', 'SEASON', 'FLASH', 'HEARTBEAT'], ['PANIC', 'HOT', 'WIND', 'SNOOZE'], ['BELLY', 'BAMBOO', 'WING', 'DRAGON']]",0,1,
 "## Groupings:
 
 **Category 1: Ways to Express Worry** 
@@ -2926,7 +2927,7 @@ Category 4: [BELLY, BAMBOO, WING, DRAGON]
 **Category 4: Words with a Common Prefix** 
 - This category identifies words that share a common prefix, in this case ""J"".
 - **[JUMBLE, MEDLEY, HATCH, CLUTCH]** 
-"
+","[['FRET', 'BROOD', 'STEW', 'HASH'], ['CHALLENGE', 'OPPOSE', 'CONFRONT', 'BRIDGE'], ['BODY', 'NECK', 'FACE', 'LITTER'], ['JUMBLE', 'MEDLEY', 'HATCH', 'CLUTCH']]",0,1,
 "## Example 4 Analysis:
 
 **Category 1: Synonyms** 
@@ -2952,7 +2953,7 @@ Groupings:
 **Senses:** [LOOK, TOUCH, SMELL, SIGHT]
 **Nouns Ending in ""E"":** [HARVEST, SAILOR, DRESS, STYLE]
 **Fill-in-the-Blank Phrases:** [NEW, MANNER, TASTE, BLUE] 
-"
+","[['SAME', 'DITTO', 'LIKEWISE', 'SECOND'], ['LOOK', 'TOUCH', 'SMELL', 'SIGHT'], ['HARVEST', 'SAILOR', 'DRESS', 'STYLE'], ['NEW', 'MANNER', 'TASTE', 'BLUE']]",3,2,
 "Here's my attempt at solving today's NYT Connections game with the provided words:
 
 **Explanation of Categories:**
@@ -2978,7 +2979,7 @@ Groupings:
 * **Brass:** A musical instrument often associated with ""brass bands."" 
 
 Let me know if you agree with my solution or have any suggestions!  
-"
+","[['COPPER', 'GOLD', 'NICKEL', 'SILVER'], ['CHEEK', 'NERVE', 'GALL', 'ELEPHANTS'], ['SPARKS', 'TREES', 'SKY', 'CARS'], ['MERCURY', 'LIBERTY', 'SWIMMERS', 'BRASS']]",2,1,
 "## Example 4: Analysis and Solution
 
 **Category 1: Verbs Related to Increase** 
@@ -3021,7 +3022,7 @@ Let me know if you agree with my solution or have any suggestions!
 
 **Category 4:  Compound words with ""Pearl"" as the Second Part**
 * [PEARL, MARBLE, GLOBE] 
-"
+","[['BUILD', 'GROW', 'SWELL', 'MOUNT'], ['ACES', 'KEEN', 'NEATO', 'NIFTY'], ['FOAM', 'LATHER', 'FROTH', 'BUBBLE'], ['PEARL', 'MARBLE', 'GLOBE']]",3,3,
 "Here's a breakdown of the categories and the groupings for Example 4:
 
 **Reasoning:**
@@ -3038,7 +3039,7 @@ Groupings:
 **Exclamations:** [HEAVENS, LORD, GOODNESS, MERCY]
 **Music:** [DRUMMER, RING, SWAN, CORN]
 **Compound Words:** [GOODNESS, PERFECT, SIMPLE, MAPLE (as in ""good maple syrup"")] 
-"
+","[['PRESENT', 'PAST', 'FUTURE', 'LADY(asin""theladyofthehour"")'], ['HEAVENS', 'LORD', 'GOODNESS', 'MERCY'], ['DRUMMER', 'RING', 'SWAN', 'CORN'], ['GOODNESS', 'PERFECT', 'SIMPLE', 'MAPLE(asin""goodmaplesyrup"")']]",2,1,
 "Here's the breakdown and solution for the given words:
 
 **Words:** [NOOK, NICHE, BACKPACK, MODEL, CLASSIC, SCHOOL, CRANNY, RECESS, PRIDE, DEFINITIVE, TEXTBOOK, DOWNTOWN, RAGTAG, HERD, COLONY, BIGWIG]
@@ -3057,7 +3058,7 @@ Groupings:
 **Category 2 (School-related):** [CLASSIC, SCHOOL, TEXTBOOK, RECESS]
 **Category 3 (Groups):** [PRIDE, HERD, COLONY, RAGTAG] 
 **Category 4 (Prefix ""Re-""):** [DEFINITIVE, MODEL, DOWNTOWN, BIGWIG] 
-"
+","[['NOOK', 'NICHE', 'CRANNY', 'BACKPACK'], ['CLASSIC', 'SCHOOL', 'TEXTBOOK', 'RECESS'], ['PRIDE', 'HERD', 'COLONY', 'RAGTAG'], ['DEFINITIVE', 'MODEL', 'DOWNTOWN', 'BIGWIG']]",0,1,
 "Here are the groupings for Example 4:
 
 **Category 1:  Things that can be described as ""sparkling""** 
@@ -3091,7 +3092,7 @@ Category1: [SELTZER, SPARK, VIBRATE, RING]
 Category2: [CONNECTION, SPUR, MOTIVATE, INSPIRE]
 Category3: [VIBE, FEELINGS, KNOCKS, SILENT]
 Category4: [COPY, DRIVE, FOCUS, CANDY] 
-"
+","[['SELTZER', 'SPARK', 'VIBRATE', 'RING'], ['CONNECTION', 'SPUR', 'MOTIVATE', 'INSPIRE'], ['VIBE', 'FEELINGS', 'KNOCKS', 'SILENT'], ['COPY', 'DRIVE', 'FOCUS', 'CANDY']]",0,1,
 "##  Groupings:
 
 **Category1: Food Preparation Methods:** [SCRAPE, JAM, CHILL, BIND] 
@@ -3105,7 +3106,7 @@ Category4: [COPY, DRIVE, FOCUS, CANDY]
 
 **Category4:  Places to Relax:** [HANG, LOUNGE, TRIFLE, SPOT]
 -  These words suggest places or activities associated with relaxing: hanging out, lounging in a comfortable place, a trifle (a light dessert often served at a gathering), and a spot (a place to chill or relax). 
-"
+","[['SCRAPE', 'JAM', 'CHILL', 'BIND'], ['PICKLE', 'ROAST', 'SCONE', 'LOAF'], ['GROOVE', 'BOP', 'BANGER', 'SPOT'], ['HANG', 'LOUNGE', 'TRIFLE', 'SPOT']]",0,0,
 "Here's a possible solution for the given word list:
 
 **Reasoning:**
@@ -3122,7 +3123,7 @@ Groupings:
 **Kitchen Items:** [SAUCER, DISH, CUP, BOWL] 
 **Detection:** [LASER, SCUBA, RADAR, WIRE]
 **Negative Person:** [CROCK, HOOK, STRAP, PLATE] 
-"
+","[['SPAM', 'BALONEY', 'TRIPE', 'BUNK'], ['SAUCER', 'DISH', 'CUP', 'BOWL'], ['LASER', 'SCUBA', 'RADAR', 'WIRE'], ['CROCK', 'HOOK', 'STRAP', 'PLATE']]",0,1,
 "Here are the groupings for the words provided:
 
 **Category 1: Animal Homes** 
@@ -3158,7 +3159,7 @@ Category 1: [WARREN, LAIR, NEST, HIVE]
 Category 2: [EVEN, JUST, EQUAL, GOOD]
 Category 3: [WEB, NET, CLOUD, METAVERSE]
 Category 4: [NOTHING, FAIR, IMPOSSIBLE, DEN] 
-"
+","[['WARREN', 'LAIR', 'NEST', 'HIVE'], ['EVEN', 'JUST', 'EQUAL', 'GOOD'], ['WEB', 'NET', 'CLOUD', 'METAVERSE'], ['NOTHING', 'FAIR', 'IMPOSSIBLE', 'DEN']]",2,2,
 "Here's my analysis and solution for the Example 4 words:
 
 **Reasoning:**
@@ -3175,7 +3176,7 @@ Groupings:
 **Category 2 (Making or Creating):** ['FABRICATE', 'FORGE', 'FASHION', 'FIX']
 **Category 3 (Expressions or Exclamations):** ['FUDGE', 'FIDDLESTICKS', 'FRICK', 'FIE']
 **Category 4 (Movement or Direction):** ['FLIPPER', 'FORWARD', 'FIREFLY', 'FLEABAG'] 
-"
+","[['FRIENDS', 'FARGO', 'FAKE', 'FOOD'], ['FABRICATE', 'FORGE', 'FASHION', 'FIX'], ['FUDGE', 'FIDDLESTICKS', 'FRICK', 'FIE'], ['FLIPPER', 'FORWARD', 'FIREFLY', 'FLEABAG']]",2,0,
 "## Example 4:
 
 **Words:** ['GUST', 'PANT', 'BREEZE', 'ZIP', 'DRAFT', 'PUFF', 'KICK', 'SNOOZE', 'DRAG', 'BITE', 'BORE', 'TONG', 'GOGGLE', 'YAWN', 'BOXER', 'TANG']
@@ -3195,7 +3196,7 @@ Groupings:
 **Category 2: Forceful Impact** ['KICK', 'BITE', 'BORE', 'DRAG']
 **Category 3: Breathing/Air Intake** ['PANT', 'PUFF', 'SNOOZE', 'YAWN']
 **Category 4: Sharp/Distinct Flavor** ['TONG', 'GOGGLE', 'BOXER', 'TANG'] 
-"
+","[['GUST', 'ZIP', 'DRAFT', 'BREEZE'], ['KICK', 'BITE', 'BORE', 'DRAG'], ['PANT', 'PUFF', 'SNOOZE', 'YAWN'], ['TONG', 'GOGGLE', 'BOXER', 'TANG']]",0,1,
 "Here are the groupings and explanations for the provided list of words:
 
 **Category 1: Fruits** 
@@ -3224,7 +3225,7 @@ Fruits: [LEMON, RASPBERRY, CANDY, BOMB]
 Negative Reactions: [JEER, BOO, HISS, JILT]
 Things that Can Be ""Flopped"" or ""Dropped"": [STAR, FLOP, BOTTOM,  DUD]
 Ghost Prefixes/Suffixes: [DESERT, GARDEN, IGNORE,  GHOST] 
-"
+","[['LEMON', 'RASPBERRY', 'CANDY', 'BOMB'], ['JEER', 'BOO', 'HISS', 'JILT'], ['STAR', 'FLOP', 'BOTTOM', 'DUD'], ['DESERT', 'GARDEN', 'IGNORE', 'GHOST']]",0,0,
 "Here's a breakdown of the categories and the solution to Example 4:
 
 **Reasoning:**
@@ -3248,7 +3249,7 @@ Groupings:
 * **Lip:**  A literal lip, and also a part of a phrase like ""read my lips"" or ""a thin lip.""
 * **Wednesday:**  A day of the week (Category 1), but also has a ""lip"" sound.
 * **Saturday:**  A day of the week (Category 1), but also sounds like ""saturate"" which can be associated with being ""full to the lip"" or ""lip full"". 
-"
+","[['SUNDAY', 'TUESDAY', 'THURSDAY', 'FRIDAY'], ['ROT', 'FESTER', 'SPOIL', 'SOUR'], ['LURCH', 'TURN', 'CHANCE', 'LIP'], ['THING', 'LIP', 'WEDNESDAY', 'SATURDAY']]",0,2,
 "## Example 4:
 Words: [FILE, COPY, LEVEL, SAVE, JERK, WRENCH, SAW, BEETHOVEN, BABE, PRINT, YANK, WILLY, TUG, CHARLOTTE, FIND, HAMMER]
 
@@ -3267,7 +3268,7 @@ Groupings:
 **Category2:** [JERK, WRENCH, YANK, TUG] ** (Jerk something, Wrench something, Yank something, Tug something)**
 **Category3:** [BEETHOVEN, BABE, CHARLOTTE, WILLY] **(Ludwig van Beethoven, Babe Ruth, Charlotte Bronte, Willy Wonka)**
 **Category4:** [SAW, PRINT, FIND, HAMMER] ** (Saw, Print a document, Find, Hammer something)** 
-"
+","[['FILE', 'COPY', 'LEVEL', 'SAVE'], ['JERK', 'WRENCH', 'YANK', 'TUG'], ['BEETHOVEN', 'BABE', 'CHARLOTTE', 'WILLY'], ['SAW', 'PRINT', 'FIND', 'HAMMER']]",6,0,
 "## Example 4:  
 
 **Words:** [LOOT, JOINT, CORD, SEAT, SWAG, BOTTOM, BOOTY, DIGS, PAD, TAIL, SPOILS, HANDSET, DIAL, BUNS, CRIB, CRADLE]
@@ -3305,7 +3306,7 @@ Category1: [LOOT, SWAG, BOOTY, SPOILS]
 Category2: [CORD, HANDSET, DIAL, TAIL]
 Category3: [DIGS, PAD, CRIB, CRADLE]
 Category4: [JOINT, SEAT, BOTTOM, BUNS] 
-"
+","[['LOOT', 'SWAG', 'BOOTY', 'SPOILS'], ['CORD', 'HANDSET', 'DIAL', 'TAIL'], ['DIGS', 'PAD', 'CRIB', 'CRADLE'], ['JOINT', 'SEAT', 'BOTTOM', 'BUNS']]",4,3,
 "## Example 4: 
 
 Words: [STALLION, LAGOS, PINTO, LIMA, LUXOR, LINCOLN, FAVA, METER, DUDE, VERSE, RHYME, KIDNEY, CREATOR, LINE, RAPPER, LIMERICK]
@@ -3323,7 +3324,7 @@ Words: [STALLION, LAGOS, PINTO, LIMA, LUXOR, LINCOLN, FAVA, METER, DUDE, VERSE, 
 **Category 2: Horses:** [STALLION, PINTO, METER, LINE]
 **Category 3: Poetry:** [VERSE, RHYME, LIMERICK, RAPPER]
 **Category 4: Beans:** [FAVA, KIDNEY, CREATOR, DUDE] 
-"
+","[['LAGOS', 'LIMA', 'LUXOR', 'LINCOLN'], ['STALLION', 'PINTO', 'METER', 'LINE'], ['VERSE', 'RHYME', 'LIMERICK', 'RAPPER'], ['FAVA', 'KIDNEY', 'CREATOR', 'DUDE']]",0,3,
 "Here's my analysis of the words and my proposed solution:
 
 **Reasoning:**
@@ -3340,7 +3341,7 @@ Groupings:
 **Covering:** [COVER, HIDE, MASK, BLOCK]
 **Body Parts:** [HAND, NOSE, FAUCET, STRAP]
 **Catching:** [LASSO, DIAL, CANDIDATE, MASCARA] 
-"
+","[['CROWN', 'TIARA', 'SHIELD', 'SWORD'], ['COVER', 'HIDE', 'MASK', 'BLOCK'], ['HAND', 'NOSE', 'FAUCET', 'STRAP'], ['LASSO', 'DIAL', 'CANDIDATE', 'MASCARA']]",1,1,
 "Here are the groupings for Example 4, along with the reasoning behind each category:
 
 **Reasoning:**
@@ -3357,7 +3358,7 @@ Groupings:
 **Category 2:  Things to Trim:**  [CUT, LEAD, WAX, SCRAP]
 **Category 3:  Parts of a Film Set:**  [LIGHTS, CAMERA, ACTION, HEAD]
 **Category 4:  Fill-in-the-Blank Phrases:**  [TOP, BUTCHER, TOILET, PRIME] 
-"
+","[['CAN', 'MIGHT', 'COULD', 'MAY'], ['CUT', 'LEAD', 'WAX', 'SCRAP'], ['LIGHTS', 'CAMERA', 'ACTION', 'HEAD'], ['TOP', 'BUTCHER', 'TOILET', 'PRIME']]",2,0,
 "Here are the groupings for the words provided in Example 4, along with explanations for each category:
 
 **Category 1: Biblical References**
@@ -3391,7 +3392,7 @@ Category 1: Biblical References: [GENESIS, KINGS, ACTS, FLAMES]
 Category 2:  Things that grow/begin: [GERM, SEED, PLANT, SOURCE]
 Category 3:  Things associated with sleep: [NAP, RANGER, KRAKEN, STARS]
 Category 4:  Word + ""ing"" makes a verb: [JOB, WILD, TRIP, MARK] 
-"
+","[['GENESIS', 'KINGS', 'ACTS', 'FLAMES'], ['GERM', 'SEED', 'PLANT', 'SOURCE'], ['NAP', 'RANGER', 'KRAKEN', 'STARS'], ['JOB', 'WILD', 'TRIP', 'MARK']]",0,1,
 "Here are the groupings for the given words, with explanations for each category:
 
 **Groupings:**
@@ -3407,7 +3408,7 @@ Category 4:  Word + ""ing"" makes a verb: [JOB, WILD, TRIP, MARK]
 
 **Category 4:  Things with a ""Crown"" or ""Head"":** - These words all relate to having a crown or head:
 * [REFEREE,  NUMBER, CROWN, KETTLE]  (A referee wears a crown, a number has a head, a crown is a headpiece, and a kettle has a head) 
-"
+","[['CUCUMBER', 'CORN', 'MELON', 'TOMATO'], ['TRACK', 'TRAIN', 'DOME', 'SINGLE'], ['BIRD', 'CUT', 'NOODLE', 'PEPPER'], ['REFEREE', 'NUMBER', 'CROWN', 'KETTLE']]",0,0,
 "Here are the groupings for the given words, along with explanations for each category:
 
 **Category 1: Events** - These words all refer to specific events or occasions. 
@@ -3441,7 +3442,7 @@ Category1: Events: [ANNIVERSARY, BIRTHDAY, WEDDING, SHOWER]
 Category2: Parts of a Building: [BATH, BARS, ROCK, SERVICE]
 Category3: Something that can be ""met"": [SANDWICH, SIGNAL, RECEPTION, DERBY]
 Category4: Compound Words with ""COM"": [COMIC, READING, SERVICE, SOAP]
-"
+","[['ANNIVERSARY', 'BIRTHDAY', 'WEDDING', 'SHOWER'], ['BATH', 'BARS', 'ROCK', 'SERVICE'], ['SANDWICH', 'SIGNAL', 'RECEPTION', 'DERBY'], ['COMIC', 'READING', 'SERVICE', 'SOAP']]",1,1,
 "Here's my breakdown of the words and the categories:
 
 **Reasoning:**
@@ -3458,7 +3459,7 @@ Groupings:
 **Category 2: Common Male Names:** [DARREN, WILL, AARON, DREW]
 **Category 3: Geographical Features:** [BROOK, SAVANNA, CLIFF, DALE]
 **Category 4: Potential Character Names:** [NATAN, MAY, ROSE, OTTO] 
-"
+","[['KAREN', 'HANNAH', 'EVE', 'SHARON'], ['DARREN', 'WILL', 'AARON', 'DREW'], ['BROOK', 'SAVANNA', 'CLIFF', 'DALE'], ['NATAN', 'MAY', 'ROSE', 'OTTO']]",2,1,
 "##  Example 4:
 
 **Words:** [GOTHIC, PETER, BIRD, DECO, NANA, WENDY, DADA, POP, GAGA, HOOK, MACBETH, LUCK, LOL, HAHA, ROFL, DEAD]
@@ -3472,7 +3473,7 @@ Groupings:
 **Category 3:  Shakespearean Characters:**  [PETER, MACBETH, HOOK, GAGA] -  These words are the first names of characters in famous Shakespearean plays (""Romeo and Juliet"", ""Macbeth"", ""Peter Pan"", ""The Comedy of Errors"" which features the character ""Gaga""). 
 
 **Category 4:  Art Movements:**  [GOTHIC, DECO, BIRD, LUCK]  - These words refer to different art movements: Gothic Architecture, Art Deco, Bird's Head Style (a type of ancient Egyptian art), and Luck (a 20th-century American art movement focused on random chance). 
-"
+","[['NANA', 'WENDY', 'DADA', 'POP'], ['LOL', 'HAHA', 'ROFL', 'DEAD'], ['PETER', 'MACBETH', 'HOOK', 'GAGA'], ['GOTHIC', 'DECO', 'BIRD', 'LUCK']]",1,1,
 "Here are the groupings for the words provided:
 
 **Category 1: Units of Measurement** - These words are all units of measurement, often used for volume or weight.
@@ -3486,7 +3487,7 @@ Category 1: [BUSHEL, TON, PECK, NAT]
 Category 2: [AUNT, ANGEL, ARM, CUB] 
 Category 3: [RED, MET, STONE, BRANCH] 
 Category 4: [WING, BEATLE, FLEE, CHAPTER] 
-"
+","[['BUSHEL', 'TON', 'PECK', 'NAT'], ['AUNT', 'ANGEL', 'ARM', 'CUB'], ['RED', 'MET', 'STONE', 'BRANCH'], ['WING', 'BEATLE', 'FLEE', 'CHAPTER']]",0,1,
 "Here's the breakdown of the categories and the final answer for Example 4:
 
 **Reasoning:**
@@ -3503,7 +3504,7 @@ Groupings:
 **Breakfast Foods:** [CHEERIO, DONUT, BAGEL, TIGER] 
 **Displays:** [EXHIBIT, SHOW, PRESENT, DISPLAY]
 **Things with 'Re' prefix:** [REINDEER, REFEREE, LIFESAVER, CROSSWALK] 
-"
+","[['STOCKING', 'SNOWMAN', 'MISTLETOE', 'CANDYCANE'], ['CHEERIO', 'DONUT', 'BAGEL', 'TIGER'], ['EXHIBIT', 'SHOW', 'PRESENT', 'DISPLAY'], ['REINDEER', 'REFEREE', 'LIFESAVER', 'CROSSWALK']]",2,2,
 "## Groupings:
 
 **Category 1: Types of Wool:** [ANGORA, AFGHAN, ALPACA, PUMA] 
@@ -3517,7 +3518,7 @@ Groupings:
 
 **Category 4:  Lead a ___:** [WATER, TRIAL, YAK, LEAD]
 * This category uses ""lead"" as a verb, focusing on the phrase ""lead a ___"". ""Lead a water"" is not a common phrase but the other three words make a clear connection to the category. 
-"
+","[['ANGORA', 'AFGHAN', 'ALPACA', 'PUMA'], ['CONVERSE', 'VANS', 'JORDAN', 'CHAT'], ['SPEECH', 'JABBER', 'GAB', 'BLATHER'], ['WATER', 'TRIAL', 'YAK', 'LEAD']]",0,2,
 "## Example 4:
 
 **Words:** [KNEEL, ARROW, HINT, SCALES, FUR, DOG, FINGER, MAIL, BOW, SHELL, STAND, DOWN, NOTES, MAPS, SALUTE, CLOCK]
@@ -3548,7 +3549,7 @@ Category 1: **Body Parts**: [FINGER, SCALES, FUR, SHELL]
 Category 2: **Directions/Movement**: [KNEEL, STAND, DOWN, SALUTE]
 Category 3: **Things Sent by Mail**: [ARROW, HINT, NOTES, MAPS] 
 Category 4: **Time/Clock Related**: [BOW, MAIL, CLOCK, DOG] 
-"
+","[['FINGER', 'SCALES', 'FUR', 'SHELL'], ['KNEEL', 'STAND', 'DOWN', 'SALUTE'], ['ARROW', 'HINT', 'NOTES', 'MAPS'], ['BOW', 'MAIL', 'CLOCK', 'DOG']]",0,0,
 "Here's my analysis of the words and my solution for the ""Example 4"" word list:
 
 **Reasoning:**
@@ -3566,7 +3567,7 @@ Groupings:
 **Category 2: Building Materials:** [BRICK, STICK, STRAW, LID]
 **Category 3: Baseball/Sports:** [BALLPARK, CUP, BAT, GO] 
 **Category 4: Wordplay/Associations:** [ACTION, BEET, POPPY, STIRRER] 
-"
+","[['CARDINAL', 'WOLF', 'OWL', 'MOTH'], ['BRICK', 'STICK', 'STRAW', 'LID'], ['BALLPARK', 'CUP', 'BAT', 'GO'], ['ACTION', 'BEET', 'POPPY', 'STIRRER']]",0,0,
 "## Example 4:
 
 **Words:** [IRON, CLUB, THIRST, DIAMOND, WOOD, HEART, SHORT, WEDGE, SHY, LOW, SPADE, PINE, WANTING, PUTTER, ACHE, LONG]
@@ -3595,7 +3596,7 @@ Category 1: Golf Clubs: [IRON, CLUB, WEDGE, PUTTER]
 Category 2: Things That Can Be 'Short' or 'Long': [SHORT, LONG, THIRST, ACHE]
 Category 3: Things That Can Be 'Low' or 'High': [LOW, SPADE, DIAMOND, HEART]
 Category 4: Types of Trees: [WOOD, PINE, WANTING, SHY] 
-"
+","[['IRON', 'CLUB', 'WEDGE', 'PUTTER'], ['SHORT', 'LONG', 'THIRST', 'ACHE'], ['LOW', 'SPADE', 'DIAMOND', 'HEART'], ['WOOD', 'PINE', 'WANTING', 'SHY']]",0,1,
 "Here's my analysis of the words and the potential categories:
 
 **Possible Category Clues:**
@@ -3641,7 +3642,7 @@ Category 1: Names [Jennifer, Henry, Kate]
 Category 2: Materials [Glass, Metal, Plastic, Paper]
 Category 3: Music [Tempo, Rock, Key, Assignment]
 Category 4: Fill-in-the-blank Phrases  [Critical, Vital, Central, Tired] 
-"
+","[['Jennifer', 'Henry', 'Kate'], ['Glass', 'Metal', 'Plastic', 'Paper'], ['Tempo', 'Rock', 'Key', 'Assignment'], ['Critical', 'Vital', 'Central', 'Tired']]",2,0,
 "Here are the groupings for the given words, along with explanations for each category:
 
 **Groupings:**
@@ -3664,7 +3665,7 @@ Category 4: Fill-in-the-blank Phrases  [Critical, Vital, Central, Tired]
 * **Bulb Year:**  Could refer to a specific year of a plant's bulb production, or perhaps a ""bulb year"" as a way to track the growth cycle of a bulbous plant.
 * **Year Year:**  This is straightforward, simply referring to a year.
 * **Fish Year:**  This could refer to a specific year's fish population, or perhaps a ""fish year"" as a way to measure time for someone who enjoys fishing. 
-"
+","[['FLASH', 'GLITTER', 'GLEAM', 'SPARKLE'], ['RAIL', 'HUNT', 'BOUNCE', 'TRAP'], ['DRILL', 'FORAGE', 'CRUNK', 'GRIME'], ['BEER', 'BULB', 'YEAR', 'FISH']]",1,1,
 "## Example 4 Solution:
 
 **Reasoning:**
@@ -3680,7 +3681,7 @@ Category 4: Fill-in-the-blank Phrases  [Critical, Vital, Central, Tired]
 **Category 2: Plant Parts:** [ACORN, POLLEN, SAP, CONE] 
 **Category 3: Fools:** [SUCKER, CHUMP, FOOL, FACE] 
 **Category 4: CH- Words:** [MARK, NEEDLE, HURRICANE, POTATO] 
-"
+","[['LOLLIPOP', 'GUM', 'LICORICE', 'CHOCOLATE'], ['ACORN', 'POLLEN', 'SAP', 'CONE'], ['SUCKER', 'CHUMP', 'FOOL', 'FACE'], ['MARK', 'NEEDLE', 'HURRICANE', 'POTATO']]",3,3,
 "Here's my analysis of the words and my proposed solution for Example 4:
 
 **Reasoning:**
@@ -3715,7 +3716,7 @@ Category 4: Fill-in-the-blank Phrases  [Critical, Vital, Central, Tired]
 * CIRCLE (referring to a ""circle of friends"")
 * MOON (a common nickname)
 * HOUSE (a familiar term for ""home"" or someone's home) 
-"
+",[],10,2,
 "Here's my analysis of the words and my proposed groupings:
 
 **Category 1: Parts of a Train:** 
@@ -3741,7 +3742,7 @@ Category1: Parts of a Train: [TRAIN, CRUST, COAT, TUBE]
 Category2: Words before ""RING"": [BOUQUET, BOOK, CAKE, VEIL]
 Category3: Words after ""BLACK"": [GRAM, SPARROW, FROST,  MA]
 Category4: Words ""IN"" Something: [COVER, IN, RING, BLACK] 
-"
+","[['TRAIN', 'CRUST', 'COAT', 'TUBE'], ['BOUQUET', 'BOOK', 'CAKE', 'VEIL'], ['GRAM', 'SPARROW', 'FROST', 'MA'], ['COVER', 'IN', 'RING', 'BLACK']]",0,,
 "Here's my analysis of the words and my proposed solution:
 
 **Reasoning:**
@@ -3758,7 +3759,7 @@ Groupings:
 **Category 2 (Kitchen tools):** [PEELER, LADLE, WHISK, GRATER]
 **Category 3 (Occupations):** [PLUMBER, TANNER, CLEAVER, REPTILE]
 **Category 4 (Compound words with ""MAN"" as a suffix):** [BUNKER, MUSHROOM, FISH, PRINCESS] 
-"
+","[['PARTRIDGE', 'DINOSAUR', 'BIRD', 'MAMMAL'], ['PEELER', 'LADLE', 'WHISK', 'GRATER'], ['PLUMBER', 'TANNER', 'CLEAVER', 'REPTILE'], ['BUNKER', 'MUSHROOM', 'FISH', 'PRINCESS']]",1,1,
 "Here's the breakdown of the categories and the solution for Example 4:
 
 **Reasoning:**
@@ -3775,7 +3776,7 @@ Groupings:
 **Category 2: Time of Year:** [FALL, SPRING, SUMMER, DIP]
 **Category 3: Water-Related:** [KEYS, TAP, DROP, SINK]
 **Category 4: Flowing Water:** [SOUND, FOUNTAIN, SWIFT, NICKS] 
-"
+","[['STRONG', 'HEALTHY', 'FIT', 'WELL'], ['FALL', 'SPRING', 'SUMMER', 'DIP'], ['KEYS', 'TAP', 'DROP', 'SINK'], ['SOUND', 'FOUNTAIN', 'SWIFT', 'NICKS']]",0,1,
 "Here's the breakdown of the categories and my solution for the given word list:
 
 **Category 1: Physical States** 
@@ -3801,7 +3802,7 @@ Category 1: Physical States: [CONCRETE, SOLID, FIRM, TANGIBLE]
 Category 2: Ice Cream Components: [SUNDAE, MALT, FLOAT, OLD]
 Category 3: Parts of a Sign: [SIGNS, SPLIT, GLASS, DASH]
 Category 4: Words Preceded by ""Shooting"": [SHAKE, KEY, STAR, HOVER] 
-"
+","[['CONCRETE', 'SOLID', 'FIRM', 'TANGIBLE'], ['SUNDAE', 'MALT', 'FLOAT', 'OLD'], ['SIGNS', 'SPLIT', 'GLASS', 'DASH'], ['SHAKE', 'KEY', 'STAR', 'HOVER']]",2,0,
 "Here are the groupings for the given words, along with explanations:
 
 **Category 1: Vehicles** - This is the most obvious category, as these are all modes of transportation.
@@ -3835,7 +3836,7 @@ Category1:  Vehicles: [CAR, BUS, MOTORCYCLE, TRUCK]
 Category2:  Restaurant Roles: [HOST, BARTENDER, CHEF, SERVER]
 Category3:  Animal-Related: [DOG, PIGGY, ANIMAL, MITT]
 Category4:  ""Be"" Prefix: [BEAKER, GONZO, DIGIT, SCOOTER] 
-"
+","[['CAR', 'BUS', 'MOTORCYCLE', 'TRUCK'], ['HOST', 'BARTENDER', 'CHEF', 'SERVER'], ['DOG', 'PIGGY', 'ANIMAL', 'MITT'], ['BEAKER', 'GONZO', 'DIGIT', 'SCOOTER']]",3,2,
 "Here are the groupings for the provided words, along with explanations:
 
 **Category 1: Things you might find in a bowling alley**
@@ -3870,7 +3871,7 @@ Groupings:
 **Things associated with a ""Spare"":** [EXTRA, BACKUP, TOTE, ATE]
 **Things that come in pairs:** [PEN, MUG, TEE, WON]
 **Words that can be followed by ""out"":** [COPY, FOR, TOO, PIN] 
-"
+","[['LANE', 'BALL', 'SPARE', 'PIN'], ['EXTRA', 'BACKUP', 'TOTE', 'ATE'], ['PEN', 'MUG', 'TEE', 'WON'], ['COPY', 'FOR', 'TOO', 'PIN']]",0,2,
 "Here are the groupings for the provided words, along with explanations for each category:
 
 **Groupings:**
@@ -3900,7 +3901,7 @@ Groupings:
 *  **BOOKMARK:** You might find a bookmark in a book. 
  
 Let me know if you'd like to try another example! 
-"
+",[],2,2,
 "Here's a breakdown of the categories and the solution for Example 4:
 
 **Reasoning:**
@@ -3918,7 +3919,7 @@ Groupings:
 **Intelligence:** [QUICK, SHARP, CLEVER, SMART]
 **Martian Connection:** [MARS, ROGERS, ALASKA, SPIRIT]
 **Lone Ranger Connection:** [FRONTIER, LASSO, DRIFTER, BRIGHT] 
-"
+","[['OUTLAW', 'SHERIFF', 'SOUTHWEST', 'COWBOY'], ['QUICK', 'SHARP', 'CLEVER', 'SMART'], ['MARS', 'ROGERS', 'ALASKA', 'SPIRIT'], ['FRONTIER', 'LASSO', 'DRIFTER', 'BRIGHT']]",0,2,
 "## Example 4: 
 
 Words: [DELUXE, OPULENT, ENVIOUS, FIG, STONE, APRICOT, GRAPE, UNWELL, LAVISH, NAIVE, SWANK, GRAND, LIME, FRESH, BERRY, FOSTER]
@@ -3948,7 +3949,7 @@ Category1: [DELUXE, OPULENT, LAVISH, SWANK]
 Category2: [FIG, STONE, APRICOT, GRAPE]
 Category3: [UNWELL, NAIVE, FRESH, BERRY]
 Category4: [GRAND, LIME, FOSTER, BERRY] 
-"
+","[['DELUXE', 'OPULENT', 'LAVISH', 'SWANK'], ['FIG', 'STONE', 'APRICOT', 'GRAPE'], ['UNWELL', 'NAIVE', 'FRESH', 'BERRY'], ['GRAND', 'LIME', 'FOSTER', 'BERRY']]",0,2,
 "##  Groupings:
 
 **Category 1:  Characters from Peanuts**
@@ -3978,7 +3979,7 @@ This category contains titles or phrases from the beloved film, ""The Princess B
 - **WITCH**
 - **PRINCESS**
 - **LUCY** (a character in the movie) 
-"
+",[],0,2,
 "Here's a breakdown of the categories and the reasoning behind them, followed by the final answer:
 
 **Reasoning:**
@@ -3995,7 +3996,7 @@ Category 1 (Farm Animals): [HORSE, SHEEP, GOAT, COW]
 Category 2 (Shine/Light): [SHINE, GLOW, RADIATE, BEAM]
 Category 3 (Things Found on a Floor): [FLOOR, RINGS, BUFFALO, CUTIE]
 Category 4 (Prefix ""SE-""): [SEEDY, ENVY, EXCEL, VAULT] 
-"
+","[['HORSE', 'SHEEP', 'GOAT', 'COW'], ['SHINE', 'GLOW', 'RADIATE', 'BEAM'], ['FLOOR', 'RINGS', 'BUFFALO', 'CUTIE'], ['SEEDY', 'ENVY', 'EXCEL', 'VAULT']]",2,1,
 "## Example 4:
 
 Words: ['ROGER', 'IRIS', 'LENS', 'FAKE', 'BOGUS', 'RETINA', 'MICHELLE', 'OUT', 'OVER', 'ALEJANDRO', 'SHAM', 'COPY', 'PUPIL', 'PHONY', 'LOLA', 'STAN']
@@ -4009,7 +4010,7 @@ Words: ['ROGER', 'IRIS', 'LENS', 'FAKE', 'BOGUS', 'RETINA', 'MICHELLE', 'OUT', '
 **Category 3: Names of people (minus last letter):** ['ROGER', 'MICHELLE', 'ALEJANDRO', 'LOLA'] -  All of these are names, and they all become common verbs if you remove the last letter ('R' becomes 'ROG', 'E' becomes 'MICHEL', etc.)
 
 **Category 4:  Common phrases/fill-in-the-blank words:** ['OUT', 'OVER', 'COPY', 'STAN'] - These words fit into common phrases such as ""check it out,"" ""all over the place,"" ""copy that,"" and ""Stan for (someone)."" 
-"
+","[['IRIS', 'LENS', 'RETINA', 'PUPIL'], ['FAKE', 'BOGUS', 'SHAM', 'PHONY'], ['ROGER', 'MICHELLE', 'ALEJANDRO', 'LOLA'], ['OUT', 'OVER', 'COPY', 'STAN']]",3,2,
 "Here are the groupings for the given words:
 
 **Category 1:  Phrases to tell someone to leave** 
@@ -4035,7 +4036,7 @@ Category1: [GET OUT, LEAVE, SCRAM, GO]
 Category2: [BEANIE, PONE, THEM, YOU]
 Category3: [NOPE, NEPO, OPEN, ME]
 Category4: [FUR, SANTA, US, PEON] 
-"
+","[['GETOUT', 'LEAVE', 'SCRAM', 'GO'], ['BEANIE', 'PONE', 'THEM', 'YOU'], ['NOPE', 'NEPO', 'OPEN', 'ME'], ['FUR', 'SANTA', 'US', 'PEON']]",1,1,
 "Here's my analysis of the words and my proposed solution for Example 4:
 
 **Reasoning:**
@@ -4053,7 +4054,7 @@ Groupings:
 **Category 2 (Beverages):** [CHAI, COCOA, TEA, COFFEE]
 **Category 3 (Animal Sounds):** [OINK, CLUCK, MEOW, BARK] 
 **Category 4 (Digging):** [DISH, SCOOP, DIRT, BUZZ] 
-"
+","[['SKINNY', 'TRUNK', 'BRANCH', 'ROOT'], ['CHAI', 'COCOA', 'TEA', 'COFFEE'], ['OINK', 'CLUCK', 'MEOW', 'BARK'], ['DISH', 'SCOOP', 'DIRT', 'BUZZ']]",1,3,
 "Here are the groupings for the given words:
 
 **Category 1: Numbers in a sequence**
@@ -4083,7 +4084,7 @@ Category1: [7, 22, 24, 451]
 Category2: [COBWEB, CHERRY, PUMPKIN, FIREFLY]
 Category3: [BAR, BELL, BONES, TOMBSTONE]
 Category4: [2001, 20,000, 451, BAT] 
-"
+","[['7', '22', '24', '451'], ['COBWEB', 'CHERRY', 'PUMPKIN', 'FIREFLY'], ['BAR', 'BELL', 'BONES', 'TOMBSTONE']]",0,0,
 "## Example 4 Analysis:
 
 **Category 1: Large Animals** -  This category is straightforward, grouping together the names of large animals.
@@ -4098,7 +4099,7 @@ Groupings:
 **Parts of a Building:** [FOUNDATION, BASE, BOTTOM, RENT]
 **Parts of a Human Body:** [HAIR, FOOT, LEGS, TOUCAN]
 **Things You Put on/In:** [CHANGE, CUCUMBER, GREASE, COMPANY] 
-"
+","[['JAGUAR', 'LION', 'CAPYBARA', 'ANACONDA'], ['FOUNDATION', 'BASE', 'BOTTOM', 'RENT'], ['HAIR', 'FOOT', 'LEGS', 'TOUCAN'], ['CHANGE', 'CUCUMBER', 'GREASE', 'COMPANY']]",0,,
 "## Example 4: 
 Words : [OUT, CATFISH, OVEN, SAFE, YOLK, SMELT, WALK, FLOUNDER, FURNACE, SALMON, STRIKE, FORGE, COLONEL, CARP, KILN, BALL]
 
@@ -4115,7 +4116,7 @@ Words : [OUT, CATFISH, OVEN, SAFE, YOLK, SMELT, WALK, FLOUNDER, FURNACE, SALMON,
 
 * **Category 4:  Something that holds something valuable** -  This category is slightly more obscure, but all the words describe something that typically holds or protects something of value.
     * **Category 4:** [SAFE, YOLK, COLONEL, CARP] 
-"
+","[['CATFISH', 'FLOUNDER', 'SMELT', 'SALMON'], ['OUT', 'WALK', 'STRIKE', 'BALL'], ['OVEN', 'FURNACE', 'FORGE', 'KILN'], ['SAFE', 'YOLK', 'COLONEL', 'CARP']]",2,1,
 "Here are the groupings for the provided words:
 
 **Category 1: Alcoholic Beverages:** 
@@ -4140,7 +4141,7 @@ Category1: [CIDER, PORT, SCOTCH, SAKE]
 Category2: [RED, COCO, HEART, SOUL]
 Category3: [BRAVE, SPIRIT, UP, ESSENCE]
 Category4: [DEMO, CARS, TICKER, STOUT]
-"
+","[['CIDER', 'PORT', 'SCOTCH', 'SAKE'], ['RED', 'COCO', 'HEART', 'SOUL'], ['BRAVE', 'SPIRIT', 'UP', 'ESSENCE'], ['DEMO', 'CARS', 'TICKER', 'STOUT']]",0,1,
 "## Example 4 Solution:
 
 **Groupings:**
@@ -4152,7 +4153,7 @@ Category4: [DEMO, CARS, TICKER, STOUT]
 **Category3: Verb + Noun:** [FRAMED, PICTURE, MET,  WHEN] -  These are phrases formed by a verb followed by a noun. 
 
 **Category4:  Fill-in-the-Blank Phrases:** [SHOW, MAX, RABBIT, WHO] -  These words complete common phrases:  ""Show me"", ""Max out"", ""Rabbit hole"", ""Who's there?"" 
-"
+","[['ROGER', 'HARRY', 'SALLY', 'ROCKY'], ['HORROR', 'FURY', 'MAD', 'ROAD'], ['FRAMED', 'PICTURE', 'MET', 'WHEN'], ['SHOW', 'MAX', 'RABBIT', 'WHO']]",0,0,
 "## Example 4 Analysis:
 
 **Category 1:** **Mythical Creatures**
@@ -4180,7 +4181,7 @@ Category4: [DEMO, CARS, TICKER, STOUT]
 **Parts of a Plant:** [PLANT, BUD, LEAF, PETAL]
 **Animals:** [TIGER, RABBIT, DRAGON, HORSE]
 **Words Related to Secret Activities:** [STALK, SPY, MOLE, AGENT] 
-"
+","[['OGRE', 'TROLL', 'GNOME', 'GOBLIN'], ['PLANT', 'BUD', 'LEAF', 'PETAL'], ['TIGER', 'RABBIT', 'DRAGON', 'HORSE'], ['STALK', 'SPY', 'MOLE', 'AGENT']]",5,2,
 "Here are the groupings for the given words, along with explanations:
 
 **Category 1: Thanksgiving Feast** 
@@ -4206,7 +4207,7 @@ Thanksgiving Feast: [STUFFING, TURKEY, PIE, GRAVY]
 Visual Representations: [CHART, DIAGRAM, MAP, GRAPH]
 Additional Benefits: [PERK, BONUS, EXTRA, ICING]
 _Something_ in Istanbul: [I RAN, MONTERO, SATISFACTION, ISTANBUL] 
-"
+","[['STUFFING', 'TURKEY', 'PIE', 'GRAVY'], ['CHART', 'DIAGRAM', 'MAP', 'GRAPH'], ['PERK', 'BONUS', 'EXTRA', 'ICING'], ['IRAN', 'MONTERO', 'SATISFACTION', 'ISTANBUL']]",6,3,
 "## Example 4:  Groupings
 
 **Category 1: Painting Supplies**  
@@ -4233,7 +4234,7 @@ Groupings:
 **Direction and Order:** [REVERSE, HIGH, FIRST, DRIVE]
 **Hair and Teeth:** [COMB, SAW, ZIPPER, GEAR]
 **Things Found in a Park:** [PARK, LAWN, NEUTRAL, FOLDING] 
-"
+","[['BRUSH', 'EASEL', 'PALETTE', 'CANVAS'], ['REVERSE', 'HIGH', 'FIRST', 'DRIVE'], ['COMB', 'SAW', 'ZIPPER', 'GEAR'], ['PARK', 'LAWN', 'NEUTRAL', 'FOLDING']]",4,1,
 "Here's my solution for the example you provided:
 
 **Groupings:**
@@ -4244,7 +4245,7 @@ Groupings:
 * **Category 4: One-Letter Words** - [D, L, V, M] -  These are all words that consist of a single letter.
 
 Let me know if you have another puzzle to solve! 
-"
+","[['THEY', 'YOU', 'WE', 'I'], ['COW', 'HEN', 'EWE', 'MARE'], ['Y', 'E', 'W', 'U'], ['D', 'L', 'V', 'M']]",3,1,
 "Here are the groupings for the words:
 
 **Category 1: Football Terms:**
@@ -4286,7 +4287,7 @@ Category1: [FUMBLE, SACK, SNAP, PUNT]
 Category2: [BUN, MUFFIN, DANISH, TURNOVER]
 Category3: [UNCLAD, NUDE, NAKED, BARE]
 Category4: [FILE, CLIP, BUFF, POLISH]
-"
+","[['FUMBLE', 'SACK', 'SNAP', 'PUNT'], ['BUN', 'MUFFIN', 'DANISH', 'TURNOVER'], ['UNCLAD', 'NUDE', 'NAKED', 'BARE'], ['FILE', 'CLIP', 'BUFF', 'POLISH']]",10,3,
 "Here are the categories and groupings for the words:
 
 **Category 1: Musical Instruments**
@@ -4306,7 +4307,7 @@ Category1: [BASSOON, OBOE, SAXOPHONE, FLUTE]
 Category2: [GOBLET, SNIFTER, TUMBLER, STEIN]
 Category3: [FRICASSEE, POUND, COFFEE, FROST]
 Category4: [OLDS, BISHOP, BALLOON, CLARINET]
-"
+","[['BASSOON', 'OBOE', 'SAXOPHONE', 'FLUTE'], ['GOBLET', 'SNIFTER', 'TUMBLER', 'STEIN'], ['FRICASSEE', 'POUND', 'COFFEE', 'FROST'], ['OLDS', 'BISHOP', 'BALLOON', 'CLARINET']]",1,1,
 "Here's the breakdown of the categories and my solution for Example 4:
 
 **Reasoning:**
@@ -4343,7 +4344,7 @@ Groupings:
 * CRACKER
 * LUMBER
 * NACHO 
-"
+",[],3,2,
 "## Example 4:
 Words: [SEESAW, PAPYRUS, WEIGHT, PULL, COURIER, SCARAB, CROOK, SANDBOX, ANKH, IMPACT, SWAY, SLIDE, SWING, TIMES, EYE, CLOUT]
 
@@ -4356,7 +4357,7 @@ Words: [SEESAW, PAPYRUS, WEIGHT, PULL, COURIER, SCARAB, CROOK, SANDBOX, ANKH, IM
 **Category 3: Words with Opposite Meanings:** [WEIGHT, PULL, IMPACT, SWAY] - These words represent pairs of opposing forces.  Weight counteracts pull, and impact can cause sway.
 
 **Category 4:  Newspaper Phrases:** [COURIER, CROOK, TIMES, EYE] -  These are all words that appear in common newspaper phrases. For example, ""Courier Service,"" ""Crooked politician,"" ""Times are tough,"" and ""Eye witness."" 
-"
+","[['SEESAW', 'SANDBOX', 'SLIDE', 'SWING'], ['PAPYRUS', 'SCARAB', 'ANKH', 'CLOUT'], ['WEIGHT', 'PULL', 'IMPACT', 'SWAY'], ['COURIER', 'CROOK', 'TIMES', 'EYE']]",1,2,
 "Here are the groupings for the words provided in Example 4, along with explanations for each category:
 
 **Category 1: Animals**
@@ -4397,7 +4398,7 @@ Groupings:
 **Colors:** [BLACK, EBONY, ONYX, ASH]
 **Words ending in ""-ET"":** [JET, BOOK, SPLIT, RUN]
 **Compound Words with ""CYBER"":** [CYBERSPACE, CYBERSECURITY, CYBERNETICS, CYBER] 
-"
+","[['IBEX', 'LYNX', 'RAVEN', 'ORYX'], ['BLACK', 'EBONY', 'ONYX', 'ASH'], ['JET', 'BOOK', 'SPLIT', 'RUN'], ['CYBERSPACE', 'CYBERSECURITY', 'CYBERNETICS', 'CYBER']]",0,1,
 "## Example 4 Solution:
 
 **Category 1: Greetings**
@@ -4423,7 +4424,7 @@ Groupings:
 **States of Happiness:** [BLISS, HEAVEN, PARADISE, CLOUD NINE]
 **Deceptive Action/Individuals:** [CON, HUSTLE, FAST ONE, GUEST]
 **Phrases with ""Bucket"":** [TOP TEN, WISH, RACKET, BUCKET]
-"
+","[['HIGHFIVE', 'HUG', 'SHAKE', 'WAVE'], ['BLISS', 'HEAVEN', 'PARADISE', 'CLOUDNINE'], ['CON', 'HUSTLE', 'FASTONE', 'GUEST'], ['TOPTEN', 'WISH', 'RACKET', 'BUCKET']]",4,3,
 "##  Example 4: Groupings
 
 **Category 1: Musical Instruments** - These words are all instruments or parts of instruments.
@@ -4449,7 +4450,7 @@ Groupings:
 * DRIVER (as in ""driver's seat"")
 * INFANT (as in ""infant mortality"") 
 * PUB (as in ""pub crawl"") 
-"
+",[],0,0,
 "## Groupings:
 
 **Category 1: Fashion Brands:** [NIKE, HERMES, GUCCI, STYLE]  - These are all well-known fashion brands.
@@ -4459,7 +4460,7 @@ Groupings:
 **Category 3: City Names:** [PARIS, ATLAS, RISK, BUSINESS] - These are all words that can be used as city names, either as a direct name or a shortened form.
 
 **Category 4: Compound Words Ending in ""AL"":** [OPINION, SORRY, NATIONAL, FOXY] - This category contains words that are formed by combining two words, and they all end in ""AL"". 
-"
+","[['NIKE', 'HERMES', 'GUCCI', 'STYLE'], ['TABOO', 'KILLER', 'TROUBLE', 'NOTORIOUS'], ['PARIS', 'ATLAS', 'RISK', 'BUSINESS'], ['OPINION', 'SORRY', 'NATIONAL', 'FOXY']]",0,0,
 "##  Example 4:
 Words : [SHINDIG, BASH, WHALE, ISLAND, COUNTER, PARTY, WOODCARVER, SINK, PUPPET, CRICKET, BLOWOUT, SUNDAY, EGG, MIXER, RANGE, BUNNY]
 
@@ -4480,7 +4481,7 @@ Words : [SHINDIG, BASH, WHALE, ISLAND, COUNTER, PARTY, WOODCARVER, SINK, PUPPET,
 **Category 4:  ""____ Island""**
 - **Reason:**  All of these words are commonly used to complete the phrase ""_____ Island""
 - **Group:** [WHALE, ISLAND, BUNNY, PUPPET] 
-"
+","[['SHINDIG', 'BASH', 'PARTY', 'BLOWOUT'], ['COUNTER', 'MIXER', 'RANGE', 'SINK'], ['WOODCARVER', 'SUNDAY', 'EGG', 'CRICKET'], ['WHALE', 'ISLAND', 'BUNNY', 'PUPPET']]",4,2,
 "Here are the groupings for the words provided in Example 4:
 
 **Reasoning:**
@@ -4497,7 +4498,7 @@ Groupings:
 **Category 2: Kissing:** [SMOOCH, BUSTS, FLOPS, SMACK]
 **Category 3: Extinct Creatures:** [MAMMOTH, TRILOBITE, X, MASTODON]
 **Category 4: Prefixes:** [THREADS, TURKEYS, PECK, DODO] 
-"
+","[['OUTFIT', 'MISSES', 'GETUP', 'DUDS'], ['SMOOCH', 'BUSTS', 'FLOPS', 'SMACK'], ['MAMMOTH', 'TRILOBITE', 'X', 'MASTODON'], ['THREADS', 'TURKEYS', 'PECK', 'DODO']]",0,3,
 "##  Example 4:  Groupings:
 
 **Category 1: Facial Hair** -  These words all refer to different types of facial hair.
@@ -4530,7 +4531,7 @@ Category1: [BEARD, MUSTACHE, STUBBLE, GOATEE]
 Category2: [WHEEL, GEAR, PEDAL, HANDLEBAR]
 Category3: [TRACK, FOLLOW, TAIL, SHADOW]
 Category4: [MOVIE, VOTE, DOG, DOUBT] 
-"
+","[['BEARD', 'MUSTACHE', 'STUBBLE', 'GOATEE'], ['WHEEL', 'GEAR', 'PEDAL', 'HANDLEBAR'], ['TRACK', 'FOLLOW', 'TAIL', 'SHADOW'], ['MOVIE', 'VOTE', 'DOG', 'DOUBT']]",3,3,
 "Here's my solution for the given set of words:
 
 **Category 1: Christmas Reindeer**
@@ -4554,7 +4555,7 @@ Category 4: [CARD, LIEUTENANT, BOYS, TASTE]
 * **LIEUTENANT:**  A military rank, sometimes associated with playing cards (e.g., ""Lieutenant of Hearts""). 
 * **BOYS:**  A type of card game (Boys' Card Game).
 * **TASTE:**  In a card game, one might have a ""good taste"" or ""bad taste"" in their hand of cards. 
-"
+","[['DASHER', 'VIXEN', 'COMET', 'CUPID'], ['STAND-UP', 'DANCER', 'SINGER', 'ACTOR'], ['HEART', 'ROSE', 'CUPID', 'SANTA'], ['CARD', 'LIEUTENANT', 'BOYS', 'TASTE']]",3,2,
 "##  Groupings:
 
 **Category1: US States:** [UTAH, MONTANA, NEVADA, ARIZONA]  
@@ -4576,7 +4577,7 @@ Category 4: [CARD, LIEUTENANT, BOYS, TASTE]
     * KANSAS is a novel by John Green.
     * COLORADO is a novel by Peter Heller. 
     * YES is a novel by Steve Coll. 
-"
+","[['UTAH', 'MONTANA', 'NEVADA', 'ARIZONA'], ['CRUSH', 'MUG', 'SQUIRT', 'RUSH'], ['HAWK', 'SOPRANO', 'SPRITE', 'STARK'], ['GENESIS', 'KANSAS', 'COLORADO', 'YES']]",0,0,
 "##  Example 4 Solution:
 
 **Groupings:**
@@ -4599,7 +4600,7 @@ Category 4: [CARD, LIEUTENANT, BOYS, TASTE]
 * **Category 4**  relies on the slightly less obvious connections of ""Dig"" and ""Barb"" to the food theme. 
 
 This solution follows all the given rules.  No word is repeated across categories, and all the words are from the provided list. 
-"
+","[['SLIGHT', 'MEDIUM', 'SMALL', 'WEE'], ['CAMPER', 'TENT', 'SLEEPINGBAG', 'LANTERN'], ['MINUTE', 'HOUR', 'JAB', 'DISS'], ['DIG', 'BARB', 'MEAL', 'COOLER']]",0,1,
 "## Example 4: 
 Words: [CROCK, HERB, WEED, SKILLET, CLOG, WOK, MATE, CHUM, WEDGE, GRASS, MARY JANE, POT, BUD, PAL, PUMP, SLIDE]
 
@@ -4623,4 +4624,4 @@ Words: [CROCK, HERB, WEED, SKILLET, CLOG, WOK, MATE, CHUM, WEDGE, GRASS, MARY JA
 * **Category 2:** The words are synonyms for ""friend"" and are used in casual conversation.
 * **Category 3:** This is more abstract but all the words can be used in the context of ""wedging"".  For example, a clog can get wedged in a door, a wedge is used to hold things in place, grass can wedge between cracks, and a pump can get wedged into a well.
 * **Category 4:** This is the most obscure category, requiring knowledge of slang terms for marijuana. 
-"
+","[['CROCK', 'SKILLET', 'WOK', 'POT'], ['MATE', 'CHUM', 'PAL', 'BUD'], ['CLOG', 'WEDGE', 'GRASS', 'PUMP'], ['HERB', 'WEED', 'MARYJANE', 'SLIDE']]",3,3,

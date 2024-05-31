@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Connections Answers</title>
+</head>
+<body>
+    
+    <center>
+    <p>Create four groups of four!</p>
+
+    <div class="grid-container">
+
+        <div class="grid-item">{{one}}<br><br><br>
+            <form method="post" action="/">
+            <select id="v1" name="v1"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select>
+        </div>
+        <div class="grid-item">{{two}}<br><br><br><select id="v2" name="v2"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{three}}<br><br><br><select id="v3" name="v3"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{four}}<br><br><br><select id="v4" name="v4"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{five}}<br><br><br><select id="v5" name="v5"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{six}}<br><br><br><select id="v6" name="v6"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{seven}}<br><br><br><select id="v7" name="v7"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{eight}}<br><br><br><select id="v8" name="v8"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{nine}}<br><br><br><select id="v9" name="v9"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{ten}}<br><br><br><select id="v10" name="v10"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{eleven}}<br><br><br><select id="v11" name="v11"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{twelve}}<br><br><br><select id="v12" name="v12"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{thirteen}}<br><br><br><select id="v13" name="v13"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{fourteen}}<br><br><br><select id="v14" name="v14"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
+        <div class="grid-item">{{fifteen}}<br><br><br><select id="v15" name="v15"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+        <div class="grid-item">{{sixteen}}<br><br><br><select id="v16" name="v16"><option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div> 
+      </div>
+      <br><br>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name"><br><br>
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email"><br><br>
+      <input type="submit" value="Submit">
+        </form> 
+      <br><br><br><br>
+
+    </center>
+</body>
+</html>
+
+<style>
+    .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    border-radius: 10px;
+    grid-gap: 10px;
+    justify-items: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    margin: 0 auto;
+    }
+    .grid-item {
+    background-color: rgb(239, 239, 231);
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    width:150px;
+    height:80px;
+    }
+    
+    body {
+        vertical-align: middle;
+        font-size:14px;
+        padding: 2em 0;
+    }
+
+    p {
+        font-family: "Libre Franklin", sans-serif, Extra Light;
+        font-weight: 300;
+        font-size: 18px;
+    }
+
+    h1 {
+        font-family: 'Libre Franklin'; font-size: 26px;
+        margin-bottom:0 px;
+        margin-top: 1.45em;
+        line-height: 0em;
+    }
+    h2 {
+        font-family: "Libre Franklin", sans-serif, Extra Light;
+        font-weight: 100;
+        font-style: light;
+        font-size: 20px;
+        margin: 1em;
+    }
+    span.b {
+        display: block;
+        width: 750px;
+        height: 100px;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    button {
+        display:block;
+        font-family: "Libre Franklin", sans-serif;
+        font-weight: 300;
+        font-style: medium;
+        font-size: 16px;
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        border-radius: 44px;
+        width: 12em;
+        height: 4em;
+    }
+</style>
