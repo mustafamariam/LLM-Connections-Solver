@@ -82,7 +82,7 @@ def score_gemini_response(row: pd.Series) -> pd.Series:
     score = 0
     for a in response:
         # Scoring mechanism
-        # If issues with response parsing of a certain game, the script will continue
+        # If issues with response parsing of a certain game, the script will continue (score these manually)
         try:
             if set(a) == set(answer_yellow):
                 score += 1
