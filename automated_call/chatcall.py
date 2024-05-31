@@ -5,13 +5,15 @@ This script conducts automated calls of the LLMs with our prompt for 200 games.
 *   Calls 4 LLMs: ChatGPT 4o, Gemini, Claude 3 opus, and Llama
 
 Assumes downloaded: prompt.txt, parsedCleanedLLM.txt
-Dependencies: openai, csv, anthropic, google-generativeai
+Dependencies: openai, csv, anthropic, google-generativeai, pandas
 """
 
 import openai
+import random
 import csv
 import anthropic
 import google.generativeai as genai
+import pandas as pd
 
 # Add your api keys
 openai.api_key = ""
@@ -23,14 +25,25 @@ llama_api_key = ""
 def open_games(games_file):
     """Open games file, read each game onto a new line, and shuffle game.
     """
-    games = open(games_file, 'r')
-    games_list = games.read().splitlines()
-    games_list_shuffled = list()
-    for game in games_list:
-        l = list(game.split(", "))
-        random.shuffle(l)
-        games_list_shuffled.append(', '.join(l))
-    return games_list_shuffled
+    games_df = pd.read_csv(games_file)
+    # Read answers into 4 lists of 4 words
+    games_df["Words"] = games_df["Words"].apply(split_and_reshape)
+    games_list = games_df["Words"].tolist()
+    return games_list
+
+def split_and_reshape(game):
+    """ Read rows of csv in into list, shuffle, and then convert back to string
+    """
+    game = game.replace("'", "")
+    game = game.replace('[', "")
+    game = game.replace(']', "")
+    # Convert words to list of words
+    game = list(game.split(", "))
+    # Shuffle words
+    random.shuffle(game)
+    # Convert to string
+    game = ', '.join(game)
+    return game
 
 
 def open_prompt(prompt_file):
@@ -44,7 +57,7 @@ def run_chatgpt(prompt, api_key):
     response = openai.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "system", "content": prompt}, ],
-        max_tokens=750,
+        max_tokens=300,
     )
     return response.choices[0].message.content
 
@@ -60,10 +73,10 @@ def run_claude(prompt, api_key):
     client = anthropic.Anthropic(api_key=api_key,)
     message = client.messages.create(
         model="claude-3-opus-20240229",
-        max_tokens=750,
+        max_tokens=300,
         messages=[{"role": "user", "content": prompt}],
     )
-    return message.content[0].text
+    return message.content
 
 
 def run_llama(prompt, api_key):
@@ -86,7 +99,7 @@ def run_games(games, filename, play, api_key):
         # Create a csv.writer object
         writer = csv.writer(file)
         # Exclude demonstration games that appear in prompt (first 3 rows) and run 200 games
-        for n in range(3, 203):
+        for n in range(3, 5):
             game_prompt = prompt.replace("InsertGame", games[n])
             response = play(game_prompt, api_key)
             response.replace("\n", " ")
@@ -94,7 +107,7 @@ def run_games(games, filename, play, api_key):
 
 
 if __name__ == '__main__':
-    games_list = open_games('parsedCleanedLLM.txt')
+    games_list = open_games('connectionsRes.csv')
     prompt = open_prompt("prompt.txt")
     # Run chat-gpt 4o
     run_games(games_list, "chatgpt_responses.csv", run_chatgpt, openai.api_key)
@@ -104,4 +117,3 @@ if __name__ == '__main__':
     # run_games(games_list, "claude_responses.csv", run_claude, claude_api_key)
     # Run Llama
     # run_games(games_list, "llama_responses.csv", run_llama, llama_api_key)
-
