@@ -4,17 +4,22 @@ import pandas as pd
 def parse_answers(file):
     """Parse the games into answer groupings
     """
-    games = open(file, 'r')
-    games_list = games.read().splitlines()
-    game_answers = []
-    # For each game separate into 4 answer categories of 4
-    for game in games_list:
-        l = list(game.split(", "))
-        var = [l[i:i + 4] for i in range(0, len(l), 4)]
-        game_answers.append(var)
-    connections_answers = pd.DataFrame(game_answers[3:203])
+    games_df = pd.read_csv(file)
     # Keep only 200 games
+    games_df = games_df[3:203]
+    games_df.reset_index(drop=True, inplace=True)
+    # Read answers into 4 lists of 4 words
+    games_df["Answers"] = games_df["Words"].apply(split_and_reshape)
+    # Split 4 lists across 4 columns
+    connections_answers = pd.DataFrame(games_df['Answers'].tolist(), columns=["Yellow","Green","Blue","Purple"])
     return connections_answers
+
+def split_and_reshape(game):
+    game = game.replace("'", "")
+    game = game.replace('[', "")
+    game = game.replace(']', "")
+    split_list = game.split(', ')
+    return [split_list[i:i+4] for i in range(0, len(split_list), 4)]
 
 
 def clean_gemini_response(response):
@@ -47,10 +52,10 @@ def clean_gemini_response(response):
 def score_gemini_response(row: pd.Series) -> pd.Series:
     response = row["Parsed Response"]
     # Each answer category is in a different columnn
-    answer_yellow = row[0]
-    answer_green = row[1]
-    answer_blue = row[2]
-    answer_purple = row[3]
+    answer_yellow = row["Yellow"]
+    answer_green = row["Green"]
+    answer_blue = row["Blue"]
+    answer_purple = row["Purple"]
     # Initialize score of game
     score = 0
     for a in response:
@@ -71,7 +76,7 @@ def score_gemini_response(row: pd.Series) -> pd.Series:
 
 
 if __name__ == '__main__':
-    connections_answers = parse_answers("parsedCleanedLLM.txt")
+    connections_answers = parse_answers("connectionsRes.csv")
     responses_df = pd.read_csv("gemini_responses.csv")
 
     # Parse responses
@@ -82,5 +87,5 @@ if __name__ == '__main__':
     responses_df["Classification Score"] = responses_df.apply(score_gemini_response, axis=1)
 
     # Drop answers columns
-    responses_df = responses_df.drop([0, 1, 2, 3], axis=1)
+    responses_df = responses_df.drop(["Yellow", "Green", "Blue", "Purple"], axis=1)
     responses_df.to_csv("gemini_responses_scored.csv", index=False)
