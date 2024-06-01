@@ -7,7 +7,7 @@ This script scores Gemini's Connections answers.
 *   Parses LLM answers
 *   Scores groupings for accuracy according to the provided scoring schema. 
 
-Assumes input CSV file: `gemini_responses.csv`
+Assumes input CSV file: 'connectionsRes.csv', `gemini_responses.csv` with header of response column named "Response"
 Outputs CSV file with classification score in a new column
 Dependencies: `pandas`
 '''
