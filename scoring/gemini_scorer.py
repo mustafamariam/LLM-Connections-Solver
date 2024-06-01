@@ -17,6 +17,8 @@ import pandas as pd
 
 def parse_answers(file):
     """Parse the games into answer groupings
+    Arguments: connectionsRes.csv with column header "Words"
+    Output: 4 columns with varying difficulty categories in a new column
     """
     games_df = pd.read_csv(file)
     # Keep only 200 games
@@ -30,6 +32,8 @@ def parse_answers(file):
 
 def split_and_reshape(game):
     """ Read rows of csv in into list of 4 lists of 4 words
+    Argument: Row in connectionsRes.csv
+    output: list of 4 lists (each category) of 4 words
     """
     game = game.replace("'", "")
     game = game.replace('[', "")
@@ -40,6 +44,8 @@ def split_and_reshape(game):
 
 def clean_gemini_response(response):
     """ Clean the gemini responses using brackets [] as delimiters
+    Argument: cell in gemini_responses.csv column "Response"
+    Ouput: column with list of 4 lists of 4 words 
     """
     substrings = []
     split_str = response.split("[")
