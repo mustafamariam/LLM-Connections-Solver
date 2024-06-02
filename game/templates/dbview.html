@@ -2,23 +2,22 @@
 <html>
    <body>
       <h3>Leaderboard</h3>
-      <a href="/">ADD</a>
+      <a href="/">VIEW INSTRUCTIONS</a> <BR>
+      <a href="/play">PLAY A GAME</a>
       <br>
       <table>
          <thead>
-            <th>Id</th>
             <th>Name</th>
-            <th>Email</th>
             <th>Score</th>
-            <th>#</th>
+            <th>Time Played</th>
+            <th>Game Number</th>
          </thead>
          {% for data in profiles %}
          <tbody>
-            <td>{{data.id}}</td>
             <td>{{data.name}}</td>
-            <td>{{data.email}}</td>
             <td>{{data.score}}</td>
-            <td><a href="/delete/{{data.id}}" type="button">Delete</a></td>
+            <td>{{data.num}}</td>
+            <td>{{data.gamenum}}</td>
          </tbody>
          {% endfor%}
       </table>
