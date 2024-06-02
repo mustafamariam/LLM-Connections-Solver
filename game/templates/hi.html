@@ -9,14 +9,11 @@
     <title>Connections Answers</title>
 </head>
 <body>
-    
     <center>
     <p>Create four groups of four!</p>
-
     <div class="grid-container">
-
         <div class="grid-item">{{one}}<br><br><br>
-            <form method="post" action="/">
+            <form method="post" action="/play">
             <select id="v1" name="v1"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select>
         </div>
         <div class="grid-item">{{two}}<br><br><br><select id="v2" name="v2"> <option>Group 1</option> <option>Group 2</option> <option>Group 3</option> <option>Group 4</option></select></div>
@@ -38,12 +35,9 @@
       <br><br>
       <label for="name">Name:</label>
       <input type="text" id="name" name="name"><br><br>
-      <label for="email">Email:</label>
-      <input type="text" id="email" name="email"><br><br>
       <input type="submit" value="Submit">
         </form> 
       <br><br><br><br>
-
     </center>
 </body>
 </html>
@@ -87,6 +81,7 @@
         margin-top: 1.45em;
         line-height: 0em;
     }
+
     h2 {
         font-family: "Libre Franklin", sans-serif, Extra Light;
         font-weight: 100;
