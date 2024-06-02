@@ -47,9 +47,6 @@ def create_claude_responses_df(input_file):
 
     data = {'Response': [], 'Parsed Response': []}
 
-    rows = rows[3:]
-    rows = rows[:200]
-
     for row in rows:
         original_text = row[0]
         groupings = extract_groupings(row[0])
