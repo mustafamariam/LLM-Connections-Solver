@@ -1,0 +1,15 @@
+runtime: python
+api_version: 1
+threadsafe: true
+env: flex
+entrypoint: gunicorn -b :$PORT app:app
+
+runtime_config:
+    operating_system: "ubuntu22"
+    runtime_version: "3.12"
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: main.app
