@@ -10,6 +10,7 @@
 </head>
 <body>
     <center>
+        <a href="/" id="button">Back to Instructions</a> 
     <p>Create four groups of four!</p>
     <div class="grid-container">
         <div class="grid-item">{{one}}<br><br><br>
@@ -36,12 +37,11 @@
       <label for="name">Name:</label>
       <input type="text" id="name" name="name"><br><br>
       <input type="submit" value="Submit">
-        </form> <br> <br><Br>
-        <a href="/view" class="button">Click here to view the leaderboard!!</a> 
+        </form> <br> <br>
+        <a href="/view" id="button">Click here to view the leaderboard + your score after submitting!!</a>
     </center>
 </body>
 </html>
-
 <style>
     .grid-container {
     display: grid;
@@ -92,18 +92,12 @@
         padding: 5px;
         border-radius: 5px;
     }
-    button {
+    #button {
         display:block;
         font-family: "Libre Franklin", sans-serif;
         font-weight: 300;
         font-style: medium;
         font-size: 16px;
-        background-color: black;
         border: none;
-        color: white;
-        padding: 16px 32px;
-        border-radius: 44px;
-        width: 12em;
-        height: 4em;
     }
 </style>
