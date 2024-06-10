@@ -3544,7 +3544,7 @@ Groupings:
 Black things: [EBONY, BLACK, ONYX, JET]
 Animals: [ORYX, FOX, IBEX, LYNX]  
 Split ___: [SPLIT, ASH, FAT, BOOK]
-Action words: [BOUNCE, RUN, RAVEN, CYBER]","[['EBONY', 'BLACK', 'ONYX', 'JET'], ['ORYX', 'FOX', 'IBEX', 'LYNX'], ['SPLIT', 'ASH', 'FAT', 'BOOK'], ['BOUNCE', 'RUN', 'RAVEN', 'CYBER']]",2,9,1
+Action words: [BOUNCE, RUN, RAVEN, CYBER]","[['EBONY', 'BLACK', 'ONYX', 'JET'], ['ORYX', 'FOX', 'IBEX', 'LYNX'], ['SPLIT', 'ASH', 'FAT', 'BOOK'], ['BOUNCE', 'RUN', 'RAVEN', 'CYBER']]",2,0,1
 "Here's my reasoning for each category:
 
 Greetings/Gestures: WISH, WAVE, HIGH FIVE, and HUG all relate to greetings or friendly gestures people make with their hands/arms.
