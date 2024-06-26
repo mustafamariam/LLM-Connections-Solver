@@ -10,6 +10,7 @@ Dependencies: openai, csv, anthropic, google-generativeai, pandas
 
 import openai
 import random
+import boto3
 import csv
 import anthropic
 import google.generativeai as genai
@@ -20,6 +21,9 @@ openai.api_key = ""
 gemini_api_key = ""
 claude_api_key = ""
 llama_api_key = ""
+
+client = boto3.client('bedrock-runtime',region_name="us-east-1")
+model_id = 'meta.llama3-70b-instruct-v1:0'
 
 
 def open_games(games_file):
@@ -78,6 +82,23 @@ def run_claude(prompt, api_key):
     )
     return message.content
 
+def messages2llama3str(messages):
+    formatted_str = "<|begin_of_text|>"
+    for message in messages:
+		role = message["role"]
+		content = message["content"]
+		formatted_str += f"<|start_header_id|>{role}<|end_header_id|>\n\n{content}<|eot_id|>"
+	formatted_str += "<|start_header_id|>assistant<|end_header_id|>"
+	return formatted_str
+
+def run_llama3(game_prompt):
+    messages = [{"role": "user", "content": game_prompt}]
+	prompt = messages2llama3str(messages)
+	request = {"prompt": prompt,"max_gen_len": 750,"temperature": 0.6,"top_p": 0.9}
+	response = client.invoke_model(contentType='application/json', body=json.dumps(request), modelId=model_id)
+	inference_result = response['body'].read().decode('utf-8')
+	inference_result = json.loads(inference_result)['generation']
+    return inference_result
 
 
 def run_games(games, filename, play, api_key):
@@ -99,3 +120,5 @@ if __name__ == '__main__':
     games_list = open_games('connectionsRes.csv')
     prompt = open_prompt("prompt.txt")
     run_games(games_list, "chatgpt_responses.csv", run_chatgpt, openai.api_key)
+    run_games(games_list, "claude3_responses.csv", run_claude, openai.api_key)
+    run_games(games_list, "llama3_responses.csv", run_llama3, openai.api_key)
