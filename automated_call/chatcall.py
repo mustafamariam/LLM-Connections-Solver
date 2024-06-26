@@ -57,7 +57,7 @@ def run_chatgpt(prompt, api_key):
     response = openai.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "system", "content": prompt}, ],
-        max_tokens=300,
+        max_tokens=750,
     )
     return response.choices[0].message.content
 
@@ -73,22 +73,11 @@ def run_claude(prompt, api_key):
     client = anthropic.Anthropic(api_key=api_key,)
     message = client.messages.create(
         model="claude-3-opus-20240229",
-        max_tokens=300,
+        max_tokens=750,
         messages=[{"role": "user", "content": prompt}],
     )
     return message.content
 
-
-def run_llama(prompt, api_key):
-    client = openai.OpenAI(
-        api_key=api_key,
-        base_url="https://api.llama-api.com"
-    )
-    response = client.chat.completions.create(
-        model="llama-13b-chat",
-        messages=[{"role": "system", "content": prompt}]
-    )
-    return response.choices[0].message.content
 
 
 def run_games(games, filename, play, api_key):
@@ -99,7 +88,7 @@ def run_games(games, filename, play, api_key):
         # Create a csv.writer object
         writer = csv.writer(file)
         # Exclude demonstration games that appear in prompt (first 3 rows) and run 200 games
-        for n in range(3, 5):
+        for n in range(200):
             game_prompt = prompt.replace("InsertGame", games[n])
             response = play(game_prompt, api_key)
             response.replace("\n", " ")
@@ -109,11 +98,4 @@ def run_games(games, filename, play, api_key):
 if __name__ == '__main__':
     games_list = open_games('connectionsRes.csv')
     prompt = open_prompt("prompt.txt")
-    # Run chat-gpt 4o
     run_games(games_list, "chatgpt_responses.csv", run_chatgpt, openai.api_key)
-    # Run gemini
-    # run_games(games_list, "gemini_responses.csv", run_gemini, gemini_api_key)
-    # Run Claude
-    # run_games(games_list, "claude_responses.csv", run_claude, claude_api_key)
-    # Run Llama
-    # run_games(games_list, "llama_responses.csv", run_llama, llama_api_key)
