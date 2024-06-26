@@ -68,7 +68,7 @@ def run_chatgpt(prompt, api_key):
 
 def run_gemini(prompt, api_key):
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-1.5-pro')
     response = model.generate_content(prompt)
     return response.text
 
