@@ -8,6 +8,8 @@ Look at
 
         games.txt for all games
         knowledge_types.csv for 800 annotations of knowledge types. These are arrange chronologically so each 4 rows = 1 game
+        automated_call/prompt_llm.txt contains the actual prompt
+        
 
 
 If you use our data or annotations please cite us at
