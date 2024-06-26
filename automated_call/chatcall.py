@@ -120,5 +120,6 @@ if __name__ == '__main__':
     games_list = open_games('connectionsRes.csv')
     prompt = open_prompt("prompt.txt")
     run_games(games_list, "chatgpt_responses.csv", run_chatgpt, openai.api_key)
-    run_games(games_list, "claude3_responses.csv", run_claude, openai.api_key)
-    run_games(games_list, "llama3_responses.csv", run_llama3, openai.api_key)
+    run_games(games_list, "claude3_responses.csv", run_claude, claude_api_key)
+    # you need AWS api key to run this
+    run_games(games_list, "llama3_responses.csv", run_llama3)
