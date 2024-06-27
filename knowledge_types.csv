@@ -1,4 +1,4 @@
-" ",Connections Categories,Words in Category,Gemini,Claude,GPT4o,Llama3-70B,Type of Reasoning
+" ",Connections Categories,Words in Category,Gemini-1.5-Pro,Claude-3-Opus,GPT4o,Llama3-70B,Type of Reasoning
 0,POP MEGASTARS,"['GRANDE', 'MARS', 'STYLES', 'SWIFT']",0,1,0,0,Encyclopedic Knowledge
 1,METHOD,"['CHANNEL', 'MEANS', 'MEDIUM', 'VEHICLE']",0,0,0,0,Semantic Knowledge
 2,"UNLIKELY, AS CHANCES","['OUTSIDE', 'REMOTE', 'SLIM', 'SMALL']",0,0,0,0,Associative Knowledge
