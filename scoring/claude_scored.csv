@@ -1,4 +1,4 @@
-Response,Parsed Response,Classification Score,Categorical Reasoning,# Categories Correct
+Response,Parsed Response,Weighted Clustering Score,Categorical Reasoning,Unweighted Clustering Score
 "Here are my thoughts on categorizing the words in Example 4:
 
 Clothing sizes: SMALL, MEDIUM, LARGE, SLIM
