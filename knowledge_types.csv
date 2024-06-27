@@ -1,0 +1,801 @@
+" ",Connections Categories,Words in Category,Gemini,Claude,GPT4o,Llama3-70B,Type of Reasoning
+0,POP MEGASTARS,"['GRANDE', 'MARS', 'STYLES', 'SWIFT']",0,1,0,0,Encyclopedic Knowledge
+1,METHOD,"['CHANNEL', 'MEANS', 'MEDIUM', 'VEHICLE']",0,0,0,0,Semantic Knowledge
+2,"UNLIKELY, AS CHANCES","['OUTSIDE', 'REMOTE', 'SLIM', 'SMALL']",0,0,0,0,Associative Knowledge
+3,LIVING ___,"['LARGE', 'LEGEND', 'PROOF', 'ROOM']",0,0,0,0,Multiword Expressions
+4,ROOMS IN THE GAME CLUE,"['HALL', 'LIBRARY', 'LOUNGE', 'STUDY']",0,0,0,0,Encyclopedic Knowledge
+5,COLLEAGUE,"['ASSOCIATE', 'FELLOW', 'PARTNER', 'PEER']",0,0,1,1,Semantic Knowledge
+6,SEEN DURING EASTER,"['BUNNY', 'EGG', 'JELLY BEAN', 'PEEP']",0,0,1,0,Associative Knowledge
+7,WHAT A MOLE CAN BE,"['ANIMAL', 'BIRTHMARK', 'SPY', 'UNIT']",0,0,0,0,Semantic Knowledge
+8,LARGE AMOUNT,"['MASS', 'SEA', 'SLEW', 'TON']",0,0,1,0,Semantic Knowledge
+9,FALL IN UNDER PRESSURE,"['BUCKLE', 'CAVE', 'COLLAPSE', 'GIVE']",0,0,0,0,Semantic Knowledge
+10,WAYS TO GET ATTENTION,"['SHOUT', 'SNAP', 'WAVE', 'WHISTLE']",0,0,0,0,Associative Knowledge
+11,BELLY ___,"['BUTTON', 'DANCE', 'FLOP', 'LAUGH']",0,0,0,0,Multiword Expressions
+12,INTELLIGENCE OPERATIVE,"['AGENT', 'ASSET', 'MOLE', 'SLEEPER']",1,0,1,1,Semantic Knowledge
+13,UNITS IN POETRY,"['FOOT', 'LINE', 'METER', 'VERSE']",0,0,0,0,Semantic Knowledge
+14,EXPRESS INDIRECTLY,"['COUCH', 'IMPLY', 'INTIMATE', 'SUGGEST']",0,0,0,0,Semantic Knowledge
+15,WHAT “K” MIGHT MEAN,"['KELVIN', 'OKAY', 'POTASSIUM', 'THOUSAND']",0,0,0,0,Encyclopedic Knowledge
+16,GARLIC BREAD INGREDIENTS,"['BREAD', 'BUTTER', 'GARLIC', 'PARSLEY']",1,0,0,1,Associative Knowledge
+17,WAGER,"['BET', 'GAMBLE', 'RISK', 'STAKE']",1,1,1,0,Semantic Knowledge
+18,DISNEYLAND LANDS,"['ADVENTURE', 'FANTASY', 'FRONTIER', 'TOMORROW']",0,0,0,0,Encyclopedic Knowledge
+19,___ BAT,"['BASEBALL', 'CRICKET', 'FRUIT', 'VAMPIRE']",0,0,0,0,Multiword Expressions
+20,PROPEL INTO THE AIR,"['HOP', 'JUMP', 'LEAP', 'SPRING']",1,0,1,1,Semantic Knowledge
+21,PLACE TO STORE VALUABLES,"['CHEST', 'COFFER', 'SAFE', 'VAULT']",1,0,1,1,Semantic Knowledge
+22,PERIOD,"['AGE', 'DAY', 'ERA', 'TIME']",1,0,1,1,Semantic Knowledge
+23,ANIMALS BACKWARD,"['DRIB', 'FLOW', 'REED', 'TANG']",0,0,0,0,Linguistic Knowledge
+24,"CHEESES, FAMILIARLY","['AMERICAN', 'BLUE', 'JACK', 'SWISS']",0,0,0,0,Semantic Knowledge
+25,TRACK AND FIELD EQUIPMENT,"['HAMMER', 'HURDLE', 'JAVELIN', 'POLE']",0,0,1,0,Semantic Knowledge
+26,KINDS OF HEELS,"['CUBAN', 'KITTEN', 'STILETTO', 'WEDGE']",0,0,0,0,Semantic Knowledge
+27,DOUBLE ___,"['DATE', 'DUTCH', 'JEOPARDY', 'SPACE']",0,0,0,0,Multiword Expressions
+28,'80S FASHION TRENDS,"['HEADBAND', 'MULLET', 'NEON', 'SPANDEX']",0,0,0,0,Encyclopedic Knowledge
+29,GYMNASTICS POSITIONS,"['PIKE', 'SPLIT', 'STRADDLE', 'TUCK']",0,0,0,0,Semantic Knowledge
+30,KINDS OF CRACKERS,"['ANIMAL', 'GOLDFISH', 'OYSTER', 'RITZ']",0,0,0,0,Encyclopedic Knowledge
+31,___ LADDER,"['CORPORATE', 'ROPE', 'SALMON', 'WORD']",0,0,0,0,Multiword Expressions
+32,BASIC TASTES,"['BITTER', 'SALTY', 'SOUR', 'SWEET']",1,0,1,1,Semantic Knowledge
+33,"STAND UP TO, AS A CHALLENGE","['BRAVE', 'CONFRONT', 'FACE', 'MEET']",0,0,0,0,Semantic Knowledge
+34,ILK,"['KIND', 'SORT', 'TYPE', 'VARIETY']",0,0,0,0,Semantic Knowledge
+35,"ART MOVEMENTS, WITH -ISM","['EXPRESSION', 'MANNER', 'ROMANTIC', 'SURREAL']",0,0,0,0,Encyclopedic Knowledge
+36,WALK HEAVILY,"['LUMBER', 'PLOD', 'STOMP', 'TRUDGE']",1,1,0,0,Semantic Knowledge
+37,FLEXIBLE,"['ELASTIC', 'LIMBER', 'PLASTIC', 'SUPPLE']",0,0,0,0,Semantic Knowledge
+38,FENCING EQUIPMENT,"['FOIL', 'GLOVE', 'JACKET', 'MASK']",0,0,0,0,Semantic Knowledge
+39,WORDS BEGINNING WITH INSTRUMENTS,"['BASSINET', 'CELLOPHANE', 'HARPOON', 'ORGANISM']",0,0,0,0,Linguistic Knowledge
+40,MANUFACTURING LOCATIONS,"['FACTORY', 'MILL', 'PLANT', 'SHOP']",0,0,1,0,Semantic Knowledge
+41,WIN + LETTER,"['WIND', 'WINE', 'WING', 'WINK']",0,0,0,0,Linguistic Knowledge
+42,PARTS OF FRUIT YOU MIGHT NOT EAT,"['CORE', 'RIND', 'SEED', 'STEM']",0,0,0,0,Semantic Knowledge
+43,WEIGHTS IN BOXING,"['FEATHER', 'HEAVY', 'LIGHT', 'MIDDLE']",0,0,0,0,Semantic Knowledge
+44,PROCESSION,"['CARAVAN', 'FLEET', 'PARADE', 'TRAIN']",1,0,1,0,Semantic Knowledge
+45,SHADES OF GREEN,"['OLIVE', 'FOREST', 'LIME', 'MINT']",1,1,0,0,Semantic Knowledge
+46,WHAT “BLUE” MIGHT MEAN,"['DEMOCRATIC', 'EROTIC', 'NOBLE', 'SAD']",0,0,0,0,Semantic Knowledge
+47,THINGS WITH SPINES,"['BOOK', 'CACTUS', 'HEDGEHOG', 'SKELETON']",0,0,0,0,Associative Knowledge
+48,DOG SOUNDS,"['BARK', 'GROWL', 'HOWL', 'WHINE']",1,0,1,1,Semantic Knowledge
+49,DEPARTMENT,"['ARM', 'BRANCH', 'CHAPTER', 'WING']",0,0,0,0,Semantic Knowledge
+50,ORIGIN,"['CRADLE', 'FONT', 'ROOT', 'SOURCE']",0,0,0,0,Associative Knowledge
+51,COLORS WITH THEIR FIRST LETTERS CHANGED,"['CLUE', 'FROWN', 'MELLOW', 'PREEN']",0,0,0,0,Linguistic Knowledge
+52,PESTERS,"['BADGERS', 'BUGS', 'HOUNDS', 'NAGS']",0,0,0,0,Semantic Knowledge
+53,TONY WINNERS FOR BEST MUSICAL,"['ANNIE', 'CABARET', 'CATS', 'COMPANY']",0,0,1,0,Encyclopedic Knowledge
+54,THEY HAVE KEYS,"['COMPUTER', 'PIANO', 'SUPER', 'TESTS']",0,0,0,0,Associative Knowledge
+55,SCHOOL OF ___,"['FISH', 'HARD KNOCKS', 'ROCK', 'THOUGHT']",0,0,0,0,Multiword Expressions
+56,PARTY POOPER,"['BORE', 'DRAG', 'DRIP', 'DUD']",0,0,0,0,Semantic Knowledge
+57,MUSICAL SECTIONS,"['BRASS', 'RHYTHM', 'STRING', 'WIND']",0,0,0,0,Encyclopedic Knowledge
+58,BIT OF LIQUID,"['BEAD', 'DROP', 'GLOB', 'TEAR']",0,0,0,0,Semantic Knowledge
+59,VEGETABLE HOMOPHONES,"['BEAT', 'CHARRED', 'LEAK', 'PEE']",0,0,0,0,Combined Category
+60,USED IN BUILDING A FIRE,"['KINDLING', 'LOG', 'MATCH', 'TINDER']",0,0,0,0,Associative Knowledge
+61,MESS UP,"['BLOW', 'BUMBLE', 'FLUFF', 'SPOIL']",0,0,0,0,Semantic Knowledge
+62,WORKSHOP TOOLS,"['DRILL', 'GRINDER', 'ROUTER', 'SAW']",0,1,1,1,Semantic Knowledge
+63,PARTS OF A DOOR,"['FRAME', 'HANDLE', 'HINGE', 'LOCK']",0,1,0,0,Semantic Knowledge
+64,EAT A LITTLE,"['GRAZE', 'NIBBLE', 'PECK', 'SNACK']",0,0,1,1,Semantic Knowledge
+65,PURSUE,"['HUNT', 'TRACK', 'TRAIL', 'STALK']",0,0,1,0,Semantic Knowledge
+66,INGREDIENTS IN MINESTRONE,"['BEANS', 'PASTA', 'STOCK', 'VEGETABLES']",0,0,0,0,Encyclopedic Knowledge
+67,___CAST,"['BROAD', 'FORE', 'POD', 'TYPE']",0,0,0,0,Multiword Expressions
+68,BIT OF HAIR,"['CURL', 'LOCK', 'RINGLET', 'TRESS']",0,1,1,0,Semantic Knowledge
+69,MEDIA ATTENTION,"['COVERAGE', 'EXPOSURE', 'PRESS', 'PUBLICITY']",1,0,1,0,Semantic Knowledge
+70,NOUN SUFFIXES,"['DOM', 'ION', 'NESS', 'SHIP']",1,1,0,0,Linguistic Knowledge
+71,___ CIRCUS,"['FAMILY', 'FLEA', 'FLYING', 'MEDIA']",0,0,0,0,Multiword Expressions
+72,COMFY SHOES,"['CROC', 'LOAFER', 'MOCCASIN', 'SLIPPER']",1,1,1,1,Semantic Knowledge
+73,THINGS MADE WITH FEATHERS,"['BOA', 'HEADDRESS', 'PILLOW', 'SHUTTLECOCK']",0,0,0,0,Associative Knowledge
+74,PROGRAMMING LANGUAGES,"['BASIC', 'JAVA', 'PYTHON', 'RUBY']",0,1,1,1,Encyclopedic Knowledge
+75,THINGS THAT CAN STRIKE,"['COBRA', 'INSPIRATION', 'LIGHTNING', 'UNION']",0,0,0,0,Associative Knowledge
+76,FOLLOW ATTENTIVELY,"['MONITOR', 'SURVEY', 'TRACK', 'WATCH']",0,0,0,0,Semantic Knowledge
+77,WHERE YOU MIGHT FIND SAND,"['BEACH', 'DESERT', 'HOURGLASS', 'PLAYGROUND']",0,0,0,0,Associative Knowledge
+78,OVEN BUTTONS,"['BAKE', 'BROIL', 'LIGHT', 'TIMER']",0,0,0,0,Associative Knowledge
+79,BRITPOP BANDS,"['BLUR', 'OASIS', 'PULP', 'SUEDE']",0,0,0,0,Encyclopedic Knowledge
+80,TOUCH LIGHTLY,"['BRUSH', 'GRAZE', 'KISS', 'SKIM']",0,1,0,0,Semantic Knowledge
+81,KINDS OF NUMBERS,"['ODD', 'PERFECT', 'PRIME', 'WHOLE']",0,0,0,1,Semantic Knowledge
+82,SAUCES IN CHINESE CUISINE,"['OYSTER', 'PLUM', 'SOY', 'XO']",0,0,0,0,Encyclopedic Knowledge
+83,BEAR ___,"['CLAW', 'FRUIT', 'HUG', 'WITNESS']",0,0,0,0,Multiword Expressions
+84,"ENCOURAGE, WITH ""ON""","['EGG', 'GOAD', 'SPUR', 'URGE']",0,0,0,0,Linguistic Knowledge
+85,SPHERICAL FOODS,"['JAWBREAKER', 'MEATBALL', 'MOZZARELLA', 'ORANGE']",0,0,0,0,Associative Knowledge
+86,GROCERY STORE AISLES,"['DAIRY', 'FROZEN', 'PRODUCE', 'SNACK']",0,0,0,0,Associative Knowledge
+87,GO ___,"['BANANAS', 'FIGURE', 'FISH', 'STEADY']",0,0,0,0,Multiword Expressions
+88,BAD THINGS FOR A VIDEO CALL TO DO,"['DROP', 'ECHO', 'FREEZE', 'LAG']",0,0,0,0,Associative Knowledge
+89,COSTUMES WITH STRIPED SHIRTS,"['MIME', 'PRISONER', 'REFEREE', 'SAILOR']",0,0,0,0,Associative Knowledge
+90,SEEN IN “ALADDIN”,"['GENIE', 'MONKEY', 'PARROT', 'PRINCESS']",0,0,0,1,Encyclopedic Knowledge
+91,MOVIES MINUS NUMBERS,"['APOLLO', 'CANDLES', 'FANTASTIC', 'SAMURAI']",0,0,0,0,Encyclopedic Knowledge
+92,MONOTONOUS SOUNDS,"['BUZZ', 'DRONE', 'HUM', 'PURR']",0,1,1,1,Semantic Knowledge
+93,BOATS,"['BARGE', 'DORY', 'SCOW', 'SLOOP']",0,0,1,1,Semantic Knowledge
+94,CAPTAINS,"['AMERICA', 'HOOK', 'MORGAN', 'NEMO']",0,0,0,0,Encyclopedic Knowledge
+95,PREFIXES WITH -CRACY,"['AUTO', 'BUREAU', 'DEMO', 'PLUTO']",0,0,0,0,Linguistic Knowledge
+96,STOOL PIGEON,"['CANARY', 'FINK', 'RAT', 'SNITCH']",0,1,0,0,Semantic Knowledge
+97,CRAM INTO A TIGHT SPACE,"['JAM', 'PACK', 'SQUEEZE', 'STUFF']",0,1,1,0,Semantic Knowledge
+98,YOGA POSES,"['CAT', 'COW', 'MOUNTAIN', 'TRIANGLE']",0,0,0,0,Associative Knowledge
+99,___FLY,"['BUTTER', 'DRAGON', 'FIRE', 'HORSE']",0,0,0,0,Multiword Expressions
+100,MUSIC PLAYER BUTTONS,"['REWIND', 'SHUFFLE', 'SKIP', 'STOP']",0,0,1,0,Associative Knowledge
+101,BROADCAST,"['AIR', 'RUN', 'SCREEN', 'SHOW']",0,0,0,0,Associative Knowledge
+102,THINGS YOU CAN DRAW,"['BATH', 'CARD', 'CURTAIN', 'PICTURE']",0,0,0,0,Associative Knowledge
+103,NUMBER ANAGRAMS,"['EON', 'ETHER', 'NET', 'TOW']",0,0,0,0,Linguistic Knowledge
+104,ARCHERY EQUIPMENT,"['ARROW', 'BOW', 'QUIVER', 'TARGET']",0,1,1,1,Semantic Knowledge
+105,CARD GAMES,"['BRIDGE', 'GIN', 'SPIT', 'WAR']",0,0,0,0,Encyclopedic Knowledge
+106,WALLOP,"['BELT', 'CLOCK', 'DECK', 'SLUG']",0,0,0,0,Semantic Knowledge
+107,CLASSIC TATTOOS,"['ANCHOR', 'DRAGON', 'HEART', 'ROSE']",0,0,0,0,Associative Knowledge
+108,SEA CREATURES,"['CRAB', 'RAY', 'SPONGE', 'SQUID']",0,0,1,1,Semantic Knowledge
+109,BASIC TWO-DIMENSIONAL SHAPES,"['CIRCLE', 'DIAMOND', 'SQUARE', 'TRIANGLE']",1,1,1,1,Semantic Knowledge
+110,BOXING MANEUVERS,"['BOB', 'CROSS', 'HOOK', 'WEAVE']",0,0,0,0,Encyclopedic Knowledge
+111,FANCY ___,"['FEAST', 'FREE', 'PANTS', 'THAT']",0,0,0,0,Multiword Expressions
+112,"OSTENTATIOUS, AS AN OUTFIT","['BRIGHT', 'FLASHY', 'GARISH', 'LOUD']",0,0,0,0,Associative Knowledge
+113,EUPHEMISMS FOR FLATULENCE,"['GAS', 'STINKER', 'TOOT', 'WIND']",0,0,0,0,Associative Knowledge
+114,KINDS OF BLOND,"['DIRTY', 'HONEY', 'PLATINUM', 'STRAWBERRY']",0,0,0,0,Associative Knowledge
+115,WHAT “O” MIGHT MEAN,"['HUG', 'OF', 'OXYGEN', 'ZERO']",0,0,0,0,Encyclopedic Knowledge
+116,"""GIVE ME A BREAK!""","['BROTHER', 'LORD', 'PLEASE', 'SHEESH']",0,0,0,0,Semantic Knowledge
+117,ECCLESIASTICAL TITLES,"['BISHOP', 'CARDINAL', 'PASTOR', 'PRIOR']",0,0,0,0,Semantic Knowledge
+118,ROCK & ROLL HALL OF FAME INDUCTEES,"['HEART', 'MADONNA', 'PRINCE', 'QUEEN']",0,0,0,0,Encyclopedic Knowledge
+119,CITY HOMOPHONES,"['DELI', 'NIECE', 'ROAM', 'SOUL']",0,0,0,0,Combined Category
+120,DRINKS WITH CAFFEINE,"['COCOA', 'COFFEE', 'MATE', 'TEA']",1,0,1,0,Semantic Knowledge
+121,UNEXCITING,"['BORING', 'DULL', 'MUNDANE', 'VANILLA']",0,0,0,0,Semantic Knowledge
+122,COMEDIAN’S PERFORMANCE,"['ACT', 'BIT', 'ROUTINE', 'SET']",0,0,0,0,Associative Knowledge
+123,MARTINI SPECIFICATIONS,"['DIRTY', 'DRY', 'TWIST', 'UP']",0,0,0,0,Encyclopedic Knowledge
+124,COMMERCIAL ORGANIZATION,"['AGENCY', 'COMPANY', 'ENTERPRISE', 'FIRM']",0,1,1,1,Semantic Knowledge
+125,FARM FIXTURES,"['COOP', 'PEN', 'STABLE', 'STY']",0,1,1,1,Associative Knowledge
+126,CLASSIC DOG NAMES,"['FLUFFY', 'REX', 'ROVER', 'SPOT']",0,0,1,0,Associative Knowledge
+127,COLORS MINUS THEIR FIRST LETTERS,"['INK', 'LACK', 'OLD', 'RANGE']",0,0,0,0,Combined Category
+128,TIME OFF,"['BREAK', 'HOLIDAY', 'LEAVE', 'RECESS']",0,1,1,1,Semantic Knowledge
+129,FEATURES OF A BELT,"['BUCKLE', 'HOLE', 'LOOP', 'STRAP']",0,0,0,0,Semantic Knowledge
+130,HOMOPHONES,"['HOLEY', 'HOLI', 'HOLY', 'WHOLLY']",0,1,0,0,Linguistic Knowledge
+131,___WOOD,"['DOG', 'DRIFT', 'HOLLY', 'SANDAL']",0,0,0,0,Multiword Expressions
+132,MAKE SHORTER,"['CLIP', 'CUT', 'PARE', 'TRIM']",0,1,1,0,Semantic Knowledge
+133,MUSCULAR,"['BUILT', 'JACKED', 'RIPPED', 'SWOLE']",0,0,1,0,Semantic Knowledge
+134,ENTHUSIAST,"['BUFF', 'FAN', 'LOVER', 'NUT']",0,0,0,0,Associative Knowledge
+135,WRINKLY THINGS,"['BRAIN', 'PRUNE', 'PUG', 'WALNUT']",0,0,0,0,Associative Knowledge
+136,MERRIMENT,"['CHEER', 'GLEE', 'FESTIVITY', 'MIRTH']",1,0,1,0,Semantic Knowledge
+137,BOOKED FOR A WEDDING,"['BAND', 'CATERER', 'FLORIST', 'OFFICIANT']",0,1,0,0,Associative Knowledge
+138,RHYMES,"['CHOIR', 'FIRE', 'LIAR', 'FRYER']",0,0,0,0,Linguistic Knowledge
+139,___ PIT,"['BARBECUE', 'ORCHESTRA', 'SNAKE', 'TAR']",0,0,0,0,Multiword Expressions
+140,HIT HARD,"['BANG', 'HAMMER', 'POUND', 'SLAM']",1,0,1,0,Semantic Knowledge
+141,NEWSPAPER NAMES,"['CHRONICLE', 'HERALD', 'REGISTER', 'SUN']",0,0,0,0,Encyclopedic Knowledge
+142,CRESCENT-SHAPED THINGS,"['BANANA', 'CROISSANT', 'MOON', 'SICKLE']",0,0,0,0,Associative Knowledge
+143,POWER-UPS IN SUPER MARIO WORLD,"['FEATHER', 'FLOWER', 'MUSHROOM', 'STAR']",0,0,0,0,Encyclopedic Knowledge
+144,DO SOME MARKETING,"['PITCH', 'PLUG', 'PROMOTE', 'PUSH']",1,0,0,0,Associative Knowledge
+145,ROMANTIC TWOSOME,"['COUPLE', 'ITEM', 'PAIR', 'THING']",0,0,0,0,Associative Knowledge
+146,TENNIS SCORES,"['AD', 'ALL', 'DEUCE', 'LOVE']",0,0,0,0,Encyclopedic Knowledge
+147,WORDS WITH “FRUIT”,"['BREAD', 'DRAGON', 'JACK', 'PASSION']",0,0,0,0,Combined Category
+148,HIGHEST POINT,"['CREST', 'PEAK', 'SUMMIT', 'VERTEX']",1,1,1,1,Semantic Knowledge
+149,“CAN I GET YOUR ___?” (PHONE INFO REQUEST),"['CELL', 'CONTACT', 'DIGITS', 'NUMBER']",0,0,0,1,Associative Knowledge
+150,MODIFIERS MEANING “SMALL”,"['BABY', 'MINI', 'POCKET', 'TOY']",0,0,1,1,Semantic Knowledge
+151,INSIDE A SCRABBLE BOX,"['BAG', 'BOARD', 'RACKS', 'TILES']",0,0,1,1,Encyclopedic Knowledge
+152,HURT,"['ACHE', 'BURN', 'SMART', 'STING']",0,0,1,0,Semantic Knowledge
+153,LOOK AFTER,"['GUARD', 'MIND', 'TEND', 'WATCH']",0,0,0,0,Semantic Knowledge
+154,SOUGHT AFTER IN “THE WIZARD OF OZ”,"['BRAIN', 'COURAGE', 'HEART', 'HOME']",0,0,0,0,Encyclopedic Knowledge
+155,SILENT “W”,"['ANSWER', 'TWO', 'WRIST', 'WRONG']",0,0,0,0,Linguistic Knowledge
+156,BASEBALL EQUIPMENT,"['BALL', 'BASE', 'BAT', 'GLOVE']",0,0,0,0,Semantic Knowledge
+157,HARD HIT,"['BLOW', 'LICK', 'SOCK', 'STRIKE']",0,0,0,0,Semantic Knowledge
+158,ORIGINAL MONOPOLY TOKENS,"['BOOT', 'IRON', 'THIMBLE', 'TOP HAT']",0,0,1,0,Encyclopedic Knowledge
+159,___ BUNNY,"['BAD', 'BUGS', 'DUST', 'HONEY']",0,0,0,0,Multiword Expressions
+160,OF-THE-MOMENT,"['BIG', 'HOT', 'IN', 'POPULAR']",0,0,1,0,Associative Knowledge
+161,PICTOGRAPH,"['CHARACTER', 'GLYPH', 'ICON', 'SYMBOL']",1,0,1,0,Semantic Knowledge
+162,"IMPOSE, AS A PENALTY","['ASSESS', 'CHARGE', 'FINE', 'LEVY']",0,0,0,0,Semantic Knowledge
+163,WORDS BEGINNING WITH BODY PARTS,"['HANDSOME', 'HIPPO', 'LEGEND', 'LIPID']",0,0,0,0,Linguistic Knowledge
+164,SMARTPHONE FEATURES BEGINNING WITH “C”,"['CALCULATOR', 'CALENDAR', 'CAMERA', 'CLOCK']",0,0,0,0,Semantic Knowledge
+165,PARTS OF THE EYE,"['CONE', 'IRIS', 'LENS', 'PUPIL']",0,0,0,0,Semantic Knowledge
+166,FAMILIAL NICKNAMES,"['DADA', 'GRAMMY', 'MUM', 'POPPY']",0,0,0,0,Semantic Knowledge
+167,WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS,"['EXPOSE', 'PATE', 'RESUME', 'ROSE']",0,0,0,0,Linguistic Knowledge
+168,BRING INTO BEING,"['COIN', 'CREATE', 'DEVISE', 'INVENT']",0,0,0,0,Semantic Knowledge
+169,EXCELLENT,"['FINE', 'PRIME', 'QUALITY', 'STERLING']",1,0,0,1,Semantic Knowledge
+170,SYMBOLS ABOVE NUMBERS ON A KEYBOARD,"['AT', 'DOLLAR', 'PERCENT', 'POUND']",0,1,0,0,Encyclopedic Knowledge
+171,PASS THE ___,"['BAR', 'BUCK', 'TIME', 'TORCH']",0,0,0,0,Multiword Expressions
+172,SYMBOLIC RODS,"['BATON', 'SCEPTER', 'STAFF', 'WAND']",0,1,0,0,Associative Knowledge
+173,DENTAL TERMS,"['CAVITY', 'CROWN', 'FILLING', 'PLAQUE']",0,0,1,0,Associative Knowledge
+174,RUBBER STAMP WORDS,"['APPROVED', 'PAID', 'URGENT', 'VOID']",0,0,0,0,Encyclopedic Knowledge
+175,___ YEAR,"['GAP', 'LEAP', 'LIGHT', 'SCHOOL']",0,0,0,0,Multiword Expressions
+176,RIP OFF,"['FLEECE', 'HOSE', 'ROB', 'STIFF']",0,0,0,0,Semantic Knowledge
+177,THINGS MADE OF WAX,"['CANDLE', 'CRAYON', 'HONEYCOMB', 'SEAL']",0,0,1,0,Associative Knowledge
+178,PARTS OF AN AIRPLANE,"['CABIN', 'ENGINE', 'NOSE', 'WING']",0,1,0,0,Semantic Knowledge
+179,UNITS OF VEGETABLES,"['BULB', 'EAR', 'HEAD', 'STALK']",0,0,0,0,Associative Knowledge
+180,DECLINE,"['DIP', 'DROP', 'FALL', 'SINK']",0,0,0,0,Semantic Knowledge
+181,MOVE WITH SPEED,"['BLAZE', 'FLY', 'RACE', 'TEAR']",0,0,0,0,Semantic Knowledge
+182,KINDS OF DANCE,"['MODERN', 'SALSA', 'SWING', 'TAP']",1,0,0,0,Semantic Knowledge
+183,BABY ___,"['BOOM', 'CARROT', 'SHOWER', 'TALK']",0,0,0,0,Multiword Expressions
+184,SUNDAE TOPPINGS,"['CHERRY', 'FUDGE', 'NUTS', 'SPRINKLES']",1,0,0,1,Associative Knowledge
+185,LEAVE HIGH AND DRY,"['DESERT', 'DITCH', 'MAROON', 'STRAND']",0,0,1,0,Semantic Knowledge
+186,“PHOOEY!”,"['CURSES', 'DARN', 'RATS', 'SHOOT']",0,1,0,0,Encyclopedic Knowledge
+187,WORDS IN TONGUE TWISTERS,"['FUZZY', 'PEPPERS', 'SEASHELLS', 'WOODCHUCK']",0,0,0,0,Encyclopedic Knowledge
+188,SHOW OFF,"['GRANDSTAND', 'PEACOCK', 'POSTURE', 'STRUT']",0,0,1,0,Semantic Knowledge
+189,FOREMOST,"['MAIN', 'PARAMOUNT', 'PRIME', 'SUPREME']",1,0,1,0,Semantic Knowledge
+190,COLORS IN BRAZIL’S FLAG,"['BLUE', 'GREEN', 'WHITE', 'YELLOW']",0,0,0,0,Encyclopedic Knowledge
+191,___ LETTER,"['CHAIN', 'COVER', 'LOVE', 'SCARLET']",0,0,0,0,Multiword Expressions
+192,DATA SET DATA,"['MEAN', 'MEDIAN', 'MODE', 'RANGE']",1,0,1,1,Associative Knowledge
+193,CHEMISTRY TERMS,"['BASE', 'BOND', 'ELEMENT', 'SOLUTION']",0,0,0,1,Associative Knowledge
+194,ADJECTIVE INTENSIFIERS,"['AWFUL', 'PRETTY', 'RATHER', 'REAL']",0,0,0,0,Linguistic Knowledge
+195,RADIO HALL OF FAME MEMBERS,"['GLASS', 'GROSS', 'KING', 'STERN']",0,0,0,0,Encyclopedic Knowledge
+196,DECEIVE,"['CON', 'DUPE', 'FOOL', 'TRICK']",0,0,1,0,Semantic Knowledge
+197,INSIDE INFO,"['DOPE', 'SCOOP', 'SKINNY', 'WORD']",0,0,0,0,Semantic Knowledge
+198,TILT TO ONE SIDE,"['CANT', 'LEAN', 'LIST', 'SLOPE']",0,0,0,0,Semantic Knowledge
+199,WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR,"['BOOB', 'EGGSHELL', 'GIGGLE', 'HELLO']",0,0,0,0,Encyclopedic Knowledge
+200,LIST OF CANDIDATES,"['BALLOT', 'ROSTER', 'SLATE', 'TICKET']",1,0,1,0,Associative Knowledge
+201,PROTECTIVE BARRIER,"['BUFFER', 'CUSHION', 'PAD', 'SHIELD']",0,0,0,0,Semantic Knowledge
+202,MEDICINE FORMATS,"['CAPSULE', 'CREAM', 'SYRUP', 'TABLET']",0,0,0,1,Semantic Knowledge
+203,PEA ___,"['COAT', 'GREEN', 'POD', 'SOUP']",0,0,0,0,Multiword Expressions
+204,THINGS TO PAY,"['BILL', 'CHECK', 'INVOICE', 'TAB']",1,0,1,1,Semantic Knowledge
+205,THIEVE,"['PINCH', 'ROB', 'STEAL', 'SWIPE']",1,0,1,0,Semantic Knowledge
+206,MALE ANIMALS,"['BUCK', 'BULL', 'JACK', 'TOM']",0,0,0,0,Associative Knowledge
+207,"LEGWEAR, IN THE SINGULAR","['JEAN', 'PANT', 'SHORT', 'TIGHT']",0,0,0,0,Semantic Knowledge
+208,CREDENTIALS FOR ENTRY,"['BADGE', 'INVITE', 'PASS', 'TICKET']",0,0,0,0,Associative Knowledge
+209,PRESIDE OVER,"['CHAIR', 'DIRECT', 'LEAD', 'RUN']",0,0,0,0,Semantic Knowledge
+210,AMERICAN FOOTBALL POSITIONS,"['CENTER', 'END', 'SAFETY', 'TACKLE']",0,0,0,0,Encyclopedic Knowledge
+211,POSTPONE,"['HOLD', 'PUNT', 'STALL', 'TABLE']",0,0,0,0,Semantic Knowledge
+212,TOPIC OF DISCUSSION,"['ISSUE', 'MATTER', 'POINT', 'SUBJECT']",0,0,1,0,Semantic Knowledge
+213,SECTION OF ONE’S LIFE,"['CHAPTER', 'PERIOD', 'PHASE', 'STAGE']",0,0,1,0,Associative Knowledge
+214,"PARTS OF A CAR, INFORMALLY","['DASH', 'SHOCK', 'TANK', 'WHEEL']",0,0,0,1,Semantic Knowledge
+215,COLOR HOMOPHONES,"['BLEW', 'CHORAL', 'READ', 'ROWS']",0,0,0,0,Linguistic Knowledge
+216,STATES OF MATTER,"['GAS', 'LIQUID', 'PLASMA', 'SOLID']",1,1,1,1,Semantic Knowledge
+217,ALL-TIMER,"['GREAT', 'HERO', 'ICON', 'LEGEND']",0,0,0,1,Semantic Knowledge
+218,“PH” WORDS THAT ALSO WORK WITH “F”,"['PHAT', 'PHEW', 'PHILLY', 'PHISH']",1,1,1,0,Linguistic Knowledge
+219,___ PITCH,"['ELEVATOR', 'FEVER', 'PERFECT', 'SALES']",0,0,0,0,Multiword Expressions
+220,BIT OF MAGIC,"['CHARM', 'CURSE', 'HEX', 'SPELL']",0,1,1,1,Associative Knowledge
+221,FOUND AROUND A FIREPLACE,"['FLUE', 'GRATE', 'LOG', 'POKER']",0,0,0,0,Associative Knowledge
+222,THINGS SEEN AT A CASINO,"['CARDS', 'CHIPS', 'DICE', 'SLOTS']",0,0,0,0,Associative Knowledge
+223,WAYS TO PREPARE CHEESE,"['CRUMBLE', 'MELT', 'SHRED', 'SLICE']",0,0,0,0,Associative Knowledge
+224,CLEANING SUPPLIES,"['BROOM', 'MOP', 'RAG', 'SPONGE']",0,0,1,1,Semantic Knowledge
+225,"ELEMENTS OF COOKING, PER SAMIN NOSRAT","['SALT', 'FAT', 'ACID', 'HEAT']",0,0,0,0,Encyclopedic Knowledge
+226,THINGS THAT MAKE YOU SNEEZE,"['DUST', 'PEPPER', 'POLLEN', 'SMOKE']",0,0,0,0,Associative Knowledge
+227,TITULAR FICTIONAL DETECTIVES,"['MAGNUM', 'MONK', 'SHAFT', 'TRACY']",0,1,1,0,Encyclopedic Knowledge
+228,THINGS THAT ARE ORANGE,"['BASKETBALL', 'CARROT', 'GOLDFISH', 'PUMPKIN']",0,0,0,0,Associative Knowledge
+229,"LONG, SKINNY OBJECTS","['POLE', 'ROD', 'STAFF', 'STICK']",0,1,0,0,Associative Knowledge
+230,SEEN ON A GOLF COURSE,"['CART', 'CLUB', 'HOLE', 'TEE']",0,1,1,0,Associative Knowledge
+231,SHAPES OF CAPITAL GREEK LETTERS,"['CIRCLE', 'HORSESHOE', 'PITCHFORK', 'TRIANGLE']",0,0,0,0,Encyclopedic Knowledge
+232,TECH COMPANIES,"['ALPHABET', 'AMAZON', 'APPLE', 'META']",0,0,1,0,Encyclopedic Knowledge
+233,KINDS OF EXAMS,"['BAR', 'FINAL', 'ORAL', 'PHYSICAL']",0,0,0,0,Associative Knowledge
+234,SOMETHING EXEMPLARY,"['BEAUTY', 'GEM', 'MARVEL', 'PEACH']",0,0,0,0,Semantic Knowledge
+235,___ TOOTH,"['BABY', 'EYE', 'SWEET', 'WISDOM']",0,0,0,0,Multiword Expressions
+236,STRONG SMELL,"['FUNK', 'MUSK', 'ODOR', 'TANG']",0,0,0,0,Semantic Knowledge
+237,MOVE BACK AND FORTH,"['ROCK', 'SWAY', 'SWING', 'WAVE']",0,0,0,0,Semantic Knowledge
+238,THINGS TO PICK,"['AFRO', 'BONE', 'FIGHT', 'LOCK']",0,0,0,0,Associative Knowledge
+239,___ BALL,"['CRYSTAL', 'DISCO', 'FOUL', 'GUTTER']",0,0,0,0,Multiword Expressions
+240,PLAYFULLY BOTHER,"['JOSH', 'KID', 'RIB', 'TEASE']",0,1,0,0,Semantic Knowledge
+241,APEX,"['HEIGHT', 'MAX', 'PEAK', 'TOP']",0,0,1,1,Semantic Knowledge
+242,WORDS FOR SPECIFIC QUANTITIES,"['DOZEN', 'GROSS', 'PAIR', 'SCORE']",0,0,0,0,Associative Knowledge
+243,WHAT “X” MIGHT MEAN,"['ADULT', 'KISS', 'TEN', 'TIMES']",0,0,0,0,Associative Knowledge
+244,GIFT-GIVING ACCESSORIES,"['BOW', 'BOX', 'CARD', 'WRAPPING']",0,0,1,1,Associative Knowledge
+245,DATING APP ACTIONS,"['BLOCK', 'MATCH', 'MESSAGE', 'SWIPE']",0,0,0,0,Encyclopedic Knowledge
+246,"COOL, IN SLANG","['FIRE', 'LIT', 'SICK', 'TIGHT']",0,0,0,0,Combined Category
+247,LUCKY ___,"['BREAK', 'CHARM', 'DUCK', 'STRIKE']",0,0,0,0,Multiword Expressions
+248,MOVE THROUGH THE AIR,"['FLOAT', 'FLY', 'GLIDE', 'SOAR']",0,0,1,0,Semantic Knowledge
+249,HIDDEN LISTENING DEVICES,"['BUG', 'MIKE', 'TAP', 'WIRE']",0,0,0,0,Combined Category
+250,"SELECT, AS A BOX ON A FORM","['CHECK', 'MARK', 'TICK', 'X']",0,0,0,0,Associative Knowledge
+251,RAPPERS MINUS FIRST LETTER,"['40', 'COLE', 'PAIN', 'TIP']",0,0,0,0,Combined Category
+252,B.L.T. INGREDIENTS,"['BREAD', 'BACON', 'LETTUCE', 'TOMATO']",0,0,1,0,Associative Knowledge
+253,OBSTRUCT,"['BLOCK', 'CLOG', 'JAM', 'STOP']",0,0,0,0,Semantic Knowledge
+254,BASEBALL STATS,"['DOUBLE', 'HIT', 'RUN', 'WALK']",0,0,0,0,Associative Knowledge
+255,SMALL ___,"['FRY', 'TALK', 'WONDER', 'WORLD']",0,0,0,0,Multiword Expressions
+256,GARDENING NOUNS/VERBS,"['PLANT', 'SEED', 'WATER', 'WEED']",0,0,0,0,Semantic Knowledge
+257,KINDS OF SALADS,"['CAESAR', 'GREEK', 'GREEN', 'WEDGE']",0,0,0,0,Semantic Knowledge
+258,"CLASSIC GAME SHOWS, FAMILIARLY","['FEUD', 'MILLIONAIRE', 'PYRAMID', 'WHEEL']",0,0,0,0,Encyclopedic Knowledge
+259,W + VOWEL SOUND,"['WAY', 'WEE', 'WHY', 'WHOA']",0,0,0,0,Linguistic Knowledge
+260,ORGANIZATION,"['CLUB', 'GROUP', 'PARTY', 'TEAM']",0,0,0,1,Associative Knowledge
+261,"SHARPNESS, AS OF AN IMAGE","['CLARITY', 'DEFINITION', 'DETAIL', 'RESOLUTION']",0,1,0,0,Associative Knowledge
+262,PLACES IN FRANCE,"['CHAMPAGNE', 'DIJON', 'NICE', 'TOURS']",0,0,1,0,Encyclopedic Knowledge
+263,HAPPY NEW YEAR!,"['BALL', 'COUNTDOWN', 'FIREWORKS', 'KISS']",0,0,0,0,Associative Knowledge
+264,BLACK-AND-WHITE ANIMALS,"['ORCA', 'PANDA', 'SKUNK', 'ZEBRA']",1,1,0,0,Semantic Knowledge
+265,SEQUENCE,"['CHAIN', 'SERIES', 'STRING', 'TRAIN']",0,0,0,0,Semantic Knowledge
+266,HETERONYMS,"['BASS', 'DOVE', 'DESERT', 'WIND']",0,0,0,0,Linguistic Knowledge
+267,___ TRAP,"['BEAR', 'SAND', 'SPEED', 'TOURIST']",0,0,0,0,Multiword Expressions
+268,SHIRTS,"['CROP', 'POLO', 'TANK', 'TEE']",0,0,1,0,Semantic Knowledge
+269,"COOL, IN ’80S SLANG","['BAD', 'FLY', 'FRESH', 'RAD']",0,1,0,0,Encyclopedic Knowledge
+270,LETTER SPELLINGS,"['BEE', 'EX', 'GEE', 'JAY']",0,0,1,0,Linguistic Knowledge
+271,___ GEORGE,"['BOY', 'BY', 'CURIOUS', 'SAINT']",0,0,0,0,Multiword Expressions
+272,PARTS OF A CAR,"['BUMPER', 'HOOD', 'TIRE', 'TRUNK']",0,1,0,1,Semantic Knowledge
+273,MOVE QUICKLY,"['BOLT', 'DART', 'DASH', 'ZIP']",0,1,1,0,Semantic Knowledge
+274,BIRDS,"['CARDINAL', 'JAY', 'LARK', 'SWIFT']",0,1,1,1,Semantic Knowledge
+275,JAZZ LEGENDS,"['HANCOCK', 'HOLIDAY', 'MONK', 'PARKER']",0,0,0,0,Encyclopedic Knowledge
+276,INDICATION OF THINGS TO COME,"['MESSAGE', 'OMEN', 'SIGN', 'WARNING']",0,0,1,0," Associative Knowledge"
+277,NAME PREFIXES,"['GEN', 'MS', 'PROF', 'REV']",0,0,0,0,Associative Knowledge
+278,ART MEDIUMS,"['CHARCOAL', 'INK', 'PAINT', 'PASTEL']",0,0,1,1,Semantic Knowledge
+279,___ PEPPER,"['BELL', 'BLACK', 'DR', 'GHOST']",0,0,0,0,Multiword Expressions
+280,ROAD NAMES,"['ALLEY', 'DRIVE', 'LANE', 'STREET']",0,1,1,0,Semantic Knowledge
+281,PAPER IN A BOOK,"['FOLIO', 'LEAF', 'PAGE', 'SHEET']",0,1,0,0,Associative Knowledge
+282,RESTRAIN,"['CHECK', 'CURB', 'LIMIT', 'STEM']",0,0,0,0,Semantic Knowledge
+283,THINGS YOU CAN DO TO YOUR NOSE,"['BLOW', 'HOLD', 'PICK', 'THUMB']",0,0,0,1,Associative Knowledge
+284,DARLING,"['BABY', 'BOO', 'DEAR', 'LOVE']",1,1,0,0,Semantic Knowledge
+285,BASIC GEOMETRIC OBJECTS,"['LINE', 'POINT', 'RAY', 'SEGMENT']",0,1,0,1,Semantic Knowledge
+286,OOMPH,"['ENERGY', 'FIRE', 'JUICE', 'ZIP']",0,1,0,0,Semantic Knowledge
+287,SECRET ___,"['AGENT', 'CODE', 'SANTA', 'SAUCE']",0,0,0,0,Multiword Expressions
+288,GENTLE,"['LIGHT', 'MELLOW', 'MILD', 'SOFT']",0,1,1,1,Semantic Knowledge
+289,CUTS OF PORK,"['BELLY', 'CHOP', 'HOCK', 'SHOULDER']",0,0,0,0,Semantic Knowledge
+290,STATUE OF LIBERTY FEATURES,"['CROWN', 'ROBE', 'TABLET', 'TORCH']",0,0,0,0,Encyclopedic Knowledge
+291,THINGS TO BLOW ON FOR WISHES/LUCK,"['CANDLE', 'DANDELION', 'DICE', 'EYELASH']",0,0,0,0,Associative Knowledge
+292,MEANS OF TRANSPORTATION,"['BOAT', 'CAR', 'PLANE', 'TRAIN']",1,1,1,1,Semantic Knowledge
+293,WILLING TO PARTICIPATE,"['DOWN', 'GAME', 'IN', 'ON BOARD']",0,0,0,0,Semantic Knowledge
+294,"LITTLE BIT, IN A RECIPE","['DASH', 'DROP', 'PINCH', 'SPLASH']",0,0,0,0,Semantic Knowledge
+295,___BERRY,"['BLUE', 'GOOSE', 'RASP', 'STRAW']",0,1,0,0,Multiword Expressions
+296,CLASSIC HALLOWEEN COSTUMES,"['ANGEL', 'CLOWN', 'PIRATE', 'WITCH']",0,0,0,0,Encyclopedic Knowledge
+297,BEE CREATIONS,"['COMB', 'HIVE', 'HONEY', 'WAX']",0,1,1,1,Semantic Knowledge
+298,INTERVAL OF TIME,"['PERIOD', 'SPELL', 'STRETCH', 'WHILE']",0,0,1,0,Semantic Knowledge
+299,ANIMAL HOMOPHONES,"['DEAR', 'HAIR', 'HOARSE', 'WAIL']",0,0,0,0,Linguistic Knowledge
+300,SEEN IN A LAUNDRY ROOM,"['DRYER', 'HAMPER', 'IRON', 'WASHER']",1,0,0,1,"Associative Knowledge "
+301,SHEPHERD,"['DIRECT', 'GUIDE', 'LEAD', 'STEER']",0,0,0,1,Semantic Knowledge
+302,WHAT “I” MIGHT MEAN,"['IODINE', 'IOTA', 'MYSELF', 'ONE']",0,0,0,0,Associative Knowledge
+303,___ VALLEY,"['DEATH', 'HIDDEN', 'SILICON', 'UNCANNY']",0,0,0,0,Multiword Expressions
+304,CONTACT VIA PHONE,"['BUZZ', 'CALL', 'DIAL', 'RING']",1,1,0,1,Semantic Knowledge
+305,BOOK SECTIONS,"['APPENDIX', 'CHAPTER', 'INDEX', 'PREFACE']",1,1,1,0,Semantic Knowledge
+306,WEE,"['DINKY', 'LITTLE', 'MINUTE', 'SLIGHT']",1,0,1,0,Semantic Knowledge
+307,CARTOON MICE,"['ITCHY', 'JERRY', 'PINKY', 'SPEEDY']",0,1,0,0,Encyclopedic Knowledge
+308,ACCESSORIES,"['BELT', 'BRACELET', 'TIE', 'WATCH']",1,0,0,1,Semantic Knowledge
+309,COMEDIAN’S OUTPUT,"['BIT', 'JOKE', 'ROUTINE', 'SKETCH']",0,0,0,0,Associative Knowledge
+310,ATTRACTION,"['APPEAL', 'CHARM', 'DRAW', 'PULL']",0,0,0,1,Semantic Knowledge
+311,TWO LETTERS + NUMBER,"['CANINE', 'FREIGHT', 'OFTEN', 'STONE']",0,0,0,0,Linguistic Knowledge
+312,BRIEF MOMENT,"['FLASH', 'JIFFY', 'SECOND', 'WINK']",0,0,0,0,Semantic Knowledge
+313,PRIMARY,"['CHIEF', 'FIRST', 'MAIN', 'PRINCIPAL']",0,1,0,0,Semantic Knowledge
+314,AVENUES IN N.Y.C.,"['BROADWAY', 'FIFTH', 'MADISON', 'PARK']",0,0,0,1,Encyclopedic Knowledge
+315,___ HOUR,"['AMATEUR', 'ELEVENTH', 'HAPPY', 'RUSH']",0,0,0,0,Multiword Expressions
+316,RESERVE FOR LATER,"['BANK', 'SAVE', 'STASH', 'STORE']",0,1,1,0,Semantic Knowledge
+317,"BOLDNESS, FIGURATIVELY","['GALL', 'GUTS', 'NERVE', 'STONES']",0,1,0,0,Semantic Knowledge
+318,USED TO BUILD A SNOWMAN,"['CARROT', 'COAL', 'SNOW', 'STICKS']",0,0,0,0,Associative Knowledge
+319,FUNNY ___,"['BONE', 'BUSINESS', 'GIRL', 'PAGES']",0,0,0,0,Multiword Expressions
+320,FARM TOOLS,"['HOE', 'PLOW', 'RAKE', 'SICKLE']",1,1,1,1,Semantic Knowledge
+321,SCHEME,"['PLOT', 'PLOY', 'RUSE', 'TRICK']",0,0,1,0,Semantic Knowledge
+322,MAKE HAPPY,"['AMUSE', 'DELIGHT', 'PLEASE', 'TICKLE']",0,0,1,1,Semantic Knowledge
+323,ONOMATOPOEIA,"['BANG', 'PLOP', 'SPLASH', 'THUD']",1,1,1,1,Linguistic Knowledge
+324,CURMUDGEON,"['CRAB', 'CRANK', 'GROUCH', 'GRUMP']",0,0,0,0,Semantic Knowledge
+325,GET LOW,"['CROUCH', 'DUCK', 'SQUAT', 'STOOP']",0,0,0,0,Semantic Knowledge
+326,NATIONAL SYMBOLS,"['ANTHEM', 'FLAG', 'MOTTO', 'SEAL']",0,1,1,1,Semantic Knowledge
+327,SWINDLER,"['CHEAT', 'CROOK', 'QUACK', 'SHARK']",0,0,0,0,Semantic Knowledge
+328,PESTER,"['BADGER', 'BUG', 'HOUND', 'NAG']",0,0,0,0,Semantic Knowledge
+329,SPORTS VENUES,"['ARENA', 'BOWL', 'DOME', 'FIELD']",0,0,0,0,Associative Knowledge
+330,SEPARATE,"['DIVIDE', 'FORK', 'PART', 'SPLIT']",0,0,1,0,Semantic Knowledge
+331,SILVER ___,"['FOX', 'LINING', 'SCREEN', 'SPOON']",0,0,0,0,Multiword Expressions
+332,GOLF COURSE PARTS,"['BUNKER', 'FAIRWAY', 'GREEN', 'ROUGH']",0,0,1,1,Semantic Knowledge
+333,“I GIVE!”,"['ENOUGH', 'MERCY', 'STOP', 'UNCLE']",0,0,0,0,Associative Knowledge
+334,INDECENT,"['BAWDY', 'BLUE', 'COARSE', 'RISQUE']",0,0,0,0,Semantic Knowledge
+335,”-OUGH” WORDS THAT DON’T RHYME,"['BOUGH', 'COUGH', 'DOUGH', 'TOUGH']",0,0,0,0,Linguistic Knowledge
+336,MURKY CONDITION,"['CLOUD', 'FOG', 'HAZE', 'MIST']",1,0,1,1,Semantic Knowledge
+337,FOLLOW,"['SHADOW', 'TAIL', 'TRACK', 'TRAIL']",0,1,0,0,Semantic Knowledge
+338,PINBALL MACHINE COMPONENTS,"['BALL', 'BUMPER', 'FLIPPER', 'PLUNGER']",0,1,0,0,Semantic Knowledge
+339,___LAND COUNTRIES,"['ICE', 'IRE', 'FIN', 'NETHER']",0,0,0,0,Multiword Expressions
+340,LUXURIOUS FABRICS,"['CHIFFON', 'SATIN', 'SILK', 'VELVET']",0,0,1,1,Semantic Knowledge
+341,COME DOWN TO REST,"['PERCH', 'ROOST', 'SETTLE', 'LAND']",1,0,0,0,Semantic Knowledge
+342,SHOE PARTS,"['EYELET', 'LACE', 'SOLE', 'TONGUE']",0,0,0,0,Semantic Knowledge
+343,THINGS THAT ARE DELIVERED,"['BABY', 'BLOW', 'PACKAGE', 'SPEECH']",0,0,0,0,Associative Knowledge
+344,PARTS OF A RIVER,"['BANK', 'BED', 'DELTA', 'MOUTH']",1,1,0,0,Semantic Knowledge
+345,SOMETHING EASY TO DO,"['BREEZE', 'CINCH', 'PICNIC', 'SNAP']",0,0,0,0,Linguistic Knowledge
+346,WRAP AROUND IN A CIRCLE,"['COIL', 'SPIRAL', 'TWIST', 'WIND']",0,0,1,0,Semantic Knowledge
+347,JUMP INTO THE AIR,"['BOUND', 'LEAP', 'SPRING', 'VAULT']",1,0,0,1,Semantic Knowledge
+348,ICE CREAM TREATS,"['FLOAT', 'SHAKE', 'SPLIT', 'SUNDAE']",0,0,1,0,Associative Knowledge
+349,HARDWARE FASTENERS,"['BOLT', 'NAIL', 'RIVET', 'SCREW']",1,1,0,1,Semantic Knowledge
+350,KINDS OF COOKING OIL,"['CORN', 'OLIVE', 'PALM', 'PEANUT']",0,0,1,0,Semantic Knowledge
+351,STICKY ___,"['FINGERS', 'NOTE', 'RICE', 'WICKET']",0,0,0,0,Multiword Expressions
+352,DECLINE,"['EBB', 'FADE', 'FLAG', 'WANE']",0,0,0,0,Semantic Knowledge
+353,ABSOLUTE,"['PURE', 'SHEER', 'TOTAL', 'UTTER']",0,0,0,1,Semantic Knowledge
+354,EXPRESS,"['AIR', 'SPEAK', 'STATE', 'VOICE']",0,0,0,0,Semantic Knowledge
+355,SUPERHERO LAST NAMES,"['BANNER', 'PRINCE', 'STARK', 'WAYNE']",0,0,0,0,Encyclopedic Knowledge
+356,STATE ABBREVIATIONS,"['HI', 'LA', 'MA', 'OK']",0,0,0,1,Encyclopedic Knowledge
+357,CABLE CHANNELS,"['BET', 'E', 'HALLMARK', 'USA']",0,0,0,0,Encyclopedic Knowledge
+358,IN THE NATO ALPHABET,"['ALFA', 'BRAVO', 'ROMEO', 'TANGO']",1,1,1,1,Encyclopedic Knowledge
+359,___-___,"['BOO', 'POM', 'TOM', 'YO']",0,0,0,0,Linguistic Knowledge
+360,FOUND ON SHEET MUSIC,"['CLEF', 'NOTE', 'REST', 'STAFF']",0,0,1,1,Associative Knowledge
+361,ZODIAC SYMBOLS,"['BULL', 'CRAB', 'SCALES', 'TWINS']",0,0,0,0,Encyclopedic Knowledge
+362,RECORD LABELS,"['CAPITOL', 'COLUMBIA', 'VIRGIN', 'ISLAND']",0,0,0,0,Encyclopedic Knowledge
+363,ZODIAC SIGN BEGINNINGS,"['CAN', 'GEM', 'LIB', 'TAU']",0,0,0,0,Combined Category
+364,ENORMOUS,"['BIG', 'GIANT', 'GREAT', 'HUGE']",1,1,1,1,Semantic Knowledge
+365,BOOKSTORE SECTIONS,"['FICTION', 'HUMOR', 'POETRY', 'TRAVEL']",0,0,0,0,Associative Knowledge
+366,TV SHOWS WITH HAPPY-SOUNDING NAMES,"['CHEERS', 'EUPHORIA', 'FELICITY', 'GLEE']",0,0,0,0,Encyclopedic Knowledge
+367,___ CRANE,"['CONSTRUCTION', 'FRASIER', 'PAPER', 'WHOOPING']",0,0,0,0,Multiword Expressions
+368,UNIT OF BREAD,"['BAGUETTE', 'BUN', 'LOAF', 'ROLL']",1,1,0,0,Semantic Knowledge
+369,"ASSURE, AS A WIN","['CLINCH', 'GUARANTEE', 'LOCK', 'SECURE']",0,1,1,0,Semantic Knowledge
+370,SMALL IMPERFECTION,"['CHIP', 'MARK', 'NICK', 'SCRATCH']",1,1,0,0,Associative Knowledge
+371,HEAD OF ___,"['HAIR', 'LETTUCE', 'STATE', 'STEAM']",0,0,0,0,Multiword Expressions
+372,MONTHLY BILLS,"['CABLE', 'ELECTRIC', 'GAS', 'WATER']",0,0,0,0,Associative Knowledge
+373,RELATED TO SOUND/HEARING,"['ACOUSTIC', 'AUDITORY', 'HEARD', 'SONIC']",0,0,0,0,Semantic Knowledge
+374,CONNECT,"['COUPLE', 'HITCH', 'LINK', 'TIE']",0,1,1,0,Semantic Knowledge
+375,"EXCITE, WITH “UP”","['AMP', 'FIRE', 'HYPE', 'PUMP']",0,0,0,0,Linguistic Knowledge
+376,CONTAINERS,"['BASKET', 'BIN', 'CHEST', 'HAMPER']",0,1,0,1,Semantic Knowledge
+377,CIRCULAR SHAPES,"['BAND', 'CIRCLE', 'HOOP', 'RING']",0,0,0,0,Semantic Knowledge
+378,RESTRICT,"['CAP', 'CHECK', 'CURB', 'LIMIT']",0,0,0,0,Semantic Knowledge
+379,___ JAM,"['NBA', 'PAPER', 'PEARL', 'TRAFFIC']",0,0,0,0,Multiword Expressions
+380,PLACES TO SHOP,"['MALL', 'MARKET', 'OUTLET', 'STORE']",0,1,1,1,Semantic Knowledge
+381,WAYS TO REMOVE HAIR,"['SHAVE', 'THREAD', 'TWEEZE', 'WAX']",0,0,0,1,Associative Knowledge
+382,PORTION OF PROFIT,"['CUT', 'PIECE', 'SHARE', 'TAKE']",0,0,0,0,Associative Knowledge
+383,KINDS OF WRENCHES,"['ALLEN', 'CRESCENT', 'MONKEY', 'SOCKET']",0,1,1,0,Encyclopedic Knowledge
+384,AVOID,"['DODGE', 'DUCK', 'ESCAPE', 'SKIRT']",0,0,0,0,Semantic Knowledge
+385,HITCHCOCK MOVIES,"['BIRDS', 'NOTORIOUS', 'REBECCA', 'ROPE']",0,0,0,0,Encyclopedic Knowledge
+386,SIDEKICKS,"['GOOSE', 'HOBBES', 'ROBIN', 'WATSON']",0,0,0,0,Encyclopedic Knowledge
+387,___ CHEESE,"['COTTAGE', 'CREAM', 'SAY', 'STRING']",0,0,0,0,Multiword Expressions
+388,FOOT PARTS,"['ARCH', 'BALL', 'SOLE', 'TOE']",0,1,0,0,Semantic Knowledge
+389,MUSICAL INSTRUMENTS,"['BASS', 'HARP', 'HORN', 'ORGAN']",0,1,1,1,Semantic Knowledge
+390,DOG COMMANDS,"['COME', 'DOWN', 'SIT', 'STAY']",1,0,0,1,Associative Knowledge
+391,BADDIE,"['DOG', 'HEEL', 'JERK', 'SNAKE']",0,0,0,0,Associative Knowledge
+392,ROOMS IN A HOUSE,"['BEDROOM', 'DEN', 'KITCHEN', 'STUDY']",0,0,1,1,Semantic Knowledge
+393,LAND SURROUNDED BY WATER,"['ATOLL', 'BAR', 'ISLAND', 'KEY']",0,0,1,1,Associative Knowledge
+394,FILL TO EXCESS,"['CRAM', 'JAM', 'PACK', 'STUFF']",0,0,0,0,Semantic Knowledge
+395,BEAN ___,"['BAG', 'COUNTER', 'DIP', 'SPROUT']",0,0,0,0,Multiword Expressions
+396,CARRY A TUNE,"['HUM', 'SING', 'SCAT', 'WHISTLE']",0,1,0,0,Semantic Knowledge
+397,WHOLE AMOUNT,"['COUNT', 'GROSS', 'SUM', 'TOTAL']",0,0,1,0,Semantic Knowledge
+398,MOJITO INGREDIENTS,"['LIME', 'MINT', 'RUM', 'SODA']",0,0,0,0,Associative Knowledge
+399,THINGS THAT ARE “STICKY”,"['GLUE', 'GUM', 'TAPE', 'STICK']",1,1,1,0,Semantic Knowledge
+400,MUNICIPALITIES,"['CITY', 'COUNTY', 'TOWN', 'VILLAGE']",1,0,1,1,Semantic Knowledge
+401,BLENDER BUTTONS,"['CHOP', 'GRIND', 'PULSE', 'PUREE']",1,1,1,0,Associative Knowledge
+402,FINANCIAL TERMS,"['CAPITAL', 'EQUITY', 'INTEREST', 'STOCK']",1,1,1,1,Associative Knowledge
+403,___ LEAGUE,"['IVY', 'JUSTICE', 'LITTLE', 'PREMIER']",0,1,0,0,Multiword Expressions
+404,SECLUDED,"['HIDDEN', 'PRIVATE', 'REMOTE', 'SECRET']",0,1,1,0,Semantic Knowledge
+405,AGGREGATE SIZE,"['AMOUNT', 'NUMBER', 'QUANTITY', 'VOLUME']",1,1,1,1,Semantic Knowledge
+406,BODIES OF WATER,"['CANAL', 'CHANNEL', 'SOUND', 'STRAIT']",0,1,1,0,Associative Knowledge
+407,READS THE SAME ROTATED 180°,"['96', 'MOW', 'NOON', 'SIS']",0,0,0,0,Associative Knowledge
+408,CRITICIZE,"['KNOCK', 'PAN', 'ROAST', 'SLAM']",0,0,0,0,Semantic Knowledge
+409,REALITY SHOWS,"['ALONE', 'CATFISH', 'CHOPPED', 'SURVIVOR']",0,0,0,1,Encyclopedic Knowledge
+410,CAR BRANDS,"['FIAT', 'JAGUAR', 'MINI', 'RAM']",0,1,0,0,Encyclopedic Knowledge
+411,___ PAD,"['BACHELOR', 'LILY', 'MAXI', 'MOUSE']",0,0,0,0,Multiword Expressions
+412,FOODS WITH CRUSTS,"['PASTY', 'PIE', 'TART', 'TURNOVER']",0,0,0,0,Associative Knowledge
+413,ENDING IN A SILENT “T”,"['BOUQUET', 'PARFAIT', 'RAGOUT', 'RAPPORT']",0,0,0,0,Linguistic Knowledge
+414,COUNTRIES WITH RED AND WHITE FLAGS,"['JAPAN', 'POLAND', 'TUNISIA', 'TURKEY']",0,0,0,0,Encyclopedic Knowledge
+415,N.B.A. GREATS,"['BIRD', 'CURRY', 'JAMES', 'JORDAN']",0,0,0,0,Encyclopedic Knowledge
+416,AREAS BETWEEN MOUNTAINS AND HILLS,"['CANYON', 'GULCH', 'PASS', 'RAVINE']",0,0,0,0,Associative Knowledge
+417,EAT VORACIOUSLY,"['GORGE', 'GULP', 'SCARF', 'WOLF']",0,0,0,0,Associative Knowledge
+418,FEATURED IN “SNOW WHITE”,"['APPLE', 'BASHFUL', 'MIRROR', 'QUEEN']",0,1,1,0,Encyclopedic Knowledge
+419,“C” + BIRD,"['CHEN', 'CLARK', 'COWL', 'CRAVEN']",0,0,0,0,Combined Category
+420,TYPES OF TEETH,"['CANINE', 'FANG', 'MOLAR', 'TUSK']",0,1,0,1,Semantic Knowledge
+421,FASHIONABLE,"['CHIC', 'HIP', 'HOT', 'IN']",0,1,0,0,Semantic Knowledge
+,DANCE MOVES,"['FLOSS', 'ROBOT', 'VOGUE', 'WORM']",0,0,0,0,Encyclopedic Knowledge
+423,THINGS THAT SUCK,"['LEECH', 'STRAW', 'VACUUM', 'VAMPIRE']",0,0,0,0,Associative Knowledge
+424,RELIGIOUS FIGURES,"['CARDINAL', 'LAMA', 'MONK', 'PASTOR']",0,0,1,0,Encyclopedic Knowledge
+425,PRIMATES,"['BABOON', 'BONOBO', 'GIBBON', 'GORILLA']",1,0,1,1,Semantic Knowledge
+426,CHUTNEY VARIETIES,"['MANGO', 'MINT', 'TAMARIND', 'TOMATO']",0,0,0,0,Associative Knowledge
+427,IMITATE,"['APE', 'MIME', 'MIRROR', 'PARROT']",0,0,0,0,Semantic Knowledge
+428,ONSET,"['BIRTH', 'CREATION', 'DAWN', 'START']",1,1,1,0,Semantic Knowledge
+429,VENERABLE,"['AUGUST', 'GRAND', 'NOBLE', 'REGAL']",0,1,0,0,Semantic Knowledge
+430,WALK,"['MARCH', 'STEP', 'STRIDE', 'TREAD']",1,1,0,0,Semantic Knowledge
+431,___ DAY HOLIDAYS,"['EARTH', 'GROUNDHOG', 'LABOR', 'MAY']",0,1,0,0,Encyclopedic Knowledge
+432,QUICK PEEK,"['GANDER', 'GLANCE', 'GLIMPSE', 'LOOK']",0,1,1,0,Semantic Knowledge
+433,DECEIT,"['ACT', 'BLUFF', 'CHARADE', 'FRONT']",1,1,0,0,Semantic Knowledge
+434,PARTS OF A MOUNTAIN,"['CLIFF', 'CRAG', 'LEDGE', 'RIDGE']",0,0,0,0,Semantic Knowledge
+435,HOMOPHONES,"['PEAK', 'PEEK', 'PEKE', 'PIQUE']",0,0,0,0,Linguistic Knowledge
+436,BODYWEIGHT EXERCISES,"['DIPS', 'LUNGES', 'PLANKS', 'SQUATS']",1,1,1,1,Semantic Knowledge
+437,EMAIL SIGN-OFFS,"['BEST', 'CHEERS', 'REGARDS', 'THANKS']",1,0,1,0,Associative Knowledge
+438,"M.L.B. TEAMS, FOR SHORT","['CARDS', 'JAYS', 'NATS', 'YANKS']",1,0,1,1,Encyclopedic Knowledge
+439,ELIZABETHS (AND ONE ELISABETH),"['BANKS', 'MOSS', 'TAYLOR', 'WARREN']",0,1,0,0,Encyclopedic Knowledge
+440,BALDERDASH,"['BULL', 'HOGWASH', 'NONSENSE', 'ROT']",0,0,0,0,Semantic Knowledge
+441,HELM,"['DIRECT', 'GUIDE', 'LEAD', 'STEER']",0,1,1,0,Semantic Knowledge
+442,SINGLE/PLURAL ANIMALS,"['BUFFALO', 'DEER', 'FISH', 'MOOSE']",0,0,0,0,Combined Category
+443,GREAT ___,"['DANE', 'LAKE', 'SEAL', 'WHITE']",0,0,0,0,Multiword Expressions
+444,“GROSS!”,"['EW', 'ICK', 'PU', 'UGH']",0,1,0,0,Semantic Knowledge
+445,MAGAZINES,"['O', 'OK', 'US', 'W']",0,0,0,0,Encyclopedic Knowledge
+446,“YES” IN DIFFERENT LANGUAGES,"['HAI', 'JA', 'SI', 'DA']",0,0,0,0,Combined Category
+447,HOMOPHONES,"['OUI', 'WE', 'WEE', 'WII']",0,0,0,0,Linguistic Knowledge
+448,BASIC EMOTIONS,"['ANGER', 'FEAR', 'HAPPINESS', 'SURPRISE']",0,0,1,1,Semantic Knowledge
+449,BIT OF VOCAL FANFARE,"['BEHOLD', 'PRESTO', 'TADA', 'VOILA']",0,0,1,1,Semantic Knowledge
+450,OBTAIN,"['GET', 'LAND', 'SECURE', 'WIN']",0,0,0,0,Semantic Knowledge
+451,___ ANT,"['ADAM', 'CARPENTER', 'FIRE', 'RED']",0,0,0,0,Semantic Knowledge
+452,UNIT OF LANGUAGE,"['LETTER', 'PARAGRAPH', 'SENTENCE', 'WORD']",0,0,0,0,Associative Knowledge
+453,TRADEMARK,"['FEATURE', 'HALLMARK', 'STAMP', 'TRAIT']",0,0,0,0,Semantic Knowledge
+454,FUNNY PERSON,"['CARD', 'CLOWN', 'CUTUP', 'JOKER']",0,0,0,0,Semantic Knowledge
+455,THINGS WITH LEAVES,"['BOOK', 'TABLE', 'TEA', 'TREE']",0,0,0,0,Associative Knowledge
+456,PRESIDENTS,"['FORD', 'GRANT', 'LINCOLN', 'WILSON']",0,0,1,0,Encyclopedic Knowledge
+457,SPORTS PROFESSIONALS,"['COACH', 'GM', 'PLAYER', 'SCOUT']",0,0,0,0,Associative Knowledge
+458,CAR COMPANIES,"['BMW', 'HONDA', 'JAGUAR', 'SUBARU']",0,0,0,0,Encyclopedic Knowledge
+459,COMMON PREFIXES,"['AUTO', 'POST', 'SEMI', 'SUB']",0,0,0,0,Linguistic Knowledge
+460,SPARSE/LACKING,"['LIGHT', 'SHORT', 'SPARE', 'THIN']",0,0,0,0,Semantic Knowledge
+461,FUN TIME,"['BALL', 'BLAST', 'KICK', 'RIOT']",0,0,0,0,Associative Knowledge
+462,FILMMAKING EQUIPMENT,"['BOOM', 'DOLLY', 'LENS', 'TRIPOD']",0,1,0,0,Semantic Knowledge
+463,“GET A ___!”,"['CLUE', 'GRIP', 'LIFE', 'ROOM']",0,0,0,0,Multiword Expressions
+464,SPICES,"['ANISE', 'DILL', 'NUTMEG', 'SAGE']",0,1,1,0,Semantic Knowledge
+465,INTELLIGENT,"['BRIGHT', 'QUICK', 'SHARP', 'SMART']",0,1,1,0,Semantic Knowledge
+466,DEODORANTS,"['AXE', 'DEGREE', 'OLD SPICE', 'SECRET']",0,0,0,0,Encyclopedic Knowledge
+467,MEDIEVAL WEAPONS,"['CLUB', 'MACE', 'SPEAR', 'SWORD']",0,0,0,0,Semantic Knowledge
+468,DOCTORS’ ORDERS,"['DIET', 'EXERCISE', 'FRESH AIR', 'SLEEP']",0,1,0,0,Associative Knowledge
+469,EMAIL ACTIONS,"['COMPOSE', 'FORWARD', 'REPLY ALL', 'SEND']",1,1,0,0,Semantic Knowledge
+470,PODCASTS,"['RADIOLAB', 'SERIAL', 'UP FIRST', 'WTF']",0,0,0,0,Encyclopedic Knowledge
+471,___ COMEDY,"['BLACK', 'DIVINE', 'PROP', 'SKETCH']",0,0,0,0,Multiword Expressions
+472,BROUGHT TO THE BEACH,"['FLIP-FLOP', 'SUNSCREEN', 'TOWEL', 'UMBRELLA']",0,0,0,0,Associative Knowledge
+473,TYPES OF FRENCH FRIES,"['CURLY', 'SHOESTRING', 'WAFFLE', 'WEDGE']",0,0,0,0,Semantic Knowledge
+474,EQUIVOCATE,"['HEDGE', 'SEE-SAW', 'WAVER', 'YO-YO']",0,0,0,0,Semantic Knowledge
+475,SECOND WORDS OF VODKA COCKTAILS,"['BREEZE', 'MARY', 'MULE', 'RUSSIAN']",0,0,0,0,Encyclopedic Knowledge
+476,DIGITAL NOTIFICATION SOUNDS,"['CHIME', 'DING', 'PING', 'RING']",1,0,0,0,Associative Knowledge
+477,TATTLE,"['RAT', 'SING', 'SNITCH', 'SQUEAL']",0,1,0,0,Semantic Knowledge
+478,GROUP WITHIN A GROUP,"['CAMP', 'DIVISION', 'FACTION', 'WING']",0,0,0,1,Semantic Knowledge
+479,MICROSOFT PRODUCTS,"['BING', 'EDGE', 'SURFACE', 'WORD']",0,0,0,0,Encyclopedic Knowledge
+480,INVESTMENTS,"['BOND', 'CD', 'OPTION', 'STOCK']",0,0,0,0,Semantic Knowledge
+481,TERMS FOR RECORDS,"['LP', 'PLATTER', 'VINYL', 'WAX']",0,0,0,0,Semantic Knowledge
+482,CUBE-SHAPED,"['BOUILLON', 'DIE', 'ICE', 'SUGAR']",0,0,0,0,Semantic Knowledge
+483,WORDS THAT GO WITH “BONE”,"['FUNNY', 'HERRING', 'SOUP', 'WISH']",0,0,0,0,Associative Knowledge
+484,UNCHANGING,"['EVEN', 'LEVEL', 'STABLE', 'STEADY']",0,1,1,0,Semantic Knowledge
+485,"LONG, SHARP OBJECTS","['LANCE', 'PIN', 'SKEWER', 'SPIT']",0,0,0,0,Semantic Knowledge
+486,MUSIC PUBLICATIONS,"['BILLBOARD', 'PITCHFORK', 'ROLLING STONE', 'SPIN']",0,0,0,0,Encyclopedic Knowledge
+487,WORDS WITH NUMERICAL PREFIXES,"['UNIFORM', 'BICYCLE', 'TRILOGY', 'QUADRANT']",0,0,0,0,Linguistic Knowledge
+488,WAYS TO PREPARE,"['DRILL', 'PRACTICE', 'STUDY', 'TRAIN']",0,0,0,0,Associative Knowledge
+489,HOLLOW CYLINDERS,"['HOSE', 'PIPE', 'STRAW', 'TUBE']",0,0,0,0,Associative Knowledge
+490,CLUE WEAPONS,"['CANDLESTICK', 'KNIFE', 'ROPE', 'WRENCH']",0,0,0,0,Encyclopedic Knowledge
+491,“E-” THINGS,"['CIGARETTE', 'BIKE', 'TICKET', 'SPORTS']",0,0,0,0,Associative Knowledge
+492,NEVERTHELESS,"['HOWEVER', 'STILL', 'THOUGH', 'YET']",0,0,0,0,Semantic Knowledge
+493,REPEATED WORDS IN EXPRESSIONS,"['HEAR', 'KNOCK', 'THERE', 'TUT']",0,0,0,0,Associative Knowledge
+494,WORDS ABBREVIATED WITH LETTERS,"['ARE', 'SEE', 'WHY', 'YOU']",0,0,0,0,Linguistic Knowledge
+495,ROYAL ___,"['FAMILY', 'FLUSH', 'JELLY', 'WE']",0,0,0,0,Multiword Expressions
+496,IGNITE,"['BURN', 'KINDLE', 'LIGHT', 'TORCH']",0,0,0,1,Semantic Knowledge
+497,INFORMATION,"['DATA', 'INFO', 'INTEL', 'NEWS']",0,0,0,0,Semantic Knowledge
+498,SMALL WOODED AREA,"['DELL', 'GLEN', 'HOLLOW', 'VALLEY']",0,0,0,0,Associative Knowledge
+499,THINGS WITH CORES,"['APPLE', 'COMPUTER', 'PLANET', 'REACTOR']",0,0,0,0,Encyclopedic Knowledge
+500,SOCIAL MEDIA ACTIONS,"['FOLLOW', 'LIKE', 'SHARE', 'SUBSCRIBE']",0,0,1,0,Associative Knowledge
+501,USE A NEEDLE AND THREAD,"['DARN', 'HEM', 'SEAM', 'SEW']",1,1,1,0,Semantic Knowledge
+502,SHOWS SET IN HOSPITALS,"['ER', 'HOUSE', 'RATCHED', 'SCRUBS']",0,0,1,0,Encyclopedic Knowledge
+503,EXPRESSIONS OF HESITATION,"['ERM', 'UH', 'UM', 'WELL']",0,0,1,1,Associative Knowledge
+504,FLOWERS,"['DAISY', 'ROSE', 'TULIP', 'VIOLET']",1,0,0,1,Semantic Knowledge
+505,SEEN ON A FARM,"['BARN', 'CHICKEN', 'FARMER', 'TRACTOR']",0,0,1,0,Associative Knowledge
+506,HORROR DIRECTORS,"['ASTER', 'CARPENTER', 'CRAVEN', 'WAN']",0,0,0,0,Encyclopedic Knowledge
+507,___ JACKET,"['DUST', 'LIFE', 'SPORTS', 'YELLOW']",0,0,0,0,Multiword Expressions
+508,BIRD FEATURES,"['BEAK', 'FEATHER', 'TALON', 'WING']",0,1,1,0,Semantic Knowledge
+509,BLINK OF AN EYE,"['FLASH', 'HEARTBEAT', 'SECOND', 'WINK']",0,1,0,0,Semantic Knowledge
+510,MAHJONG TILES,"['BAMBOO', 'DRAGON', 'SEASON', 'WIND']",0,0,0,0,Encyclopedic Knowledge
+511,___ BUTTON,"['BELLY', 'HOT', 'PANIC', 'SNOOZE']",0,0,0,0,Multiword Expressions
+512,MISHMASH,"['HASH', 'JUMBLE', 'MEDLEY', 'STEW']",0,1,0,1,Semantic Knowledge
+513,GO UP AGAINST,"['CHALLENGE', 'CONFRONT', 'FACE', 'OPPOSE']",0,1,0,0,Semantic Knowledge
+514,GROUP OF OFFSPRING,"['BROOD', 'CLUTCH', 'HATCH', 'LITTER']",0,1,1,0,Semantic Knowledge
+515,GUITAR PARTS,"['BODY', 'BRIDGE', 'FRET', 'NECK']",0,1,0,0,Semantic Knowledge
+516,SENSES,"['SIGHT', 'SMELL', 'TASTE', 'TOUCH']",0,1,0,1,Semantic Knowledge
+517,APPEARANCE,"['DRESS', 'LOOK', 'MANNER', 'STYLE']",0,0,0,0,Semantic Knowledge
+518,“AGREE!”,"['DITTO', 'LIKEWISE', 'SAME', 'SECOND']",1,1,1,0,Semantic Knowledge
+519,___ MOON,"['BLUE', 'HARVEST', 'NEW', 'SAILOR']",0,0,0,0,Multiword Expressions
+520,SHAMELESS BOLDNESS,"['BRASS', 'CHEEK', 'GALL', 'NERVE']",0,0,0,0,Associative Knowledge
+521,METAL ELEMENTS,"['COPPER', 'GOLD', 'NICKEL', 'SILVER']",1,0,0,0,Semantic Knowledge
+522,W.N.B.A. TEAMS,"['MERCURY', 'SKY', 'SPARKS', 'LIBERTY']",0,0,0,0,Encyclopedic Knowledge
+523,THINGS WITH TRUNKS,"['CARS', 'ELEPHANTS', 'SWIMMERS', 'TREES']",0,0,0,0,Associative Knowledge
+524,INCREASE,"['BUILD', 'GROW', 'SWELL', 'MOUNT']",1,1,1,0,Semantic Knowledge
+525,"EXCELLENT, IN OLD SLANG","['ACES', 'KEEN', 'NEATO', 'NIFTY']",1,1,0,0,Encyclopedic Knowledge
+526,FINE BUBBLES,"['FOAM', 'FROTH', 'HEAD', 'LATHER']",0,1,0,0,Semantic Knowledge
+527,SPHERICAL THINGS,"['BUBBLE', 'GLOBE', 'MARBLE', 'PEARL']",0,1,0,1,Semantic Knowledge
+528,GRAMMAR TENSE TERMS,"['FUTURE', 'PAST', 'PERFECT', 'PRESENT']",0,0,0,1,Linguistic Knowledge
+529,“GRACIOUS ME!”,"['GOODNESS', 'HEAVENS', 'LORD', 'MERCY']",1,1,0,1,Semantic Knowledge
+530,12 DAYS OF CHRISTMAS,"['DRUMMER', 'LADY', 'RING', 'SWAN']",0,0,0,0,Encyclopedic Knowledge
+531,___ SYRUP,"['CORN', 'COUGH', 'MAPLE', 'SIMPLE']",0,0,0,0,Multiword Expressions
+532,ANIMAL GROUPS,"['COLONY', 'HERD', 'PRIDE', 'SCHOOL']",0,1,1,0,Associative Knowledge
+533,SMALL OPENING,"['CRANNY', 'NICHE', 'NOOK', 'RECESS']",0,1,0,0,Semantic Knowledge
+534,PARADIGMATIC,"['CLASSIC', 'DEFINITIVE', 'MODEL', 'TEXTBOOK']",0,1,0,0,Semantic Knowledge
+535,RHYMING COMPOUND WORDS,"['BACKPACK', 'BIGWIG', 'DOWNTOWN', 'RAGTAG']",0,0,0,0,Linguistic Knowledge
+536,CELL PHONE MODES,"['FOCUS', 'RING', 'SILENT', 'VIBRATE']",0,1,0,0,Associative Knowledge
+537,IMPEL,"['DRIVE', 'INSPIRE', 'MOTIVATE', 'SPUR']",0,1,0,0,Semantic Knowledge
+538,ROMANTIC BEGINNINGS,"['CONNECTION', 'FEELINGS', 'SPARK', 'VIBE']",0,0,0,0,Associative Knowledge
+539,HARD ___,"['CANDY', 'COPY', 'KNOCKS', 'SELTZER']",0,1,0,0,Multiword Expressions
+540,RELAX,"['CHILL', 'HANG', 'LOAF', 'LOUNGE']",0,1,1,0,Semantic Knowledge
+541,CATCHY SONG,"['BANGER', 'BOP', 'GROOVE', 'JAM']",0,0,0,0,Associative Knowledge
+542,BRITISH CUISINE,"['MASH', 'ROAST', 'SCONE', 'TRIFLE']",0,0,0,0,Semantic Knowledge
+543,STICKY SITUATION,"['BIND', 'PICKLE', 'SCRAPE', 'SPOT']",0,0,0,0,Semantic Knowledge
+544,TABLEWARE,"['BOWL', 'DISH', 'PLATE', 'SAUCER']",0,0,0,0,Semantic Knowledge
+545,NONSENSE,"['BALONEY', 'BUNK', 'CROCK', 'TRIPE']",0,0,0,0,Semantic Knowledge
+546,BRA PARTS,"['CUP', 'HOOK', 'STRAP', 'WIRE']",0,0,0,0,Semantic Knowledge
+547,ACRONYMS,"['LASER', 'RADAR', 'SCUBA', 'SPAM']",0,0,1,0,Encyclopedic Knowledge
+548,ANIMAL HOMES,"['DEN', 'HIVE', 'LAIR', 'NEST']",0,0,0,0,Semantic Knowledge
+549,VIRTUAL SPACES,"['CLOUD', 'METAVERSE', 'NET', 'WEB']",0,1,1,1,Encyclopedic Knowledge
+550,EQUITABLE,"['EQUAL', 'EVEN', 'FAIR', 'JUST']",0,0,0,0,Semantic Knowledge
+551,___ BURGER,"['GOOD', 'IMPOSSIBLE', 'NOTHING', 'WARREN']",0,0,0,0,Multiword Expressions
+552,FALSIFY,"['FABRICATE', 'FAKE', 'FIX', 'FORGE']",0,0,0,0,Semantic Knowledge
+553,MILD OATHS,"['FIDDLESTICKS', 'FIE', 'FRICK', 'FUDGE']",0,0,0,0,Encyclopedic Knowledge
+554,TV SHOWS,"['FARGO', 'FIREFLY', 'FLEABAG', 'FLIPPER']",0,0,0,0,Encyclopedic Knowledge
+555,FAST ___,"['FASHION', 'FOOD', 'FORWARD', 'FRIENDS']",0,0,0,0,Multiword Expressions
+556,SOMETHING TIRESOME,"['BORE', 'DRAG', 'SNOOZE', 'YAWN']",0,1,0,0,Semantic Knowledge
+557,BIT OF WIND,"['BREEZE', 'DRAFT', 'GUST', 'PUFF']",0,0,1,0,Semantic Knowledge
+558,PIQUANCY,"['BITE', 'KICK', 'TANG', 'ZIP']",0,0,0,0,Semantic Knowledge
+559,SINGULAR OF THINGS SEEN IN PAIRS,"['BOXER', 'GOGGLE', 'PANT', 'TONG']",0,0,0,0,Associative Knowledge
+560,TAUNTS,"['BOO', 'HISS', 'JEER', 'RASPBERRY']",0,0,1,0,Associative Knowledge
+561,FAILURE,"['BOMB', 'DUD', 'FLOP', 'LEMON']",0,0,1,0,Associative Knowledge
+562,RUDELY BREAK OFF CONTACT,"['DESERT', 'GHOST', 'IGNORE', 'JILT']",0,0,0,0,Associative Knowledge
+563,ROCK ___,"['BOTTOM', 'CANDY', 'GARDEN', 'STAR']",0,0,0,0,Multiword Expressions
+564,DAYS OF THE WEEK,"['FRIDAY', 'SATURDAY', 'SUNDAY', 'THURSDAY']",0,0,0,0,Semantic Knowledge
+565,GO BAD,"['ROT', 'SOUR', 'SPOIL', 'TURN']",0,1,0,0,Semantic Knowledge
+566,“THE ADDAMS FAMILY” CHARACTERS,"['FESTER', 'LURCH', 'THING', 'WEDNESDAY']",0,0,1,0,Encyclopedic Knowledge
+567,FAT ___,"['CAT', 'CHANCE', 'LIP', 'TUESDAY']",0,0,0,0,Multiword Expressions
+568,TOOLS,"['FILE', 'HAMMER', 'LEVEL', 'SAW']",0,0,0,0,Semantic Knowledge
+569,PULL,"['JERK', 'TUG', 'WRENCH', 'YANK']",1,0,0,0,Semantic Knowledge
+570,SHORTCUT COMMANDS,"['COPY', 'FIND', 'PRINT', 'SAVE']",0,0,0,0,Associative Knowledge
+571,TITLE MOVIE ANIMALS,"['BABE', 'BEETHOVEN', 'CHARLOTTE', 'WILLY']",0,1,1,0,Encyclopedic Knowledge
+572,BUTT,"['BOTTOM', 'BUNS', 'SEAT', 'TAIL']",0,0,0,0,Associative Knowledge
+573,ROTARY PHONE PARTS,"['CORD', 'CRADLE', 'DIAL', 'HANDSET']",0,1,0,0,Semantic Knowledge
+574,SLANG FOR HOME,"['CRIB', 'DIGS', 'JOINT', 'PAD']",0,0,0,0,Encyclopedic Knowledge
+575,PLUNDER,"['BOOTY', 'LOOT', 'SPOILS', 'SWAG']",1,0,1,0,Semantic Knowledge
+576,BEANS,"['FAVA', 'KIDNEY', 'LIMA', 'PINTO']",0,1,1,1,Semantic Knowledge
+577,CITIES BEGINNING WITH “L”,"['LAGOS', 'LIMERICK', 'LINCOLN', 'LUXOR']",0,0,0,0,Encyclopedic Knowledge
+578,POETRY TERMS,"['LINE', 'METER', 'RHYME', 'VERSE']",0,1,0,0,Associative Knowledge
+579,“THE(E) ___” RAPPERS,"['CREATOR', 'DUDE', 'RAPPER', 'STALLION']",0,0,0,0,Encyclopedic Knowledge
+580,CONCEAL,"['BLOCK', 'COVER', 'HIDE', 'MASK']",1,0,1,0,Semantic Knowledge
+581,PARTS OF A WATCH,"['CROWN', 'DIAL', 'HAND', 'STRAP']",0,0,0,0,Semantic Knowledge
+582,WONDER WOMAN’S COSTUME,"['LASSO', 'SHIELD', 'SWORD', 'TIARA']",0,0,0,0,Encyclopedic Knowledge
+583,THINGS THAT CAN RUN,"['CANDIDATE', 'FAUCET', 'MASCARA', 'NOSE']",0,0,0,0,Associative Knowledge
+584,FILM SET DIRECTIVES,"['ACTION', 'CAMERA', 'CUT', 'LIGHTS']",0,1,1,1,Associative Knowledge
+585,CONDITIONAL WORDS,"['CAN', 'COULD', 'MAY', 'MIGHT']",0,0,1,1,Linguistic Knowledge
+586,FOREMOST,"['HEAD', 'LEAD', 'PRIME', 'TOP']",0,0,0,1,Semantic Knowledge
+587,___ PAPER,"['BUTCHER', 'SCRAP', 'TOILET', 'WAX']",0,1,0,0,Multiword Expressions
+588,ORIGIN,"['GENESIS', 'GERM', 'SEED', 'SOURCE']",0,0,0,0,Semantic Knowledge
+589,BIBLE BOOKS,"['ACTS', 'JOB', 'KINGS', 'MARK']",0,0,0,0,Encyclopedic Knowledge
+590,N.H.L. TEAMS,"['FLAMES', 'KRAKEN', 'STARS', 'WILD']",0,0,0,0,Encyclopedic Knowledge
+591,POWER ___,"['NAP', 'PLANT', 'RANGER', 'TRIP']",0,0,0,0,Multiword Expressions
+592,CROPS,"['CORN', 'CUCUMBER', 'PEPPER', 'TOMATO']",0,0,0,0,Semantic Knowledge
+593,SLANG FOR HEAD,"['CROWN', 'DOME', 'MELON', 'NOODLE']",0,0,0,0,Encyclopedic Knowledge
+594,SONG,"['CUT', 'NUMBER', 'SINGLE', 'TRACK']",0,0,0,0,Associative Knowledge
+595,THINGS THAT WHISTLE,"['BIRD', 'KETTLE', 'REFEREE', 'TRAIN']",0,0,0,0,Associative Knowledge
+596,CELEBRATORY OCCASIONS,"['ANNIVERSARY', 'BIRTHDAY', 'SHOWER', 'WEDDING']",1,0,0,0,Associative Knowledge
+597,PHONE CONNECTIVITY,"['BARS', 'RECEPTION', 'SERVICE', 'SIGNAL']",0,0,0,0,Associative Knowledge
+598,CITIES AND TOWNS IN ENGLAND,"['BATH', 'DERBY', 'READING', 'SANDWICH']",0,0,0,0,Encyclopedic Knowledge
+599,___ OPERA,"['COMIC', 'MET', 'ROCK', 'SOAP']",0,0,0,0,Multiword Expressions
+600,RHYMES,"['DARREN', 'KAREN', 'SHARON', 'AARON']",0,0,0,0,Linguistic Knowledge
+601,NATURAL FEATURES,"['DALE', 'BROOK', 'SAVANNA', 'CLIFF']",1,0,1,1,Associative Knowledge
+602,PAST TENSE VERBS,"['DREW', 'ROSE', 'WILL', 'MAY']",0,0,0,0,Linguistic Knowledge
+603,PALINDROMES,"['EVE', 'HANNAH', 'OTTO', 'NATAN']",0,0,1,0,Linguistic Knowledge
+604,"LAUGHTER, IN A TEXT","['DEAD', 'HAHA', 'LOL', 'ROFL']",1,1,0,0,Encyclopedic Knowledge
+605,ART MOVEMENTS,"['DADA', 'DECO', 'GOTHIC', 'POP']",0,1,1,1,Encyclopedic Knowledge
+606,“PETER PAN” CHARACTERS,"['HOOK', 'NANA', 'PETER', 'WENDY']",0,0,1,0,Encyclopedic Knowledge
+607,LADY ___,"['BIRD', 'GAGA', 'LUCK', 'MACBETH']",0,0,0,0,Multiword Expressions
+608,DIVISION,"['ARM', 'BRANCH', 'CHAPTER', 'WING']",0,0,0,0,Semantic Knowledge
+609,IMPERIAL UNITS,"['BUSHEL', 'PECK', 'STONE', 'TON']",0,1,1,0,Semantic Knowledge
+610,M.L.B. TEAM MEMBER,"['ANGEL', 'CUB', 'MET', 'RED']",0,0,0,0,Encyclopedic Knowledge
+611,INSECT HOMOPHONES,"['AUNT', 'BEATLE', 'FLEE', 'NAT']",0,0,0,0,Linguistic Knowledge
+612,CHRISTMAS-RELATED,"['MISTLETOE', 'REINDEER', 'SNOWMAN', 'STOCKING']",0,1,0,0,Associative Knowledge
+613,MAKE PUBLIC,"['DISPLAY', 'EXHIBIT', 'PRESENT', 'SHOW']",1,1,1,1,Semantic Knowledge
+614,TORUS-SHAPED FOOD,"['BAGEL', 'CHEERIO', 'DONUT', 'LIFESAVER']",0,1,1,0,Associative Knowledge
+615,THINGS WITH STRIPES,"['CANDY CANE', 'CROSSWALK', 'REFEREE', 'TIGER']",0,0,0,0,Associative Knowledge
+616,LONG-HAIRED ANIMALS,"['AFGHAN', 'ALPACA', 'ANGORA', 'YAK']",0,0,0,0,Encyclopedic Knowledge
+617,PRATTLE ON,"['BLATHER', 'CHAT', 'JABBER', 'GAB']",0,0,1,0,Semantic Knowledge
+618,SNEAKER BRANDS,"['CONVERSE', 'JORDAN', 'PUMA', 'VANS']",0,1,1,1,Encyclopedic Knowledge
+619,___ BALLOON,"['LEAD', 'SPEECH', 'TRIAL', 'WATER']",0,0,0,0,Multiword Expressions
+620,WAYS TO SHOW RESPECT,"['BOW', 'KNEEL', 'SALUTE', 'STAND']",0,0,0,0,Associative Knowledge
+621,IPHONE APPS,"['CLOCK', 'MAIL', 'MAPS', 'NOTES']",0,0,0,0,Encyclopedic Knowledge
+622,ANIMAL COVERINGS,"['DOWN', 'FUR', 'SCALES', 'SHELL']",0,0,1,0,Associative Knowledge
+623,“POINTERS”,"['ARROW', 'DOG', 'FINGER', 'HINT']",0,0,0,0,Associative Knowledge
+624,COFFEE COUNTER ITEMS,"['CUP', 'LID', 'STIRRER', 'STRAW']",0,0,0,0,Encyclopedic Knowledge
+625,NOCTURNAL ANIMALS,"['BAT', 'MOTH', 'OWL', 'WOLF']",0,0,0,0,"Semantic Knowledge "
+626,THINGS THAT ARE RED,"['BEET', 'BRICK', 'CARDINAL', 'POPPY']",0,0,0,0,Associative Knowledge
+627,___ FIGURE,"['ACTION', 'BALLPARK', 'GO', 'STICK']",0,0,0,0,Multiword Expressions
+628,PLAYING CARD SUITS,"['CLUB', 'DIAMOND', 'HEART', 'SPADE']",0,1,1,0,Semantic Knowledge
+629,GOLF CLUBS,"['IRON', 'PUTTER', 'WEDGE', 'WOOD']",0,1,0,1,Associative Knowledge
+630,YEARN,"['ACHE', 'LONG', 'PINE', 'THIRST']",0,0,0,0,Semantic Knowledge
+631,INSUFFICIENT,"['LOW', 'SHORT', 'SHY', 'WANTING']",0,0,0,0,Semantic Knowledge
+632,VERY IMPORTANT,"['CENTRAL', 'CRITICAL', 'KEY', 'VITAL']",0,0,1,0,Semantic Knowledge
+633,RECYCLNG CATEGORIES,"['GLASS', 'METAL', 'PAPER', 'PLASTIC']",0,0,0,0,Associative Knowledge
+634,HUDSONS,"['HENRY', 'JENNIFER', 'KATE', 'ROCK']",0,0,0,0,Encyclopedic Knowledge
+635,WHAT “BEAT” MAY MEAN,"['ASSIGNMENT', 'DEFEAT', 'TEMPO', 'TIRED']",0,0,0,0,Linguistic Knowledge
+636,REFLECT LIGHT,"['FLASH', 'GLEAM', 'GLITTER', 'SPARKLE']",1,1,1,1,Semantic Knowledge
+637,WAYS TO GATHER FOOD,"['FISH', 'FORAGE', 'HUNT', 'TRAP']",0,1,0,0,Associative Knowledge
+638,RAP SUBGENRES,"['BOUNCE', 'CRUNK', 'DRILL', 'GRIME']",0,0,0,0,Encyclopedic Knowledge
+639,LIGHT ___,"['BEER', 'BULB', 'RAIL', 'YEAR']",0,0,0,0,Multiword Expressions
+640,PRODUCED BY TREES,"['ACORN', 'CONE', 'POLLEN', 'SAP']",1,0,0,0,Associative Knowledge
+641,CANDY STORE TREATS,"['CHOCOLATE', 'GUM', 'LICORICE', 'LOLLIPOP']",1,0,1,0,Semantic Knowledge
+642,TARGET OF A SCHEME,"['CHUMP', 'FOOL', 'MARK', 'SUCKER']",0,0,0,0,Semantic Knowledge
+643,THINGS WITH EYE(S),"['FACE', 'HURRICANE', 'NEEDLE', 'POTATO']",0,0,0,0,Associative Knowledge
+644,SNAKES,"['BOA', 'MAMBA', 'PYTHON', 'VIPER']",1,1,1,1,Semantic Knowledge
+645,LINGERIE,"['GARTER', 'SLIP', 'TEDDY', 'THONG']",0,0,1,0,Semantic Knowledge
+646,SUMMARY,"['ABSTRACT', 'BRIEF', 'DIGEST', 'RUNDOWN']",1,0,0,0,Semantic Knowledge
+647,FULL ___,"['CIRCLE', 'HOUSE', 'MONTY', 'MOON']",0,0,0,0,Multiword Expressions
+648,BRIDAL ACCESSORIES,"['BOUQUET', 'RING', 'TRAIN', 'VEIL']",0,0,0,0,Associative Knowledge
+649,“C” WORDS FOR “ENVELOP”,"['CAKE', 'COAT', 'COVER', 'CRUST']",0,0,0,0,Semantic Knowledge
+650,JACKS,"['BLACK', 'FROST', 'MA', 'SPARROW']",0,0,0,0,Encyclopedic Knowledge
+651,SOCIAL MEDIA APP ENDINGS,"['BOOK', 'GRAM', 'IN', 'TUBE']",0,0,0,0,Combined Category
+652,KITCHEN UTENSILS,"['GRATER', 'LADLE', 'PEELER', 'WHISK']",1,1,0,0,Semantic Knowledge
+653,VERTEBRATES,"['BIRD', 'FISH', 'MAMMAL', 'REPTILE']",0,0,0,0,Semantic Knowledge
+654,SUPER MARIO-RELATED,"['DINOSAUR', 'MUSHROOM', 'PLUMBER', 'PRINCESS']",0,0,0,0,Encyclopedic Knowledge
+655,SITCOM FAMILIES,"['BUNKER', 'CLEAVER', 'PARTRIDGE', 'TANNER']",0,0,0,0,Encyclopedic Knowledge
+656,ROBUST,"['FIT', 'HEALTHY', 'SOUND', 'STRONG']",0,1,0,0,Semantic Knowledge
+657,DECLINE,"['DIP', 'DROP', 'FALL', 'SINK']",0,0,0,0,Semantic Knowledge
+658,WATER SOURCES,"['FOUNTAIN', 'SPRING', 'TAP', 'WELL']",0,1,0,0,Associative Knowledge
+659,WOMEN SINGERS,"['KEYS', 'NICKS', 'SUMMER', 'SWIFT']",0,0,0,0,Encyclopedic Knowledge
+660,SODA FOUNTAIN ORDERS,"['FLOAT', 'MALT', 'SHAKE', 'SUNDAE']",0,0,0,0,Associative Knowledge
+661,"SET, AS PLANS","['CONCRETE', 'FIRM', 'SOLID', 'TANGIBLE']",0,0,0,1,Semantic Knowledge
+662,M. NIGHT SHYAMALAN MOVIES,"['GLASS', 'OLD', 'SIGNS', 'SPLIT']",0,0,0,0,Encyclopedic Knowledge
+663,___BOARD,"['DASH', 'HOVER', 'KEY', 'STAR']",0,0,0,0,Multiword Expressions
+664,RESTAURANT WORKERS,"['BARTENDER', 'CHEF', 'HOST', 'SERVER']",1,1,0,1,Semantic Knowledge
+665,MOTOR VEHICLES,"['BUS', 'CAR', 'MOTORCYCLE', 'TRUCK']",1,0,1,0,Semantic Knowledge
+666,MUPPETS,"['ANIMAL', 'BEAKER', 'GONZO', 'SCOOTER']",0,0,0,0,Encyclopedic Knowledge
+667,HAND- AND FOOT-RELATED SLANG,"['DIGIT', 'DOG', 'MITT', 'PIGGY']",0,0,0,0,Encyclopedic Knowledge
+668,REPLACEMENT,"['BACKUP', 'COPY', 'EXTRA', 'SPARE']",0,0,1,1,Semantic Knowledge
+669,BOWLING,"['ALLEY', 'BALL', 'LANE', 'PIN']",0,0,0,0,Associative Knowledge
+670,COMMON MERCH ITEMS,"['MUG', 'PEN', 'TEE', 'TOTE']",0,0,0,0,Associative Knowledge
+671,NUMBER HOMOPHONES,"['ATE', 'FOR', 'TOO', 'WON']",0,1,1,0,Linguistic Knowledge
+672,WEB BROWSER-RELATED,"['BOOKMARK', 'HISTORY', 'TAB', 'WINDOW']",0,0,1,0,Associative Knowledge
+673,SHIRT FEATURES,"['BUTTON', 'COLLAR', 'CUFF', 'POCKET']",1,0,0,1,Semantic Knowledge
+674,CONNECTION,"['BOND', 'LINK', 'RELATION', 'TIE']",0,0,0,1,Semantic Knowledge
+675,DIRTY ___,"['DOZEN', 'JOKE', 'LAUNDRY', 'MARTINI']",0,0,0,0,Multiword Expressions
+676,INTELLIGENT,"['BRIGHT', 'CLEVER', 'QUICK', 'SHARP']",0,0,1,0,Semantic Knowledge
+677,AIRLINES,"['ALASKA', 'FRONTIER', 'SOUTHWEST', 'SPIRIT']",0,1,0,0,Encyclopedic Knowledge
+678,WESTERN TROPES,"['COWBOY', 'DRIFTER', 'OUTLAW', 'SHERIFF']",0,0,1,0,Encyclopedic Knowledge
+679,TV SHOW TITLE SURNAMES,"['LASSO', 'MARS', 'ROGERS', 'SMART']",0,0,0,0,Encyclopedic Knowledge
+680,FRUITS,"['APRICOT', 'FIG', 'GRAPE', 'LIME']",0,1,1,0,Semantic Knowledge
+681,LUXURIOUS,"['DELUXE', 'GRAND', 'LAVISH', 'OPULENT']",0,1,0,1,Semantic Knowledge
+682,BEST ACTRESS OSCAR WINNERS,"['BERRY', 'FOSTER', 'STONE', 'SWANK']",0,0,0,0,Encyclopedic Knowledge
+683,WHAT “GREEN” MIGHT MEAN,"['ENVIOUS', 'FRESH', 'NAIVE', 'UNWELL']",0,0,0,0,Linguistic Knowledge
+684,FAIRY TALE FIGURES,"['GIANT', 'PRINCESS', 'WITCH', 'WOLF']",0,0,1,1,Encyclopedic Knowledge
+685,CHESS TERMS,"['BISHOP', 'MATE', 'GAMBIT', 'QUEEN']",0,1,1,1,Semantic Knowledge
+686,“PEANUTS” CHARACTERS,"['CHARLIE', 'PEPPERMINT PATTY', 'PIGPEN', 'WOODSTOCK']",0,1,0,0,Encyclopedic Knowledge
+687,I LOVE ___,"['LUCY', 'NEW YORK', 'ROCK N ROLL', 'YOU']",0,0,0,0,Multiword Expressions
+688,BOVIDS,"['BUFFALO', 'COW', 'GOAT', 'SHEEP']",0,1,1,0,Semantic Knowledge
+689,EMIT LIGHT,"['BEAM', 'GLOW', 'RADIATE', 'SHINE']",1,0,1,1,Semantic Knowledge
+690,GYMNASTICS APPARATUS,"['FLOOR', 'HORSE', 'RINGS', 'VAULT']",0,0,0,0,Associative Knowledge
+691,WORDS THAT SOUND LIKE TWO LETTERS,"['CUTIE', 'ENVY', 'EXCEL', 'SEEDY']",0,0,0,0,Linguistic Knowledge
+692,EYE PARTS,"['IRIS', 'LENS', 'PUPIL', 'RETINA']",1,1,1,1,Semantic Knowledge
+693,COUNTERFEIT,"['BOGUS', 'FAKE', 'PHONY', 'SHAM']",1,1,1,1,Semantic Knowledge
+694,RADIO LINGO,"['COPY', 'OUT', 'OVER', 'ROGER']",0,1,0,0,Encyclopedic Knowledge
+695,SONGS THAT ARE NAMES,"['ALEJANDRO', 'LOLA', 'MICHELLE', 'STAN']",0,1,0,0,Encyclopedic Knowledge
+696,“SKEDADDLE!”,"['GET OUT', 'GO', 'LEAVE', 'SCRAM']",1,1,1,1,Semantic Knowledge
+697,PRONOUNS,"['ME', 'THEM', 'US', 'YOU']",0,1,1,1,Linguistic Knowledge
+698,ANAGRAMS,"['NOPE', 'OPEN', 'PEON', 'PONE']",0,0,1,0,Linguistic Knowledge
+699,___ BABY,"['BEANIE', 'FUR', 'NEPO', 'SANTA']",0,0,0,0,Multiword Expressions
+700,HOT DRINKS,"['CHAI', 'COCOA', 'COFFEE', 'TEA']",1,1,1,1,Semantic Knowledge
+701,ANIMAL SOUNDS,"['BUZZ', 'CLUCK', 'MEOW', 'OINK']",0,1,1,0,Associative Knowledge
+702,TREE FEATURES,"['BARK', 'BRANCH', 'ROOT', 'TRUNK']",0,1,1,0,Semantic Knowledge
+703,INSIDE INFO,"['DIRT', 'DISH', 'SCOOP', 'SKINNY']",0,0,0,0,Associative Knowledge
+704,HALLOWEEN DECORATIONS,"['BAT', 'COBWEB', 'PUMPKIN', 'TOMBSTONE']",0,1,1,0,Associative Knowledge
+705,TV SHOWS,"['24', 'BONES', 'FIREFLY', 'WEEDS']",0,0,0,0,Encyclopedic Knowledge
+706,SLOT MACHINE SYMBOLS,"['7', 'BAR', 'BELL', 'CHERRY']",0,0,0,0,Encyclopedic Knowledge
+707,NUMBERS IN BOOK TITLES,"['22', '451', '2001', '20,000']",0,0,0,0,Encyclopedic Knowledge
+708,AMAZON ANIMALS,"['ANACONDA', 'CAPYBARA', 'JAGUAR', 'TOUCAN']",0,1,0,0,Encyclopedic Knowledge
+709,LOWEST POINT,"['BASE', 'BOTTOM', 'FOOT', 'FOUNDATION']",0,1,0,0,Semantic Knowledge
+710,MUSICALS,"['COMPANY', 'GREASE', 'HAIR', 'RENT']",0,0,0,0,Encyclopedic Knowledge
+711,SEA ___,"['CHANGE', 'CUCUMBER', 'LEGS', 'LION']",0,0,0,0,Multiword Expressions
+712,BASEBALL CALLS,"['BALL', 'OUT', 'SAFE', 'STRIKE']",0,0,1,0,Encyclopedic Knowledge
+713,HEAT SOURCES,"['FORGE', 'FURNACE', 'KILN', 'OVEN']",1,1,0,0,Semantic Knowledge
+714,FISH THAT ARE VERBS,"['CARP', 'CATFISH', 'FLOUNDER', 'SMELT']",0,0,0,0,Combined Category
+715,SILENT “L”,"['COLONEL', 'SALMON', 'WALK', 'YOLK']",0,0,0,0,Linguistic Knowledge
+716,INHERENT NATURE,"['ESSENCE', 'HEART', 'SPIRIT', 'SOUL']",0,1,0,0,Semantic Knowledge
+717,FERMENETED ALCOHOLIC BEVERAGES,"['CIDER', 'PORT', 'SAKE', 'STOUT']",0,0,0,0,Semantic Knowledge
+718,PIXAR MOVIES,"['BRAVE', 'CARS', 'COCO', 'UP']",0,0,0,0,Encyclopedic Knowledge
+719,___ TAPE,"['DEMO', 'RED', 'SCOTCH', 'TICKER']",0,0,0,0,Multiword Expressions
+720,ROCKY HORROR PICTURE SHOW,"['HORROR', 'PICTURE', 'ROCKY', 'SHOW']",0,0,0,0,Encyclopedic Knowledge
+721,WHO FRAMED ROGER RABBIT,"['FRAMED', 'RABBIT', 'ROGER', 'WHO']",0,0,0,0,Encyclopedic Knowledge
+722,WHEN HARRY MET SALLY,"['HARRY', 'MET', 'SALLY', 'WHEN']",0,0,0,0,Encyclopedic Knowledge
+723,MAD MAX FURY ROAD,"['FURY', 'MAD', 'MAX', 'ROAD']",0,0,0,0,Encyclopedic Knowledge
+724,CREATURES IN FOLKLORE,"['GNOME', 'GOBLIN', 'OGRE', 'TROLL']",1,0,0,0,Encyclopedic Knowledge
+725,FLOWER PARTS,"['BUD', 'LEAF', 'PETAL', 'STALK']",0,1,0,0,Semantic Knowledge
+726,ONE INVOLVED IN ESPIONAGE,"['AGENT', 'MOLE', 'PLANT', 'SPY']",0,0,0,0,Semantic Knowledge
+727,CHINESE ZODIAC ANIMALS,"['DRAGON', 'HORSE', 'RABBIT', 'TIGER']",0,0,0,0,Encyclopedic Knowledge
+728,INFORMATION DISPLAYS,"['CHART', 'DIAGRAM', 'GRAPH', 'MAP']",1,1,1,1,Associative Knowledge
+729,ADDITIONAL BENEFIT,"['BONUS', 'EXTRA', 'ICING', 'PERK']",1,0,0,,Semantic Knowledge
+730,THANKSGIVING FOOD,"['GRAVY', 'PIE', 'STUFFING', 'TURKEY']",1,0,0,1,Encyclopedic Knowledge
+731,SONG TITLES WITH PARENTHESES,"['I RAN', 'ISTANBUL', 'MONTERO', 'SATISFACTION']",0,0,0,1,Encyclopedic Knowledge
+732,PAINTING ACCESSORIES,"['BRUSH', 'CANVAS', 'EASEL', 'PALETTE']",1,0,1,1,Associative Knowledge
+733,AUTOMATIC TRANSMISSION SETTINGS,"['DRIVE', 'NEUTRAL', 'PARK', 'REVERSE']",0,1,0,0,Encyclopedic Knowledge
+734,THINGS WITH TEETH,"['COMB', 'GEAR', 'SAW', 'ZIPPER']",0,0,0,0,Associative Knowledge
+735,___ CHAIR,"['FIRST', 'FOLDING', 'HIGH', 'LAWN']",0,0,0,0,Multiword Expressions
+736,FEMALE ANIMALS,"['COW', 'DOE', 'HEN', 'MARE']",0,0,1,0,Semantic Knowledge
+737,PRONOUNS,"['I', 'IT', 'THEY', 'WE']",0,0,0,0,Linguistic Knowledge
+738,ROMAN NUMERALS,"['D', 'L', 'M', 'V']",0,0,0,0,Encyclopedic Knowledge
+739,HOMOPHONES,"['EWE', 'U', 'YEW', 'YOU']",0,1,0,0,Linguistic Knowledge
+740,AU NATUREL,"['BARE', 'NAKED', 'NUDE', 'UNCLAD']",1,1,1,1,Semantic Knowledge
+741,BAKED GOODS,"['BUN', 'DANISH', 'MUFFIN', 'TURNOVER']",1,1,1,0,Semantic Knowledge
+742,AMERICAN FOOTBALL ACTIONS,"['FUMBLE', 'PUNT', 'SACK', 'SNAP']",1,1,0,0,Encyclopedic Knowledge
+743,MANICURE STEPS,"['BUFF', 'CLIP', 'FILE', 'POLISH']",0,0,0,0,Associative Knowledge
+744,DRINK VESSELS,"['GOBLET', 'SNIFTER', 'TUMBLER', 'STEIN']",1,1,1,1,Semantic Knowledge
+745,WOODWINDS,"['CLARINET', 'FLUTE', 'OBOE', 'SAXOPHONE']",0,0,0,0,Semantic Knowledge
+746,AMERICAN POETS,"['BISHOP', 'FROST', 'OLDS', 'POUND']",0,0,0,0,Encyclopedic Knowledge
+747,CONSECUTIVE DOUBLE LETTERS,"['BALLOON', 'BASSOON', 'COFFEE', 'FRICASSEE']",0,0,0,0,Linguistic Knowledge
+748,APPETIZER UNIT,"['FRY', 'NACHO', 'POPPER', 'WING']",0,0,0,0,Semantic Knowledge
+749,RESPONSE TO A CORRECT ANSWER,"['BINGO', 'CORRECT', 'RIGHT', 'YES']",0,1,1,0,Associative Knowledge
+750,MAR,"['CHIP', 'DING', 'NICK', 'SCRATCH']",1,1,0,0,Semantic Knowledge
+751,___JACK,"['APPLE', 'CRACKER', 'FLAP', 'LUMBER']",0,0,0,0,Multiword Expressions
+752,PLAYGROUND FIXTURES,"['SANDBOX', 'SEESAW', 'SLIDE', 'SWING']",1,1,1,1,Semantic Knowledge
+753,INFLUENCE,"['CLOUT', 'PULL', 'SWAY', 'WEIGHT']",0,0,0,0,Semantic Knowledge
+754,EGYPTIAN SYMBOLS,"['ANKH', 'CROOK', 'EYE', 'SCARAB']",0,0,0,0,Encyclopedic Knowledge
+755,FONTS,"['COURIER', 'IMPACT', 'PAPYRUS', 'TIMES']",0,0,0,0,Associative Knowledge
+756,DEPART QUICKLY,"['BOOK', 'BOUNCE', 'RUN', 'SPLIT']",0,0,0,0,Associative Knowledge
+757,ANIMALS THAT END WITH X,"['FOX', 'IBEX', 'LYNX', 'ORYX']",0,0,0,0,Semantic Knowledge
+758,SHADES OF BLACK,"['EBONY', 'JET', 'ONYX', 'RAVEN']",0,0,0,0,Semantic Knowledge
+759,WORDS BEFORE DAYS OF THE WEEK,"['ASH', 'BLACK', 'CYBER', 'FAT']",0,0,0,0,Encyclopedic Knowledge
+760,STATES OF ELATION,"['BLISS', 'CLOUD NINE', 'HEAVEN', 'PARADISE']",1,1,1,1,Semantic Knowledge
+761,SCAM,"['CON', 'FAST ONE', 'HUSTLE', 'RACKET']",0,0,1,0,Semantic Knowledge
+762,GREETING GESTURES,"['HIGH FIVE', 'HUG', 'SHAKE', 'WAVE']",1,0,1,0,Associative Knowledge
+763,___ LIST,"['BUCKET', 'GUEST', 'TOP TEN', 'WISH']",0,0,0,0,Multiword Expressions
+764,POULTRY CUTS,"['BREAST', 'DRUMSTICK', 'TENDER', 'WING']",0,0,0,0,Semantic Knowledge
+765,GOLF TERMS,"['DRIVER', 'EAGLE', 'HOLE', 'STROKE']",0,0,0,0,Encyclopedic Knowledge
+766,DRUM SET COMPONENTS,"['CYMBAL', 'KICK', 'SNARE', 'TOM']",0,0,0,0,Semantic Knowledge
+767,"ASSOCIATED WITH ""CRAWL""","['INFANT', 'PUB', 'SWIMMING', 'TICKER']",0,0,0,0,Associative Knowledge
+768,BOARD GAMES,"['RISK', 'SORRY', 'TABOO', 'TROUBLE']",0,0,0,0,Encyclopedic Knowledge
+769,NEWSPAPER SECTIONS,"['BUSINESS', 'NATIONAL', 'OPINION', 'STYLE']",0,0,1,0,Associative Knowledge
+770,FIGURES IN GREEK MYTH,"['ATLAS', 'HERMES', 'NIKE', 'PARIS']",0,0,0,0,Encyclopedic Knowledge
+771,ADJECTIVES IN RAPPERS' NAMES,"['FOXY', 'GUCCI', 'KILLER', 'NOTORIOUS']",0,0,0,0,Encyclopedic Knowledge
+772,SOCIAL GATHERING,"['BASH', 'BLOWOUT', 'PARTY', 'SHINDIG']",1,0,0,1,Semantic Knowledge
+773,"""PINOCCHIO"" FIGURES","['CRICKET', 'PUPPET', 'WHALE', 'WOODCARVER']",0,0,0,0,Encyclopedic Knowledge
+774,FOUND IN A KITCHEN,"['COUNTER', 'MIXER', 'RANGE', 'SINK']",1,0,0,1,Associative Knowledge
+775,EASTER ___,"['BUNNY', 'EGG', 'ISLAND', 'SUNDAY']",0,0,0,0,Multiword Expressions
+776,EXTINCT ANIMALS,"['DODO', 'MAMMOTH', 'MASTODON', 'TRILOBITE']",0,1,1,1,Semantic Knowledge
+777,FAILURES,"['BUSTS', 'FLOPS', 'MISSES', 'TURKEYS']",0,1,1,0,Semantic Knowledge
+778,SLANG FOR CLOTHES,"['DUDS', 'GETUP', 'OUTFIT', 'THREADS']",0,1,0,1,Encyclopedic Knowledge
+779,KISS,"['PECK', 'SMACK', 'SMOOCH', 'X']",0,0,0,0,Associative Knowledge
+780,FACIAL HAIR,"['BEARD', 'GOATEE', 'MUSTACHE', 'STUBBLE']",1,1,1,1,Semantic Knowledge
+781,BIKE PARTS,"['GEAR', 'HANDLEBAR', 'PEDAL', 'WHEEL']",1,1,1,1,Semantic Knowledge
+782,PURSUE,"['DOG', 'FOLLOW', 'TAIL', 'TRACK']",0,0,0,0,Semantic Knowledge
+783,THINGS THAT ARE CAST,"['DOUBT', 'MOVIE', 'SHADOW', 'VOTE']",0,1,0,0,Associative Knowledge
+784,PERFORMING ARTISTS,"['ACTOR', 'DANCER', 'SINGER', 'STAND-UP']",1,1,0,0,Semantic Knowledge
+785,SANTA'S REINDEER,"['COMET', 'CUPID', 'DASHER', 'VIXEN']",1,0,0,0,Encyclopedic Knowledge
+786,SEEN ON VALENTINE'S DAY,"['CARD', 'CHOCOLATE', 'HEART', 'ROSE']",0,0,0,0,Associative Knowledge
+787,"""BAD ___"" MOVIES""","['BOYS', 'LIEUTENANT', 'SANTA', 'TASTE']",0,0,0,0,Multiword Expressions
+788,U.S. MOUNTAIN STATES,"['ARIZONA', 'COLORADO', 'NEVADA', 'UTAH']",0,0,0,0,Semantic Knowledge
+789,SODA BRANDS,"['CRUSH', 'MUG', 'SPRITE', 'SQUIRT']",0,0,1,1,Encyclopedic Knowledge
+790,CLASSIC ROCK BANDS,"['GENESIS', 'KANSAS', 'RUSH', 'YES']",0,0,0,0,Encyclopedic Knowledge
+791,TONY ___,"['HAWK', 'MONTANA', 'SOPRANO', 'STARK']",0,0,0,0,Multiword Expressions
+792,CAMPING SUPPLIES,"['COOLER', 'LANTERN', 'SLEEPING BAG', 'TENT']",1,1,0,1,Associative Knowledge
+793,INSULT,"['BARB', 'DIG', 'DISS', 'JAB']",0,1,1,0,Semantic Knowledge
+794,TINY,"['MINUTE', 'SLIGHT', 'SMALL', 'WEE']",0,0,1,0,Semantic Knowledge
+795,HAPPY ___,"['CAMPER', 'HOUR', 'MEAL', 'MEDIUM']",0,0,0,0,Multiword Expressions
+796,FRIEND,"['BUD', 'CHUM', 'MATE', 'PAL']",1,1,1,1,Semantic Knowledge
+797,COOKWEAR,"['CROCK', 'POT', 'SKILLET', 'WOK']",1,1,0,1,Semantic Knowledge
+798,SHOES,"['CLOG', 'PUMP', 'SLIDE', 'WEDGE']",0,1,0,0,Semantic Knowledge
+799,SLANG FOR CANNABIS,"['GRASS', 'HERB', 'MARY JANE', 'WEED']",0,1,0,1,Semantic Knowledge
