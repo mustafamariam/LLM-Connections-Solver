@@ -7,7 +7,7 @@ This script scores Connections answers from the LLM responses.
 *   Parses LLM responses
 *   Scores groupings for accuracy according to the provided scoring schema.
 
-Assumes input CSV file: `gemini_responses.csv`, `claude_responses.csv`,
+Assumes input CSV file: `gemini_responses.csv`, `claude_responses.csv`, `chatgpt_responses`, `llama_responses`
 Outputs 4 CSV files for each LLM with parsed responses and clustering score in new columns
 Dependencies: `pandas`
 '''
