@@ -20,12 +20,14 @@
                 "SLICE",
                 "WHIFF"
             ],
-            "FOOTWEAR MINUS \"ER\" SOUND": [
+            "FOOTWEAR MINUS \"ER\" SOUND": {
+                "Words" : [
                 "LOAF",
                 "SLIP",
                 "SNEAK",
                 "WADE"
             ]
+            }
         }
     },
     {
