@@ -1,0 +1,3002 @@
+[
+    {
+        "allwords": "MASS, SEA, SLEW, TON, BUCKLE, CAVE, COLLAPSE, GIVE, SHOUT, SNAP, WAVE, WHISTLE, BUTTON, DANCE, FLOP, LAUGH",
+        "categories": {
+            "LARGE AMOUNT": [
+                "MASS",
+                "SEA",
+                "SLEW",
+                "TON"
+            ],
+            "FALL IN UNDER PRESSURE": [
+                "BUCKLE",
+                "CAVE",
+                "COLLAPSE",
+                "GIVE"
+            ],
+            "WAYS TO GET ATTENTION": [
+                "SHOUT",
+                "SNAP",
+                "WAVE",
+                "WHISTLE"
+            ],
+            "BELLY ___": [
+                "BUTTON",
+                "DANCE",
+                "FLOP",
+                "LAUGH"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "AGENT, ASSET, MOLE, SLEEPER, FOOT, LINE, METER, VERSE, COUCH, IMPLY, INTIMATE, SUGGEST, KELVIN, OKAY, POTASSIUM, THOUSAND",
+        "categories": {
+            "INTELLIGENCE OPERATIVE": [
+                "AGENT",
+                "ASSET",
+                "MOLE",
+                "SLEEPER"
+            ],
+            "UNITS IN POETRY": [
+                "FOOT",
+                "LINE",
+                "METER",
+                "VERSE"
+            ],
+            "EXPRESS INDIRECTLY": [
+                "COUCH",
+                "IMPLY",
+                "INTIMATE",
+                "SUGGEST"
+            ],
+            "WHAT “K” MIGHT MEAN": [
+                "KELVIN",
+                "OKAY",
+                "POTASSIUM",
+                "THOUSAND"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "FACTORY, MILL, PLANT, SHOP, WIND, WINE, WING, WINK, CORE, RIND, SEED, STEM, FEATHER, HEAVY, LIGHT, MIDDLE",
+        "categories": {
+            "MANUFACTURING LOCATIONS": [
+                "FACTORY",
+                "MILL",
+                "PLANT",
+                "SHOP"
+            ],
+            "WIN + LETTER": [
+                "WIND",
+                "WINE",
+                "WING",
+                "WINK"
+            ],
+            "PARTS OF FRUIT YOU MIGHT NOT EAT": [
+                "CORE",
+                "RIND",
+                "SEED",
+                "STEM"
+            ],
+            "WEIGHTS IN BOXING": [
+                "FEATHER",
+                "HEAVY",
+                "LIGHT",
+                "MIDDLE"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "CARAVAN, FLEET, PARADE, TRAIN, OLIVE, FOREST, LIME, MINT, DEMOCRATIC, EROTIC, NOBLE, SAD, BOOK, CACTUS, HEDGEHOG, SKELETON",
+        "categories": {
+            "PROCESSION": [
+                "CARAVAN",
+                "FLEET",
+                "PARADE",
+                "TRAIN"
+            ],
+            "SHADES OF GREEN": [
+                "OLIVE",
+                "FOREST",
+                "LIME",
+                "MINT"
+            ],
+            "WHAT “BLUE” MIGHT MEAN": [
+                "DEMOCRATIC",
+                "EROTIC",
+                "NOBLE",
+                "SAD"
+            ],
+            "THINGS WITH SPINES": [
+                "BOOK",
+                "CACTUS",
+                "HEDGEHOG",
+                "SKELETON"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BARK, GROWL, HOWL, WHINE, ARM, BRANCH, CHAPTER, WING, CRADLE, FONT, ROOT, SOURCE, CLUE, FROWN, MELLOW, PREEN",
+        "categories": {
+            "DOG SOUNDS": [
+                "BARK",
+                "GROWL",
+                "HOWL",
+                "WHINE"
+            ],
+            "DEPARTMENT": [
+                "ARM",
+                "BRANCH",
+                "CHAPTER",
+                "WING"
+            ],
+            "ORIGIN": [
+                "CRADLE",
+                "FONT",
+                "ROOT",
+                "SOURCE"
+            ],
+            "COLORS WITH THEIR FIRST LETTERS CHANGED": [
+                "CLUE",
+                "FROWN",
+                "MELLOW",
+                "PREEN"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BADGERS, BUGS, HOUNDS, NAGS, ANNIE, CABARET, CATS, COMPANY, COMPUTER, PIANO, SUPER, TESTS, FISH, HARD KNOCKS, ROCK, THOUGHT",
+        "categories": {
+            "PESTERS": [
+                "BADGERS",
+                "BUGS",
+                "HOUNDS",
+                "NAGS"
+            ],
+            "TONY WINNERS FOR BEST MUSICAL": [
+                "ANNIE",
+                "CABARET",
+                "CATS",
+                "COMPANY"
+            ],
+            "THEY HAVE KEYS": [
+                "COMPUTER",
+                "PIANO",
+                "SUPER",
+                "TESTS"
+            ],
+            "SCHOOL OF ___": [
+                "FISH",
+                "HARD KNOCKS",
+                "ROCK",
+                "THOUGHT"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "GRAZE, NIBBLE, PECK, SNACK, HUNT, TRACK, TRAIL, STALK, BEANS, PASTA, STOCK, VEGETABLES, BROAD, FORE, POD, TYPE",
+        "categories": {
+            "EAT A LITTLE": [
+                "GRAZE",
+                "NIBBLE",
+                "PECK",
+                "SNACK"
+            ],
+            "PURSUE": [
+                "HUNT",
+                "TRACK",
+                "TRAIL",
+                "STALK"
+            ],
+            "INGREDIENTS IN MINESTRONE": [
+                "BEANS",
+                "PASTA",
+                "STOCK",
+                "VEGETABLES"
+            ],
+            "___CAST": [
+                "BROAD",
+                "FORE",
+                "POD",
+                "TYPE"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "CROC, LOAFER, MOCCASIN, SLIPPER, BOA, HEADDRESS, PILLOW, SHUTTLECOCK, BASIC, JAVA, PYTHON, RUBY, COBRA, INSPIRATION, LIGHTNING, UNION",
+        "categories": {
+            "COMFY SHOES": [
+                "CROC",
+                "LOAFER",
+                "MOCCASIN",
+                "SLIPPER"
+            ],
+            "THINGS MADE WITH FEATHERS": [
+                "BOA",
+                "HEADDRESS",
+                "PILLOW",
+                "SHUTTLECOCK"
+            ],
+            "PROGRAMMING LANGUAGES": [
+                "BASIC",
+                "JAVA",
+                "PYTHON",
+                "RUBY"
+            ],
+            "THINGS THAT CAN STRIKE": [
+                "COBRA",
+                "INSPIRATION",
+                "LIGHTNING",
+                "UNION"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "MONITOR, SURVEY, TRACK, WATCH, BEACH, DESERT, HOURGLASS, PLAYGROUND, BAKE, BROIL, LIGHT, TIMER, BLUR, OASIS, PULP, SUEDE",
+        "categories": {
+            "FOLLOW ATTENTIVELY": [
+                "MONITOR",
+                "SURVEY",
+                "TRACK",
+                "WATCH"
+            ],
+            "WHERE YOU MIGHT FIND SAND": [
+                "BEACH",
+                "DESERT",
+                "HOURGLASS",
+                "PLAYGROUND"
+            ],
+            "OVEN BUTTONS": [
+                "BAKE",
+                "BROIL",
+                "LIGHT",
+                "TIMER"
+            ],
+            "BRITPOP BANDS": [
+                "BLUR",
+                "OASIS",
+                "PULP",
+                "SUEDE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BRUSH, GRAZE, KISS, SKIM, ODD, PERFECT, PRIME, WHOLE, OYSTER, PLUM, SOY, XO, CLAW, FRUIT, HUG, WITNESS",
+        "categories": {
+            "TOUCH LIGHTLY": [
+                "BRUSH",
+                "GRAZE",
+                "KISS",
+                "SKIM"
+            ],
+            "KINDS OF NUMBERS": [
+                "ODD",
+                "PERFECT",
+                "PRIME",
+                "WHOLE"
+            ],
+            "SAUCES IN CHINESE CUISINE": [
+                "OYSTER",
+                "PLUM",
+                "SOY",
+                "XO"
+            ],
+            "BEAR ___": [
+                "CLAW",
+                "FRUIT",
+                "HUG",
+                "WITNESS"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "EGG, GOAD, SPUR, URGE, JAWBREAKER, MEATBALL, MOZZARELLA, ORANGE, DAIRY, FROZEN, PRODUCE, SNACK, BANANAS, FIGURE, FISH, STEADY",
+        "categories": {
+            "ENCOURAGE, WITH \"ON": [
+                "EGG",
+                "GOAD",
+                "SPUR",
+                "URGE"
+            ],
+            "SPHERICAL FOODS": [
+                "JAWBREAKER",
+                "MEATBALL",
+                "MOZZARELLA",
+                "ORANGE"
+            ],
+            "GROCERY STORE AISLES": [
+                "DAIRY",
+                "FROZEN",
+                "PRODUCE",
+                "SNACK"
+            ],
+            "GO ___": [
+                "BANANAS",
+                "FIGURE",
+                "FISH",
+                "STEADY"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "DROP, ECHO, FREEZE, LAG, MIME, PRISONER, REFEREE, SAILOR, GENIE, MONKEY, PARROT, PRINCESS, APOLLO, CANDLES, FANTASTIC, SAMURAI",
+        "categories": {
+            "BAD THINGS FOR A VIDEO CALL TO DO": [
+                "DROP",
+                "ECHO",
+                "FREEZE",
+                "LAG"
+            ],
+            "COSTUMES WITH STRIPED SHIRTS": [
+                "MIME",
+                "PRISONER",
+                "REFEREE",
+                "SAILOR"
+            ],
+            "SEEN IN “ALADDIN”": [
+                "GENIE",
+                "MONKEY",
+                "PARROT",
+                "PRINCESS"
+            ],
+            "MOVIES MINUS NUMBERS": [
+                "APOLLO",
+                "CANDLES",
+                "FANTASTIC",
+                "SAMURAI"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BUZZ, DRONE, HUM, PURR, BARGE, DORY, SCOW, SLOOP, AMERICA, HOOK, MORGAN, NEMO, AUTO, BUREAU, DEMO, PLUTO",
+        "categories": {
+            "MONOTONOUS SOUNDS": [
+                "BUZZ",
+                "DRONE",
+                "HUM",
+                "PURR"
+            ],
+            "BOATS": [
+                "BARGE",
+                "DORY",
+                "SCOW",
+                "SLOOP"
+            ],
+            "CAPTAINS": [
+                "AMERICA",
+                "HOOK",
+                "MORGAN",
+                "NEMO"
+            ],
+            "PREFIXES WITH -CRACY": [
+                "AUTO",
+                "BUREAU",
+                "DEMO",
+                "PLUTO"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "CANARY, FINK, RAT, SNITCH, JAM, PACK, SQUEEZE, STUFF, CAT, COW, MOUNTAIN, TRIANGLE, BUTTER, DRAGON, FIRE, HORSE",
+        "categories": {
+            "STOOL PIGEON": [
+                "CANARY",
+                "FINK",
+                "RAT",
+                "SNITCH"
+            ],
+            "CRAM INTO A TIGHT SPACE": [
+                "JAM",
+                "PACK",
+                "SQUEEZE",
+                "STUFF"
+            ],
+            "YOGA POSES": [
+                "CAT",
+                "COW",
+                "MOUNTAIN",
+                "TRIANGLE"
+            ],
+            "___FLY": [
+                "BUTTER",
+                "DRAGON",
+                "FIRE",
+                "HORSE"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BRIGHT, FLASHY, GARISH, LOUD, GAS, STINKER, TOOT, WIND, DIRTY, HONEY, PLATINUM, STRAWBERRY, HUG, OF, OXYGEN, ZERO",
+        "categories": {
+            "OSTENTATIOUS, AS AN OUTFIT": [
+                "BRIGHT",
+                "FLASHY",
+                "GARISH",
+                "LOUD"
+            ],
+            "EUPHEMISMS FOR FLATULENCE": [
+                "GAS",
+                "STINKER",
+                "TOOT",
+                "WIND"
+            ],
+            "KINDS OF BLOND": [
+                "DIRTY",
+                "HONEY",
+                "PLATINUM",
+                "STRAWBERRY"
+            ],
+            "WHAT “O” MIGHT MEAN": [
+                "HUG",
+                "OF",
+                "OXYGEN",
+                "ZERO"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "AGENCY, COMPANY, ENTERPRISE, FIRM, COOP, PEN, STABLE, STY, FLUFFY, REX, ROVER, SPOT, INK, LACK, OLD, RANGE",
+        "categories": {
+            "COMMERCIAL ORGANIZATION": [
+                "AGENCY",
+                "COMPANY",
+                "ENTERPRISE",
+                "FIRM"
+            ],
+            "FARM FIXTURES": [
+                "COOP",
+                "PEN",
+                "STABLE",
+                "STY"
+            ],
+            "CLASSIC DOG NAMES": [
+                "FLUFFY",
+                "REX",
+                "ROVER",
+                "SPOT"
+            ],
+            "COLORS MINUS THEIR FIRST LETTERS": [
+                "INK",
+                "LACK",
+                "OLD",
+                "RANGE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BREAK, HOLIDAY, LEAVE, RECESS, BUCKLE, HOLE, LOOP, STRAP, HOLEY, HOLI, HOLY, WHOLLY, DOG, DRIFT, HOLLY, SANDAL",
+        "categories": {
+            "TIME OFF": [
+                "BREAK",
+                "HOLIDAY",
+                "LEAVE",
+                "RECESS"
+            ],
+            "FEATURES OF A BELT": [
+                "BUCKLE",
+                "HOLE",
+                "LOOP",
+                "STRAP"
+            ],
+            "HOMOPHONES": [
+                "HOLEY",
+                "HOLI",
+                "HOLY",
+                "WHOLLY"
+            ],
+            "___WOOD": [
+                "DOG",
+                "DRIFT",
+                "HOLLY",
+                "SANDAL"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "CLIP, CUT, PARE, TRIM, BUILT, JACKED, RIPPED, SWOLE, BUFF, FAN, LOVER, NUT, BRAIN, PRUNE, PUG, WALNUT",
+        "categories": {
+            "MAKE SHORTER": [
+                "CLIP",
+                "CUT",
+                "PARE",
+                "TRIM"
+            ],
+            "MUSCULAR": [
+                "BUILT",
+                "JACKED",
+                "RIPPED",
+                "SWOLE"
+            ],
+            "ENTHUSIAST": [
+                "BUFF",
+                "FAN",
+                "LOVER",
+                "NUT"
+            ],
+            "WRINKLY THINGS": [
+                "BRAIN",
+                "PRUNE",
+                "PUG",
+                "WALNUT"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "BANG, HAMMER, POUND, SLAM, CHRONICLE, HERALD, REGISTER, SUN, BANANA, CROISSANT, MOON, SICKLE, FEATHER, FLOWER, MUSHROOM, STAR",
+        "categories": {
+            "HIT HARD": [
+                "BANG",
+                "HAMMER",
+                "POUND",
+                "SLAM"
+            ],
+            "NEWSPAPER NAMES": [
+                "CHRONICLE",
+                "HERALD",
+                "REGISTER",
+                "SUN"
+            ],
+            "CRESCENT-SHAPED THINGS": [
+                "BANANA",
+                "CROISSANT",
+                "MOON",
+                "SICKLE"
+            ],
+            "POWER-UPS IN SUPER MARIO WORLD": [
+                "FEATHER",
+                "FLOWER",
+                "MUSHROOM",
+                "STAR"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "PITCH, PLUG, PROMOTE, PUSH, COUPLE, ITEM, PAIR, THING, AD, ALL, DEUCE, LOVE, BREAD, DRAGON, JACK, PASSION",
+        "categories": {
+            "DO SOME MARKETING": [
+                "PITCH",
+                "PLUG",
+                "PROMOTE",
+                "PUSH"
+            ],
+            "ROMANTIC TWOSOME": [
+                "COUPLE",
+                "ITEM",
+                "PAIR",
+                "THING"
+            ],
+            "TENNIS SCORES": [
+                "AD",
+                "ALL",
+                "DEUCE",
+                "LOVE"
+            ],
+            "WORDS WITH “FRUIT”": [
+                "BREAD",
+                "DRAGON",
+                "JACK",
+                "PASSION"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "CREST, PEAK, SUMMIT, VERTEX, CELL, CONTACT, DIGITS, NUMBER, BABY, MINI, POCKET, TOY, BAG, BOARD, RACKS, TILES",
+        "categories": {
+            "HIGHEST POINT": [
+                "CREST",
+                "PEAK",
+                "SUMMIT",
+                "VERTEX"
+            ],
+            "“CAN I GET YOUR ___?” (PHONE INFO REQUEST)": [
+                "CELL",
+                "CONTACT",
+                "DIGITS",
+                "NUMBER"
+            ],
+            "MODIFIERS MEANING “SMALL”": [
+                "BABY",
+                "MINI",
+                "POCKET",
+                "TOY"
+            ],
+            "INSIDE A SCRABBLE BOX": [
+                "BAG",
+                "BOARD",
+                "RACKS",
+                "TILES"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "ACHE, BURN, SMART, STING, GUARD, MIND, TEND, WATCH, BRAIN, COURAGE, HEART, HOME, ANSWER, TWO, WRIST, WRONG",
+        "categories": {
+            "HURT": [
+                "ACHE",
+                "BURN",
+                "SMART",
+                "STING"
+            ],
+            "LOOK AFTER": [
+                "GUARD",
+                "MIND",
+                "TEND",
+                "WATCH"
+            ],
+            "SOUGHT AFTER IN “THE WIZARD OF OZ”": [
+                "BRAIN",
+                "COURAGE",
+                "HEART",
+                "HOME"
+            ],
+            "SILENT “W”": [
+                "ANSWER",
+                "TWO",
+                "WRIST",
+                "WRONG"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "CALCULATOR, CALENDAR, CAMERA, CLOCK, CONE, IRIS, LENS, PUPIL, DADA, GRAMMY, MUM, POPPY, EXPOSE, PATE, RESUME, ROSE",
+        "categories": {
+            "SMARTPHONE FEATURES BEGINNING WITH “C”": [
+                "CALCULATOR",
+                "CALENDAR",
+                "CAMERA",
+                "CLOCK"
+            ],
+            "PARTS OF THE EYE": [
+                "CONE",
+                "IRIS",
+                "LENS",
+                "PUPIL"
+            ],
+            "FAMILIAL NICKNAMES": [
+                "DADA",
+                "GRAMMY",
+                "MUM",
+                "POPPY"
+            ],
+            "WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS": [
+                "EXPOSE",
+                "PATE",
+                "RESUME",
+                "ROSE"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "COIN, CREATE, DEVISE, INVENT, FINE, PRIME, QUALITY, STERLING, AT, DOLLAR, PERCENT, POUND, BAR, BUCK, TIME, TORCH",
+        "categories": {
+            "BRING INTO BEING": [
+                "COIN",
+                "CREATE",
+                "DEVISE",
+                "INVENT"
+            ],
+            "EXCELLENT": [
+                "FINE",
+                "PRIME",
+                "QUALITY",
+                "STERLING"
+            ],
+            "SYMBOLS ABOVE NUMBERS ON A KEYBOARD": [
+                "AT",
+                "DOLLAR",
+                "PERCENT",
+                "POUND"
+            ],
+            "PASS THE ___": [
+                "BAR",
+                "BUCK",
+                "TIME",
+                "TORCH"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "CHERRY, FUDGE, NUTS, SPRINKLES, DESERT, DITCH, MAROON, STRAND, CURSES, DARN, RATS, SHOOT, FUZZY, PEPPERS, SEASHELLS, WOODCHUCK",
+        "categories": {
+            "SUNDAE TOPPINGS": [
+                "CHERRY",
+                "FUDGE",
+                "NUTS",
+                "SPRINKLES"
+            ],
+            "LEAVE HIGH AND DRY": [
+                "DESERT",
+                "DITCH",
+                "MAROON",
+                "STRAND"
+            ],
+            "“PHOOEY!”": [
+                "CURSES",
+                "DARN",
+                "RATS",
+                "SHOOT"
+            ],
+            "WORDS IN TONGUE TWISTERS": [
+                "FUZZY",
+                "PEPPERS",
+                "SEASHELLS",
+                "WOODCHUCK"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "GRANDSTAND, PEACOCK, POSTURE, STRUT, MAIN, PARAMOUNT, PRIME, SUPREME, BLUE, GREEN, WHITE, YELLOW, CHAIN, COVER, LOVE, SCARLET",
+        "categories": {
+            "SHOW OFF": [
+                "GRANDSTAND",
+                "PEACOCK",
+                "POSTURE",
+                "STRUT"
+            ],
+            "FOREMOST": [
+                "MAIN",
+                "PARAMOUNT",
+                "PRIME",
+                "SUPREME"
+            ],
+            "COLORS IN BRAZIL’S FLAG": [
+                "BLUE",
+                "GREEN",
+                "WHITE",
+                "YELLOW"
+            ],
+            "___ LETTER": [
+                "CHAIN",
+                "COVER",
+                "LOVE",
+                "SCARLET"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "MEAN, MEDIAN, MODE, RANGE, BASE, BOND, ELEMENT, SOLUTION, AWFUL, PRETTY, RATHER, REAL, GLASS, GROSS, KING, STERN",
+        "categories": {
+            "DATA SET DATA": [
+                "MEAN",
+                "MEDIAN",
+                "MODE",
+                "RANGE"
+            ],
+            "CHEMISTRY TERMS": [
+                "BASE",
+                "BOND",
+                "ELEMENT",
+                "SOLUTION"
+            ],
+            "ADJECTIVE INTENSIFIERS": [
+                "AWFUL",
+                "PRETTY",
+                "RATHER",
+                "REAL"
+            ],
+            "RADIO HALL OF FAME MEMBERS": [
+                "GLASS",
+                "GROSS",
+                "KING",
+                "STERN"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "BADGE, INVITE, PASS, TICKET, CHAIR, DIRECT, LEAD, RUN, CENTER, END, SAFETY, TACKLE, HOLD, PUNT, STALL, TABLE",
+        "categories": {
+            "CREDENTIALS FOR ENTRY": [
+                "BADGE",
+                "INVITE",
+                "PASS",
+                "TICKET"
+            ],
+            "PRESIDE OVER": [
+                "CHAIR",
+                "DIRECT",
+                "LEAD",
+                "RUN"
+            ],
+            "AMERICAN FOOTBALL POSITIONS": [
+                "CENTER",
+                "END",
+                "SAFETY",
+                "TACKLE"
+            ],
+            "POSTPONE": [
+                "HOLD",
+                "PUNT",
+                "STALL",
+                "TABLE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "ISSUE, MATTER, POINT, SUBJECT, CHAPTER, PERIOD, PHASE, STAGE, DASH, SHOCK, TANK, WHEEL, BLEW, CHORAL, READ, ROWS",
+        "categories": {
+            "TOPIC OF DISCUSSION": [
+                "ISSUE",
+                "MATTER",
+                "POINT",
+                "SUBJECT"
+            ],
+            "SECTION OF ONE’S LIFE": [
+                "CHAPTER",
+                "PERIOD",
+                "PHASE",
+                "STAGE"
+            ],
+            "PARTS OF A CAR, INFORMALLY": [
+                "DASH",
+                "SHOCK",
+                "TANK",
+                "WHEEL"
+            ],
+            "COLOR HOMOPHONES": [
+                "BLEW",
+                "CHORAL",
+                "READ",
+                "ROWS"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "GAS, LIQUID, PLASMA, SOLID, GREAT, HERO, ICON, LEGEND, PHAT, PHEW, PHILLY, PHISH, ELEVATOR, FEVER, PERFECT, SALES",
+        "categories": {
+            "STATES OF MATTER": [
+                "GAS",
+                "LIQUID",
+                "PLASMA",
+                "SOLID"
+            ],
+            "ALL-TIMER": [
+                "GREAT",
+                "HERO",
+                "ICON",
+                "LEGEND"
+            ],
+            "“PH” WORDS THAT ALSO WORK WITH “F”": [
+                "PHAT",
+                "PHEW",
+                "PHILLY",
+                "PHISH"
+            ],
+            "___ PITCH": [
+                "ELEVATOR",
+                "FEVER",
+                "PERFECT",
+                "SALES"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "CHARM, CURSE, HEX, SPELL, FLUE, GRATE, LOG, POKER, CARDS, CHIPS, DICE, SLOTS, CRUMBLE, MELT, SHRED, SLICE",
+        "categories": {
+            "BIT OF MAGIC": [
+                "CHARM",
+                "CURSE",
+                "HEX",
+                "SPELL"
+            ],
+            "FOUND AROUND A FIREPLACE": [
+                "FLUE",
+                "GRATE",
+                "LOG",
+                "POKER"
+            ],
+            "THINGS SEEN AT A CASINO": [
+                "CARDS",
+                "CHIPS",
+                "DICE",
+                "SLOTS"
+            ],
+            "WAYS TO PREPARE CHEESE": [
+                "CRUMBLE",
+                "MELT",
+                "SHRED",
+                "SLICE"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "BROOM, MOP, RAG, SPONGE, SALT, FAT, ACID, HEAT, DUST, PEPPER, POLLEN, SMOKE, MAGNUM, MONK, SHAFT, TRACY",
+        "categories": {
+            "CLEANING SUPPLIES": [
+                "BROOM",
+                "MOP",
+                "RAG",
+                "SPONGE"
+            ],
+            "ELEMENTS OF COOKING, PER SAMIN NOSRAT": [
+                "SALT",
+                "FAT",
+                "ACID",
+                "HEAT"
+            ],
+            "THINGS THAT MAKE YOU SNEEZE": [
+                "DUST",
+                "PEPPER",
+                "POLLEN",
+                "SMOKE"
+            ],
+            "TITULAR FICTIONAL DETECTIVES": [
+                "MAGNUM",
+                "MONK",
+                "SHAFT",
+                "TRACY"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "ALPHABET, AMAZON, APPLE, META, BAR, FINAL, ORAL, PHYSICAL, BEAUTY, GEM, MARVEL, PEACH, BABY, EYE, SWEET, WISDOM",
+        "categories": {
+            "TECH COMPANIES": [
+                "ALPHABET",
+                "AMAZON",
+                "APPLE",
+                "META"
+            ],
+            "KINDS OF EXAMS": [
+                "BAR",
+                "FINAL",
+                "ORAL",
+                "PHYSICAL"
+            ],
+            "SOMETHING EXEMPLARY": [
+                "BEAUTY",
+                "GEM",
+                "MARVEL",
+                "PEACH"
+            ],
+            "___ TOOTH": [
+                "BABY",
+                "EYE",
+                "SWEET",
+                "WISDOM"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "FUNK, MUSK, ODOR, TANG, ROCK, SWAY, SWING, WAVE, AFRO, BONE, FIGHT, LOCK, CRYSTAL, DISCO, FOUL, GUTTER",
+        "categories": {
+            "STRONG SMELL": [
+                "FUNK",
+                "MUSK",
+                "ODOR",
+                "TANG"
+            ],
+            "MOVE BACK AND FORTH": [
+                "ROCK",
+                "SWAY",
+                "SWING",
+                "WAVE"
+            ],
+            "THINGS TO PICK": [
+                "AFRO",
+                "BONE",
+                "FIGHT",
+                "LOCK"
+            ],
+            "___ BALL": [
+                "CRYSTAL",
+                "DISCO",
+                "FOUL",
+                "GUTTER"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "JOSH, KID, RIB, TEASE, HEIGHT, MAX, PEAK, TOP, DOZEN, GROSS, PAIR, SCORE, ADULT, KISS, TEN, TIMES",
+        "categories": {
+            "PLAYFULLY BOTHER": [
+                "JOSH",
+                "KID",
+                "RIB",
+                "TEASE"
+            ],
+            "APEX": [
+                "HEIGHT",
+                "MAX",
+                "PEAK",
+                "TOP"
+            ],
+            "WORDS FOR SPECIFIC QUANTITIES": [
+                "DOZEN",
+                "GROSS",
+                "PAIR",
+                "SCORE"
+            ],
+            "WHAT “X” MIGHT MEAN": [
+                "ADULT",
+                "KISS",
+                "TEN",
+                "TIMES"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "FLOAT, FLY, GLIDE, SOAR, BUG, MIKE, TAP, WIRE, CHECK, MARK, TICK, X, 40, COLE, PAIN, TIP",
+        "categories": {
+            "MOVE THROUGH THE AIR": [
+                "FLOAT",
+                "FLY",
+                "GLIDE",
+                "SOAR"
+            ],
+            "HIDDEN LISTENING DEVICES": [
+                "BUG",
+                "MIKE",
+                "TAP",
+                "WIRE"
+            ],
+            "SELECT, AS A BOX ON A FORM": [
+                "CHECK",
+                "MARK",
+                "TICK",
+                "X"
+            ],
+            "RAPPERS MINUS FIRST LETTER": [
+                "40",
+                "COLE",
+                "PAIN",
+                "TIP"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "BREAD, BACON, LETTUCE, TOMATO, BLOCK, CLOG, JAM, STOP, DOUBLE, HIT, RUN, WALK, FRY, TALK, WONDER, WORLD",
+        "categories": {
+            "B.L.T. INGREDIENTS": [
+                "BREAD",
+                "BACON",
+                "LETTUCE",
+                "TOMATO"
+            ],
+            "OBSTRUCT": [
+                "BLOCK",
+                "CLOG",
+                "JAM",
+                "STOP"
+            ],
+            "BASEBALL STATS": [
+                "DOUBLE",
+                "HIT",
+                "RUN",
+                "WALK"
+            ],
+            "SMALL ___": [
+                "FRY",
+                "TALK",
+                "WONDER",
+                "WORLD"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "ORCA, PANDA, SKUNK, ZEBRA, CHAIN, SERIES, STRING, TRAIN, BASS, DOVE, DESERT, WIND, BEAR, SAND, SPEED, TOURIST",
+        "categories": {
+            "BLACK-AND-WHITE ANIMALS": [
+                "ORCA",
+                "PANDA",
+                "SKUNK",
+                "ZEBRA"
+            ],
+            "SEQUENCE": [
+                "CHAIN",
+                "SERIES",
+                "STRING",
+                "TRAIN"
+            ],
+            "HETERONYMS": [
+                "BASS",
+                "DOVE",
+                "DESERT",
+                "WIND"
+            ],
+            "___ TRAP": [
+                "BEAR",
+                "SAND",
+                "SPEED",
+                "TOURIST"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "MESSAGE, OMEN, SIGN, WARNING, GEN, MS, PROF, REV, CHARCOAL, INK, PAINT, PASTEL, BELL, BLACK, DR, GHOST",
+        "categories": {
+            "INDICATION OF THINGS TO COME": [
+                "MESSAGE",
+                "OMEN",
+                "SIGN",
+                "WARNING"
+            ],
+            "NAME PREFIXES": [
+                "GEN",
+                "MS",
+                "PROF",
+                "REV"
+            ],
+            "ART MEDIUMS": [
+                "CHARCOAL",
+                "INK",
+                "PAINT",
+                "PASTEL"
+            ],
+            "___ PEPPER": [
+                "BELL",
+                "BLACK",
+                "DR",
+                "GHOST"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "LIGHT, MELLOW, MILD, SOFT, BELLY, CHOP, HOCK, SHOULDER, CROWN, ROBE, TABLET, TORCH, CANDLE, DANDELION, DICE, EYELASH",
+        "categories": {
+            "GENTLE": [
+                "LIGHT",
+                "MELLOW",
+                "MILD",
+                "SOFT"
+            ],
+            "CUTS OF PORK": [
+                "BELLY",
+                "CHOP",
+                "HOCK",
+                "SHOULDER"
+            ],
+            "STATUE OF LIBERTY FEATURES": [
+                "CROWN",
+                "ROBE",
+                "TABLET",
+                "TORCH"
+            ],
+            "THINGS TO BLOW ON FOR WISHES/LUCK": [
+                "CANDLE",
+                "DANDELION",
+                "DICE",
+                "EYELASH"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BOAT, CAR, PLANE, TRAIN, DOWN, GAME, IN, ON BOARD, DASH, DROP, PINCH, SPLASH, BLUE, GOOSE, RASP, STRAW",
+        "categories": {
+            "MEANS OF TRANSPORTATION": [
+                "BOAT",
+                "CAR",
+                "PLANE",
+                "TRAIN"
+            ],
+            "WILLING TO PARTICIPATE": [
+                "DOWN",
+                "GAME",
+                "IN",
+                "ON BOARD"
+            ],
+            "LITTLE BIT, IN A RECIPE": [
+                "DASH",
+                "DROP",
+                "PINCH",
+                "SPLASH"
+            ],
+            "_BERRY": [
+                "BLUE",
+                "GOOSE",
+                "RASP",
+                "STRAW"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "DRYER, HAMPER, IRON, WASHER, DIRECT, GUIDE, LEAD, STEER, IODINE, IOTA, MYSELF, ONE, DEATH, HIDDEN, SILICON, UNCANNY",
+        "categories": {
+            "SEEN IN A LAUNDRY ROOM": [
+                "DRYER",
+                "HAMPER",
+                "IRON",
+                "WASHER"
+            ],
+            "SHEPHERD": [
+                "DIRECT",
+                "GUIDE",
+                "LEAD",
+                "STEER"
+            ],
+            "WHAT “I” MIGHT MEAN": [
+                "IODINE",
+                "IOTA",
+                "MYSELF",
+                "ONE"
+            ],
+            "___ VALLEY": [
+                "DEATH",
+                "HIDDEN",
+                "SILICON",
+                "UNCANNY"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "FLASH, JIFFY, SECOND, WINK, CHIEF, FIRST, MAIN, PRINCIPAL, BROADWAY, FIFTH, MADISON, PARK, AMATEUR, ELEVENTH, HAPPY, RUSH",
+        "categories": {
+            "BRIEF MOMENT": [
+                "FLASH",
+                "JIFFY",
+                "SECOND",
+                "WINK"
+            ],
+            "PRIMARY": [
+                "CHIEF",
+                "FIRST",
+                "MAIN",
+                "PRINCIPAL"
+            ],
+            "AVENUES IN N.Y.C.": [
+                "BROADWAY",
+                "FIFTH",
+                "MADISON",
+                "PARK"
+            ],
+            "___ HOUR": [
+                "AMATEUR",
+                "ELEVENTH",
+                "HAPPY",
+                "RUSH"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "HOE, PLOW, RAKE, SICKLE, PLOT, PLOY, RUSE, TRICK, AMUSE, DELIGHT, PLEASE, TICKLE, BANG, PLOP, SPLASH, THUD",
+        "categories": {
+            "FARM TOOLS": [
+                "HOE",
+                "PLOW",
+                "RAKE",
+                "SICKLE"
+            ],
+            "SCHEME": [
+                "PLOT",
+                "PLOY",
+                "RUSE",
+                "TRICK"
+            ],
+            "MAKE HAPPY": [
+                "AMUSE",
+                "DELIGHT",
+                "PLEASE",
+                "TICKLE"
+            ],
+            "ONOMATOPOEIA": [
+                "BANG",
+                "PLOP",
+                "SPLASH",
+                "THUD"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "CRAB, CRANK, GROUCH, GRUMP, CROUCH, DUCK, SQUAT, STOOP, ANTHEM, FLAG, MOTTO, SEAL, CHEAT, CROOK, QUACK, SHARK",
+        "categories": {
+            "CURMUDGEON": [
+                "CRAB",
+                "CRANK",
+                "GROUCH",
+                "GRUMP"
+            ],
+            "GET LOW": [
+                "CROUCH",
+                "DUCK",
+                "SQUAT",
+                "STOOP"
+            ],
+            "NATIONAL SYMBOLS": [
+                "ANTHEM",
+                "FLAG",
+                "MOTTO",
+                "SEAL"
+            ],
+            "SWINDLER": [
+                "CHEAT",
+                "CROOK",
+                "QUACK",
+                "SHARK"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BADGER, BUG, HOUND, NAG, ARENA, BOWL, DOME, FIELD, DIVIDE, FORK, PART, SPLIT, FOX, LINING, SCREEN, SPOON",
+        "categories": {
+            "PESTER": [
+                "BADGER",
+                "BUG",
+                "HOUND",
+                "NAG"
+            ],
+            "SPORTS VENUES": [
+                "ARENA",
+                "BOWL",
+                "DOME",
+                "FIELD"
+            ],
+            "SEPARATE": [
+                "DIVIDE",
+                "FORK",
+                "PART",
+                "SPLIT"
+            ],
+            "SILVER ___": [
+                "FOX",
+                "LINING",
+                "SCREEN",
+                "SPOON"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "FLOAT, SHAKE, SPLIT, SUNDAE, BOLT, NAIL, RIVET, SCREW, CORN, OLIVE, PALM, PEANUT, FINGERS, NOTE, RICE, WICKET",
+        "categories": {
+            "ICE CREAM TREATS": [
+                "FLOAT",
+                "SHAKE",
+                "SPLIT",
+                "SUNDAE"
+            ],
+            "HARDWARE FASTENERS": [
+                "BOLT",
+                "NAIL",
+                "RIVET",
+                "SCREW"
+            ],
+            "KINDS OF COOKING OIL": [
+                "CORN",
+                "OLIVE",
+                "PALM",
+                "PEANUT"
+            ],
+            "STICKY ___": [
+                "FINGERS",
+                "NOTE",
+                "RICE",
+                "WICKET"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BIG, GIANT, GREAT, HUGE, FICTION, HUMOR, POETRY, TRAVEL, CHEERS, EUPHORIA, FELICITY, GLEE, CONSTRUCTION, FRASIER, PAPER, WHOOPING",
+        "categories": {
+            "ENORMOUS": [
+                "BIG",
+                "GIANT",
+                "GREAT",
+                "HUGE"
+            ],
+            "BOOKSTORE SECTIONS": [
+                "FICTION",
+                "HUMOR",
+                "POETRY",
+                "TRAVEL"
+            ],
+            "TV SHOWS WITH HAPPY-SOUNDING NAMES": [
+                "CHEERS",
+                "EUPHORIA",
+                "FELICITY",
+                "GLEE"
+            ],
+            "___ CRANE": [
+                "CONSTRUCTION",
+                "FRASIER",
+                "PAPER",
+                "WHOOPING"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BASKET, BIN, CHEST, HAMPER, BAND, CIRCLE, HOOP, RING, CAP, CHECK, CURB, LIMIT, NBA, PAPER, PEARL, TRAFFIC",
+        "categories": {
+            "CONTAINERS": [
+                "BASKET",
+                "BIN",
+                "CHEST",
+                "HAMPER"
+            ],
+            "CIRCULAR SHAPES": [
+                "BAND",
+                "CIRCLE",
+                "HOOP",
+                "RING"
+            ],
+            "RESTRICT": [
+                "CAP",
+                "CHECK",
+                "CURB",
+                "LIMIT"
+            ],
+            "___ JAM": [
+                "NBA",
+                "PAPER",
+                "PEARL",
+                "TRAFFIC"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "DODGE, DUCK, ESCAPE, SKIRT, BIRDS, NOTORIOUS, REBECCA, ROPE, GOOSE, HOBBES, ROBIN, WATSON, COTTAGE, CREAM, SAY, STRING",
+        "categories": {
+            "AVOID": [
+                "DODGE",
+                "DUCK",
+                "ESCAPE",
+                "SKIRT"
+            ],
+            "HITCHCOCK MOVIES": [
+                "BIRDS",
+                "NOTORIOUS",
+                "REBECCA",
+                "ROPE"
+            ],
+            "SIDEKICKS": [
+                "GOOSE",
+                "HOBBES",
+                "ROBIN",
+                "WATSON"
+            ],
+            "___ CHEESE": [
+                "COTTAGE",
+                "CREAM",
+                "SAY",
+                "STRING"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "CITY, COUNTY, TOWN, VILLAGE, CHOP, GRIND, PULSE, PUREE, CAPITAL, EQUITY, INTEREST, STOCK, IVY, JUSTICE, LITTLE, PREMIER",
+        "categories": {
+            "MUNICIPALITIES": [
+                "CITY",
+                "COUNTY",
+                "TOWN",
+                "VILLAGE"
+            ],
+            "BLENDER BUTTONS": [
+                "CHOP",
+                "GRIND",
+                "PULSE",
+                "PUREE"
+            ],
+            "FINANCIAL TERMS": [
+                "CAPITAL",
+                "EQUITY",
+                "INTEREST",
+                "STOCK"
+            ],
+            "___ LEAGUE": [
+                "IVY",
+                "JUSTICE",
+                "LITTLE",
+                "PREMIER"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "HIDDEN, PRIVATE, REMOTE, SECRET, AMOUNT, NUMBER, QUANTITY, VOLUME, CANAL, CHANNEL, SOUND, STRAIT, 96, MOW, NOON, SIS",
+        "categories": {
+            "SECLUDED": [
+                "HIDDEN",
+                "PRIVATE",
+                "REMOTE",
+                "SECRET"
+            ],
+            "AGGREGATE SIZE": [
+                "AMOUNT",
+                "NUMBER",
+                "QUANTITY",
+                "VOLUME"
+            ],
+            "BODIES OF WATER": [
+                "CANAL",
+                "CHANNEL",
+                "SOUND",
+                "STRAIT"
+            ],
+            "READS THE SAME ROTATED 180°": [
+                "96",
+                "MOW",
+                "NOON",
+                "SIS"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "KNOCK, PAN, ROAST, SLAM, ALONE, CATFISH, CHOPPED, SURVIVOR, FIAT, JAGUAR, MINI, RAM, BACHELOR, LILY, MAXI, MOUSE",
+        "categories": {
+            "CRITICIZE": [
+                "KNOCK",
+                "PAN",
+                "ROAST",
+                "SLAM"
+            ],
+            "REALITY SHOWS": [
+                "ALONE",
+                "CATFISH",
+                "CHOPPED",
+                "SURVIVOR"
+            ],
+            "CAR BRANDS": [
+                "FIAT",
+                "JAGUAR",
+                "MINI",
+                "RAM"
+            ],
+            "___ PAD": [
+                "BACHELOR",
+                "LILY",
+                "MAXI",
+                "MOUSE"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "PASTY, PIE, TART, TURNOVER, BOUQUET, PARFAIT, RAGOUT, RAPPORT, JAPAN, POLAND, TUNISIA, TURKEY, BIRD, CURRY, JAMES, JORDAN",
+        "categories": {
+            "FOODS WITH CRUSTS": [
+                "PASTY",
+                "PIE",
+                "TART",
+                "TURNOVER"
+            ],
+            "ENDING IN A SILENT “T”": [
+                "BOUQUET",
+                "PARFAIT",
+                "RAGOUT",
+                "RAPPORT"
+            ],
+            "COUNTRIES WITH RED AND WHITE FLAGS": [
+                "JAPAN",
+                "POLAND",
+                "TUNISIA",
+                "TURKEY"
+            ],
+            "N.B.A. GREATS": [
+                "BIRD",
+                "CURRY",
+                "JAMES",
+                "JORDAN"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "CANINE, FANG, MOLAR, TUSK, CHIC, HIP, HOT, IN, FLOSS, ROBOT, VOGUE, WORM, LEECH, STRAW, VACUUM, VAMPIRE",
+        "categories": {
+            "TYPES OF TEETH": [
+                "CANINE",
+                "FANG",
+                "MOLAR",
+                "TUSK"
+            ],
+            "FASHIONABLE": [
+                "CHIC",
+                "HIP",
+                "HOT",
+                "IN"
+            ],
+            "DANCE MOVES": [
+                "FLOSS",
+                "ROBOT",
+                "VOGUE",
+                "WORM"
+            ],
+            "THINGS THAT SUCK": [
+                "LEECH",
+                "STRAW",
+                "VACUUM",
+                "VAMPIRE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "GANDER, GLANCE, GLIMPSE, LOOK, ACT, BLUFF, CHARADE, FRONT, CLIFF, CRAG, LEDGE, RIDGE, PEAK, PEEK, PEKE, PIQUE",
+        "categories": {
+            "QUICK PEEK": [
+                "GANDER",
+                "GLANCE",
+                "GLIMPSE",
+                "LOOK"
+            ],
+            "DECEIT": [
+                "ACT",
+                "BLUFF",
+                "CHARADE",
+                "FRONT"
+            ],
+            "PARTS OF A MOUNTAIN": [
+                "CLIFF",
+                "CRAG",
+                "LEDGE",
+                "RIDGE"
+            ],
+            "HOMOPHONES": [
+                "PEAK",
+                "PEEK",
+                "PEKE",
+                "PIQUE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BULL, HOGWASH, NONSENSE, ROT, DIRECT, GUIDE, LEAD, STEER, BUFFALO, DEER, FISH, MOOSE, DANE, LAKE, SEAL, WHITE",
+        "categories": {
+            "BALDERDASH": [
+                "BULL",
+                "HOGWASH",
+                "NONSENSE",
+                "ROT"
+            ],
+            "HELM": [
+                "DIRECT",
+                "GUIDE",
+                "LEAD",
+                "STEER"
+            ],
+            "SINGLE/PLURAL ANIMALS": [
+                "BUFFALO",
+                "DEER",
+                "FISH",
+                "MOOSE"
+            ],
+            "GREAT ___": [
+                "DANE",
+                "LAKE",
+                "SEAL",
+                "WHITE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "EW, ICK, PU, UGH, O, OK, US, W, HAI, JA, SI, DA, OUI, WE, WEE, WII",
+        "categories": {
+            "“GROSS!”": [
+                "EW",
+                "ICK",
+                "PU",
+                "UGH"
+            ],
+            "MAGAZINES": [
+                "O",
+                "OK",
+                "US",
+                "W"
+            ],
+            "“YES” IN DIFFERENT LANGUAGES": [
+                "HAI",
+                "JA",
+                "SI",
+                "DA"
+            ],
+            "HOMOPHONES": [
+                "OUI",
+                "WE",
+                "WEE",
+                "WII"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "ANGER, FEAR, HAPPINESS, SURPRISE, BEHOLD, PRESTO, TADA, VOILA, GET, LAND, SECURE, WIN, ADAM, CARPENTER, FIRE, RED",
+        "categories": {
+            "BASIC EMOTIONS": [
+                "ANGER",
+                "FEAR",
+                "HAPPINESS",
+                "SURPRISE"
+            ],
+            "BIT OF VOCAL FANFARE": [
+                "BEHOLD",
+                "PRESTO",
+                "TADA",
+                "VOILA"
+            ],
+            "OBTAIN": [
+                "GET",
+                "LAND",
+                "SECURE",
+                "WIN"
+            ],
+            "___ ANT": [
+                "ADAM",
+                "CARPENTER",
+                "FIRE",
+                "RED"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "LETTER, PARAGRAPH, SENTENCE, WORD, FEATURE, HALLMARK, STAMP, TRAIT, CARD, CLOWN, CUTUP, JOKER, BOOK, TABLE, TEA, TREE",
+        "categories": {
+            "UNIT OF LANGUAGE": [
+                "LETTER",
+                "PARAGRAPH",
+                "SENTENCE",
+                "WORD"
+            ],
+            "TRADEMARK": [
+                "FEATURE",
+                "HALLMARK",
+                "STAMP",
+                "TRAIT"
+            ],
+            "FUNNY PERSON": [
+                "CARD",
+                "CLOWN",
+                "CUTUP",
+                "JOKER"
+            ],
+            "THINGS WITH LEAVES": [
+                "BOOK",
+                "TABLE",
+                "TEA",
+                "TREE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "LIGHT, SHORT, SPARE, THIN, BALL, BLAST, KICK, RIOT, BOOM, DOLLY, LENS, TRIPOD, CLUE, GRIP, LIFE, ROOM",
+        "categories": {
+            "SPARSE/LACKING": [
+                "LIGHT",
+                "SHORT",
+                "SPARE",
+                "THIN"
+            ],
+            "FUN TIME": [
+                "BALL",
+                "BLAST",
+                "KICK",
+                "RIOT"
+            ],
+            "FILMMAKING EQUIPMENT": [
+                "BOOM",
+                "DOLLY",
+                "LENS",
+                "TRIPOD"
+            ],
+            "“GET A ___!”": [
+                "CLUE",
+                "GRIP",
+                "LIFE",
+                "ROOM"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "DIET, EXERCISE, FRESH AIR, SLEEP, COMPOSE, FORWARD, REPLY ALL, SEND, RADIOLAB, SERIAL, UP FIRST, WTF, BLACK, DIVINE, PROP, SKETCH",
+        "categories": {
+            "DOCTORS’ ORDERS": [
+                "DIET",
+                "EXERCISE",
+                "FRESH AIR",
+                "SLEEP"
+            ],
+            "EMAIL ACTIONS": [
+                "COMPOSE",
+                "FORWARD",
+                "REPLY ALL",
+                "SEND"
+            ],
+            "PODCASTS": [
+                "RADIOLAB",
+                "SERIAL",
+                "UP FIRST",
+                "WTF"
+            ],
+            "___ COMEDY": [
+                "BLACK",
+                "DIVINE",
+                "PROP",
+                "SKETCH"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "CHIME, DING, PING, RING, RAT, SING, SNITCH, SQUEAL, CAMP, DIVISION, FACTION, WING, BING, EDGE, SURFACE, WORD",
+        "categories": {
+            "DIGITAL NOTIFICATION SOUNDS": [
+                "CHIME",
+                "DING",
+                "PING",
+                "RING"
+            ],
+            "TATTLE": [
+                "RAT",
+                "SING",
+                "SNITCH",
+                "SQUEAL"
+            ],
+            "GROUP WITHIN A GROUP": [
+                "CAMP",
+                "DIVISION",
+                "FACTION",
+                "WING"
+            ],
+            "MICROSOFT PRODUCTS": [
+                "BING",
+                "EDGE",
+                "SURFACE",
+                "WORD"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BOND, CD, OPTION, STOCK, LP, PLATTER, VINYL, WAX, BOUILLON, DIE, ICE, SUGAR, FUNNY, HERRING, SOUP, WISH",
+        "categories": {
+            "INVESTMENTS": [
+                "BOND",
+                "CD",
+                "OPTION",
+                "STOCK"
+            ],
+            "TERMS FOR RECORDS": [
+                "LP",
+                "PLATTER",
+                "VINYL",
+                "WAX"
+            ],
+            "CUBE-SHAPED": [
+                "BOUILLON",
+                "DIE",
+                "ICE",
+                "SUGAR"
+            ],
+            "WORDS THAT GO WITH “BONE”": [
+                "FUNNY",
+                "HERRING",
+                "SOUP",
+                "WISH"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "EVEN, LEVEL, STABLE, STEADY, LANCE, PIN, SKEWER, SPIT, BILLBOARD, PITCHFORK, ROLLING STONE, SPIN, UNIFORM, BICYCLE, TRILOGY, QUADRANT",
+        "categories": {
+            "UNCHANGING": [
+                "EVEN",
+                "LEVEL",
+                "STABLE",
+                "STEADY"
+            ],
+            "LONG, SHARP OBJECTS": [
+                "LANCE",
+                "PIN",
+                "SKEWER",
+                "SPIT"
+            ],
+            "MUSIC PUBLICATIONS": [
+                "BILLBOARD",
+                "PITCHFORK",
+                "ROLLING STONE",
+                "SPIN"
+            ],
+            "WORDS WITH NUMERICAL PREFIXES": [
+                "UNIFORM",
+                "BICYCLE",
+                "TRILOGY",
+                "QUADRANT"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BURN, KINDLE, LIGHT, TORCH, DATA, INFO, INTEL, NEWS, DELL, GLEN, HOLLOW, VALLEY, APPLE, COMPUTER, PLANET, REACTOR",
+        "categories": {
+            "IGNITE": [
+                "BURN",
+                "KINDLE",
+                "LIGHT",
+                "TORCH"
+            ],
+            "INFORMATION": [
+                "DATA",
+                "INFO",
+                "INTEL",
+                "NEWS"
+            ],
+            "SMALL WOODED AREA": [
+                "DELL",
+                "GLEN",
+                "HOLLOW",
+                "VALLEY"
+            ],
+            "THINGS WITH CORES": [
+                "APPLE",
+                "COMPUTER",
+                "PLANET",
+                "REACTOR"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "DAISY, ROSE, TULIP, VIOLET, BARN, CHICKEN, FARMER, TRACTOR, ASTER, CARPENTER, CRAVEN, WAN, DUST, LIFE, SPORTS, YELLOW",
+        "categories": {
+            "FLOWERS": [
+                "DAISY",
+                "ROSE",
+                "TULIP",
+                "VIOLET"
+            ],
+            "SEEN ON A FARM": [
+                "BARN",
+                "CHICKEN",
+                "FARMER",
+                "TRACTOR"
+            ],
+            "HORROR DIRECTORS": [
+                "ASTER",
+                "CARPENTER",
+                "CRAVEN",
+                "WAN"
+            ],
+            "___ JACKET": [
+                "DUST",
+                "LIFE",
+                "SPORTS",
+                "YELLOW"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BEAK, FEATHER, TALON, WING, FLASH, HEARTBEAT, SECOND, WINK, BAMBOO, DRAGON, SEASON, WIND, BELLY, HOT, PANIC, SNOOZE",
+        "categories": {
+            "BIRD FEATURES": [
+                "BEAK",
+                "FEATHER",
+                "TALON",
+                "WING"
+            ],
+            "BLINK OF AN EYE": [
+                "FLASH",
+                "HEARTBEAT",
+                "SECOND",
+                "WINK"
+            ],
+            "MAHJONG TILES": [
+                "BAMBOO",
+                "DRAGON",
+                "SEASON",
+                "WIND"
+            ],
+            "___ BUTTON": [
+                "BELLY",
+                "HOT",
+                "PANIC",
+                "SNOOZE"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BRASS, CHEEK, GALL, NERVE, COPPER, GOLD, NICKEL, SILVER, MERCURY, SKY, SPARKS, LIBERTY, CARS, ELEPHANTS, SWIMMERS, TREES",
+        "categories": {
+            "SHAMELESS BOLDNESS": [
+                "BRASS",
+                "CHEEK",
+                "GALL",
+                "NERVE"
+            ],
+            "METAL ELEMENTS": [
+                "COPPER",
+                "GOLD",
+                "NICKEL",
+                "SILVER"
+            ],
+            "W.N.B.A. TEAMS": [
+                "MERCURY",
+                "SKY",
+                "SPARKS",
+                "LIBERTY"
+            ],
+            "THINGS WITH TRUNKS": [
+                "CARS",
+                "ELEPHANTS",
+                "SWIMMERS",
+                "TREES"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BUILD, GROW, SWELL, MOUNT, ACES, KEEN, NEATO, NIFTY, FOAM, FROTH, HEAD, LATHER, BUBBLE, GLOBE, MARBLE, PEARL",
+        "categories": {
+            "INCREASE": [
+                "BUILD",
+                "GROW",
+                "SWELL",
+                "MOUNT"
+            ],
+            "EXCELLENT, IN OLD SLANG": [
+                "ACES",
+                "KEEN",
+                "NEATO",
+                "NIFTY"
+            ],
+            "FINE BUBBLES": [
+                "FOAM",
+                "FROTH",
+                "HEAD",
+                "LATHER"
+            ],
+            "SPHERICAL THINGS": [
+                "BUBBLE",
+                "GLOBE",
+                "MARBLE",
+                "PEARL"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "FUTURE, PAST, PERFECT, PRESENT, GOODNESS, HEAVENS, LORD, MERCY, DRUMMER, LADY, RING, SWAN, CORN, COUGH, MAPLE, SIMPLE",
+        "categories": {
+            "GRAMMAR TENSE TERMS": [
+                "FUTURE",
+                "PAST",
+                "PERFECT",
+                "PRESENT"
+            ],
+            "“GRACIOUS ME!”": [
+                "GOODNESS",
+                "HEAVENS",
+                "LORD",
+                "MERCY"
+            ],
+            "12 DAYS OF CHRISTMAS": [
+                "DRUMMER",
+                "LADY",
+                "RING",
+                "SWAN"
+            ],
+            "___ SYRUP": [
+                "CORN",
+                "COUGH",
+                "MAPLE",
+                "SIMPLE"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "BORE, DRAG, SNOOZE, YAWN, BREEZE, DRAFT, GUST, PUFF, BITE, KICK, TANG, ZIP, BOXER, GOGGLE, PANT, TONG",
+        "categories": {
+            "SOMETHING TIRESOME": [
+                "BORE",
+                "DRAG",
+                "SNOOZE",
+                "YAWN"
+            ],
+            "BIT OF WIND": [
+                "BREEZE",
+                "DRAFT",
+                "GUST",
+                "PUFF"
+            ],
+            "PIQUANCY": [
+                "BITE",
+                "KICK",
+                "TANG",
+                "ZIP"
+            ],
+            "SINGULAR OF THINGS SEEN IN PAIRS": [
+                "BOXER",
+                "GOGGLE",
+                "PANT",
+                "TONG"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BOO, HISS, JEER, RASPBERRY, BOMB, DUD, FLOP, LEMON, DESERT, GHOST, IGNORE, JILT, BOTTOM, CANDY, GARDEN, STAR",
+        "categories": {
+            "TAUNTS": [
+                "BOO",
+                "HISS",
+                "JEER",
+                "RASPBERRY"
+            ],
+            "FAILURE": [
+                "BOMB",
+                "DUD",
+                "FLOP",
+                "LEMON"
+            ],
+            "RUDELY BREAK OFF CONTACT": [
+                "DESERT",
+                "GHOST",
+                "IGNORE",
+                "JILT"
+            ],
+            "ROCK ___": [
+                "BOTTOM",
+                "CANDY",
+                "GARDEN",
+                "STAR"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "ACTION, CAMERA, CUT, LIGHTS, CAN, COULD, MAY, MIGHT, HEAD, LEAD, PRIME, TOP, BUTCHER, SCRAP, TOILET, WAX",
+        "categories": {
+            "FILM SET DIRECTIVES": [
+                "ACTION",
+                "CAMERA",
+                "CUT",
+                "LIGHTS"
+            ],
+            "CONDITIONAL WORDS": [
+                "CAN",
+                "COULD",
+                "MAY",
+                "MIGHT"
+            ],
+            "FOREMOST": [
+                "HEAD",
+                "LEAD",
+                "PRIME",
+                "TOP"
+            ],
+            "___ PAPER": [
+                "BUTCHER",
+                "SCRAP",
+                "TOILET",
+                "WAX"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "GENESIS, GERM, SEED, SOURCE, ACTS, JOB, KINGS, MARK, FLAMES, KRAKEN, STARS, WILD, NAP, PLANT, RANGER, TRIP",
+        "categories": {
+            "ORIGIN": [
+                "GENESIS",
+                "GERM",
+                "SEED",
+                "SOURCE"
+            ],
+            "BIBLE BOOKS": [
+                "ACTS",
+                "JOB",
+                "KINGS",
+                "MARK"
+            ],
+            "N.H.L. TEAMS": [
+                "FLAMES",
+                "KRAKEN",
+                "STARS",
+                "WILD"
+            ],
+            "POWER ___": [
+                "NAP",
+                "PLANT",
+                "RANGER",
+                "TRIP"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "ANNIVERSARY, BIRTHDAY, SHOWER, WEDDING, BARS, RECEPTION, SERVICE, SIGNAL, BATH, DERBY, READING, SANDWICH, COMIC, MET, ROCK, SOAP",
+        "categories": {
+            "CELEBRATORY OCCASIONS": [
+                "ANNIVERSARY",
+                "BIRTHDAY",
+                "SHOWER",
+                "WEDDING"
+            ],
+            "PHONE CONNECTIVITY": [
+                "BARS",
+                "RECEPTION",
+                "SERVICE",
+                "SIGNAL"
+            ],
+            "CITIES AND TOWNS IN ENGLAND": [
+                "BATH",
+                "DERBY",
+                "READING",
+                "SANDWICH"
+            ],
+            "___ OPERA": [
+                "COMIC",
+                "MET",
+                "ROCK",
+                "SOAP"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "DARREN, KAREN, SHARON, AARON, DALE, BROOK, SAVANNA, CLIFF, DREW, ROSE, WILL, MAY, EVE, HANNAH, OTTO, NATAN",
+        "categories": {
+            "RHYMES": [
+                "DARREN",
+                "KAREN",
+                "SHARON",
+                "AARON"
+            ],
+            "NATURAL FEATURES": [
+                "DALE",
+                "BROOK",
+                "SAVANNA",
+                "CLIFF"
+            ],
+            "PAST TENSE VERBS": [
+                "DREW",
+                "ROSE",
+                "WILL",
+                "MAY"
+            ],
+            "PALINDROMES": [
+                "EVE",
+                "HANNAH",
+                "OTTO",
+                "NATAN"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "ARM, BRANCH, CHAPTER, WING, BUSHEL, PECK, STONE, TON, ANGEL, CUB, MET, RED, AUNT, BEATLE, FLEE, NAT",
+        "categories": {
+            "DIVISION": [
+                "ARM",
+                "BRANCH",
+                "CHAPTER",
+                "WING"
+            ],
+            "IMPERIAL UNITS": [
+                "BUSHEL",
+                "PECK",
+                "STONE",
+                "TON"
+            ],
+            "M.L.B. TEAM MEMBER": [
+                "ANGEL",
+                "CUB",
+                "MET",
+                "RED"
+            ],
+            "INSECT HOMOPHONES": [
+                "AUNT",
+                "BEATLE",
+                "FLEE",
+                "NAT"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "MISTLETOE, REINDEER, SNOWMAN, STOCKING, DISPLAY, EXHIBIT, PRESENT, SHOW, BAGEL, CHEERIO, DONUT, LIFESAVER, CANDY CANE, CROSSWALK, REFEREE, TIGER",
+        "categories": {
+            "CHRISTMAS-RELATED": [
+                "MISTLETOE",
+                "REINDEER",
+                "SNOWMAN",
+                "STOCKING"
+            ],
+            "MAKE PUBLIC": [
+                "DISPLAY",
+                "EXHIBIT",
+                "PRESENT",
+                "SHOW"
+            ],
+            "TORUS-SHAPED FOOD": [
+                "BAGEL",
+                "CHEERIO",
+                "DONUT",
+                "LIFESAVER"
+            ],
+            "THINGS WITH STRIPES": [
+                "CANDY CANE",
+                "CROSSWALK",
+                "REFEREE",
+                "TIGER"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "AFGHAN, ALPACA, ANGORA, YAK, BLATHER, CHAT, JABBER, GAB, CONVERSE, JORDAN, PUMA, VANS, LEAD, SPEECH, TRIAL, WATER",
+        "categories": {
+            "LONG-HAIRED ANIMALS": [
+                "AFGHAN",
+                "ALPACA",
+                "ANGORA",
+                "YAK"
+            ],
+            "PRATTLE ON": [
+                "BLATHER",
+                "CHAT",
+                "JABBER",
+                "GAB"
+            ],
+            "SNEAKER BRANDS": [
+                "CONVERSE",
+                "JORDAN",
+                "PUMA",
+                "VANS"
+            ],
+            "___ BALLOON": [
+                "LEAD",
+                "SPEECH",
+                "TRIAL",
+                "WATER"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "BOW, KNEEL, SALUTE, STAND, CLOCK, MAIL, MAPS, NOTES, DOWN, FUR, SCALES, SHELL, ARROW, DOG, FINGER, HINT",
+        "categories": {
+            "WAYS TO SHOW RESPECT": [
+                "BOW",
+                "KNEEL",
+                "SALUTE",
+                "STAND"
+            ],
+            "IPHONE APPS": [
+                "CLOCK",
+                "MAIL",
+                "MAPS",
+                "NOTES"
+            ],
+            "ANIMAL COVERINGS": [
+                "DOWN",
+                "FUR",
+                "SCALES",
+                "SHELL"
+            ],
+            "“POINTERS”": [
+                "ARROW",
+                "DOG",
+                "FINGER",
+                "HINT"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "CENTRAL, CRITICAL, KEY, VITAL, GLASS, METAL, PAPER, PLASTIC, HENRY, JENNIFER, KATE, ROCK, ASSIGNMENT, DEFEAT, TEMPO, TIRED",
+        "categories": {
+            "VERY IMPORTANT": [
+                "CENTRAL",
+                "CRITICAL",
+                "KEY",
+                "VITAL"
+            ],
+            "RECYCLNG CATEGORIES": [
+                "GLASS",
+                "METAL",
+                "PAPER",
+                "PLASTIC"
+            ],
+            "HUDSONS": [
+                "HENRY",
+                "JENNIFER",
+                "KATE",
+                "ROCK"
+            ],
+            "WHAT “BEAT” MAY MEAN": [
+                "ASSIGNMENT",
+                "DEFEAT",
+                "TEMPO",
+                "TIRED"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "GRATER, LADLE, PEELER, WHISK, BIRD, FISH, MAMMAL, REPTILE, DINOSAUR, MUSHROOM, PLUMBER, PRINCESS, BUNKER, CLEAVER, PARTRIDGE, TANNER",
+        "categories": {
+            "KITCHEN UTENSILS": [
+                "GRATER",
+                "LADLE",
+                "PEELER",
+                "WHISK"
+            ],
+            "VERTEBRATES": [
+                "BIRD",
+                "FISH",
+                "MAMMAL",
+                "REPTILE"
+            ],
+            "SUPER MARIO-RELATED": [
+                "DINOSAUR",
+                "MUSHROOM",
+                "PLUMBER",
+                "PRINCESS"
+            ],
+            "SITCOM FAMILIES": [
+                "BUNKER",
+                "CLEAVER",
+                "PARTRIDGE",
+                "TANNER"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "FLOAT, MALT, SHAKE, SUNDAE, CONCRETE, FIRM, SOLID, TANGIBLE, GLASS, OLD, SIGNS, SPLIT, DASH, HOVER, KEY, STAR",
+        "categories": {
+            "SODA FOUNTAIN ORDERS": [
+                "FLOAT",
+                "MALT",
+                "SHAKE",
+                "SUNDAE"
+            ],
+            "SET, AS PLANS": [
+                "CONCRETE",
+                "FIRM",
+                "SOLID",
+                "TANGIBLE"
+            ],
+            "M. NIGHT SHYAMALAN MOVIES": [
+                "GLASS",
+                "OLD",
+                "SIGNS",
+                "SPLIT"
+            ],
+            "___BOARD": [
+                "DASH",
+                "HOVER",
+                "KEY",
+                "STAR"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BACKUP, COPY, EXTRA, SPARE, ALLEY, BALL, LANE, PIN, MUG, PEN, TEE, TOTE, ATE, FOR, TOO, WON",
+        "categories": {
+            "REPLACEMENT": [
+                "BACKUP",
+                "COPY",
+                "EXTRA",
+                "SPARE"
+            ],
+            "BOWLING": [
+                "ALLEY",
+                "BALL",
+                "LANE",
+                "PIN"
+            ],
+            "COMMON MERCH ITEMS": [
+                "MUG",
+                "PEN",
+                "TEE",
+                "TOTE"
+            ],
+            "NUMBER HOMOPHONES": [
+                "ATE",
+                "FOR",
+                "TOO",
+                "WON"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BRIGHT, CLEVER, QUICK, SHARP, ALASKA, FRONTIER, SOUTHWEST, SPIRIT, COWBOY, DRIFTER, OUTLAW, SHERIFF, LASSO, MARS, ROGERS, SMART",
+        "categories": {
+            "INTELLIGENT": [
+                "BRIGHT",
+                "CLEVER",
+                "QUICK",
+                "SHARP"
+            ],
+            "AIRLINES": [
+                "ALASKA",
+                "FRONTIER",
+                "SOUTHWEST",
+                "SPIRIT"
+            ],
+            "WESTERN TROPES": [
+                "COWBOY",
+                "DRIFTER",
+                "OUTLAW",
+                "SHERIFF"
+            ],
+            "TV SHOW TITLE SURNAMES": [
+                "LASSO",
+                "MARS",
+                "ROGERS",
+                "SMART"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BUFFALO, COW, GOAT, SHEEP, BEAM, GLOW, RADIATE, SHINE, FLOOR, HORSE, RINGS, VAULT, CUTIE, ENVY, EXCEL, SEEDY",
+        "categories": {
+            "BOVIDS": [
+                "BUFFALO",
+                "COW",
+                "GOAT",
+                "SHEEP"
+            ],
+            "EMIT LIGHT": [
+                "BEAM",
+                "GLOW",
+                "RADIATE",
+                "SHINE"
+            ],
+            "GYMNASTICS APPARATUS": [
+                "FLOOR",
+                "HORSE",
+                "RINGS",
+                "VAULT"
+            ],
+            "WORDS THAT SOUND LIKE TWO LETTERS": [
+                "CUTIE",
+                "ENVY",
+                "EXCEL",
+                "SEEDY"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "IRIS, LENS, PUPIL, RETINA, BOGUS, FAKE, PHONY, SHAM, COPY, OUT, OVER, ROGER, ALEJANDRO, LOLA, MICHELLE, STAN",
+        "categories": {
+            "EYE PARTS": [
+                "IRIS",
+                "LENS",
+                "PUPIL",
+                "RETINA"
+            ],
+            "COUNTERFEIT": [
+                "BOGUS",
+                "FAKE",
+                "PHONY",
+                "SHAM"
+            ],
+            "RADIO LINGO": [
+                "COPY",
+                "OUT",
+                "OVER",
+                "ROGER"
+            ],
+            "SONGS THAT ARE NAMES": [
+                "ALEJANDRO",
+                "LOLA",
+                "MICHELLE",
+                "STAN"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "GET OUT, GO, LEAVE, SCRAM, ME, THEM, US, YOU, NOPE, OPEN, PEON, PONE, BEANIE, FUR, NEPO, SANTA",
+        "categories": {
+            "“SKEDADDLE!”": [
+                "GET OUT",
+                "GO",
+                "LEAVE",
+                "SCRAM"
+            ],
+            "PRONOUNS": [
+                "ME",
+                "THEM",
+                "US",
+                "YOU"
+            ],
+            "ANAGRAMS": [
+                "NOPE",
+                "OPEN",
+                "PEON",
+                "PONE"
+            ],
+            "___ BABY": [
+                "BEANIE",
+                "FUR",
+                "NEPO",
+                "SANTA"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "allwords": "ANACONDA, CAPYBARA, JAGUAR, TOUCAN, BASE, BOTTOM, FOOT, FOUNDATION, COMPANY, GREASE, HAIR, RENT, CHANGE, CUCUMBER, LEGS, LION",
+        "categories": {
+            "AMAZON ANIMALS": [
+                "ANACONDA",
+                "CAPYBARA",
+                "JAGUAR",
+                "TOUCAN"
+            ],
+            "LOWEST POINT": [
+                "BASE",
+                "BOTTOM",
+                "FOOT",
+                "FOUNDATION"
+            ],
+            "MUSICALS": [
+                "COMPANY",
+                "GREASE",
+                "HAIR",
+                "RENT"
+            ],
+            "SEA ___": [
+                "CHANGE",
+                "CUCUMBER",
+                "LEGS",
+                "LION"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "HORROR, PICTURE, ROCKY, SHOW, FRAMED, RABBIT, ROGER, WHO, HARRY, MET, SALLY, WHEN, FURY, MAD, MAX, ROAD",
+        "categories": {
+            "ROCKY HORROR PICTURE SHOW": [
+                "HORROR",
+                "PICTURE",
+                "ROCKY",
+                "SHOW"
+            ],
+            "WHO FRAMED ROGER RABBIT": [
+                "FRAMED",
+                "RABBIT",
+                "ROGER",
+                "WHO"
+            ],
+            "WHEN HARRY MET SALLY": [
+                "HARRY",
+                "MET",
+                "SALLY",
+                "WHEN"
+            ],
+            "MAD MAX FURY ROAD": [
+                "FURY",
+                "MAD",
+                "MAX",
+                "ROAD"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "CHART, DIAGRAM, GRAPH, MAP, BONUS, EXTRA, ICING, PERK, GRAVY, PIE, STUFFING, TURKEY, I RAN, ISTANBUL, MONTERO, SATISFACTION",
+        "categories": {
+            "INFORMATION DISPLAYS": [
+                "CHART",
+                "DIAGRAM",
+                "GRAPH",
+                "MAP"
+            ],
+            "ADDITIONAL BENEFIT": [
+                "BONUS",
+                "EXTRA",
+                "ICING",
+                "PERK"
+            ],
+            "THANKSGIVING FOOD": [
+                "GRAVY",
+                "PIE",
+                "STUFFING",
+                "TURKEY"
+            ],
+            "SONG TITLES WITH PARENTHESES": [
+                "I RAN",
+                "ISTANBUL",
+                "MONTERO",
+                "SATISFACTION"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BRUSH, CANVAS, EASEL, PALETTE, DRIVE, NEUTRAL, PARK, REVERSE, COMB, GEAR, SAW, ZIPPER, FIRST, FOLDING, HIGH, LAWN",
+        "categories": {
+            "PAINTING ACCESSORIES": [
+                "BRUSH",
+                "CANVAS",
+                "EASEL",
+                "PALETTE"
+            ],
+            "AUTOMATIC TRANSMISSION SETTINGS": [
+                "DRIVE",
+                "NEUTRAL",
+                "PARK",
+                "REVERSE"
+            ],
+            "THINGS WITH TEETH": [
+                "COMB",
+                "GEAR",
+                "SAW",
+                "ZIPPER"
+            ],
+            "___ CHAIR": [
+                "FIRST",
+                "FOLDING",
+                "HIGH",
+                "LAWN"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "COW, DOE, HEN, MARE, I, IT, THEY, WE, D, L, M, V, EWE, U, YEW, YOU",
+        "categories": {
+            "FEMALE ANIMALS": [
+                "COW",
+                "DOE",
+                "HEN",
+                "MARE"
+            ],
+            "PRONOUNS": [
+                "I",
+                "IT",
+                "THEY",
+                "WE"
+            ],
+            "ROMAN NUMERALS": [
+                "D",
+                "L",
+                "M",
+                "V"
+            ],
+            "HOMOPHONES": [
+                "EWE",
+                "U",
+                "YEW",
+                "YOU"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "BARE, NAKED, NUDE, UNCLAD, BUN, DANISH, MUFFIN, TURNOVER, FUMBLE, PUNT, SACK, SNAP, BUFF, CLIP, FILE, POLISH",
+        "categories": {
+            "AU NATUREL": [
+                "BARE",
+                "NAKED",
+                "NUDE",
+                "UNCLAD"
+            ],
+            "BAKED GOODS": [
+                "BUN",
+                "DANISH",
+                "MUFFIN",
+                "TURNOVER"
+            ],
+            "AMERICAN FOOTBALL ACTIONS": [
+                "FUMBLE",
+                "PUNT",
+                "SACK",
+                "SNAP"
+            ],
+            "MANICURE STEPS": [
+                "BUFF",
+                "CLIP",
+                "FILE",
+                "POLISH"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "allwords": "FRY, NACHO, POPPER, WING, BINGO, CORRECT, RIGHT, YES, CHIP, DING, NICK, SCRATCH, APPLE, CRACKER, FLAP, LUMBER",
+        "categories": {
+            "APPETIZER UNIT": [
+                "FRY",
+                "NACHO",
+                "POPPER",
+                "WING"
+            ],
+            "RESPONSE TO A CORRECT ANSWER": [
+                "BINGO",
+                "CORRECT",
+                "RIGHT",
+                "YES"
+            ],
+            "MAR": [
+                "CHIP",
+                "DING",
+                "NICK",
+                "SCRATCH"
+            ],
+            "___JACK": [
+                "APPLE",
+                "CRACKER",
+                "FLAP",
+                "LUMBER"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "BOOK, BOUNCE, RUN, SPLIT, FOX, IBEX, LYNX, ORYX, EBONY, JET, ONYX, RAVEN, ASH, BLACK, CYBER, FAT",
+        "categories": {
+            "DEPART QUICKLY": [
+                "BOOK",
+                "BOUNCE",
+                "RUN",
+                "SPLIT"
+            ],
+            "ANIMALS THAT END WITH X": [
+                "FOX",
+                "IBEX",
+                "LYNX",
+                "ORYX"
+            ],
+            "SHADES OF BLACK": [
+                "EBONY",
+                "JET",
+                "ONYX",
+                "RAVEN"
+            ],
+            "WORDS BEFORE DAYS OF THE WEEK": [
+                "ASH",
+                "BLACK",
+                "CYBER",
+                "FAT"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BLISS, CLOUD NINE, HEAVEN, PARADISE, CON, FAST ONE, HUSTLE, RACKET, HIGH FIVE, HUG, SHAKE, WAVE, BUCKET, GUEST, TOP TEN, WISH",
+        "categories": {
+            "STATES OF ELATION": [
+                "BLISS",
+                "CLOUD NINE",
+                "HEAVEN",
+                "PARADISE"
+            ],
+            "SCAM": [
+                "CON",
+                "FAST ONE",
+                "HUSTLE",
+                "RACKET"
+            ],
+            "GREETING GESTURES": [
+                "HIGH FIVE",
+                "HUG",
+                "SHAKE",
+                "WAVE"
+            ],
+            "___ LIST": [
+                "BUCKET",
+                "GUEST",
+                "TOP TEN",
+                "WISH"
+            ]
+        },
+        "score": 1
+    },
+    {
+        "allwords": "BREAST, DRUMSTICK, TENDER, WING, DRIVER, EAGLE, HOLE, STROKE, CYMBAL, KICK, SNARE, TOM, INFANT, PUB, SWIMMING, TICKER",
+        "categories": {
+            "POULTRY CUTS": [
+                "BREAST",
+                "DRUMSTICK",
+                "TENDER",
+                "WING"
+            ],
+            "GOLF TERMS": [
+                "DRIVER",
+                "EAGLE",
+                "HOLE",
+                "STROKE"
+            ],
+            "DRUM SET COMPONENTS": [
+                "CYMBAL",
+                "KICK",
+                "SNARE",
+                "TOM"
+            ],
+            "ASSOCIATED WITH \"CRAWL": [
+                "INFANT",
+                "PUB",
+                "SWIMMING",
+                "TICKER"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "allwords": "COOLER, LANTERN, SLEEPING BAG, TENT, BARB, DIG, DISS, JAB, MINUTE, SLIGHT, SMALL, WEE, CAMPER, HOUR, MEAL, MEDIUM",
+        "categories": {
+            "CAMPING SUPPLIES": [
+                "COOLER",
+                "LANTERN",
+                "SLEEPING BAG",
+                "TENT"
+            ],
+            "INSULT": [
+                "BARB",
+                "DIG",
+                "DISS",
+                "JAB"
+            ],
+            "TINY": [
+                "MINUTE",
+                "SLIGHT",
+                "SMALL",
+                "WEE"
+            ],
+            "HAPPY ___": [
+                "CAMPER",
+                "HOUR",
+                "MEAL",
+                "MEDIUM"
+            ]
+        },
+        "score": 4
+    }
+]
