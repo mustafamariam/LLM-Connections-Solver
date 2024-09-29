@@ -22,7 +22,7 @@ for elem in data:
 win_rate = {'gpt4o': {0:0,1:0,2:0,3:0,4:0},'claude': {0:0,1:0,2:0,3:0,4:0},'llama3.1405B': {0:0,1:0,2:0,3:0,4:0},
 'gemini': {0:0,1:0,2:0,3:0,4:0},'mistral': {0:0,1:0,2:0,3:0,4:0}}
 
-for model in ['gpt4o','claude3.5sonnet','llama3.1405B','gemini','mistral2large']:
+for model in ['gpt4o','claude3.5sonnet','llama3.1405B','gemini1.5pro.json','mistral2large']:
 	with open(model+'.json') as f:
 		data = json.load(f)
 	for game in data:
