@@ -747,7 +747,7 @@
                 "Words in Category": "['AARDVARK', 'EERIE', 'LLAMA', 'OOZE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "NICKNAMES FOR THE SEA, WITH \"THE",
@@ -1480,7 +1480,7 @@
                 "Words in Category": "['CASTLE', 'HUSTLE', 'LISTEN', 'WITCH']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -1921,7 +1921,7 @@
                 "Words in Category": "['TO', 'TOO', 'TUE', 'TWO']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "CONNECT",
@@ -2067,7 +2067,7 @@
                 "Words in Category": "['DOORKNOB', 'KNIFE', 'TOPKNOT', 'UNKNOWN']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "KEY TO SUCCESS, SO TO SPEAK",
@@ -2489,7 +2489,7 @@
                 "Words in Category": "['BE KIND REWIND', 'E.T.', 'FRIGHT NIGHT', 'KILL BILL']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "ENDING IN UNITS OF MEASUREMENT",
@@ -2515,7 +2515,7 @@
                 "Words in Category": "['BI', 'BUY', 'BY', 'BYE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "MUSCLES, INFORMALLY",
@@ -2628,7 +2628,7 @@
                 "Words in Category": "['PASTEL', 'PETALS', 'PLEATS', 'STAPLE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "PRETTY    _",
@@ -2984,7 +2984,7 @@
                 "Words in Category": "['EVIL', 'LIVE', 'VEIL', 'VILE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "SPELLING BEE RANKS",
@@ -3064,7 +3064,7 @@
                 "Words in Category": "['GEEZ', 'SEIZE', 'TEASE', 'WISE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -3295,7 +3295,7 @@
                 "Words in Category": "['BURY', 'CURRENT', 'LEACHY', 'PAIR']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -4212,7 +4212,7 @@
                 "Words in Category": "['CYMBAL', 'SCIMITAR', 'SIMMER', 'SYMPHONY']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "EAR _",
@@ -5235,7 +5235,7 @@
                 "Words in Category": "['BIB', 'EYE', 'GAG', 'POP']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "STARTS OF PLANET NAMES",
@@ -6086,7 +6086,7 @@
                 "Words in Category": "['WIND', 'WINE', 'WING', 'WINK']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "PARTS OF FRUIT YOU MIGHT NOT EAT",
@@ -6819,7 +6819,7 @@
                 "Words in Category": "['HOLEY', 'HOLI', 'HOLY', 'WHOLLY']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "_WOOD",
@@ -6885,7 +6885,7 @@
                 "Words in Category": "['CHOIR', 'FIRE', 'LIAR', 'FRYER']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "_ PIT",
@@ -7024,7 +7024,7 @@
                 "Words in Category": "['ANSWER', 'TWO', 'WRIST', 'WRONG']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             }
         ]
     },
@@ -7123,7 +7123,7 @@
                 "Words in Category": "['EXPOSE', 'PATE', 'RESUME', 'ROSE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -7545,7 +7545,7 @@
                 "Words in Category": "['PHAT', 'PHEW', 'PHILLY', 'PHISH']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "_ PITCH",
@@ -7882,7 +7882,7 @@
                 "Words in Category": "['WAY', 'WEE', 'WHY', 'WHOA']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -7974,7 +7974,7 @@
                 "Words in Category": "['BEE', 'EX', 'GEE', 'JAY']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "_ GEORGE",
@@ -9103,7 +9103,7 @@
                 "Words in Category": "['96', 'MOW', 'NOON', 'SIS']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             }
         ]
     },
@@ -9155,7 +9155,7 @@
                 "Words in Category": "['BOUQUET', 'PARFAIT', 'RAGOUT', 'RAPPORT']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "COUNTRIES WITH RED AND WHITE FLAGS",
@@ -9334,7 +9334,7 @@
                 "Words in Category": "['PEAK', 'PEEK', 'PEKE', 'PIQUE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -9433,7 +9433,7 @@
                 "Words in Category": "['OUI', 'WE', 'WEE', 'WII']",
                 "Complexity": "simple",
                 "Based On": "word meaning",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -9822,7 +9822,7 @@
                 "Words in Category": "['ARE', 'SEE', 'WHY', 'YOU']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "ROYAL    _",
@@ -10159,7 +10159,7 @@
                 "Words in Category": "['BACKPACK', 'BIGWIG', 'DOWNTOWN', 'RAGTAG']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -10699,7 +10699,7 @@
                 "Words in Category": "['DARREN', 'KAREN', 'SHARON', 'AARON']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "NATURAL FEATURES",
@@ -11281,7 +11281,7 @@
                 "Words in Category": "['ATE', 'FOR', 'TOO', 'WON']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -11380,7 +11380,7 @@
                 "Words in Category": "['ENVIOUS', 'FRESH', 'NAIVE', 'UNWELL']",
                 "Complexity": "simple",
                 "Based On": "word meaning",
-                "Knowledge Type": "associative relations"
+                "Knowledge Type": "semantic relations"
             }
         ]
     },
@@ -11446,7 +11446,7 @@
                 "Words in Category": "['CUTIE', 'ENVY', 'EXCEL', 'SEEDY']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -11505,7 +11505,7 @@
                 "Words in Category": "['NOPE', 'OPEN', 'PEON', 'PONE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "_ BABY",
@@ -11644,7 +11644,7 @@
                 "Words in Category": "['COLONEL', 'SALMON', 'WALK', 'YOLK']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -11842,7 +11842,7 @@
                 "Words in Category": "['EWE', 'U', 'YEW', 'YOU']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -11908,7 +11908,7 @@
                 "Words in Category": "['BALLOON', 'BASSOON', 'COFFEE', 'FRICASSEE']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             }
         ]
     },
@@ -12785,7 +12785,7 @@
                 "Words in Category": "['BAGGAGE', 'EGGNOG', 'GIGGLE', 'LEGGINGS']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             },
             {
                 "Categories": "SHAKESPEARE CHARACTERS",
@@ -13162,7 +13162,7 @@
                 "Words in Category": "['LEAST', 'SLATE', 'STALE', 'TESLA']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             }
         ]
     },
@@ -13591,7 +13591,7 @@
                 "Words in Category": "['JOB', 'LIMA', 'MOBILE', 'POLISH']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -13756,7 +13756,7 @@
                 "Words in Category": "['DILL', 'LIVID', 'MILD', 'MIX']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             }
         ]
     },
@@ -14178,14 +14178,14 @@
                 "Words in Category": "['GNAT', 'GNAW', 'GNOCCHI', 'GNOME']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             },
             {
                 "Categories": "HOMOPHONES",
                 "Words in Category": "['GNU', 'KNEW', 'NEW', 'NU']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "phonological"
+                "Knowledge Type": "phonology"
             }
         ]
     },
@@ -14581,7 +14581,7 @@
                 "Words in Category": "['KAYAK', 'LEVEL', 'MOM', 'RACE CAR']",
                 "Complexity": "simple",
                 "Based On": "word form",
-                "Knowledge Type": "orthographical"
+                "Knowledge Type": "orthography"
             }
         ]
     }
