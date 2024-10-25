@@ -7,7 +7,7 @@ Code and Data for the paper
 Look at 
 
         games.txt for all 200 games
-        knowledge_types.csv for 800 annotations of knowledge types. These are arrange chronologically so each 4 rows = 1 game
+        All responses are in results folder
         automated_call/prompt_llm.txt contains the actual prompt
         scoring folder has all the LLM responses
         
