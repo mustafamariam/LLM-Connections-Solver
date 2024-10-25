@@ -7,7 +7,8 @@ Code and Data for the paper
 Look at 
 
         games.txt for all 200 games
-        All responses are in results folder
+        All LLM responses as well as expert/novice responses are in results folder
+        Knowledge Taxonomy is in game_with_knowledge_taxonomy.json
         automated_call/prompt_llm.txt contains the actual prompt
         scoring folder has all the LLM responses
         
