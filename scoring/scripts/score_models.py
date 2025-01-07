@@ -1,5 +1,5 @@
 """
-**Scroing Model Response**
+**Scoring Model Response**
 This script calculates 3 scores (see paper) for the models' responses.
 
 * Unweighted Clustering Score
