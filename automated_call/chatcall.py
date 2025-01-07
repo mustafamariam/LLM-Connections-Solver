@@ -1,10 +1,10 @@
 """
 **Automated Calling of LLMs**
-This script conducts automated calls of the LLMs with our prompt for 200 games.
+This script conducts automated calls of the LLMs with our prompt for 439 games.
 
-*   Calls 4 LLMs: ChatGPT 4o, Gemini, Claude 3 opus, and Llama
+*   Calls 4 LLMs: GPT-4o, Gemini 1.5 pro, Claude 3.5 Sonnet, and Llama3.1-405B
 
-Assumes downloaded: prompt.txt, parsedCleanedLLM.txt
+Assumes downloaded: prompt.txt, all_games.txt
 Dependencies: openai, csv, anthropic, google-generativeai, pandas
 """
 

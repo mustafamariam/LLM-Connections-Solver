@@ -1,3 +1,15 @@
+"""
+**Scroing Model Response**
+This script calculates 3 scores (see paper) for the models' responses.
+
+* Unweighted Clustering Score
+* Weighted Clustering Score
+* Categorical Reasoning Score
+
+Assumes downloaded: golg_data.json, results/+{gpt4o.json, claude3.5sonnet.json, llama3.1405B.json, gemini1.5pro.json, mistral2large.json}
+Dependencies: json, pandas
+"""
+
 import json
 import pandas as pd
 
@@ -28,10 +40,11 @@ def calculate_weighted_clustering(gold_categories, pred_categories):
 
     # Iterate through gold values and check if they exist in pred values
     for i, gold_set in enumerate(gold_values):
-        if gold_set in pred_values:  # Check if the same set exists in the model data
+        if gold_set in pred_values:  
             weighted_score += (i + 1)  # Add (i + 1) to get the correct weight for each category
 
     return weighted_score
+
 
 
 # Load the gold data
@@ -47,10 +60,11 @@ for elem in gold_data:
         continue
     gold[elem['allwords']] = elem['categories']
 
-# Iterate over the model files
+# Iterate over the model files and create csv with scored responses for each
 for model in ['gpt4o', 'claude3.5sonnet', 'llama3.1405B', 'gemini1.5pro', 'mistral2large']:
     # Load the model's prediction data
-    with open(model + '.json') as f:
+    filepath = f'../results/{model}.json'
+    with open(filepath) as f:
         model_data = json.load(f)
 
     # Create an empty list to store rows for the DataFrame
@@ -84,7 +98,7 @@ for model in ['gpt4o', 'claude3.5sonnet', 'llama3.1405B', 'gemini1.5pro', 'mistr
             categorical_reasoning_score = sum(1 for score in categorical_score.values() if score == "Yes")
         else:
             print(f"Warning: 'categorical_score' missing for game: {game['allwords']}")
-            categorical_reasoning_score = 0  # or set to another default value
+            categorical_reasoning_score = 0 
 
         # Append the game info and scores to the list of rows
         df_rows.append({

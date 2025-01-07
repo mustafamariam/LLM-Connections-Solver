@@ -1,0 +1,1753 @@
+,Category,Reasoning Type,gpt4o,claude3.5sonnet,llama3.1405B,gemini1.5pro,mistral2large
+0,OFFICIAL SANCTIONING,semantic relations,1,1,1,1,1
+1,TORUS-SHAPED THINGS,associative relations,0,1,0,1,0
+2,BAD GOLF SHOTS,semantic relations,1,0,0,0,0
+3,"FOOTWEAR MINUS ""ER"" SOUND",word meaning + word form,0,1,0,0,0
+4,HOPPING MAD,semantic relations,0,1,1,0,0
+5,STATUS,semantic relations,0,1,1,0,0
+6,"WORDS THAT MAKE UP THE ACRONYM ""HVAC",encyclopedic,1,1,1,0,0
+7,ACTIVITIES THAT INVOLVE FOLDING,semantic relations,1,0,0,0,0
+8,HEARSAY,semantic relations,0,0,0,0,0
+9,MOVE STEALTHILY,semantic relations,0,1,0,1,0
+10,CAR RENTAL COMPANIES,encyclopedic,0,0,0,0,0
+11,ENDING WITH CHEMICAL ELEMENTS,word meaning + word form,0,0,0,0,0
+12,VISUAL INTERFACE,semantic relations,1,1,1,0,1
+13,BURLESQUE WEAR,semantic relations,0,0,0,0,0
+14,BEIGE SHADES,semantic relations,1,0,0,1,0
+15,LANGUAGE HOMOPHONES,word meaning + word form,0,0,0,0,0
+16,CLASSIC MOVIE THEATER EQUIPMENT,semantic relations,1,1,0,0,0
+17,TIER,semantic relations,0,1,0,0,0
+18,NEWSPAPER NAMES,encyclopedic,0,0,0,0,0
+19,PRANK VERBS,semantic relations,0,0,0,0,0
+20,COVER WITH A THICK LAYER,semantic relations,0,0,0,0,0
+21,THINGS THAT ARE INFLATED,associative relations,0,1,0,0,0
+22,KINDS OF CHARTS,semantic relations,0,0,0,0,0
+23,CLASSIC COCKTAIL TYPES,encyclopedic,0,0,0,0,0
+24,RUSH OF WIND,semantic relations,1,0,0,0,0
+25,ROTATE,semantic relations,1,0,0,1,0
+26,ZODIAC SYMBOLS,encyclopedic,1,0,0,0,0
+27,DR. SEUSS TITLE FIGURES,encyclopedic,0,0,0,0,0
+28,MUSIC GENRES,semantic relations,1,1,1,1,1
+29,BRATWURST GO-WITHS,semantic relations,1,0,0,0,0
+30,YOGA POSES,associative relations,0,0,0,0,0
+31,STARTING WITH PIXAR MOVIES,word meaning + word form,0,0,0,0,0
+32,ALARM CLOCK BUTTONS,semantic relations,0,0,0,0,0
+33,HERE'S A THOUGHT ...,semantic relations,1,1,0,1,0
+34,CANDY PIECES,semantic relations,0,0,0,0,0
+35,SEVEN DWARFS MINUS LAST LETTER,word meaning + word form,0,0,0,0,0
+36,SPOKEN COMMUNICATION,semantic relations,1,0,1,0,0
+37,CANOODLE,semantic relations,0,0,1,0,0
+38,FIRST AID KIT ITEMS,semantic relations,0,0,1,0,1
+39,HOUSE STYLES,semantic relations,0,0,1,0,1
+40,MEH,semantic relations,0,1,0,0,0
+41,U.S. STATE ABBREVIATIONS,encyclopedic,0,0,0,0,0
+42,KINDS OF BOOTS,semantic relations,0,0,0,0,0
+43,THINGS THAT GO UP AND DOWN,associative relations,0,0,0,0,0
+44,BREADTH,semantic relations,1,1,0,0,1
+45,OTHER HALF,semantic relations,0,0,1,0,0
+46,"BEERS, FAMILIARLY",encyclopedic,0,1,0,0,0
+47,"WORDS AFTER ""PAY",multiword expressions,0,0,0,0,0
+48,BLUNDER,semantic relations,1,1,1,0,0
+49,FLOWERS,semantic relations,1,1,1,1,1
+50,THINGS BEES DO,semantic relations,0,1,0,0,0
+51,FIRST NAMES OF YANKEES LEGENDS,encyclopedic,0,0,0,0,0
+52,STATED,semantic relations,0,1,0,1,1
+53,NICKNAME,semantic relations,1,1,0,1,0
+54,OBVIOUS,semantic relations,0,0,0,0,0
+55,_HOUSE (THAT AREN'T HOUSES),word meaning + word form,0,1,0,0,0
+56,METAL ELEMENTS,encyclopedic,1,1,1,1,1
+57,MATTRESS SIZES,semantic relations,0,1,0,0,0
+58,SLANG FOR TOILET,semantic relations,0,0,0,0,0
+59,KINDS OF KNIVES,semantic relations,0,0,0,0,0
+60,LARGE BOAT,semantic relations,1,1,1,1,1
+61,ALL-TIME GREAT,semantic relations,1,0,0,0,0
+62,REGARDING,semantic relations,1,0,1,0,0
+63,HOMOPHONES OF BODY FEATURES,word meaning + word form,0,0,0,0,0
+64,THINGS THAT ARE RED,associative relations,0,0,1,0,0
+65,BE IN COMMISSION,semantic relations,0,0,0,0,0
+66,MICROSOFT PRODUCTS,semantic relations,0,1,0,1,1
+67,BIOPICS,encyclopedic,0,0,0,0,0
+68,NOT PRESENT,semantic relations,1,1,1,1,1
+69,SUPPORTER,semantic relations,0,0,0,1,1
+70,ROCK GENRES,encyclopedic,0,1,0,1,0
+71,SHOCK    _,multiword expressions,0,0,0,0,0
+72,SPLASHY WAYS TO ENTER A POOL,semantic relations,1,1,1,1,1
+73,REITERATE,semantic relations,0,1,1,0,0
+74,MAINSTAY,semantic relations,1,1,0,1,0
+75,_ RADIO,multiword expressions,0,1,1,0,0
+76,CRAM,semantic relations,0,0,0,0,0
+77,RESTAURANT JOBS,semantic relations,0,0,0,0,0
+78,ELECTROMAGNETIC SPECTRUM,semantic relations,1,0,0,0,0
+79,THINGS WITH BITS,semantic relations,0,0,0,0,0
+80,FLUFFY WHITE THINGS,associative relations,0,0,0,0,0
+81,ONE IN A RESEARCH STUDY,semantic relations,0,1,0,0,1
+82,TAKE ISSUE,semantic relations,0,0,0,0,0
+83,_HORN,multiword expressions,0,0,0,0,0
+84,SURVIVE,semantic relations,1,1,1,0,1
+85,KINDS OF GREETING CARDS,semantic relations,1,1,0,0,0
+86,ARE WE CLEAR?,semantic relations,1,1,0,0,0
+87,"WORDS AFTER ""EYE",multiword expressions,0,0,0,0,0
+88,KIDDO,semantic relations,0,0,0,1,0
+89,UP FOR IT,semantic relations,0,0,1,1,0
+90,BEGINNING WITH DOUBLE LETTERS,phonology,0,0,0,0,0
+91,"NICKNAMES FOR THE SEA, WITH ""THE",word meaning + word form,0,0,0,0,0
+92,BIT OF EXCITEMENT,semantic relations,0,0,1,0,0
+93,TOLERATE,semantic relations,0,0,0,0,0
+94,NONSENSE,semantic relations,0,1,1,0,0
+95,THINGS TO CLICK,associative relations,0,0,0,0,0
+96,"STRETCH, AS ONE'S PATIENCE",semantic relations,0,0,0,0,0
+97,THINGS A DJ DOES,semantic relations,0,0,0,0,0
+98,ADJECTIVES USED IN GRAMMAR,semantic relations,0,0,0,0,0
+99,"WHAT ""GREEN"" MIGHT MEAN",semantic relations,0,0,0,0,0
+100,PROMOTE,semantic relations,0,0,1,0,0
+101,THROW,semantic relations,0,0,1,0,1
+102,BOOKSTORE SECTIONS,semantic relations,0,1,1,1,1
+103,_ SOCKS,multiword expressions,0,0,0,0,0
+104,RASPY,semantic relations,1,0,1,0,0
+105,FINGERS,semantic relations,0,0,0,0,0
+106,ALE STYLES,semantic relations,0,0,1,1,0
+107,FRENCH    _,multiword expressions,0,0,0,0,0
+108,PEACHY KEEN,semantic relations,1,0,0,0,0
+109,PROVIDE MORE DETAILS,semantic relations,1,0,0,0,0
+110,ABILITY TO DO SOMETHING WELL,semantic relations,1,1,0,0,0
+111,GROUP OF BUILDINGS,semantic relations,1,0,0,0,0
+112,STADIUMS,semantic relations,1,0,0,0,0
+113,STREET SUFFIXES,semantic relations,0,0,0,0,0
+114,ASSOCIATED WITH SCALES,semantic relations,0,0,0,0,0
+115,THINGS WITH SPOUTS,associative relations,0,0,0,0,0
+116,PARTS OF A BOOK,semantic relations,0,1,1,0,0
+117,CAT COAT PATTERNS,semantic relations,0,1,1,0,0
+118,"NERVOUSNESS, IN THE SINGULAR",semantic relations,1,0,0,0,0
+119,STARTING WITH VEGETABLES,word meaning + word form,0,0,0,0,0
+120,OFF-TOPIC REMARKS,semantic relations,0,1,0,0,0
+121,"CREATE, AS RESULTS",semantic relations,0,0,0,0,0
+122,HOTTIE,semantic relations,0,0,0,0,0
+123,"WORDS REPRESENTED BY THE LETTER ""R",word meaning + word form,0,0,0,0,0
+124,BASIC DIRECTIONS,semantic relations,1,1,0,1,0
+125,ADVOCATE FOR,semantic relations,0,1,0,0,0
+126,DRAWBACK,semantic relations,0,1,0,0,0
+127,INSTRUMENT HOMOPHONES,word meaning + word form,0,0,0,0,0
+128,ANCIENT WRITING SURFACES,semantic relations,0,1,0,1,1
+129,"LEAD, AS A TV PROGRAM",semantic relations,0,0,0,0,0
+130,NATURAL ABILITY,semantic relations,1,1,0,1,0
+131,WRAPPED THINGS,associative relations,0,0,0,0,0
+132,JOKE AROUND WITH,semantic relations,0,0,0,0,0
+133,POULTRY CUTS,semantic relations,0,0,0,0,0
+134,BABY ANIMALS,semantic relations,0,1,0,0,0
+135,PUSH THROUGH A CROWD,semantic relations,0,0,0,0,0
+136,IMPOSTOR,semantic relations,1,0,0,1,0
+137,UTTERANCE,semantic relations,0,0,0,0,0
+138,ONE WHO LIKES SHOWING OFF,semantic relations,0,0,0,0,0
+139,LOONEY TUNES CHARACTERS MINUS A LETTER,word meaning + word form,0,0,0,0,0
+140,REALM OF EXPERTISE,semantic relations,0,0,0,0,0
+141,MUSICAL INSTRUMENTS,semantic relations,0,0,0,0,0
+142,USED TO REDIRECT TRAFFIC,semantic relations,0,0,0,0,0
+143,FOOD    _,multiword expressions,0,0,0,0,0
+144,WAYS TO SUPPORT A CANDIDATE,semantic relations,1,1,0,0,0
+145,CONSTITUTION,semantic relations,0,1,0,0,0
+146,CARPENTRY TOOLS,semantic relations,0,0,0,1,0
+147,MATH ABBREVIATIONS,encyclopedic,0,0,0,0,0
+148,EFFORTLESS,semantic relations,0,0,0,0,0
+149,EXERTION,semantic relations,0,1,0,0,0
+150,ENERGY FOR AN ELECTRONIC DEVICE,semantic relations,0,1,0,0,0
+151,"WHAT ""POP"" MIGHT MEAN",semantic relations,0,1,0,0,0
+152,ROMANTIC PARTNER,semantic relations,0,1,1,0,0
+153,INSULT,semantic relations,0,0,0,0,0
+154,GAS PUMP OPTIONS,semantic relations,0,1,1,0,0
+155,_ TABLE,multiword expressions,0,1,0,0,0
+156,OPEN SPACE,semantic relations,1,0,1,0,1
+157,BOXING UNIT,semantic relations,1,0,1,0,1
+158,GLITZINESS,semantic relations,0,0,0,1,0
+159,EMOJI,semantic relations,0,0,0,0,0
+160,BUILDINGS AROUND TOWN,semantic relations,1,1,0,0,1
+161,HINDER,semantic relations,0,0,0,0,0
+162,ANIMAL GROUP NAMES,semantic relations,1,0,0,0,0
+163,STARTS OF U.S. PRESIDENTS,word meaning + word form,0,0,0,0,0
+164,IN A BAD MOOD,semantic relations,0,0,0,1,0
+165,EXPERIMENTAL,semantic relations,1,1,0,0,0
+166,STARTS OF BROADWAY MUSICALS,word meaning + word form,0,0,0,0,0
+167,PETER    _,multiword expressions,0,1,0,0,0
+168,REGARD AS TRUE,semantic relations,1,1,1,0,1
+169,FACADE,semantic relations,0,1,1,1,1
+170,WAYS TO SECURE A TV,semantic relations,0,0,0,0,0
+171,LIQUOR BOTTLE SIZES,semantic relations,1,0,0,0,0
+172,SLENDER PROJECTIONS,semantic relations,0,0,1,0,0
+173,CONDITIONS FOR COLLECTIBLES,semantic relations,0,0,0,0,0
+174,PROFESSION,semantic relations,0,0,0,0,0
+175,"WORDS BEFORE ""NUT",multiword expressions,0,0,0,0,0
+176,ENORMOUS,associative relations,1,1,1,0,0
+177,EMBODIMENT,semantic relations,0,1,1,0,0
+178,COME ACROSS AS,semantic relations,0,0,0,0,0
+179,"SILENT ""T",phonology,0,0,0,0,0
+180,SCHOOL FACILITIES,semantic relations,0,1,0,0,0
+181,ROULETTE BETS,semantic relations,0,0,0,0,0
+182,"ASSOCIATED WITH ""DOVE",associative relations,1,0,0,0,0
+183,_ GOOSE,multiword expressions,0,0,0,0,0
+184,SCHOOL SUPPLIES,semantic relations,0,0,0,0,1
+185,FUNDAMENTAL,semantic relations,0,0,0,0,0
+186,TRANSFER,semantic relations,0,1,1,0,0
+187,LIGHT-UP SIGNS,semantic relations,0,1,0,0,0
+188,FUTURE LIKELIHOOD,semantic relations,1,1,0,0,1
+189,BACK TALK,semantic relations,0,1,0,0,0
+190,FISH,semantic relations,1,1,1,1,1
+191,COMPONENTS OF EYEGLASSES,semantic relations,0,1,0,0,0
+192,CHRONICLE,semantic relations,1,0,0,0,0
+193,MESS OF HAIR,semantic relations,0,0,0,0,0
+194,"TV SHOWS MINUS ""S",word meaning + word form,0,0,0,0,0
+195,"WORDS AFTER ""HEDGE",multiword expressions,0,0,0,0,0
+196,BIT OF ADVICE,semantic relations,0,0,0,0,0
+197,FORTITUDE,semantic relations,1,1,1,0,0
+198,SPEND TIME AT,semantic relations,0,0,0,0,0
+199,WORDS ENDING IN NUMBERS,word meaning + word form,0,0,0,0,0
+200,CHANGE STATES OF MATTER,semantic relations,0,0,0,0,0
+201,REPLACEMENT,semantic relations,0,1,0,0,0
+202,SLANGY NAMES FOR PROFESSIONS,associative relations,0,0,0,0,0
+203,MARIAH CAREY NUMBER ONE HITS,encyclopedic,0,0,0,0,0
+204,BIOLOGICAL BUILDING BLOCKS,semantic relations,1,1,1,0,0
+205,PURCHASES FOR A BABY,semantic relations,0,0,0,0,0
+206,OBJECTS PLAYED AS INSTRUMENTS,semantic relations,0,0,0,0,0
+207,_ TAG,multiword expressions,0,0,0,0,0
+208,YEARN,semantic relations,0,0,0,0,0
+209,MAGAZINES,encyclopedic,0,0,0,0,0
+210,CHARACTERS IN BOND MOVIES,encyclopedic,1,1,0,1,0
+211,"WORDS THAT PRECEDE ""POP"" IN MUSIC GENRES",word meaning + word form,0,0,0,0,0
+212,ROMANTIC RAPPORT,semantic relations,0,1,0,0,0
+213,THINGS STORED BY A WEB BROWSER,semantic relations,0,0,0,0,0
+214,SINGLE ROTATION,semantic relations,0,1,1,1,0
+215,"WORDS BEFORE ""BELL",multiword expressions,0,0,0,0,0
+216,"DEVELOP, AS IDEAS",semantic relations,1,1,0,0,0
+217,TANGIBLE,semantic relations,0,0,0,0,0
+218,KINDS OF CAKE,semantic relations,0,0,0,0,0
+219,"THINGS YOU CAN THROW, IN METAPHORS",multiword expressions,0,1,0,0,0
+220,PACK (AWAY) FOR FUTURE USE,semantic relations,1,1,0,0,0
+221,ADJECTIVES FOR ASSETS,semantic relations,0,0,0,0,0
+222,LATIN WORDS,encyclopedic,1,0,0,0,0
+223,_ GAME,multiword expressions,0,0,0,0,0
+224,SHOW THE WAY,semantic relations,0,1,0,0,1
+225,SCHEME,semantic relations,0,0,1,0,0
+226,SEEN ON A U.S. DOLLAR BILL,associative relations,0,0,0,0,0
+227,FIRST WORDS OF CANADIAN PROVINCES/TERRITORIES,word meaning + word form,0,0,0,0,0
+228,OLD SAYING,semantic relations,0,0,0,1,0
+229,GRILL FUEL SOURCES,semantic relations,0,0,0,1,0
+230,TREES,semantic relations,0,0,0,0,0
+231,HOT TUB COMPONENTS,semantic relations,0,0,0,0,0
+232,HOMOPHONES,phonology,0,0,0,1,0
+233,CONNECT,semantic relations,0,1,0,0,0
+234,PLACED DOWN,semantic relations,0,0,0,0,0
+235,_FLOWER,multiword expressions,0,0,0,0,0
+236,TYPES OF BAGS,semantic relations,1,1,0,1,1
+237,WIGGLE ROOM,semantic relations,0,0,0,0,1
+238,INDICATION TO PROCEED,semantic relations,0,1,0,0,0
+239,UNDERWEAR IN THE SINGULAR,word meaning + word form,0,0,0,0,0
+240,PURSUIT,semantic relations,1,1,1,1,1
+241,ROMANTIC LETTER SIGN-OFFS,semantic relations,0,0,0,0,0
+242,GROUP WITHIN A GROUP,associative relations,0,0,1,0,0
+243,GOLD    _,multiword expressions,0,0,0,0,0
+244,ARMY RANKS,semantic relations,1,0,0,1,1
+245,PLACE TO PLUG SOMETHING IN,semantic relations,1,1,0,0,0
+246,"CONSUMER DESIRE, COLLECTIVELY",semantic relations,0,0,0,0,0
+247,_ AD,multiword expressions,0,0,0,0,0
+248,"DIVULGE, AS PRIVATE INFORMATION",semantic relations,0,0,0,0,0
+249,DIVIDE,semantic relations,0,0,0,0,0
+250,"SILENT ""K",phonology,0,0,0,0,0
+251,"KEY TO SUCCESS, SO TO SPEAK",semantic relations,0,0,0,0,0
+252,SORE TO THE TOUCH,semantic relations,0,0,1,0,1
+253,RESTAURANT COURSES,semantic relations,1,1,1,1,0
+254,ANIMAL HOMOPHONES,word meaning + word form,0,0,0,0,0
+255,RED    _,multiword expressions,0,0,0,0,0
+256,SETTLE DOWN!,semantic relations,0,0,0,0,0
+257,MINOR AILMENTS,semantic relations,0,0,0,0,0
+258,WHAT HUMPBACK WHALES DO,associative relations,0,0,0,0,0
+259,_ CITY NICKNAMES,word meaning + word form,0,0,0,0,0
+260,ONE THING AFTER ANOTHER,associative relations,0,0,0,0,0
+261,KINDS OF GOLF CLUBS,semantic relations,1,1,0,1,0
+262,"HORROR MOVIES, WITH ""THE",word meaning + word form,0,0,0,0,0
+263,WORDS FOR SAUSAGE,semantic relations,0,0,0,0,0
+264,AMUSEMENT PARK RIDES,encyclopedic,1,1,1,0,1
+265,APPROVAL,semantic relations,1,1,1,1,0
+266,TYPES OF COME-FROM-BEHIND STORIES,encyclopedic,0,0,0,0,0
+267,BEGINNING WITH SYNONYMS FOR REAR END,word meaning + word form,0,0,0,0,0
+268,BITS OF HARDWARE,semantic relations,0,0,0,0,0
+269,FISHING GEAR,semantic relations,0,1,1,0,0
+270,HAIR SALON FIXTURES,semantic relations,0,0,0,0,0
+271,LIGHTNING    _,multiword expressions,0,0,0,0,0
+272,POSITIONS IN FAVOR,semantic relations,1,1,0,1,0
+273,GO OUT WITH,semantic relations,0,0,0,0,0
+274,MULTITUDE,semantic relations,0,0,0,0,0
+275,THINGS READ IN DIVINATION,associative relations,0,0,1,0,0
+276,REMOTE CONTROL BUTTONS,semantic relations,0,0,0,0,0
+277,HIDE FROM VIEW,semantic relations,0,0,0,0,0
+278,DRINK GARNISHES,semantic relations,0,0,0,0,0
+279,FIRST WORD IN BOND MOVIE TITLES,word meaning + word form,1,0,0,0,0
+280,"DELIVER, AS A PACKAGE",semantic relations,1,1,1,0,1
+281,KINDS OF LIP MAKEUP,semantic relations,1,1,0,0,0
+282,PREDICAMENT,semantic relations,0,0,0,0,0
+283,MEASURED IN DEGREES,associative relations,0,0,0,0,0
+284,CURRENT SITUATION,semantic relations,0,0,0,0,0
+285,REMOTE RURAL AREA,semantic relations,0,0,0,0,0
+286,CLASSIC LAWN ORNAMENTS,semantic relations,0,0,0,0,0
+287,_ TALE,multiword expressions,0,1,0,0,0
+288,BASKETBALL SHOTS,semantic relations,1,0,0,0,1
+289,FISH,semantic relations,1,0,0,0,0
+290,QUALITIES OF THICK HAIR,semantic relations,0,0,0,0,0
+291,_ CHILD,multiword expressions,0,0,0,0,0
+292,WRITING ASSIGNMENTS,semantic relations,1,0,1,0,0
+293,THINGS THAT ARE PINK,associative relations,0,0,0,0,0
+294,NATO PHONETIC ALPHABET,encyclopedic,1,0,0,0,0
+295,ASSOCIATED WITH #2,encyclopedic,0,0,0,0,0
+296,ENJOY,semantic relations,0,0,1,0,0
+297,BLOCKBUSTER,semantic relations,0,0,0,0,0
+298,CAMPAIGN SWAG,semantic relations,0,0,0,1,1
+299,"WORDS AFTER ""COPY",multiword expressions,0,0,0,0,0
+300,PLACES IN NEW YORK CITY,encyclopedic,0,0,0,0,0
+301,RHYMING TITLES,phonology,0,0,0,0,0
+302,ENDING IN UNITS OF MEASUREMENT,word meaning + word form,0,0,0,0,0
+303,STARTING WITH ANIMALS,word meaning + word form,0,0,0,0,0
+304,HOMOPHONES,phonology,0,0,0,0,0
+305,"MUSCLES, INFORMALLY",semantic relations,0,0,0,0,0
+306,MUSIC GENRES,semantic relations,1,0,1,0,0
+307,SETTINGS ON AN APPLIANCE KNOB,semantic relations,0,0,0,0,0
+308,CORE,semantic relations,0,0,0,1,1
+309,COMPLICATED,semantic relations,1,1,1,1,1
+310,SYMBOLS USED IN MAKING LISTS,semantic relations,0,0,0,0,0
+311,"WHAT ""CROSS"" MIGHT MEAN",semantic relations,0,0,0,0,0
+312,FEELING SOME TYPE OF WAY,semantic relations,0,0,0,0,0
+313,THROW HERE AND THERE,semantic relations,1,0,1,0,0
+314,THINGS WITH LAYERS,associative relations,0,0,0,0,0
+315,_ POTATO,multiword expressions,0,0,0,0,0
+316,GRAB ONE'S ATTENTION,semantic relations,0,0,0,0,0
+317,DOCUMENT WITH VIDEO,semantic relations,0,0,0,0,0
+318,ANAGRAMS,orthography,0,0,0,0,0
+319,PRETTY    _,multiword expressions,0,0,0,0,0
+320,DREAM UP,semantic relations,0,0,1,1,0
+321,THIN COVERING,semantic relations,0,0,0,0,0
+322,"REMOVE, AS CRUMBS",semantic relations,0,1,0,0,0
+323,VERBS FOR A SOFTWARE ENGINEER,semantic relations,0,1,1,0,0
+324,MOVE TO ACTION,semantic relations,0,0,0,0,0
+325,UNO CARDS,semantic relations,0,0,0,0,0
+326,HAIL SIZE COMPARISONS,semantic relations,1,0,0,0,0
+327,PLACES WITH BENCHES,associative relations,0,0,0,0,0
+328,AWESOME!,semantic relations,0,0,0,0,0
+329,VARIETY,semantic relations,0,1,0,0,0
+330,GIST,semantic relations,0,0,0,0,0
+331,"FRIED APPETIZER, INFORMALLY",semantic relations,0,0,0,0,0
+332,"TAKE HOME, AS INCOME",semantic relations,0,1,0,0,0
+333,PARTS OF A WIZARD COSTUME,semantic relations,0,0,0,0,0
+334,FOUND ON A SHIP,semantic relations,0,1,1,0,1
+335,C- _,multiword expressions,0,0,0,0,0
+336,"REMOVE, AS BODY HAIR",semantic relations,0,0,0,0,0
+337,TWIST AROUND,semantic relations,0,0,0,0,0
+338,THINGS MADE OF CELLS,associative relations,0,0,0,0,0
+339,B- _,multiword expressions,0,0,0,0,0
+340,CONFORMISTS,semantic relations,0,0,1,0,0
+341,COMPANY OWNERSHIP OFFERS,semantic relations,1,1,1,1,0
+342,U.S. CITIES,encyclopedic,1,0,0,0,0
+343,"WHAT ""DIGS"" MIGHT MEAN",semantic relations,0,0,0,0,0
+344,DON'T DELAY!,semantic relations,1,1,1,0,0
+345,OCEAN PHENOMENA,semantic relations,1,0,1,0,1
+346,DUMBBELL EXERCISES,semantic relations,0,0,0,0,0
+347,PHILOSOPHER HOMOPHONES,word meaning + word form,0,0,0,0,0
+348,CORPUS,semantic relations,1,0,0,0,0
+349,MOUNT    _,multiword expressions,1,0,0,0,0
+350,COMPONENTS OF AN LP,semantic relations,1,0,0,0,0
+351,THINGS PEOPLE SHAKE,associative relations,0,0,0,0,0
+352,PLUNDER,semantic relations,1,1,0,1,0
+353,INFLUENCE,semantic relations,1,1,0,0,0
+354,HAIRSTYLES,semantic relations,1,0,0,1,0
+355,_ PIN,multiword expressions,1,0,0,0,0
+356,FOOD,semantic relations,1,0,0,0,0
+357,PILOT,semantic relations,1,0,0,0,0
+358,INTIMIDATE,semantic relations,0,0,0,0,0
+359,_ MARKET,multiword expressions,0,1,0,0,0
+360,AMENABLE,semantic relations,0,0,0,1,0
+361,ANAGRAMS,orthography,1,1,0,0,0
+362,SPELLING BEE RANKS,semantic relations,0,0,0,0,0
+363,ADJECTIVES FOR A CANDLE,semantic relations,0,0,0,0,0
+364,AGENCY IN DECISIONMAKING,semantic relations,0,0,0,0,0
+365,DOG COMMANDS,semantic relations,0,0,0,0,0
+366,KINDS OF NOTES,semantic relations,0,0,0,0,0
+367,_ IRON,multiword expressions,0,0,0,0,0
+368,FOUND ON A STOVE TOP,semantic relations,1,1,1,0,1
+369,ORNAMENTAL BORDER,semantic relations,1,1,0,0,0
+370,"DEPOSIT, WITH ""DOWN",word meaning + word form,1,1,0,1,1
+371,WORDS THAT SOUNDS LIKE PLURAL LETTERS,phonology,1,0,0,0,0
+372,ADVERTISING FORMAT,semantic relations,1,0,0,1,1
+373,INAUGURAL,semantic relations,1,0,0,1,1
+374,ADVOCATE FOR,semantic relations,1,0,0,1,1
+375,"PRONOUN PLUS ""E",word meaning + word form,0,0,0,0,0
+376,CONDUITS FOR WATER REMOVAL,semantic relations,1,1,1,0,1
+377,FOOD PRODUCTS ASSOCIATED WITH SENTIMENTALITY,semantic relations,0,0,0,0,0
+378,THINGS TO CRACK,associative relations,0,0,0,0,0
+379,_ CHANGE,multiword expressions,0,0,0,0,0
+380,TAKE ADVANTAGE OF,semantic relations,0,0,0,0,0
+381,"FINISHED, AS TIME",semantic relations,0,0,1,0,0
+382,NEWSPAPER DESKS,semantic relations,0,0,0,0,0
+383,WORDS BEGINNING WITH GREETINGS,word meaning + word form,0,0,0,0,0
+384,"BODY PARTS IN ""HEAD, SHOULDERS, KNEES AND TOES",semantic relations,1,1,1,0,1
+385,"CAR, INFORMALLY",semantic relations,0,1,1,0,0
+386,REMOVES THE COVERING OF,semantic relations,1,1,0,1,0
+387,"BUZZY"" THINGS",associative relations,0,0,0,0,0
+388,SMIDGEN,semantic relations,0,1,0,1,0
+389,BARGAIN,semantic relations,0,1,0,0,0
+390,BILLIARDS EQUIPMENT,semantic relations,0,0,1,0,1
+391,_BOOK (THAT'S NOT A BOOK),multiword expressions,0,0,0,0,0
+392,SORCERER'S OUTPUT,semantic relations,1,1,1,0,1
+393,ONE BEING MANIPULATED,semantic relations,0,0,0,0,0
+394,CLASSIC SUPERHERO WEAR,semantic relations,0,1,1,0,1
+395,ACTION MOVIE DIRECTORS,encyclopedic,0,0,0,0,0
+396,AFFLUENT,semantic relations,1,1,0,1,0
+397,CUT INTO PIECES,semantic relations,0,0,0,0,0
+398,OLD-FASHIONED,semantic relations,0,0,0,0,0
+399,FRUIT HOMOPHONES,phonology,0,0,0,0,0
+400,ANIMALS WHOSE NAMES ARE TWO ANIMALS,word meaning + word form,0,1,0,0,0
+401,SHARP TURNS,associative relations,1,0,0,1,0
+402,CLASSIC PARTY GAMES,semantic relations,0,1,0,0,0
+403,THINGS WITH SPRING/S,semantic relations,0,1,0,1,0
+404,CORRUPT,semantic relations,0,0,0,0,0
+405,REACH OUT TO,semantic relations,0,0,0,1,1
+406,CLASSIC STILL LIFE COMPONENTS,semantic relations,0,0,0,0,0
+407,BEER    _,multiword expressions,0,0,0,0,0
+408,PHOTO,semantic relations,1,0,0,0,1
+409,"ASSURE, AS A VICTORY",semantic relations,0,0,0,0,0
+410,MOVE IN AN EFFORTLESS WAY,semantic relations,1,0,0,0,0
+411,_ BLANKET,multiword expressions,0,0,0,0,0
+412,BIT OF LEGISLATION,semantic relations,0,0,0,0,0
+413,GRASSLAND,semantic relations,1,1,1,1,1
+414,FORTHRIGHT,semantic relations,1,1,0,1,0
+415,CAR COMPANIES MINUS LETTER,word meaning + word form,0,0,0,0,0
+416,EARLY ITERATION,semantic relations,1,1,1,0,1
+417,ENJOY A MEAL,semantic relations,1,1,0,0,1
+418,SPANISH PRONOUNS,encyclopedic,0,0,0,0,0
+419,SLIM    _,multiword expressions,0,0,0,0,0
+420,FASHION DESIGNER'S OUTPUT,semantic relations,0,0,1,0,0
+421,PLAYGROUND VERBS,semantic relations,0,0,0,0,0
+422,LOONEY TUNES FIGURES,encyclopedic,0,0,0,0,0
+423,HOMOPHONES OF MUSICALS,word meaning + word form,0,0,0,0,0
+424,PLAYFULLY POKE FUN AT,semantic relations,0,0,0,0,0
+425,CUTS OF BEEF,semantic relations,0,0,0,0,0
+426,ACRONYMS,encyclopedic,0,0,0,0,0
+427,COCKTAILS MINUS PLACE NAMES,word meaning + word form,0,0,0,0,0
+428,ONE WITH TOP BILLING,semantic relations,0,0,0,0,0
+429,VAMPIRE VULNERABILITIES,semantic relations,0,0,0,0,0
+430,"SATIRICAL PUBLICATIONS, FAMILIARLY",semantic relations,0,0,0,0,0
+431,CLUB    _,multiword expressions,0,0,0,0,0
+432,CHUTZPAH,semantic relations,0,0,0,0,0
+433,ACCESSORIES FOR DOG WALKING,associative relations,0,0,0,0,0
+434,THINGS THAT SPIN,associative relations,0,0,0,1,1
+435,LEAD SINGERS OF '70S ROCK BANDS,encyclopedic,0,0,0,0,0
+436,CONTAINER CLOSURES,semantic relations,0,0,1,0,1
+437,DURATION,semantic relations,1,1,0,0,0
+438,REGULATE,semantic relations,0,1,0,0,0
+439,TRADEMARKS OF A PLATYPUS,encyclopedic,0,0,0,0,0
+440,SHADES OF RED,semantic relations,0,0,0,1,0
+441,LITTLE BIT OF A BEVERAGE,semantic relations,0,0,0,0,0
+442,CHOICEST,semantic relations,0,0,0,0,0
+443,_ BATH,multiword expressions,0,0,0,0,0
+444,DELI BREAD OPTIONS,semantic relations,0,1,0,0,0
+445,SLANG FOR MOUTH,semantic relations,0,0,0,1,0
+446,KEEP RHYTHM WITH MUSIC,semantic relations,0,0,0,0,0
+447,ROUND OF    _,multiword expressions,0,0,0,0,0
+448,CONNECT,semantic relations,1,1,1,0,0
+449,NUISANCE,semantic relations,0,0,0,0,0
+450,QUANTITY WORDS,semantic relations,1,0,0,0,1
+451,"TAROT CARDS, WITH ""THE",word meaning + word form,0,0,0,0,0
+452,SOMETHING GAINED FROM HARD WORK,semantic relations,1,0,0,0,0
+453,KINDS OF BAGELS,semantic relations,0,0,0,0,0
+454,CONTRIBUTE TO A MOVIE,semantic relations,0,0,0,0,0
+455,STARTS OF MONSTERS,word meaning + word form,0,0,0,0,0
+456,ENJOY,semantic relations,1,1,0,0,0
+457,FILLER WORDS,semantic relations,1,1,0,0,0
+458,COMPONENTS OF A LOCK,semantic relations,0,0,0,0,0
+459,HOMOPHONES OF UNITS OF MEASURE,word meaning + word form,0,0,0,0,0
+460,NIGHTSPOTS,semantic relations,0,0,1,0,1
+461,CAST OFF,semantic relations,0,0,1,1,1
+462,UNITS OF LENGTH,semantic relations,0,0,1,0,0
+463,_ SALE,multiword expressions,0,0,1,0,0
+464,HIGHLY SKILLED,semantic relations,0,0,0,0,0
+465,USED TO FIX A FLAT,semantic relations,1,1,1,0,1
+466,JOAQUIN PHOENIX MOVIES,encyclopedic,0,0,0,0,0
+467,WORDS STARTING WITH MUSIC GENRES,word meaning + word form,0,0,0,0,0
+468,FEATURES ON A PAIR OF JEANS,semantic relations,1,0,0,0,0
+469,"OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",semantic relations,0,0,0,0,0
+470,WEB BROWSER MENUS,semantic relations,0,0,0,0,0
+471,MEMBER OF A '60S BAND,word meaning + word form,0,0,0,0,0
+472,DIPPING SAUCES,semantic relations,0,0,0,0,0
+473,INTERROGATE,semantic relations,1,0,0,1,0
+474,TRANSACTION RECORD,semantic relations,1,1,1,1,1
+475,"WHAT ""STOCK"" MIGHT MEAN",semantic relations,0,0,0,1,0
+476,EXERCISES,semantic relations,0,1,0,0,0
+477,FEATURED IN WESTERNS,semantic relations,0,0,1,0,0
+478,LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE,encyclopedic,0,0,0,0,0
+479,_ BEE,multiword expressions,0,0,0,0,0
+480,"PASSIONATE, AS A FEELING",semantic relations,0,0,1,0,0
+481,BANG INTO,semantic relations,0,0,0,0,0
+482,ANALOG TV INTERFERENCE,semantic relations,0,0,0,0,0
+483,_ MARY,multiword expressions,0,0,0,0,0
+484,TRUST AS REAL,semantic relations,0,0,0,0,0
+485,POWER ISSUES,semantic relations,0,0,0,0,0
+486,SUMMARY,semantic relations,0,0,0,0,0
+487,NAME HOMOPHONES,word meaning + word form,0,0,0,0,0
+488,REFINED SENSIBILITY,semantic relations,0,1,0,0,0
+489,CATCH SOME RAYS,semantic relations,1,1,0,0,0
+490,EMOTIONALLY SWAY,semantic relations,0,1,0,0,0
+491,"NUMBERS WITH FIRST LETTERS REPLACED BY ""S",word meaning + word form,0,0,0,0,0
+492,LAB EQUIPMENT,semantic relations,1,1,1,1,1
+493,NEXUS,semantic relations,0,0,1,0,0
+494,SPREADSHEET TERMS,semantic relations,0,1,0,0,0
+495,_ LANGUAGE,multiword expressions,0,0,0,0,0
+496,TACO TOPPINGS,semantic relations,0,0,1,0,1
+497,METRIC PREFIXES,encyclopedic,0,0,1,0,1
+498,KINDS OF SKIRTS,semantic relations,0,0,0,0,0
+499,"WORDS WITH ""HILL",multiword expressions,0,0,0,0,0
+500,THROW OUT,semantic relations,0,0,0,0,0
+501,TERRA FIRMA,semantic relations,0,1,1,0,1
+502,SEAS,encyclopedic,0,0,0,0,0
+503,TOM HANKS MOVIES,encyclopedic,0,0,0,0,0
+504,SLANG FOR FRIEND,semantic relations,1,1,0,1,0
+505,ADJECTIVES FOR A BASEMENT,semantic relations,0,0,0,0,0
+506,STUBBLE,semantic relations,0,1,0,0,0
+507,COLLECTION OF MONEY,semantic relations,0,1,0,0,0
+508,EMBODIMENT,semantic relations,1,0,1,0,0
+509,RELATED TO TRAINS,semantic relations,0,0,0,0,0
+510,STARTING WITH THE SAME SOUND,phonology,0,0,0,0,0
+511,EAR _,multiword expressions,0,0,0,0,0
+512,BALDERDASH,semantic relations,1,1,0,0,0
+513,TRACK AND FIELD EQUIPMENT,semantic relations,0,1,0,0,0
+514,PARTS OF A DEVIL COSTUME,semantic relations,0,0,0,0,0
+515,TYPES OF KNOTS,semantic relations,1,1,0,0,1
+516,ATTACH WITH ADHESIVE,semantic relations,0,1,1,0,1
+517,PUBLISHED LINES,semantic relations,0,0,0,0,0
+518,DIAMOND QUALITIES,semantic relations,1,1,1,0,0
+519,A- _,multiword expressions,0,0,0,0,0
+520,SIDEWALK SIGHTS,semantic relations,0,1,0,0,1
+521,HAVE IN MIND,semantic relations,0,1,1,0,1
+522,UNIT ABBREVIATIONS,encyclopedic,0,1,1,0,1
+523,GOLDEN    _,multiword expressions,0,0,0,0,0
+524,UPRIGHT SUPPORT,semantic relations,0,1,1,0,1
+525,"HEED, AS RULES",semantic relations,0,0,1,1,0
+526,ALLOTMENT,semantic relations,0,1,0,0,0
+527,GATHERED BY SPIES,semantic relations,0,0,0,0,0
+528,FLABBERGAST,semantic relations,0,0,0,0,0
+529,BIT OF JOURNALISM,semantic relations,0,1,1,0,0
+530,ON THE SAME PLANE,semantic relations,0,0,1,0,0
+531,THEATER SECTIONS,semantic relations,0,1,0,0,0
+532,INVENT AS YOU GO,semantic relations,0,1,0,0,0
+533,THINGS BABIES DO,semantic relations,0,0,0,0,0
+534,SUPERFICIAL,semantic relations,0,1,0,0,0
+535,_ EFFECT,multiword expressions,0,0,0,0,0
+536,PULL USING FORCE,semantic relations,1,1,1,1,0
+537,BIT OF REPETITIVE TRAINING,semantic relations,1,0,0,0,0
+538,U.S.-BASED AIRLINES,encyclopedic,0,1,0,1,0
+539,BEGINNING WITH DAY ABBREVIATIONS,word meaning + word form,0,0,0,0,0
+540,SEEN AT THE CIRCUS,semantic relations,1,0,0,1,0
+541,"THE WIZARD OF OZ"" FIGURES",encyclopedic,1,0,0,1,0
+542,FILM DEPARTMENTS,semantic relations,1,0,0,1,0
+543,"I'M A    _"" (LYRICS IN ""THE JOKER"")",encyclopedic,0,0,0,0,0
+544,ORDERLY,semantic relations,1,1,0,0,1
+545,AUGMENTATIVE PREFIXES,morphology,0,1,0,0,1
+546,BECOME LARGER,semantic relations,0,0,0,0,1
+547,ITEMS IN CLASSIC KIDS' GAMES,semantic relations,0,0,0,0,1
+548,"HAIRCUTS, WITH ""CUT",word meaning + word form,0,0,0,0,0
+549,MEASURING INSTRUMENTS,semantic relations,0,1,0,0,1
+550,WATER AND GAS CONDUITS,semantic relations,0,0,0,0,0
+551,FAST FOOD MASCOTS,encyclopedic,0,0,0,0,0
+552,PERSON IN CHARGE,semantic relations,1,0,0,0,1
+553,GRASSY AREA,semantic relations,0,0,0,0,0
+554,"WORDS BEFORE ""NUT",encyclopedic,0,0,0,0,0
+555,SECOND WORDS IN TARANTINO MOVIES,multiword expressions,0,0,0,0,0
+556,BREADTH,semantic relations,1,0,0,0,0
+557,HAIR TOOLS,semantic relations,0,0,0,0,0
+558,HERALDRY TERMS,semantic relations,0,1,1,0,0
+559,"WORDS BEFORE ""DRUM",multiword expressions,0,0,0,0,0
+560,BRIEF MOMENT,semantic relations,0,0,1,0,0
+561,DISPUTE,semantic relations,0,1,0,0,1
+562,SLANG FOR ZERO,semantic relations,0,0,0,0,0
+563,ACCESSORIES FOR MR. PEANUT,encyclopedic,0,0,0,0,0
+564,DISORDERLY PLACE,semantic relations,1,0,1,1,1
+565,STURDY,semantic relations,1,0,1,0,1
+566,FOUND IN CRACKER JACKS,semantic relations,1,0,0,0,0
+567,_ HORSE,multiword expressions,0,0,0,0,0
+568,INTRINSIC MOTIVATORS,semantic relations,1,1,0,0,0
+569,SUMMER GEAR,semantic relations,0,0,0,0,1
+570,COLLECTION,semantic relations,1,0,0,0,0
+571,HORSE _,multiword expressions,0,0,0,0,0
+572,PIECES OF FURNITURE,semantic relations,1,1,1,1,1
+573,"CARRY, AS A FEELING",semantic relations,0,1,0,1,0
+574,WINE TASTING DESCRIPTORS,semantic relations,0,0,0,0,0
+575,STARTING WITH METALS,word meaning + word form,0,0,0,0,0
+576,WAYS TO PREPARE EGGS,semantic relations,0,0,0,0,1
+577,EXHILARATION,semantic relations,0,0,1,0,1
+578,THROWN IN TARGET GAMES,semantic relations,0,0,1,0,0
+579,_ WRAP,multiword expressions,0,0,0,0,0
+580,BENCHMARK,semantic relations,1,1,1,1,1
+581,POKER ACTIONS,semantic relations,0,0,0,0,0
+582,SKIN TYPES,semantic relations,0,0,0,0,0
+583,STARTS OF U.S. STATES,word meaning + word form,0,0,0,0,0
+584,THRUST,semantic relations,1,0,0,0,0
+585,KINDS OF SNAKES,semantic relations,1,0,0,0,0
+586,"SEEN IN ""CINDERELLA",encyclopedic,0,0,0,0,0
+587,PASTA SHAPES,semantic relations,0,0,0,0,0
+588,TAKE A TUMBLE,semantic relations,1,0,0,1,0
+589,KINDS OF WATER,semantic relations,0,0,0,0,0
+590,THINGS THAT ARE CINCHED IN THE MIDDLE,associative relations,0,0,0,0,0
+591,_ BEAR,multiword expressions,0,1,0,0,0
+592,BREATHES HEAVILY,semantic relations,0,0,0,0,0
+593,"PRESERVES, AS MEAT",semantic relations,0,0,0,0,0
+594,PREDICAMENTS,semantic relations,0,0,0,0,0
+595,"THINGS IN ""MY FAVORITE THINGS",encyclopedic,0,0,0,0,0
+596,ESPECIALLY,semantic relations,0,1,0,0,0
+597,DISNEY CHARACTERS,encyclopedic,0,0,0,0,0
+598,KINDS OF BLUE,semantic relations,0,0,0,0,0
+599,"BODY PARTS PLUS ""Y",word meaning + word form,0,0,0,0,0
+600,EXITED,semantic relations,0,0,0,0,0
+601,ONE FLYING AN AIRPLANE,semantic relations,1,0,0,0,0
+602,KINDS OF WHALES,semantic relations,0,0,0,0,0
+603,THINGS WITH SLOTS,associative relations,0,0,0,0,0
+604,UPDATE FOR ACCURACY,semantic relations,1,0,1,1,1
+605,QUARREL,semantic relations,0,1,0,0,0
+606,GAMES OF CHANCE,encyclopedic,0,0,0,0,0
+607,_ CHIP,multiword expressions,0,0,0,0,0
+608,MUSICAL INSTRUMENTS,encyclopedic,1,1,1,1,1
+609,PLANT GROWTHS,semantic relations,1,1,1,1,0
+610,BRING UP,semantic relations,1,1,1,1,0
+611,SOLAR EMANATIONS,encyclopedic,1,0,1,1,1
+612,HOW FAST SOMETHING IS GOING,semantic relations,0,0,0,0,0
+613,STEP ON IT!,semantic relations,0,0,1,0,0
+614,N.B.A. TEAM PLAYER,encyclopedic,0,0,0,0,0
+615,TELE _,multiword expressions,0,0,0,0,0
+616,YELLOW-BROWN SHADES,semantic relations,0,1,1,0,0
+617,FAIL TO ATTEND,semantic relations,0,1,0,0,0
+618,DECISIVE VICTORY,semantic relations,1,1,0,0,0
+619,_ WHEEL,multiword expressions,0,0,0,0,0
+620,KUDOS,semantic relations,1,0,0,0,0
+621,BECOME AWARE OF,semantic relations,1,1,0,0,1
+622,PURSUE,semantic relations,1,1,0,1,0
+623,SEEN IN A PASSPORT,associative relations,1,0,0,0,0
+624,JUMPING ANIMALS,semantic relations,0,1,0,0,0
+625,APPLY PRESSURE TO,semantic relations,0,1,0,0,0
+626,OLYMPIC SPORTS,encyclopedic,0,0,0,0,0
+627,THINGS YOU CAN SET,associative relations,0,0,0,0,0
+628,"CHAT, INFORMALLY",semantic relations,0,0,0,0,0
+629,FEMALE ANIMALS,semantic relations,0,0,1,1,0
+630,PALINDROMES,orthography,1,0,0,0,0
+631,STARTS OF PLANET NAMES,word meaning + word form,0,0,0,0,0
+632,SEEN AT A SPORTS STADIUM,associative relations,0,0,1,0,0
+633,CAMERA BRANDS,encyclopedic,1,1,1,0,0
+634,ITALIAN DEMONYMS,encyclopedic,0,1,1,0,1
+635,STARTING WITH ROCK BANDS,word meaning + word form,0,0,0,0,0
+636,MOVIE SUMMARY INFO,associative relations,0,0,0,0,0
+637,PRETENSE,semantic relations,0,0,0,0,0
+638,FAMOUS GUITARISTS,encyclopedic,0,0,0,0,0
+639,SECOND    _,multiword expressions,0,0,0,0,0
+640,SEGMENT OF A PROCESS,semantic relations,0,0,0,0,0
+641,CONSTELLATIONS,encyclopedic,1,1,1,0,0
+642,SPIRALS IN NATURE,associative relations,0,0,0,0,0
+643,"ASSOCIATED WITH ""ONE",associative relations,1,0,0,0,0
+644,FOOLISHNESS,semantic relations,1,1,1,0,1
+645,MOVE FORWARD,semantic relations,1,1,0,0,1
+646,THINGS THAT MIGHT STINK,associative relations,0,0,0,0,0
+647,"WORDS AFTER ""DEEP",multiword expressions,0,0,0,0,0
+648,GET SMALLER,semantic relations,1,0,1,1,0
+649,AIRLINE CLASSES,semantic relations,1,0,0,0,0
+650,"EXAMINE, AS AN APPLICANT",semantic relations,1,0,0,0,0
+651,NOTABLE TV EPISODES,semantic relations,1,0,0,0,0
+652,CRITICIZE,semantic relations,0,1,0,0,0
+653,MY MISTAKE!,encyclopedic,0,1,0,0,1
+654,ALIBI,semantic relations,0,1,0,0,1
+655,PLAY    _,multiword expressions,0,0,0,0,0
+656,BOX OFFICE VICTORY,semantic relations,1,0,0,0,0
+657,VOLLEYBALL MOVES,encyclopedic,0,1,0,0,0
+658,HOMOPHONES OF GREEK LETTERS,word meaning + word form,0,0,0,0,0
+659,_-O,multiword expressions,0,0,0,0,0
+660,HALLOWEEN PURCHASES,associative relations,0,0,0,0,1
+661,PLANTS WITH SIMILAR FLAVORS,semantic relations,1,1,0,1,1
+662,FOOD SLANG FOR HEAD,associative relations,0,0,0,0,0
+663,GEMSTONE CUTS,encyclopedic,0,0,0,0,0
+664,SECTION,semantic relations,1,1,1,0,0
+665,INCLUDING,semantic relations,0,0,1,1,0
+666,"DOG BREEDS, INFORMALLY",associative relations,0,0,0,0,0
+667,FAMOUS POEMS,encyclopedic,0,0,0,0,0
+668,TREAT WITH EXCESSIVE CARE,semantic relations,0,0,0,0,0
+669,BACKSIDE,semantic relations,1,1,1,1,0
+670,THINGS IN A SPA LOCKER ROOM,associative relations,1,1,0,0,0
+671,CAT'S    _,multiword expressions,0,0,0,0,0
+672,THINGS A DOG CAN FETCH,associative relations,0,0,1,1,0
+673,CONCEAL,semantic relations,0,0,0,0,0
+674,MAC KEYBOARD KEYS,semantic relations,1,0,0,0,1
+675,EXPERIENCE A MEMORY LAPSE,semantic relations,0,0,0,0,0
+676,EAT VORACIOUSLY,semantic relations,0,0,0,0,0
+677,AREAS OF ACADEMIC FOCUS,semantic relations,0,1,0,0,0
+678,UNIVERSAL,semantic relations,0,0,0,0,0
+679,SPACE    _,multiword expressions,0,0,0,0,0
+680,POP MEGASTARS,encyclopedic,0,0,0,0,0
+681,METHOD,semantic relations,0,0,0,0,0
+682,"UNLIKELY, AS CHANCES",semantic relations,0,0,0,0,0
+683,LIVING    _,multiword expressions,0,0,0,0,0
+684,ROOMS IN THE GAME CLUE,encyclopedic,1,0,1,0,1
+685,COLLEAGUE,semantic relations,1,1,1,0,0
+686,SEEN DURING EASTER,associative relations,0,1,1,0,0
+687,WHAT A MOLE CAN BE,associative relations,0,0,0,0,0
+688,LARGE AMOUNT,semantic relations,1,1,1,0,1
+689,FALL IN UNDER PRESSURE,semantic relations,0,0,0,0,0
+690,WAYS TO GET ATTENTION,semantic relations,0,0,0,0,0
+691,BELLY    _,multiword expressions,0,0,0,0,0
+692,INTELLIGENCE OPERATIVE,semantic relations,1,1,0,0,0
+693,UNITS IN POETRY,semantic relations,0,0,0,0,0
+694,EXPRESS INDIRECTLY,semantic relations,0,0,0,0,0
+695,"WHAT ""K"" MIGHT MEAN",encyclopedic,0,0,0,0,0
+696,GARLIC BREAD INGREDIENTS,semantic relations,0,0,0,0,0
+697,WAGER,semantic relations,1,0,0,0,0
+698,DISNEYLAND LANDS,encyclopedic,0,0,0,0,0
+699,_ BAT,multiword expressions,0,0,0,0,0
+700,PROPEL INTO THE AIR,semantic relations,1,0,1,1,0
+701,PLACE TO STORE VALUABLES,semantic relations,1,1,1,1,0
+702,PERIOD,semantic relations,1,1,1,1,1
+703,ANIMALS BACKWARD,word meaning + word form,0,0,0,0,0
+704,"CHEESES, FAMILIARLY",semantic relations,0,0,0,0,0
+705,TRACK AND FIELD EQUIPMENT,semantic relations,0,1,1,0,0
+706,KINDS OF HEELS,semantic relations,1,1,0,0,0
+707,DOUBLE    _,multiword expressions,0,0,0,0,0
+708,80S FASHION TRENDS,encyclopedic,0,0,0,0,0
+709,GYMNASTICS POSITIONS,semantic relations,0,0,0,0,0
+710,KINDS OF CRACKERS,semantic relations,0,0,0,0,0
+711,_ LADDER,multiword expressions,0,0,0,0,0
+712,BASIC TASTES,semantic relations,1,1,1,1,1
+713,"STAND UP TO, AS A CHALLENGE",semantic relations,0,1,0,0,0
+714,ILK,semantic relations,1,1,0,0,0
+715,"ART MOVEMENTS, WITH -ISM",word meaning + word form,0,1,0,0,0
+716,WALK HEAVILY,semantic relations,1,1,0,1,0
+717,FLEXIBLE,semantic relations,0,1,0,1,1
+718,FENCING EQUIPMENT,semantic relations,0,0,0,0,0
+719,WORDS BEGINNING WITH INSTRUMENTS,word meaning + word form,0,0,0,0,0
+720,MANUFACTURING LOCATIONS,semantic relations,1,1,1,0,1
+721,WIN + LETTER,orthography,0,0,0,0,0
+722,PARTS OF FRUIT YOU MIGHT NOT EAT,associative relations,1,0,1,0,1
+723,WEIGHTS IN BOXING,encyclopedic,0,0,0,0,0
+724,PROCESSION,semantic relations,0,0,0,0,0
+725,SHADES OF GREEN,semantic relations,0,1,0,0,0
+726,"WHAT ""BLUE"" MIGHT MEAN",associative relations,0,0,0,0,0
+727,THINGS WITH SPINES,associative relations,0,0,0,0,0
+728,DOG SOUNDS,semantic relations,1,1,1,1,1
+729,DEPARTMENT,semantic relations,0,0,0,0,0
+730,ORIGIN,semantic relations,0,0,0,0,0
+731,COLORS WITH THEIR FIRST LETTERS CHANGED,word meaning + word form,0,0,0,0,0
+732,PESTERS,semantic relations,0,0,0,0,0
+733,TONY WINNERS FOR BEST MUSICAL,encyclopedic,1,1,0,0,0
+734,THEY HAVE KEYS,associative relations,0,0,0,0,0
+735,SCHOOL OF    _,multiword expressions,0,1,0,0,0
+736,PARTY POOPER,semantic relations,0,0,0,0,0
+737,MUSICAL SECTIONS,encyclopedic,0,0,0,0,0
+738,BIT OF LIQUID,semantic relations,0,0,0,1,0
+739,VEGETABLE HOMOPHONES,word meaning + word form,0,0,0,0,0
+740,USED IN BUILDING A FIRE,associative relations,1,1,1,1,0
+741,MESS UP,semantic relations,0,0,0,0,0
+742,WORKSHOP TOOLS,semantic relations,1,1,1,1,1
+743,PARTS OF A DOOR,semantic relations,1,1,1,1,1
+744,EAT A LITTLE,semantic relations,0,1,1,0,0
+745,PURSUE,semantic relations,1,1,0,0,1
+746,INGREDIENTS IN MINESTRONE,semantic relations,0,0,0,0,0
+747,_CAST,multiword expressions,0,0,0,0,0
+748,BIT OF HAIR,semantic relations,1,1,1,1,0
+749,MEDIA ATTENTION,semantic relations,0,0,0,0,0
+750,NOUN SUFFIXES,morphology,0,1,1,0,0
+751,_ CIRCUS,multiword expressions,0,0,0,0,0
+752,COMFY SHOES,semantic relations,1,1,0,1,1
+753,THINGS MADE WITH FEATHERS,associative relations,0,0,0,0,0
+754,PROGRAMMING LANGUAGES,encyclopedic,1,1,0,1,0
+755,THINGS THAT CAN STRIKE,associative relations,0,0,0,0,0
+756,FOLLOW ATTENTIVELY,semantic relations,0,0,0,0,0
+757,WHERE YOU MIGHT FIND SAND,associative relations,0,0,0,0,0
+758,OVEN BUTTONS,semantic relations,0,0,0,0,0
+759,BRITPOP BANDS,encyclopedic,0,0,0,0,0
+760,TOUCH LIGHTLY,semantic relations,0,0,0,0,0
+761,KINDS OF NUMBERS,semantic relations,1,1,1,0,0
+762,SAUCES IN CHINESE CUISINE,semantic relations,0,0,0,0,0
+763,BEAR    _,multiword expressions,0,0,0,0,0
+764,"ENCOURAGE, WITH ""ON",word meaning + word form,0,0,0,0,0
+765,SPHERICAL FOODS,associative relations,1,0,0,0,0
+766,GROCERY STORE AISLES,semantic relations,1,0,0,0,0
+767,GO    _,multiword expressions,0,1,0,0,0
+768,BAD THINGS FOR A VIDEO CALL TO DO,associative relations,0,0,0,0,0
+769,COSTUMES WITH STRIPED SHIRTS,associative relations,0,0,0,0,0
+770,"SEEN IN ""ALADDIN",encyclopedic,0,0,0,0,0
+771,MOVIES MINUS NUMBERS,word meaning + word form,0,0,0,0,0
+772,MONOTONOUS SOUNDS,semantic relations,1,1,1,0,0
+773,BOATS,semantic relations,1,1,1,1,0
+774,CAPTAINS,encyclopedic,0,0,0,0,0
+775,PREFIXES WITH -CRACY,morphology,0,0,0,0,0
+776,STOOL PIGEON,semantic relations,0,1,0,0,0
+777,CRAM INTO A TIGHT SPACE,semantic relations,0,0,0,0,0
+778,YOGA POSES,associative relations,0,0,0,0,0
+779,_FLY,multiword expressions,0,0,0,0,0
+780,MUSIC PLAYER BUTTONS,associative relations,1,1,0,1,0
+781,BROADCAST,semantic relations,0,0,0,0,0
+782,THINGS YOU CAN DRAW,associative relations,0,0,0,1,0
+783,NUMBER ANAGRAMS,word meaning + word form,0,0,0,0,0
+784,ARCHERY EQUIPMENT,semantic relations,1,1,0,1,1
+785,CARD GAMES,encyclopedic,0,0,0,0,0
+786,WALLOP,semantic relations,0,0,0,0,0
+787,CLASSIC TATTOOS,associative relations,0,0,0,0,0
+788,SEA CREATURES,semantic relations,1,1,1,1,1
+789,BASIC TWO-DIMENSIONAL SHAPES,semantic relations,1,1,1,0,1
+790,BOXING MANEUVERS,semantic relations,0,0,0,0,0
+791,FANCY    _,multiword expressions,0,0,0,0,0
+792,"OSTENTATIOUS, AS AN OUTFIT",semantic relations,1,1,0,0,0
+793,EUPHEMISMS FOR FLATULENCE,semantic relations,0,0,0,0,0
+794,KINDS OF BLOND,semantic relations,0,0,0,0,0
+795,"WHAT ""O"" MIGHT MEAN",associative relations,0,0,0,0,0
+796,GIVE ME A BREAK!,semantic relations,0,0,0,0,0
+797,ECCLESIASTICAL TITLES,encyclopedic,1,0,1,0,1
+798,ROCK & ROLL HALL OF FAME INDUCTEES,encyclopedic,0,0,1,0,0
+799,CITY HOMOPHONES,word meaning + word form,0,0,0,0,0
+800,DRINKS WITH CAFFEINE,semantic relations,0,1,0,0,0
+801,UNEXCITING,semantic relations,0,0,0,0,0
+802,COMEDIAN'S PERFORMANCE,semantic relations,0,0,1,0,0
+803,MARTINI SPECIFICATIONS,encyclopedic,0,0,0,0,0
+804,COMMERCIAL ORGANIZATION,semantic relations,1,1,1,0,1
+805,FARM FIXTURES,semantic relations,1,1,1,0,0
+806,CLASSIC DOG NAMES,associative relations,1,0,1,0,0
+807,COLORS MINUS THEIR FIRST LETTERS,word meaning + word form,0,0,0,0,0
+808,TIME OFF,semantic relations,0,1,1,0,1
+809,FEATURES OF A BELT,semantic relations,0,0,0,0,0
+810,HOMOPHONES,phonology,0,0,0,0,0
+811,_WOOD,multiword expressions,0,0,0,0,0
+812,MAKE SHORTER,semantic relations,0,0,0,0,1
+813,MUSCULAR,semantic relations,1,0,0,0,0
+814,ENTHUSIAST,semantic relations,0,0,0,0,0
+815,WRINKLY THINGS,associative relations,0,0,0,0,0
+816,MERRIMENT,semantic relations,1,1,0,1,1
+817,BOOKED FOR A WEDDING,semantic relations,1,0,1,1,0
+818,RHYMES,phonology,0,0,0,0,0
+819,_ PIT,multiword expressions,0,0,0,0,0
+820,HIT HARD,semantic relations,0,1,0,1,1
+821,NEWSPAPER NAMES,encyclopedic,0,0,0,0,0
+822,CRESCENT-SHAPED THINGS,associative relations,0,0,0,0,0
+823,POWER-UPS IN SUPER MARIO WORLD,encyclopedic,0,0,0,0,0
+824,DO SOME MARKETING,semantic relations,0,0,0,1,1
+825,ROMANTIC TWOSOME,semantic relations,0,0,0,0,0
+826,TENNIS SCORES,encyclopedic,0,1,0,0,0
+827,"WORDS WITH ""FRUIT",morphology,0,0,0,0,0
+828,HIGHEST POINT,semantic relations,1,1,1,1,1
+829,"CAN I GET YOUR    _?"" (PHONE INFO REQUEST)",associative relations,0,1,1,0,0
+830,"MODIFIERS MEANING ""SMALL",semantic relations,1,0,1,1,0
+831,INSIDE A SCRABBLE BOX,encyclopedic,1,0,1,0,0
+832,HURT,semantic relations,0,0,1,0,0
+833,LOOK AFTER,semantic relations,0,1,0,0,0
+834,"SOUGHT AFTER IN ""THE WIZARD OF OZ",encyclopedic,0,0,0,0,0
+835,"SILENT ""W",orthography,0,0,0,0,0
+836,BASEBALL EQUIPMENT,semantic relations,0,0,0,1,0
+837,HARD HIT,semantic relations,0,0,0,0,0
+838,ORIGINAL MONOPOLY TOKENS,encyclopedic,1,1,0,1,0
+839,_ BUNNY,multiword expressions,0,0,0,0,0
+840,OF-THE-MOMENT,semantic relations,0,0,0,0,0
+841,PICTOGRAPH,semantic relations,1,0,1,0,1
+842,"IMPOSE, AS A PENALTY",semantic relations,0,0,1,0,1
+843,WORDS BEGINNING WITH BODY PARTS,word meaning + word form,0,0,0,0,0
+844,"SMARTPHONE FEATURES BEGINNING WITH ""C",semantic relations,0,0,0,0,0
+845,PARTS OF THE EYE,semantic relations,1,1,1,0,1
+846,FAMILIAL NICKNAMES,semantic relations,0,0,0,0,0
+847,WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS,phonology,0,0,0,0,0
+848,BRING INTO BEING,semantic relations,1,0,0,1,0
+849,EXCELLENT,semantic relations,0,0,1,0,1
+850,SYMBOLS ABOVE NUMBERS ON A KEYBOARD,encyclopedic,0,0,0,0,0
+851,PASS THE    _,multiword expressions,0,0,0,0,0
+852,SYMBOLIC RODS,semantic relations,0,0,0,0,0
+853,DENTAL TERMS,encyclopedic,0,1,0,1,0
+854,RUBBER STAMP WORDS,encyclopedic,0,0,0,0,0
+855,_ YEAR,multiword expressions,0,0,0,0,0
+856,RIP OFF,semantic relations,0,0,0,0,0
+857,THINGS MADE OF WAX,associative relations,0,0,0,0,0
+858,PARTS OF AN AIRPLANE,semantic relations,0,0,0,0,0
+859,UNITS OF VEGETABLES,semantic relations,0,0,0,0,0
+860,DECLINE,semantic relations,0,1,1,0,0
+861,MOVE WITH SPEED,semantic relations,0,0,0,0,0
+862,KINDS OF DANCE,semantic relations,1,0,0,1,0
+863,BABY    _,multiword expressions,0,1,0,0,0
+864,SUNDAE TOPPINGS,associative relations,1,0,0,0,0
+865,LEAVE HIGH AND DRY,semantic relations,0,1,1,0,0
+866,PHOOEY!,semantic relations,1,1,0,0,0
+867,WORDS IN TONGUE TWISTERS,associative relations,0,0,0,0,0
+868,SHOW OFF,semantic relations,0,0,0,1,0
+869,FOREMOST,semantic relations,1,0,1,1,0
+870,COLORS IN BRAZIL'S FLAG,semantic relations,0,0,0,1,1
+871,_ LETTER,multiword expressions,0,0,0,1,0
+872,DATA SET DATA,encyclopedic,1,1,1,1,1
+873,CHEMISTRY TERMS,encyclopedic,0,1,1,0,0
+874,ADJECTIVE INTENSIFIERS,semantic relations,0,0,0,0,1
+875,RADIO HALL OF FAME MEMBERS,encyclopedic,0,0,0,0,0
+876,DECEIVE,semantic relations,1,1,0,0,0
+877,INSIDE INFO,semantic relations,0,0,0,0,0
+878,TILT TO ONE SIDE,semantic relations,0,0,0,0,0
+879,WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR,word meaning + word form,0,0,0,0,0
+880,LIST OF CANDIDATES,semantic relations,1,0,0,0,0
+881,PROTECTIVE BARRIER,semantic relations,0,1,0,0,0
+882,MEDICINE FORMATS,associative relations,0,1,1,0,0
+883,PEA    _,multiword expressions,0,0,0,0,0
+884,THINGS TO PAY,semantic relations,1,0,0,0,1
+885,THIEVE,semantic relations,1,1,1,1,1
+886,MALE ANIMALS,semantic relations,0,1,0,0,0
+887,"LEGWEAR, IN THE SINGULAR",word meaning + word form,1,1,1,0,1
+888,CREDENTIALS FOR ENTRY,semantic relations,0,0,0,0,0
+889,PRESIDE OVER,semantic relations,0,0,0,0,0
+890,AMERICAN FOOTBALL POSITIONS,encyclopedic,0,0,0,0,0
+891,POSTPONE,semantic relations,0,0,0,0,0
+892,TOPIC OF DISCUSSION,semantic relations,1,0,0,0,0
+893,SECTION OF ONE'S LIFE,semantic relations,0,0,0,0,0
+894,"PARTS OF A CAR, INFORMALLY",semantic relations,0,0,0,0,0
+895,COLOR HOMOPHONES,word meaning + word form,0,0,0,0,0
+896,STATES OF MATTER,semantic relations,1,1,1,1,1
+897,ALL-TIMER,semantic relations,0,0,0,0,0
+898,"PH"" WORDS THAT ALSO WORK WITH ""F",orthography,0,0,1,0,0
+899,_ PITCH,multiword expressions,0,0,0,0,0
+900,BIT OF MAGIC,semantic relations,0,1,1,1,1
+901,FOUND AROUND A FIREPLACE,associative relations,0,0,0,0,0
+902,THINGS SEEN AT A CASINO,associative relations,0,0,0,0,0
+903,WAYS TO PREPARE CHEESE,semantic relations,0,0,0,0,0
+904,CLEANING SUPPLIES,semantic relations,1,1,1,1,1
+905,"ELEMENTS OF COOKING, PER SAMIN NOSRAT",encyclopedic,0,0,0,0,0
+906,THINGS THAT MAKE YOU SNEEZE,associative relations,0,0,0,0,0
+907,TITULAR FICTIONAL DETECTIVES,encyclopedic,1,1,0,0,0
+908,THINGS THAT ARE ORANGE,associative relations,0,0,0,0,0
+909,"LONG, SKINNY OBJECTS",semantic relations,0,0,0,0,0
+910,SEEN ON A GOLF COURSE,associative relations,0,1,0,0,0
+911,SHAPES OF CAPITAL GREEK LETTERS,encyclopedic,0,0,0,0,0
+912,TECH COMPANIES,semantic relations,1,1,0,0,0
+913,KINDS OF EXAMS,semantic relations,0,1,0,0,0
+914,SOMETHING EXEMPLARY,semantic relations,0,0,0,0,0
+915,_ TOOTH,multiword expressions,0,0,0,0,0
+916,STRONG SMELL,semantic relations,0,0,0,1,0
+917,MOVE BACK AND FORTH,semantic relations,0,0,1,0,0
+918,THINGS TO PICK,associative relations,0,0,0,0,0
+919,_ BALL,multiword expressions,0,0,0,0,0
+920,PLAYFULLY BOTHER,semantic relations,1,0,0,0,0
+921,APEX,semantic relations,1,1,0,1,0
+922,WORDS FOR SPECIFIC QUANTITIES,semantic relations,1,0,0,0,0
+923,"WHAT ""X"" MIGHT MEAN",associative relations,0,0,0,0,0
+924,GIFT-GIVING ACCESSORIES,associative relations,0,0,0,0,0
+925,DATING APP ACTIONS,semantic relations,0,0,0,0,0
+926,"COOL, IN SLANG",semantic relations,0,0,0,0,0
+927,LUCKY    _,multiword expressions,0,0,0,0,0
+928,MOVE THROUGH THE AIR,semantic relations,1,1,0,1,1
+929,HIDDEN LISTENING DEVICES,semantic relations,0,0,0,0,0
+930,"SELECT, AS A BOX ON A FORM",semantic relations,0,0,0,0,0
+931,RAPPERS MINUS FIRST LETTER,word meaning + word form,0,0,0,0,0
+932,B.L.T. INGREDIENTS,semantic relations,1,1,1,0,0
+933,OBSTRUCT,semantic relations,0,0,0,0,0
+934,BASEBALL STATS,encyclopedic,0,0,0,0,0
+935,SMALL    _,multiword expressions,0,0,0,0,0
+936,GARDENING NOUNS/VERBS,semantic relations,0,0,0,0,0
+937,KINDS OF SALADS,semantic relations,0,0,0,0,0
+938,"CLASSIC GAME SHOWS, FAMILIARLY",encyclopedic,0,1,0,0,0
+939,W + VOWEL SOUND,phonology,0,1,0,0,0
+940,ORGANIZATION,semantic relations,1,0,0,0,0
+941,"SHARPNESS, AS OF AN IMAGE",semantic relations,0,0,0,0,0
+942,PLACES IN FRANCE,semantic relations,1,1,0,1,0
+943,HAPPY NEW YEAR!,associative relations,0,0,0,0,0
+944,BLACK-AND-WHITE ANIMALS,associative relations,1,1,0,0,0
+945,SEQUENCE,semantic relations,0,0,0,0,0
+946,HETERONYMS,semantic relations,0,0,0,0,0
+947,_ TRAP,multiword expressions,0,0,0,0,0
+948,SHIRTS,semantic relations,0,0,1,1,0
+949,"COOL, IN '80S SLANG",semantic relations,0,0,0,0,0
+950,LETTER SPELLINGS,orthography,0,0,0,0,0
+951,_ GEORGE,multiword expressions,0,0,0,0,0
+952,PARTS OF A CAR,semantic relations,1,1,0,1,0
+953,MOVE QUICKLY,semantic relations,1,1,0,0,0
+954,BIRDS,semantic relations,1,1,1,0,1
+955,JAZZ LEGENDS,encyclopedic,0,1,0,0,0
+956,INDICATION OF THINGS TO COME,semantic relations,0,0,1,0,1
+957,NAME PREFIXES,semantic relations,0,0,0,0,0
+958,ART MEDIUMS,semantic relations,1,1,1,1,1
+959,_ PEPPER,multiword expressions,0,0,0,0,0
+960,ROAD NAMES,semantic relations,1,1,0,1,1
+961,PAPER IN A BOOK,semantic relations,1,1,1,1,1
+962,RESTRAIN,semantic relations,0,0,0,0,0
+963,THINGS YOU CAN DO TO YOUR NOSE,associative relations,0,0,0,0,0
+964,DARLING,semantic relations,0,1,0,0,1
+965,BASIC GEOMETRIC OBJECTS,encyclopedic,0,0,1,0,1
+966,OOMPH,semantic relations,0,0,0,0,0
+967,SECRET    _,multiword expressions,0,0,0,0,0
+968,GENTLE,semantic relations,0,1,0,0,0
+969,CUTS OF PORK,encyclopedic,0,0,1,1,0
+970,STATUE OF LIBERTY FEATURES,encyclopedic,0,0,0,0,0
+971,THINGS TO BLOW ON FOR WISHES/LUCK,associative relations,0,0,0,0,0
+972,MEANS OF TRANSPORTATION,semantic relations,1,1,1,0,0
+973,WILLING TO PARTICIPATE,semantic relations,0,0,0,0,0
+974,"LITTLE BIT, IN A RECIPE",semantic relations,0,1,0,0,0
+975,_BERRY,multiword expressions,0,0,0,0,0
+976,CLASSIC HALLOWEEN COSTUMES,associative relations,0,1,0,1,0
+977,BEE CREATIONS,semantic relations,1,0,1,0,0
+978,INTERVAL OF TIME,semantic relations,0,1,0,1,0
+979,ANIMAL HOMOPHONES,word meaning + word form,0,0,0,0,0
+980,SEEN IN A LAUNDRY ROOM,semantic relations,1,1,1,1,0
+981,SHEPHERD,semantic relations,1,0,0,0,1
+982,"WHAT ""I"" MIGHT MEAN",associative relations,0,0,0,0,0
+983,_ VALLEY,multiword expressions,0,0,0,0,0
+984,CONTACT VIA PHONE,semantic relations,1,0,1,0,1
+985,BOOK SECTIONS,semantic relations,1,1,1,0,1
+986,WEE,semantic relations,1,1,1,0,0
+987,CARTOON MICE,encyclopedic,0,0,0,0,0
+988,ACCESSORIES,semantic relations,0,1,1,0,0
+989,COMEDIAN'S OUTPUT,semantic relations,0,1,1,0,0
+990,ATTRACTION,semantic relations,0,1,1,0,0
+991,TWO LETTERS + NUMBER,word meaning + word form,0,0,0,0,0
+992,BRIEF MOMENT,semantic relations,0,0,0,1,0
+993,PRIMARY,semantic relations,0,0,0,0,0
+994,AVENUES IN N.Y.C.,encyclopedic,0,1,0,0,0
+995,_ HOUR,multiword expressions,0,0,0,0,0
+996,RESERVE FOR LATER,semantic relations,0,1,0,0,0
+997,"BOLDNESS, FIGURATIVELY",semantic relations,1,0,0,0,0
+998,USED TO BUILD A SNOWMAN,associative relations,1,0,1,0,0
+999,FUNNY    _,multiword expressions,0,0,0,0,0
+1000,FARM TOOLS,semantic relations,1,1,1,1,1
+1001,SCHEME,semantic relations,1,1,1,1,1
+1002,MAKE HAPPY,semantic relations,1,1,0,1,1
+1003,ONOMATOPOEIA,multiword expressions,0,1,1,1,1
+1004,CURMUDGEON,semantic relations,0,1,0,0,0
+1005,GET LOW,semantic relations,0,0,0,0,0
+1006,NATIONAL SYMBOLS,semantic relations,0,1,0,1,0
+1007,SWINDLER,semantic relations,0,0,0,0,0
+1008,PESTER,semantic relations,1,1,0,0,0
+1009,SPORTS VENUES,semantic relations,1,0,1,0,0
+1010,SEPARATE,semantic relations,0,1,0,0,0
+1011,SILVER    _,multiword expressions,0,1,0,0,0
+1012,GOLF COURSE PARTS,semantic relations,0,0,1,1,0
+1013,I GIVE!,semantic relations,0,0,0,0,0
+1014,INDECENT,semantic relations,0,0,0,0,0
+1015,"-OUGH"" WORDS THAT DON'T RHYME",multiword expressions,0,0,0,0,0
+1016,MURKY CONDITION,semantic relations,1,1,0,1,1
+1017,FOLLOW,semantic relations,0,1,0,0,0
+1018,PINBALL MACHINE COMPONENTS,semantic relations,0,1,0,0,0
+1019,_LAND COUNTRIES,multiword expressions,0,0,0,0,0
+1020,LUXURIOUS FABRICS,semantic relations,1,1,1,1,1
+1021,COME DOWN TO REST,semantic relations,0,0,1,0,0
+1022,SHOE PARTS,semantic relations,0,0,1,1,0
+1023,THINGS THAT ARE DELIVERED,associative relations,0,0,1,0,0
+1024,PARTS OF A RIVER,semantic relations,1,0,0,0,0
+1025,SOMETHING EASY TO DO,semantic relations,1,1,0,1,0
+1026,WRAP AROUND IN A CIRCLE,semantic relations,0,0,0,0,0
+1027,JUMP INTO THE AIR,semantic relations,1,0,0,0,0
+1028,ICE CREAM TREATS,semantic relations,1,1,0,0,0
+1029,HARDWARE FASTENERS,semantic relations,1,1,1,1,1
+1030,KINDS OF COOKING OIL,semantic relations,0,0,0,0,0
+1031,STICKY    _,multiword expressions,0,0,0,0,0
+1032,DECLINE,semantic relations,0,0,1,0,0
+1033,ABSOLUTE,semantic relations,1,0,1,0,0
+1034,EXPRESS,semantic relations,0,0,1,0,0
+1035,SUPERHERO LAST NAMES,encyclopedic,0,0,0,0,0
+1036,STATE ABBREVIATIONS,encyclopedic,0,1,0,0,0
+1037,CABLE CHANNELS,encyclopedic,0,0,0,0,0
+1038,IN THE NATO ALPHABET,encyclopedic,1,0,1,1,1
+1039,_- _,multiword expressions,0,0,0,0,0
+1040,FOUND ON SHEET MUSIC,associative relations,1,1,1,1,0
+1041,ZODIAC SYMBOLS,associative relations,0,1,0,0,1
+1042,RECORD LABELS,encyclopedic,0,1,0,0,0
+1043,ZODIAC SIGN BEGINNINGS,word meaning + word form,0,0,0,0,0
+1044,ENORMOUS,semantic relations,1,1,1,0,1
+1045,BOOKSTORE SECTIONS,associative relations,0,0,0,0,0
+1046,TV SHOWS WITH HAPPY-SOUNDING NAMES,encyclopedic,0,0,0,1,1
+1047,_ CRANE,multiword expressions,0,0,0,0,0
+1048,UNIT OF BREAD,semantic relations,1,1,1,1,1
+1049,"ASSURE, AS A WIN",semantic relations,1,1,0,0,1
+1050,SMALL IMPERFECTION,semantic relations,1,0,0,1,1
+1051,HEAD OF    _,multiword expressions,0,0,0,0,0
+1052,MONTHLY BILLS,semantic relations,0,0,0,0,0
+1053,RELATED TO SOUND/HEARING,semantic relations,1,1,1,1,0
+1054,CONNECT,semantic relations,1,1,0,1,1
+1055,"EXCITE, WITH ""UP",semantic relations,0,0,0,0,0
+1056,CONTAINERS,semantic relations,0,0,1,1,1
+1057,CIRCULAR SHAPES,semantic relations,0,1,0,1,0
+1058,RESTRICT,semantic relations,0,0,0,0,0
+1059,_ JAM,multiword expressions,0,0,0,0,0
+1060,PLACES TO SHOP,semantic relations,1,1,1,0,0
+1061,WAYS TO REMOVE HAIR,semantic relations,0,0,1,0,0
+1062,PORTION OF PROFIT,semantic relations,0,0,0,0,0
+1063,KINDS OF WRENCHES,encyclopedic,0,1,0,0,0
+1064,AVOID,semantic relations,0,1,0,0,0
+1065,HITCHCOCK MOVIES,encyclopedic,0,1,0,0,0
+1066,SIDEKICKS,encyclopedic,0,0,0,0,0
+1067,_ CHEESE,multiword expressions,0,0,0,0,0
+1068,FOOT PARTS,semantic relations,0,0,1,0,0
+1069,MUSICAL INSTRUMENTS,semantic relations,1,1,1,1,1
+1070,DOG COMMANDS,associative relations,1,0,0,1,1
+1071,BADDIE,semantic relations,0,0,0,0,0
+1072,ROOMS IN A HOUSE,semantic relations,0,1,0,1,1
+1073,LAND SURROUNDED BY WATER,semantic relations,0,0,0,0,0
+1074,FILL TO EXCESS,semantic relations,0,1,0,0,0
+1075,BEAN    _,multiword expressions,0,0,0,0,0
+1076,CARRY A TUNE,semantic relations,1,1,1,0,1
+1077,WHOLE AMOUNT,semantic relations,1,1,1,1,1
+1078,MOJITO INGREDIENTS,semantic relations,1,0,0,0,1
+1079,"THINGS THAT ARE ""STICKY",associative relations,1,1,1,1,1
+1080,MUNICIPALITIES,semantic relations,1,1,0,0,0
+1081,BLENDER BUTTONS,associative relations,0,0,0,1,0
+1082,FINANCIAL TERMS,semantic relations,1,1,1,1,0
+1083,_ LEAGUE,multiword expressions,0,1,0,1,0
+1084,SECLUDED,semantic relations,1,0,0,1,0
+1085,AGGREGATE SIZE,semantic relations,1,0,0,1,0
+1086,BODIES OF WATER,semantic relations,1,1,1,1,0
+1087,READS THE SAME ROTATED 180�,orthography,1,0,0,1,0
+1088,CRITICIZE,semantic relations,0,0,0,0,0
+1089,REALITY SHOWS,encyclopedic,0,0,0,0,0
+1090,CAR BRANDS,encyclopedic,1,1,1,0,0
+1091,_ PAD,multiword expressions,0,0,0,0,0
+1092,FOODS WITH CRUSTS,associative relations,0,0,0,1,0
+1093,"ENDING IN A SILENT ""T",orthography,0,0,0,0,0
+1094,COUNTRIES WITH RED AND WHITE FLAGS,encyclopedic,0,0,0,1,0
+1095,N.B.A. GREATS,encyclopedic,0,0,0,0,0
+1096,AREAS BETWEEN MOUNTAINS AND HILLS,semantic relations,0,0,0,0,0
+1097,EAT VORACIOUSLY,semantic relations,0,0,0,0,0
+1098,"FEATURED IN ""SNOW WHITE",encyclopedic,0,1,0,1,0
+1099,"C"" + BIRD",word meaning + word form,0,0,0,0,0
+1100,TYPES OF TEETH,semantic relations,1,1,0,0,0
+1101,FASHIONABLE,semantic relations,0,0,0,0,0
+1102,DANCE MOVES,encyclopedic,0,0,0,0,0
+1103,THINGS THAT SUCK,associative relations,0,0,0,0,0
+1104,RELIGIOUS FIGURES,semantic relations,1,1,1,1,1
+1105,PRIMATES,semantic relations,1,0,1,0,0
+1106,CHUTNEY VARIETIES,semantic relations,0,0,0,0,0
+1107,IMITATE,semantic relations,0,0,0,0,0
+1108,ONSET,semantic relations,1,1,0,0,0
+1109,VENERABLE,semantic relations,1,0,0,0,1
+1110,WALK,semantic relations,1,1,0,1,1
+1111,_ DAY HOLIDAYS,multiword expressions,0,0,0,0,0
+1112,QUICK PEEK,semantic relations,0,0,0,1,0
+1113,DECEIT,semantic relations,0,1,0,0,0
+1114,PARTS OF A MOUNTAIN,semantic relations,1,1,0,0,0
+1115,HOMOPHONES,phonology,0,1,0,0,0
+1116,BODYWEIGHT EXERCISES,semantic relations,1,1,1,1,1
+1117,EMAIL SIGN-OFFS,semantic relations,1,1,0,0,1
+1118,"M.L.B. TEAMS, FOR SHORT",encyclopedic,1,1,1,0,1
+1119,ELIZABETHS (AND ONE ELISABETH),encyclopedic,0,1,0,0,0
+1120,BALDERDASH,semantic relations,0,0,0,0,0
+1121,HELM,semantic relations,0,1,1,0,0
+1122,SINGLE/PLURAL ANIMALS,word meaning + word form,0,0,0,0,0
+1123,GREAT    _,multiword expressions,0,0,0,0,0
+1124,GROSS!,semantic relations,1,1,1,0,1
+1125,MAGAZINES,encyclopedic,0,0,0,0,0
+1126,"YES"" IN DIFFERENT LANGUAGES",encyclopedic,0,0,0,0,0
+1127,HOMOPHONES,phonology,0,0,0,0,0
+1128,BASIC EMOTIONS,semantic relations,1,1,1,0,0
+1129,BIT OF VOCAL FANFARE,semantic relations,0,1,0,0,0
+1130,OBTAIN,semantic relations,0,1,0,0,0
+1131,_ ANT,multiword expressions,0,0,0,0,0
+1132,UNIT OF LANGUAGE,semantic relations,1,1,0,0,0
+1133,TRADEMARK,semantic relations,1,1,0,1,0
+1134,FUNNY PERSON,semantic relations,0,0,0,1,0
+1135,THINGS WITH LEAVES,associative relations,0,0,0,0,0
+1136,PRESIDENTS,encyclopedic,1,0,1,0,0
+1137,SPORTS PROFESSIONALS,semantic relations,0,0,0,0,0
+1138,CAR COMPANIES,encyclopedic,0,0,0,0,0
+1139,COMMON PREFIXES,semantic relations,0,0,0,0,0
+1140,SPARSE/LACKING,semantic relations,1,0,0,0,0
+1141,FUN TIME,semantic relations,0,0,0,0,0
+1142,FILMMAKING EQUIPMENT,semantic relations,0,0,1,0,1
+1143,GET A    _!,multiword expressions,0,0,0,0,0
+1144,SPICES,semantic relations,1,1,1,0,0
+1145,INTELLIGENT,semantic relations,1,1,1,1,1
+1146,DEODORANTS,encyclopedic,1,1,0,0,0
+1147,MEDIEVAL WEAPONS,semantic relations,1,1,0,0,0
+1148,DOCTORS' ORDERS,associative relations,0,1,0,0,0
+1149,EMAIL ACTIONS,semantic relations,1,0,1,0,1
+1150,PODCASTS,encyclopedic,1,0,0,0,0
+1151,_ COMEDY,multiword expressions,0,0,0,0,0
+1152,BROUGHT TO THE BEACH,associative relations,1,1,0,1,0
+1153,TYPES OF FRENCH FRIES,semantic relations,0,0,0,0,0
+1154,EQUIVOCATE,semantic relations,0,0,0,0,0
+1155,SECOND WORDS OF VODKA COCKTAILS,encyclopedic,0,0,0,0,0
+1156,DIGITAL NOTIFICATION SOUNDS,word meaning + word form,1,0,0,0,0
+1157,TATTLE,semantic relations,1,0,0,0,0
+1158,GROUP WITHIN A GROUP,semantic relations,1,0,1,1,1
+1159,MICROSOFT PRODUCTS,encyclopedic,1,0,0,0,0
+1160,INVESTMENTS,semantic relations,0,0,0,0,0
+1161,TERMS FOR RECORDS,semantic relations,0,0,0,0,1
+1162,CUBE-SHAPED,associative relations,0,0,0,0,0
+1163,"WORDS THAT GO WITH ""BONE",associative relations,0,0,0,0,0
+1164,UNCHANGING,semantic relations,1,0,1,0,1
+1165,"LONG, SHARP OBJECTS",semantic relations,1,0,0,0,0
+1166,MUSIC PUBLICATIONS,encyclopedic,0,0,1,0,0
+1167,WORDS WITH NUMERICAL PREFIXES,word meaning + word form,0,0,1,0,0
+1168,WAYS TO PREPARE,semantic relations,0,0,0,0,0
+1169,HOLLOW CYLINDERS,semantic relations,0,1,0,0,0
+1170,CLUE WEAPONS,encyclopedic,0,0,0,0,0
+1171,"E-"" THINGS",word meaning + word form,0,0,0,0,0
+1172,NEVERTHELESS,semantic relations,1,1,0,0,0
+1173,REPEATED WORDS IN EXPRESSIONS,multiword expressions,0,0,0,0,0
+1174,WORDS ABBREVIATED WITH LETTERS,phonology,0,0,0,0,0
+1175,ROYAL    _,multiword expressions,0,0,0,0,0
+1176,IGNITE,semantic relations,1,0,0,0,0
+1177,INFORMATION,semantic relations,0,1,0,1,0
+1178,SMALL WOODED AREA,semantic relations,0,0,0,0,0
+1179,THINGS WITH CORES,associative relations,0,0,0,0,0
+1180,SOCIAL MEDIA ACTIONS,semantic relations,0,1,1,1,1
+1181,USE A NEEDLE AND THREAD,semantic relations,1,1,1,1,1
+1182,SHOWS SET IN HOSPITALS,encyclopedic,1,1,1,0,0
+1183,EXPRESSIONS OF HESITATION,semantic relations,0,0,0,1,0
+1184,FLOWERS,semantic relations,0,0,1,0,1
+1185,SEEN ON A FARM,associative relations,0,1,1,0,1
+1186,HORROR DIRECTORS,encyclopedic,0,0,0,0,0
+1187,_ JACKET,multiword expressions,0,0,0,0,0
+1188,BIRD FEATURES,semantic relations,1,1,1,1,1
+1189,BLINK OF AN EYE,semantic relations,0,0,0,0,0
+1190,MAHJONG TILES,encyclopedic,0,0,0,0,0
+1191,_ BUTTON,multiword expressions,0,0,0,0,0
+1192,MISHMASH,semantic relations,1,1,1,0,0
+1193,GO UP AGAINST,semantic relations,1,1,0,0,1
+1194,GROUP OF OFFSPRING,semantic relations,1,0,0,0,0
+1195,GUITAR PARTS,semantic relations,1,1,0,0,0
+1196,SENSES,semantic relations,0,1,1,1,1
+1197,APPEARANCE,semantic relations,0,0,0,0,0
+1198,AGREE!,semantic relations,1,0,0,1,0
+1199,_ MOON,multiword expressions,0,0,0,0,0
+1200,SHAMELESS BOLDNESS,semantic relations,0,0,0,0,0
+1201,METAL ELEMENTS,semantic relations,0,0,0,1,1
+1202,W.N.B.A. TEAMS,encyclopedic,0,0,0,0,0
+1203,THINGS WITH TRUNKS,associative relations,0,0,0,0,0
+1204,INCREASE,semantic relations,0,1,1,1,1
+1205,"EXCELLENT, IN OLD SLANG",semantic relations,0,1,1,1,0
+1206,FINE BUBBLES,semantic relations,0,0,0,1,0
+1207,SPHERICAL THINGS,associative relations,0,0,0,1,0
+1208,GRAMMAR TENSE TERMS,semantic relations,1,0,0,1,0
+1209,GRACIOUS ME!,semantic relations,1,0,1,0,0
+1210,12 DAYS OF CHRISTMAS,encyclopedic,0,0,0,0,0
+1211,_ SYRUP,multiword expressions,0,0,0,0,0
+1212,ANIMAL GROUPS,semantic relations,1,0,0,1,0
+1213,SMALL OPENING,semantic relations,1,0,0,1,0
+1214,PARADIGMATIC,semantic relations,0,0,0,0,0
+1215,RHYMING COMPOUND WORDS,phonology,0,0,0,0,0
+1216,CELL PHONE MODES,semantic relations,0,0,0,0,0
+1217,IMPEL,semantic relations,0,0,0,1,0
+1218,ROMANTIC BEGINNINGS,semantic relations,0,0,0,0,0
+1219,HARD    _,multiword expressions,0,0,0,0,0
+1220,RELAX,semantic relations,0,0,0,0,0
+1221,CATCHY SONG,semantic relations,0,1,0,0,0
+1222,BRITISH CUISINE,encyclopedic,0,0,0,0,0
+1223,STICKY SITUATION,semantic relations,0,0,0,0,0
+1224,TABLEWARE,semantic relations,0,0,1,0,0
+1225,NONSENSE,semantic relations,0,1,0,0,0
+1226,BRA PARTS,semantic relations,0,0,0,0,0
+1227,ACRONYMS,semantic relations,1,1,0,0,0
+1228,ANIMAL HOMES,semantic relations,0,1,0,0,0
+1229,VIRTUAL SPACES,encyclopedic,1,1,0,0,0
+1230,EQUITABLE,semantic relations,0,1,1,1,0
+1231,_ BURGER,multiword expressions,0,0,0,0,0
+1232,FALSIFY,semantic relations,0,0,0,0,0
+1233,MILD OATHS,semantic relations,0,1,0,0,0
+1234,TV SHOWS,encyclopedic,0,0,0,0,0
+1235,FAST    _,multiword expressions,0,0,0,0,0
+1236,SOMETHING TIRESOME,semantic relations,0,0,0,0,0
+1237,BIT OF WIND,semantic relations,1,1,1,0,1
+1238,PIQUANCY,semantic relations,0,0,0,0,0
+1239,SINGULAR OF THINGS SEEN IN PAIRS,associative relations,0,0,0,0,0
+1240,TAUNTS,semantic relations,1,1,0,0,0
+1241,FAILURE,semantic relations,1,1,0,0,0
+1242,RUDELY BREAK OFF CONTACT,semantic relations,1,1,0,0,0
+1243,ROCK    _,multiword expressions,0,1,0,0,0
+1244,DAYS OF THE WEEK,semantic relations,0,0,0,0,0
+1245,GO BAD,semantic relations,0,0,0,1,0
+1246,"THE ADDAMS FAMILY"" CHARACTERS",encyclopedic,0,0,0,0,0
+1247,FAT    _,multiword expressions,0,0,0,0,0
+1248,TOOLS,semantic relations,0,0,0,0,0
+1249,PULL,semantic relations,0,0,0,1,1
+1250,SHORTCUT COMMANDS,encyclopedic,1,1,0,0,0
+1251,TITLE MOVIE ANIMALS,encyclopedic,0,0,0,0,0
+1252,BUTT,semantic relations,1,1,0,0,0
+1253,ROTARY PHONE PARTS,semantic relations,0,1,1,0,1
+1254,SLANG FOR HOME,semantic relations,0,1,0,0,1
+1255,PLUNDER,semantic relations,1,1,1,1,1
+1256,BEANS,semantic relations,0,1,1,1,1
+1257,"CITIES BEGINNING WITH ""L",word meaning + word form,0,1,1,0,0
+1258,POETRY TERMS,semantic relations,0,1,1,0,0
+1259,"THE(E)    _"" RAPPERS",multiword expressions,0,1,0,0,0
+1260,CONCEAL,semantic relations,0,0,0,0,0
+1261,PARTS OF A WATCH,semantic relations,0,0,0,0,0
+1262,WONDER WOMAN'S COSTUME,encyclopedic,0,0,0,0,0
+1263,THINGS THAT CAN RUN,associative relations,0,0,0,0,0
+1264,FILM SET DIRECTIVES,semantic relations,1,0,1,1,0
+1265,CONDITIONAL WORDS,semantic relations,1,1,1,0,1
+1266,FOREMOST,semantic relations,0,0,0,0,0
+1267,_ PAPER,multiword expressions,0,0,0,0,0
+1268,ORIGIN,semantic relations,0,0,0,0,0
+1269,BIBLE BOOKS,semantic relations,0,0,0,0,0
+1270,N.H.L. TEAMS,encyclopedic,0,1,0,0,0
+1271,POWER    _,multiword expressions,0,0,0,0,0
+1272,CROPS,semantic relations,0,1,0,0,0
+1273,SLANG FOR HEAD,semantic relations,0,0,0,0,0
+1274,SONG,semantic relations,0,0,0,0,0
+1275,THINGS THAT WHISTLE,associative relations,0,1,0,0,0
+1276,CELEBRATORY OCCASIONS,semantic relations,0,0,0,1,0
+1277,PHONE CONNECTIVITY,semantic relations,0,0,0,0,0
+1278,CITIES AND TOWNS IN ENGLAND,encyclopedic,0,0,0,0,0
+1279,_ OPERA,multiword expressions,0,0,0,0,0
+1280,RHYMES,phonology,0,0,0,0,0
+1281,NATURAL FEATURES,semantic relations,1,0,0,0,0
+1282,PAST TENSE VERBS,semantic relations,0,0,0,0,0
+1283,PALINDROMES,semantic relations,0,0,0,0,0
+1284,"LAUGHTER, IN A TEXT",semantic relations,0,1,0,0,0
+1285,ART MOVEMENTS,encyclopedic,1,1,1,1,1
+1286,"PETER PAN"" CHARACTERS",encyclopedic,1,0,0,0,0
+1287,LADY    _,multiword expressions,0,0,0,0,0
+1288,DIVISION,semantic relations,0,0,0,0,0
+1289,IMPERIAL UNITS,encyclopedic,1,1,0,0,0
+1290,M.L.B. TEAM MEMBER,encyclopedic,0,0,0,0,0
+1291,INSECT HOMOPHONES,word meaning + word form,0,0,0,0,0
+1292,CHRISTMAS-RELATED,associative relations,0,1,0,0,0
+1293,MAKE PUBLIC,semantic relations,1,1,1,0,0
+1294,TORUS-SHAPED FOOD,semantic relations,1,1,1,0,1
+1295,THINGS WITH STRIPES,associative relations,0,1,0,0,0
+1296,LONG-HAIRED ANIMALS,semantic relations,0,0,0,0,1
+1297,PRATTLE ON,semantic relations,1,1,0,0,0
+1298,SNEAKER BRANDS,encyclopedic,0,1,1,0,1
+1299,_ BALLOON,multiword expressions,0,0,0,0,0
+1300,WAYS TO SHOW RESPECT,semantic relations,1,0,0,0,0
+1301,IPHONE APPS,encyclopedic,0,0,0,0,0
+1302,ANIMAL COVERINGS,semantic relations,0,0,0,0,0
+1303,POINTERS,semantic relations,0,0,0,1,0
+1304,COFFEE COUNTER ITEMS,associative relations,0,0,0,0,0
+1305,NOCTURNAL ANIMALS,semantic relations,0,1,1,0,0
+1306,THINGS THAT ARE RED,associative relations,0,1,0,1,0
+1307,_ FIGURE,multiword expressions,0,1,0,0,0
+1308,PLAYING CARD SUITS,encyclopedic,1,1,1,1,0
+1309,GOLF CLUBS,encyclopedic,1,0,0,1,0
+1310,YEARN,semantic relations,0,0,0,0,0
+1311,INSUFFICIENT,semantic relations,0,0,0,1,0
+1312,VERY IMPORTANT,semantic relations,1,1,0,1,1
+1313,RECYCLNG CATEGORIES,semantic relations,0,0,0,0,0
+1314,HUDSONS,encyclopedic,0,0,0,0,0
+1315,"WHAT ""BEAT"" MAY MEAN",associative relations,0,1,0,0,0
+1316,REFLECT LIGHT,semantic relations,1,1,1,1,1
+1317,WAYS TO GATHER FOOD,semantic relations,1,1,0,1,1
+1318,RAP SUBGENRES,encyclopedic,0,0,1,0,0
+1319,LIGHT    _,multiword expressions,0,0,0,0,0
+1320,PRODUCED BY TREES,associative relations,0,1,1,0,0
+1321,CANDY STORE TREATS,semantic relations,1,1,1,0,0
+1322,TARGET OF A SCHEME,semantic relations,0,1,1,1,1
+1323,THINGS WITH EYE(S),associative relations,0,0,0,0,0
+1324,SNAKES,semantic relations,1,1,1,1,1
+1325,LINGERIE,semantic relations,0,1,1,0,0
+1326,SUMMARY,semantic relations,1,1,1,0,0
+1327,FULL    _,multiword expressions,0,1,0,0,0
+1328,BRIDAL ACCESSORIES,associative relations,1,0,0,0,0
+1329,"C"" WORDS FOR ""ENVELOP",word meaning + word form,0,0,0,0,0
+1330,JACKS,encyclopedic,0,0,0,0,0
+1331,SOCIAL MEDIA APP ENDINGS,word meaning + word form,0,0,0,0,0
+1332,KITCHEN UTENSILS,semantic relations,0,0,0,1,0
+1333,VERTEBRATES,semantic relations,0,0,0,0,0
+1334,SUPER MARIO-RELATED,encyclopedic,0,0,0,0,0
+1335,SITCOM FAMILIES,encyclopedic,0,0,0,0,0
+1336,ROBUST,semantic relations,0,1,0,0,1
+1337,DECLINE,semantic relations,0,0,0,0,0
+1338,WATER SOURCES,semantic relations,1,0,0,0,0
+1339,WOMEN SINGERS,encyclopedic,0,0,0,0,0
+1340,SODA FOUNTAIN ORDERS,associative relations,0,1,0,0,0
+1341,"SET, AS PLANS",semantic relations,0,0,0,1,0
+1342,M. NIGHT SHYAMALAN MOVIES,encyclopedic,0,0,0,0,0
+1343,_BOARD,multiword expressions,0,0,0,0,0
+1344,RESTAURANT WORKERS,semantic relations,1,1,1,1,0
+1345,MOTOR VEHICLES,semantic relations,1,0,0,1,0
+1346,MUPPETS,encyclopedic,0,0,0,0,0
+1347,HAND- AND FOOT-RELATED SLANG,semantic relations,0,0,0,0,0
+1348,REPLACEMENT,semantic relations,1,1,0,0,1
+1349,BOWLING,semantic relations,1,0,0,1,0
+1350,COMMON MERCH ITEMS,associative relations,1,0,0,0,0
+1351,NUMBER HOMOPHONES,phonology,1,0,0,0,0
+1352,WEB BROWSER-RELATED,encyclopedic,1,1,0,0,0
+1353,SHIRT FEATURES,semantic relations,1,1,0,1,0
+1354,CONNECTION,semantic relations,1,1,1,1,0
+1355,DIRTY    _,multiword expressions,1,0,0,0,0
+1356,INTELLIGENT,semantic relations,0,0,0,0,0
+1357,AIRLINES,encyclopedic,0,0,0,0,0
+1358,WESTERN TROPES,encyclopedic,0,0,0,1,0
+1359,TV SHOW TITLE SURNAMES,encyclopedic,0,0,0,0,0
+1360,FRUITS,semantic relations,1,0,1,0,1
+1361,LUXURIOUS,semantic relations,1,1,1,1,0
+1362,BEST ACTRESS OSCAR WINNERS,encyclopedic,0,0,0,0,0
+1363,"WHAT ""GREEN"" MIGHT MEAN",semantic relations,0,0,0,0,0
+1364,FAIRY TALE FIGURES,associative relations,1,1,0,0,1
+1365,CHESS TERMS,encyclopedic,1,1,1,1,1
+1366,"PEANUTS"" CHARACTERS",encyclopedic,0,0,0,0,0
+1367,I LOVE    _,multiword expressions,0,0,0,0,0
+1368,BOVIDS,semantic relations,0,0,0,0,0
+1369,EMIT LIGHT,semantic relations,1,1,1,1,1
+1370,GYMNASTICS APPARATUS,encyclopedic,0,0,0,0,0
+1371,WORDS THAT SOUND LIKE TWO LETTERS,phonology,0,0,0,0,0
+1372,EYE PARTS,semantic relations,1,1,1,1,1
+1373,COUNTERFEIT,semantic relations,1,1,1,1,1
+1374,RADIO LINGO,encyclopedic,0,0,0,0,0
+1375,SONGS THAT ARE NAMES,encyclopedic,0,0,0,0,0
+1376,SKEDADDLE!,semantic relations,0,1,1,1,0
+1377,PRONOUNS,semantic relations,1,1,1,0,1
+1378,ANAGRAMS,orthography,0,0,0,0,0
+1379,_ BABY,multiword expressions,0,0,0,0,0
+1380,HOT DRINKS,semantic relations,1,1,1,0,1
+1381,ANIMAL SOUNDS,semantic relations,0,0,0,0,0
+1382,TREE FEATURES,semantic relations,0,0,0,1,0
+1383,INSIDE INFO,semantic relations,0,0,0,0,0
+1384,HALLOWEEN DECORATIONS,associative relations,0,0,1,0,0
+1385,TV SHOWS,encyclopedic,0,0,0,0,0
+1386,SLOT MACHINE SYMBOLS,encyclopedic,0,0,1,0,0
+1387,NUMBERS IN BOOK TITLES,encyclopedic,0,0,0,0,0
+1388,AMAZON ANIMALS,encyclopedic,0,1,1,0,0
+1389,LOWEST POINT,semantic relations,0,0,0,0,0
+1390,MUSICALS,encyclopedic,0,0,0,0,0
+1391,SEA    _,multiword expressions,0,0,0,0,0
+1392,BASEBALL CALLS,semantic relations,0,0,0,1,0
+1393,HEAT SOURCES,semantic relations,1,1,1,1,1
+1394,FISH THAT ARE VERBS,word meaning + word form,0,0,0,0,0
+1395,"SILENT ""L",phonology,0,0,0,0,0
+1396,INHERENT NATURE,semantic relations,0,1,0,0,0
+1397,FERMENETED ALCOHOLIC BEVERAGES,semantic relations,0,0,0,0,0
+1398,PIXAR MOVIES,encyclopedic,0,1,0,0,0
+1399,_ TAPE,multiword expressions,0,0,0,0,0
+1400,ROCKY HORROR PICTURE SHOW,encyclopedic,0,1,0,0,0
+1401,WHO FRAMED ROGER RABBIT,encyclopedic,0,0,0,0,0
+1402,WHEN HARRY MET SALLY,encyclopedic,0,0,0,0,0
+1403,MAD MAX FURY ROAD,encyclopedic,0,0,0,0,0
+1404,CREATURES IN FOLKLORE,encyclopedic,0,0,0,1,1
+1405,FLOWER PARTS,semantic relations,1,1,0,1,0
+1406,ONE INVOLVED IN ESPIONAGE,semantic relations,1,0,0,0,0
+1407,CHINESE ZODIAC ANIMALS,encyclopedic,0,0,0,0,1
+1408,INFORMATION DISPLAYS,semantic relations,1,1,0,0,1
+1409,ADDITIONAL BENEFIT,semantic relations,0,0,0,0,0
+1410,THANKSGIVING FOOD,semantic relations,0,0,0,1,0
+1411,SONG TITLES WITH PARENTHESES,encyclopedic,0,0,0,0,0
+1412,PAINTING ACCESSORIES,associative relations,1,1,1,0,1
+1413,AUTOMATIC TRANSMISSION SETTINGS,encyclopedic,0,0,0,0,0
+1414,THINGS WITH TEETH,associative relations,0,0,0,0,0
+1415,_ CHAIR,multiword expressions,0,0,0,0,0
+1416,FEMALE ANIMALS,semantic relations,1,0,0,1,0
+1417,PRONOUNS,semantic relations,0,0,0,0,0
+1418,ROMAN NUMERALS,semantic relations,0,0,0,0,0
+1419,HOMOPHONES,phonology,1,0,0,0,0
+1420,AU NATUREL,semantic relations,1,1,1,1,1
+1421,BAKED GOODS,semantic relations,1,1,1,0,1
+1422,AMERICAN FOOTBALL ACTIONS,encyclopedic,1,1,1,0,1
+1423,MANICURE STEPS,semantic relations,0,0,0,0,0
+1424,DRINK VESSELS,semantic relations,1,0,1,1,1
+1425,WOODWINDS,semantic relations,0,0,0,0,0
+1426,AMERICAN POETS,encyclopedic,0,0,0,0,0
+1427,CONSECUTIVE DOUBLE LETTERS,orthography,0,0,0,0,0
+1428,APPETIZER UNIT,semantic relations,0,0,0,0,0
+1429,RESPONSE TO A CORRECT ANSWER,semantic relations,1,1,1,0,0
+1430,MAR,semantic relations,1,1,0,0,0
+1431,_JACK,multiword expressions,0,0,0,0,0
+1432,PLAYGROUND FIXTURES,semantic relations,0,1,1,0,1
+1433,INFLUENCE,semantic relations,0,0,0,0,0
+1434,EGYPTIAN SYMBOLS,encyclopedic,0,0,0,0,1
+1435,FONTS,encyclopedic,0,0,0,0,0
+1436,DEPART QUICKLY,semantic relations,0,0,0,0,0
+1437,ANIMALS THAT END WITH X,semantic relations,1,1,0,0,1
+1438,SHADES OF BLACK,semantic relations,1,0,1,0,0
+1439,WORDS BEFORE DAYS OF THE WEEK,associative relations,0,0,0,0,0
+1440,STATES OF ELATION,semantic relations,1,1,1,1,1
+1441,SCAM,semantic relations,1,1,1,1,1
+1442,GREETING GESTURES,semantic relations,1,1,1,0,1
+1443,_ LIST,multiword expressions,0,1,0,1,0
+1444,POULTRY CUTS,semantic relations,0,1,0,0,0
+1445,GOLF TERMS,encyclopedic,1,1,0,0,0
+1446,DRUM SET COMPONENTS,semantic relations,0,1,0,0,0
+1447,"ASSOCIATED WITH ""CRAWL",associative relations,0,0,0,0,0
+1448,BOARD GAMES,encyclopedic,0,0,0,0,0
+1449,NEWSPAPER SECTIONS,semantic relations,0,0,0,0,0
+1450,FIGURES IN GREEK MYTH,encyclopedic,0,0,0,0,0
+1451,ADJECTIVES IN RAPPERS' NAMES,encyclopedic,0,0,0,0,0
+1452,SOCIAL GATHERING,semantic relations,1,1,1,1,1
+1453,"PINOCCHIO"" FIGURES",encyclopedic,0,0,0,0,0
+1454,FOUND IN A KITCHEN,associative relations,1,0,0,1,0
+1455,EASTER    _,multiword expressions,0,0,0,0,0
+1456,EXTINCT ANIMALS,encyclopedic,1,1,1,0,1
+1457,FAILURES,semantic relations,1,1,0,0,0
+1458,SLANG FOR CLOTHES,semantic relations,1,1,0,1,1
+1459,KISS,semantic relations,0,1,1,1,0
+1460,FACIAL HAIR,semantic relations,0,1,1,1,1
+1461,BIKE PARTS,semantic relations,0,1,1,1,1
+1462,PURSUE,semantic relations,0,0,0,0,0
+1463,THINGS THAT ARE CAST,associative relations,0,0,0,0,0
+1464,PERFORMING ARTISTS,semantic relations,0,1,1,1,1
+1465,SANTA'S REINDEER,encyclopedic,0,1,0,0,0
+1466,SEEN ON VALENTINE'S DAY,associative relations,1,1,0,0,0
+1467,"BAD    _"" MOVIES",multiword expressions,0,0,0,0,0
+1468,U.S. MOUNTAIN STATES,encyclopedic,0,0,1,0,0
+1469,SODA BRANDS,encyclopedic,1,1,1,0,0
+1470,CLASSIC ROCK BANDS,encyclopedic,1,0,0,0,0
+1471,TONY    _,multiword expressions,0,0,0,0,0
+1472,CAMPING SUPPLIES,semantic relations,0,0,1,0,0
+1473,INSULT,semantic relations,0,1,0,1,0
+1474,TINY,semantic relations,0,1,0,1,0
+1475,HAPPY    _,multiword expressions,0,0,0,0,0
+1476,FRIEND,semantic relations,1,1,1,1,1
+1477,COOKWEAR,semantic relations,0,1,1,1,1
+1478,SHOES,semantic relations,1,1,1,0,0
+1479,SLANG FOR CANNABIS,semantic relations,0,1,1,0,0
+1480,UNITS OF VOLUME,semantic relations,1,1,0,0,1
+1481,EXTREMELY,semantic relations,0,0,1,0,0
+1482,WORLD CURRENCIES,encyclopedic,0,0,0,0,0
+1483,_ CAKE,multiword expressions,0,0,0,0,0
+1484,DESSERTS,semantic relations,0,0,1,0,0
+1485,OCCUPATIONAL SURNAMES,encyclopedic,0,0,1,0,0
+1486,ALTER DECEPTIVELY,semantic relations,0,1,0,0,0
+1487,SQUARE    _,multiword expressions,0,1,0,0,0
+1488,TIME PERIODS,semantic relations,0,0,0,1,0
+1489,BREAKFAST FOODS,semantic relations,1,0,1,0,0
+1490,PAINTERS,encyclopedic,0,0,0,0,0
+1491,ONE IN A DOZEN,associative relations,0,0,0,1,0
+1492,STATES OF MATTER,semantic relations,1,1,1,1,1
+1493,ENERGY,semantic relations,1,1,0,0,0
+1494,CLASSICAL ELEMENTS,semantic relations,1,1,0,1,0
+1495,THINGS WITH RINGS,associative relations,0,1,0,0,0
+1496,CLASSIC DOG NAMES,associative relations,0,0,0,0,0
+1497,PERCEIVE,semantic relations,0,0,0,0,0
+1498,FISHING TERMS,semantic relations,0,0,0,0,0
+1499,T- _,multiword expressions,0,0,0,0,0
+1500,FASTENING VERBS,semantic relations,1,1,1,1,0
+1501,SLANG FOR ZERO,semantic relations,0,0,0,0,0
+1502,GYM EXERCISES,semantic relations,0,0,0,0,0
+1503,CAPTAINS,encyclopedic,0,0,0,0,0
+1504,STATE ABBREVIATIONS,encyclopedic,0,0,0,0,0
+1505,MUSICAL NOTES,encyclopedic,1,1,0,0,0
+1506,GREEK LETTERS,encyclopedic,1,1,1,0,0
+1507,PERIODIC TABLE SYMBOLS,encyclopedic,0,0,0,0,0
+1508,THEORETICAL PHYSICISTS,encyclopedic,1,1,1,1,1
+1509,TALENT,semantic relations,1,1,0,1,1
+1510,AUSTRALIAN TERMS,encyclopedic,0,1,1,0,0
+1511,_ POINT,multiword expressions,0,0,0,0,0
+1512,HORROR FRANCHISES,encyclopedic,1,1,1,0,0
+1513,SPORTS VENUES,semantic relations,0,0,1,1,0
+1514,MAKE HAPPY,semantic relations,1,1,1,0,1
+1515,JEWELRY,semantic relations,1,0,1,1,1
+1516,UNSPECIFIED QUANTITIES,semantic relations,0,1,1,0,1
+1517,NEWSPAPERS,encyclopedic,0,0,1,0,0
+1518,CELESTIAL OBJECTS,semantic relations,1,1,1,0,1
+1519,FRUIT HOMOPHONES,word meaning + word form,0,0,1,0,0
+1520,ARACHNIDS,semantic relations,0,1,0,0,0
+1521,FISH,semantic relations,0,0,0,0,0
+1522,SUPERHEROES,encyclopedic,0,0,0,0,0
+1523,MTV SHOWS,encyclopedic,0,0,0,0,0
+1524,MOVIE GENRES,semantic relations,0,1,1,1,1
+1525,PATTERNS,semantic relations,0,1,1,0,1
+1526,SYNONYMS FOR FALSEHOOD,semantic relations,0,0,0,0,0
+1527,CANDY PIECES,encyclopedic,0,0,0,0,0
+1528,CLASSIC ARCADE GAMES,encyclopedic,1,1,1,1,0
+1529,DANCES,semantic relations,1,1,1,0,1
+1530,TOUCHSCREEN GESTURES,semantic relations,0,1,1,0,0
+1531,RAPPERS MINUS NUMBERS,word meaning + word form,0,0,1,0,0
+1532,CLASSIC TOYS,semantic relations,1,0,1,0,1
+1533,WORDS WITH THREE G'S,orthography,0,0,0,0,0
+1534,SHAKESPEARE CHARACTERS,encyclopedic,1,0,1,0,0
+1535,_ STICK,multiword expressions,0,0,0,0,0
+1536,PLACES FOR WORSHIP,semantic relations,1,0,0,0,0
+1537,CARTOON CATS,encyclopedic,1,1,1,1,1
+1538,PRESIDENTIAL FIRST NAMES,encyclopedic,1,0,0,0,0
+1539,_ ROAD,multiword expressions,0,1,0,0,0
+1540,ANIMAL GROUP NAMES,semantic relations,1,0,1,1,1
+1541,STONED,semantic relations,0,1,0,1,0
+1542,AP CLASSES,word meaning + word form,0,1,0,0,0
+1543,TAXONOMY RANKS,semantic relations,0,0,0,0,0
+1544,COMPUTER EQUIPMENT,semantic relations,1,1,0,1,0
+1545,RODENTS,semantic relations,1,1,0,1,1
+1546,MUSICAL INSTRUMENTS,semantic relations,1,1,1,0,0
+1547,SYNONYMS FOR COMPLAIN,semantic relations,1,1,1,1,0
+1548,LONG SANDWICHES,semantic relations,1,1,1,1,1
+1549,DATING APPS,semantic relations,1,1,0,1,0
+1550,VAMPIRE MOVIES,encyclopedic,0,1,1,1,1
+1551,ADAMS,encyclopedic,0,0,0,0,0
+1552,UNITS OF LENGTH,semantic relations,0,1,1,1,0
+1553,TYPES OF PAINT,semantic relations,1,1,1,1,1
+1554,DEEP-FRIED FOOD,semantic relations,1,1,1,1,1
+1555,STARTS OF U.S. COINS,word meaning + word form,0,0,0,0,0
+1556,RELATIVES,semantic relations,0,0,1,0,0
+1557,SYNONYMS FOR OFFBEAT,semantic relations,1,1,1,1,0
+1558,DISNEY DUCKS,encyclopedic,0,1,1,1,0
+1559,_ CLOCK,multiword expressions,0,0,1,0,0
+1560,FABRICS,semantic relations,1,1,1,1,1
+1561,APPARITIONS,semantic relations,1,0,0,0,1
+1562,SYNONYMS FOR BOTHER,semantic relations,0,0,0,0,0
+1563,DISNEY CHARACTERS,encyclopedic,0,0,0,0,0
+1564,BIOMES,semantic relations,1,1,1,1,1
+1565,LIZARDS,semantic relations,0,0,1,0,0
+1566,YOGA POSES,associative relations,0,1,0,0,0
+1567,DANCES WHEN DOUBLED,word meaning + word form,0,0,0,0,0
+1568,MOVIE TITLE CITIES,encyclopedic,0,1,1,1,0
+1569,FASHION MAGAZINES,encyclopedic,1,1,0,0,0
+1570,STORMS,semantic relations,0,0,0,0,0
+1571,COCKTAILS,encyclopedic,0,0,0,0,0
+1572,MODES OF TRANSPORTATION,semantic relations,1,1,0,1,1
+1573,NBA PLAYERS,encyclopedic,0,0,0,0,0
+1574,FAST FOOD CHAINS,encyclopedic,0,1,0,0,0
+1575,BAND NAMES MINUS COLORS,word meaning + word form,0,0,0,0,0
+1576,STATES OF MATTER,semantic relations,1,1,1,1,1
+1577,EDIT MENU COMMANDS,semantic relations,0,1,1,0,1
+1578,DEFEAT BADLY,semantic relations,0,0,0,0,0
+1579,ANAGRAMS,orthography,0,0,0,0,0
+1580,SYNONYMS FOR ANGRY,semantic relations,1,1,0,1,0
+1581,THINGS THAT ARE YELLOW,associative relations,0,1,0,0,0
+1582,MARINE BIRDS,semantic relations,0,1,0,1,1
+1583,_ BOYS,multiword expressions,0,0,0,0,0
+1584,SCUBA GEAR,semantic relations,1,1,0,0,1
+1585,PUNCTUATION MARKS,semantic relations,0,1,1,0,1
+1586,RUN QUICKLY,semantic relations,1,1,1,1,1
+1587,_ CAT,multiword expressions,0,1,0,1,1
+1588,BOTTLED WATER BRANDS,encyclopedic,1,1,0,1,1
+1589,SLANG FOR COFFEE,semantic relations,1,1,1,0,0
+1590,ISLAND COUNTRIES,encyclopedic,1,1,0,0,1
+1591,CEREAL MASCOTS,encyclopedic,0,0,0,0,0
+1592,WOODWINDS,semantic relations,1,1,1,1,1
+1593,COVERINGS,semantic relations,0,1,0,1,0
+1594,SUNGLASSES,semantic relations,1,1,0,1,0
+1595,SEALS,semantic relations,0,0,0,0,0
+1596,TIMEKEEPING DEVICES,semantic relations,1,1,1,1,1
+1597,HAIRSTYLES,semantic relations,1,1,0,1,0
+1598,UNITS OF MEASURE,semantic relations,1,1,1,1,0
+1599,DR.    _,multiword expressions,0,0,0,0,0
+1600,TREES,semantic relations,0,0,0,0,0
+1601,LAND FORMATIONS,semantic relations,0,0,0,1,1
+1602,BAGEL FLAVORS,semantic relations,0,0,0,0,0
+1603,STREETS ON SCREEN,encyclopedic,0,0,0,0,0
+1604,MARINE MAMMALS,semantic relations,0,1,0,0,0
+1605,BIKE PARTS,semantic relations,1,0,0,0,0
+1606,SYNONYMS FOR SELL,semantic relations,0,1,0,0,0
+1607,"COUNTRIES WHEN ""A"" IS ADDED",word meaning + word form,0,0,0,0,0
+1608,MARSUPIALS,semantic relations,1,1,1,1,1
+1609,CHOCOLATE BARS,encyclopedic,0,1,0,0,0
+1610,SLANG FOR MONEY,semantic relations,0,1,0,0,0
+1611,NAKED    _,multiword expressions,0,1,0,0,0
+1612,U.S. COINS,semantic relations,1,1,1,0,1
+1613,METAL ELEMENTS,semantic relations,1,1,1,0,1
+1614,LUCKY CHARMS MARSHMALLOWS,encyclopedic,1,1,1,0,1
+1615,_ AND    _,multiword expressions,0,0,0,1,0
+1616,PLEASANT SMELLS,semantic relations,1,1,1,1,1
+1617,MUSIC GENRES,semantic relations,0,0,1,0,0
+1618,ROCK PAPER SCISSORS,associative relations,0,1,1,0,0
+1619,MALE ANIMALS,semantic relations,1,1,1,1,0
+1620,BOATS,semantic relations,0,1,0,0,0
+1621,SANDWICHES,semantic relations,0,1,0,0,0
+1622,CUTS OF BEEF,semantic relations,0,0,1,0,0
+1623,NICKNAMES THAT ARE VERBS,word meaning + word form,0,0,0,0,0
+1624,SHOE PARTS,semantic relations,1,1,0,0,0
+1625,BOARD GAMES,encyclopedic,0,1,0,0,0
+1626,FICTIONAL SPIES,encyclopedic,1,0,0,0,0
+1627,RUBBER    _,multiword expressions,0,0,0,0,0
+1628,VEGETABLES THAT ARE ALSO FRUITS,semantic relations,1,1,1,0,1
+1629,3-D SHAPES,semantic relations,1,1,1,0,1
+1630,"WORDS WITH ""I",word meaning + word form,0,0,0,0,0
+1631,WORDS WITH TWO PRONUNCIATIONS,phonology,0,0,0,0,0
+1632,NFL PLAYERS,encyclopedic,1,1,0,0,1
+1633,PASTA SHAPES,encyclopedic,0,0,0,0,0
+1634,JOINTS,encyclopedic,0,0,0,0,0
+1635,"MOVIES WITH ""!",word meaning + word form,0,0,0,0,0
+1636,WINGED INSECTS,semantic relations,1,1,1,1,1
+1637,ARITHMETIC OPERATIONS,semantic relations,1,1,1,1,1
+1638,FISH,semantic relations,1,1,0,0,0
+1639,_ CAT,multiword expressions,0,0,0,0,0
+1640,SEVEN DWARFS,encyclopedic,1,0,0,1,0
+1641,FILE EXTENSIONS,encyclopedic,1,0,1,1,0
+1642,FLIGHTLESS BIRDS,semantic relations,1,1,1,1,1
+1643,TROPICAL FRUITS,semantic relations,1,1,1,1,1
+1644,HATS,semantic relations,1,1,1,1,1
+1645,ORGANS,semantic relations,1,1,1,1,1
+1646,PARTS OF A BOOK,semantic relations,1,1,1,1,0
+1647,JACK    _,multiword expressions,0,1,0,0,0
+1648,EUROPEAN COUNTRIES,encyclopedic,0,0,0,0,0
+1649,SYNONYMS FOR IMITATE,semantic relations,1,0,1,1,0
+1650,TOMS,encyclopedic,0,0,0,0,0
+1651,WORDS SPELLED WITH ROMAN NUMERALS,orthography,0,0,0,0,0
+1652,DESSERTS,semantic relations,0,1,0,1,1
+1653,MILD OATHS,semantic relations,0,1,0,1,0
+1654,ANIMALS WITH TUSKS,semantic relations,0,0,0,0,0
+1655,MUSTACHES,semantic relations,0,0,0,0,0
+1656,CANDY BARS,encyclopedic,0,1,0,0,0
+1657,VIDEO GAME CONSOLES,encyclopedic,1,1,1,1,0
+1658,EAR PARTS,semantic relations,1,1,1,0,0
+1659,BAND NAMES MINUS NUMBERS,word meaning + word form,0,0,0,0,0
+1660,60'S BAND MEMBERS,encyclopedic,0,0,1,1,1
+1661,DANCE FADS,encyclopedic,1,0,0,0,1
+1662,MAGAZINES,encyclopedic,0,0,0,0,1
+1663,THINGS WITH LINKS,associative relations,0,0,0,0,0
+1664,DOG BREEDS,associative relations,1,1,1,1,1
+1665,ANIMAL NOSES,semantic relations,1,1,1,0,0
+1666,TRAFFIC SIGNS,semantic relations,1,1,0,0,1
+1667,SOUND    _,multiword expressions,0,0,0,0,0
+1668,MUSIC GENRES,semantic relations,1,0,0,0,1
+1669,WEB BROWSERS,encyclopedic,1,0,0,0,0
+1670,"LITTLE WOMEN"" SISTERS",encyclopedic,0,1,1,0,0
+1671,LIL    _ RAPPERS,multiword expressions,0,0,0,0,0
+1672,GRAINS,semantic relations,0,1,1,0,0
+1673,ROYAL TITLES,semantic relations,0,0,0,0,0
+1674,UNIVERSITIES,encyclopedic,0,0,0,0,0
+1675,BEST DIRECTOR OSCAR WINNERS,encyclopedic,0,0,0,0,0
+1676,OFF-WHITE SHADES,semantic relations,1,1,0,1,0
+1677,ANTI-VAMPIRE,associative relations,0,1,0,0,0
+1678,KINDS OF MEAT,semantic relations,1,1,0,0,1
+1679,SYNONYMS FOR ARGUMENT,semantic relations,1,1,0,1,1
+1680,"MUSCLES, INFORMALLY",semantic relations,1,0,0,0,0
+1681,AWARDS,semantic relations,1,1,1,1,1
+1682,TITLE TV DOCTORS,encyclopedic,1,1,0,0,0
+1683,NFL PLAYERS,encyclopedic,0,0,0,0,0
+1684,NECKWEAR,semantic relations,0,1,1,1,1
+1685,SHIP DIRECTIONS,semantic relations,0,1,1,1,1
+1686,DETERGENTS,encyclopedic,0,0,0,0,0
+1687,_ TRIANGLE,multiword expressions,0,0,0,0,0
+1688,COFFEE DRINKS,semantic relations,1,1,1,1,1
+1689,TREE NUTS,semantic relations,0,0,1,0,1
+1690,SHADES OF GREEN,semantic relations,1,1,0,1,1
+1691,MR.    _,multiword expressions,0,0,0,0,0
+1692,BIRD SOUNDS,semantic relations,1,1,0,1,1
+1693,COLORS,semantic relations,1,0,1,0,1
+1694,FISHING GEAR,semantic relations,0,0,0,1,0
+1695,FICTIONAL PIRATES,encyclopedic,1,0,0,0,0
+1696,BEDS,semantic relations,1,1,0,1,1
+1697,FAMOUS BROTHERS,encyclopedic,1,1,0,0,1
+1698,HONDAS,encyclopedic,1,0,0,0,0
+1699,VIDEO GAME CHARACTERS,encyclopedic,1,1,0,0,1
+1700,AIRLINES,encyclopedic,1,1,0,0,1
+1701,GREEK LETTERS,encyclopedic,1,0,0,0,1
+1702,"SILENT ""G",phonology,0,0,0,0,1
+1703,HOMOPHONES,phonology,0,1,0,0,0
+1704,ANIMAL GROUP NAMES,semantic relations,0,1,1,0,0
+1705,DEADLY SINS,encyclopedic,0,1,1,0,0
+1706,SLOW ANIMALS,semantic relations,1,1,1,1,1
+1707,TRIG FUNCTIONS,encyclopedic,0,0,1,0,0
+1708,"SPICES BEGINNING WITH ""C",semantic relations,1,1,1,0,0
+1709,TERMS OF ENDEARMENT,semantic relations,0,0,0,0,0
+1710,THINGS WITH WINGS,associative relations,0,0,0,1,1
+1711,SPICE GIRLS,encyclopedic,0,0,0,0,0
+1712,FRUIT,semantic relations,1,1,1,0,1
+1713,COUNTRIES,encyclopedic,1,0,1,0,1
+1714,BIRDS,semantic relations,1,0,0,1,1
+1715,ZODIAC SYMBOLS,encyclopedic,1,0,0,0,1
+1716,SPORTS,semantic relations,1,1,0,0,0
+1717,TOPS,semantic relations,1,1,0,0,0
+1718,VEGETABLES,semantic relations,1,1,0,0,0
+1719,INSECTS,semantic relations,1,1,0,0,1
+1720,BOARD GAMES,semantic relations,1,1,1,1,0
+1721,MATTRESS SIZES,semantic relations,1,0,1,0,0
+1722,THINGS THAT ARE RED,associative relations,0,1,0,1,1
+1723,THINGS WITH KEYS,associative relations,0,0,0,0,0
+1724,LEG PARTS,semantic relations,0,0,0,0,0
+1725,BABY ANIMALS,semantic relations,1,1,0,0,0
+1726,SLANG FOR TOILET,semantic relations,0,0,0,0,0
+1727,_ FISH THAT AREN'T FISH,word meaning + word form,0,1,0,0,0
+1728,MONOPOLY SQUARES,encyclopedic,0,1,0,1,0
+1729,SHADES OF BLUE,semantic relations,0,0,0,0,0
+1730,RAPPERS,encyclopedic,0,0,0,0,0
+1731,MEMBERS OF A SEPTET,word meaning + word form,0,0,0,0,0
+1732,STREAMING SERVICES,encyclopedic,1,0,0,0,0
+1733,CONDIMENTS,semantic relations,0,0,0,0,0
+1734,SYNONYMS FOR SAD,semantic relations,0,1,0,0,0
+1735,CLUE CHARACTERS,encyclopedic,0,0,0,0,0
+1736,SNEAKER BRANDS,encyclopedic,1,1,1,1,1
+1737,"MUSICALS BEGINNING WITH ""C",encyclopedic,1,1,0,1,0
+1738,CLEANING VERBS,semantic relations,1,1,1,0,1
+1739,_ MAN SUPERHEROES,word meaning + word form,1,0,1,0,0
+1740,FACIAL FEATURES,semantic relations,1,1,1,0,1
+1741,SYNONYMS FOR EAT,semantic relations,0,0,0,0,0
+1742,"DOG BREEDS, INFORMALLY",associative relations,0,0,0,0,0
+1743,MEMBERS OF A TRIO,semantic relations,0,0,0,0,0
+1744,FOOTWEAR,semantic relations,1,1,1,0,0
+1745,UNITS OF LENGTH,semantic relations,0,1,1,0,0
+1746,MAGAZINES,encyclopedic,0,0,0,0,0
+1747,LETTER HOMOPHONES,word meaning + word form,0,0,0,0,0
+1748,WET WEATHER,semantic relations,1,1,1,1,1
+1749,NBA TEAMS,encyclopedic,1,1,1,0,1
+1750,KEYBOARD KEYS,associative relations,1,1,1,0,0
+1751,PALINDROMES,orthography,1,1,1,1,0

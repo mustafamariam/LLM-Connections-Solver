@@ -1,20 +1,17 @@
-
-Code and Data for the paper
+## Code and Data for the paper
 
         Connecting the Dots: Evaluating Abstract Reasoning Capabilities of LLMs Using the New York Times Connections Word Game
         Prisha Samadarshi, Mariam Mustafa, Anushka Kulkarni, Raven Rothkopf, Tuhin Chakrabarty, Smaranda Muresan
 
-Look at 
+### Look at 
 
-        games.txt for all 200 games
-        All LLM responses as well as expert/novice responses are in results folder
-        Knowledge Taxonomy is in game_with_knowledge_taxonomy.json
-        automated_call/prompt_llm.txt contains the actual prompt
-        scoring folder has all the LLM responses
-        
+        - automated_call/all_games.txt for all 442 games
+        - results/ for all LLM responses as well as expert/novice responses
+        - game_with_knowledge_taxonomy.json for games with categories labeled based on the knowledge taxonomy
+        - automated_call/prompt_llm.txt for the actual prompt
+        - scoring/ for all model and expert/novice responses scored 
 
-
-If you use our data or annotations please cite us at
+#### If you use our data or annotations please cite us at
 
           @article{samadarshi2024connecting,
             title={Connecting the Dots: Evaluating Abstract Reasoning Capabilities of LLMs Using the New York Times Connections Word Game},
