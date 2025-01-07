@@ -1,5 +1,4 @@
-## Code and Data 
-#### For the paper
+## Code and Data For the Paper
 
         Connecting the Dots: Evaluating Abstract Reasoning Capabilities of LLMs Using the New York Times Connections Word Game
         Prisha Samadarshi, Mariam Mustafa, Anushka Kulkarni, Raven Rothkopf, Tuhin Chakrabarty, Smaranda Muresan
