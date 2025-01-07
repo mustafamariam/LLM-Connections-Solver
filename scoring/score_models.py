@@ -51,7 +51,8 @@ for elem in gold_data:
 # Iterate over the model files and create csv with scored responses for each
 for model in ['gpt4o', 'claude3.5sonnet', 'llama3.1405B', 'gemini1.5pro', 'mistral2large']:
     # Load the model's prediction data
-    with open(model + '.json') as f:
+    filepath = f'../result/{model}.json'
+    with open(filepath) as f:
         model_data = json.load(f)
 
     # Create an empty list to store rows for the DataFrame
